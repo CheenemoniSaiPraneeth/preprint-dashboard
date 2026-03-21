@@ -1,0 +1,887 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>PrePrint Intelligence</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Mono:wght@300;400;500&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet"/>
+<style>
+  :root {
+    --bg:        #0a0c10;
+    --surface:   #111318;
+    --border:    #1e2230;
+    --border-hi: #2e3448;
+    --text:      #d4d8e8;
+    --text-dim:  #5a607a;
+    --text-mid:  #8a91ad;
+    --accent:    #4af4b0;
+    --accent2:   #6e8cff;
+    --accent3:   #f4a24a;
+    --danger:    #f46a6a;
+    --r:         6px;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html, body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'DM Mono', monospace;
+    font-size: 14px;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  /* SCROLLBAR */
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { background: var(--bg); }
+  ::-webkit-scrollbar-thumb { background: var(--border-hi); border-radius: 3px; }
+
+  /* LAYOUT */
+  #app { display: flex; flex-direction: column; min-height: 100vh; }
+
+  /* HEADER */
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 32px;
+    border-bottom: 1px solid var(--border);
+    background: rgba(10,12,16,0.95);
+    backdrop-filter: blur(12px);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .header-left { display: flex; align-items: baseline; gap: 12px; }
+  .header-logo {
+    font-family: 'Syne', sans-serif;
+    font-weight: 800;
+    font-size: 20px;
+    letter-spacing: -0.5px;
+    color: #fff;
+  }
+  .header-logo span { color: var(--accent); }
+  .header-sub {
+    font-size: 11px;
+    color: var(--text-dim);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  .header-right { display: flex; align-items: center; gap: 16px; }
+  .stat-pill {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 4px 12px;
+    font-size: 11px;
+    color: var(--text-mid);
+  }
+  .stat-pill strong { color: var(--accent); font-weight: 500; }
+
+  /* NAV TABS */
+  .nav-tabs {
+    display: flex;
+    gap: 4px;
+    padding: 16px 32px 0;
+    border-bottom: 1px solid var(--border);
+    overflow-x: auto;
+  }
+  .nav-tab {
+    background: none;
+    border: none;
+    border-bottom: 2px solid transparent;
+    padding: 8px 16px 12px;
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    color: var(--text-dim);
+    cursor: pointer;
+    transition: all 0.2s;
+    white-space: nowrap;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+  .nav-tab:hover { color: var(--text); }
+  .nav-tab.active {
+    color: var(--accent);
+    border-bottom-color: var(--accent);
+  }
+
+  /* MAIN */
+  .main { flex: 1; padding: 32px; max-width: 1400px; margin: 0 auto; width: 100%; }
+
+  /* MODALITY GRID */
+  .modality-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 16px;
+    margin-bottom: 40px;
+  }
+  .modality-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--r);
+    padding: 20px 22px;
+    cursor: pointer;
+    transition: all 0.2s;
+    position: relative;
+    overflow: hidden;
+  }
+  .modality-card::before {
+    content: '';
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 3px;
+    background: var(--card-accent, var(--accent));
+    border-radius: 3px 0 0 3px;
+    transition: width 0.2s;
+  }
+  .modality-card:hover {
+    border-color: var(--border-hi);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+  }
+  .modality-card:hover::before { width: 4px; }
+  .modality-card.active {
+    border-color: var(--card-accent, var(--accent));
+    background: rgba(74,244,176,0.04);
+  }
+  .card-label {
+    font-family: 'Syne', sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #fff;
+    margin-bottom: 8px;
+  }
+  .card-meta { font-size: 11px; color: var(--text-dim); margin-bottom: 12px; }
+  .card-count {
+    font-family: 'Instrument Serif', serif;
+    font-size: 36px;
+    color: var(--card-accent, var(--accent));
+    line-height: 1;
+    margin-bottom: 4px;
+  }
+  .card-count-label { font-size: 10px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.1em; }
+  .card-badges { display: flex; gap: 6px; margin-top: 14px; flex-wrap: wrap; }
+  .badge {
+    background: rgba(74,244,176,0.08);
+    color: var(--accent);
+    border: 1px solid rgba(74,244,176,0.2);
+    border-radius: 3px;
+    padding: 2px 7px;
+    font-size: 10px;
+    letter-spacing: 0.04em;
+  }
+  .badge.blue { background: rgba(110,140,255,0.08); color: var(--accent2); border-color: rgba(110,140,255,0.2); }
+  .badge.orange { background: rgba(244,162,74,0.08); color: var(--accent3); border-color: rgba(244,162,74,0.2); }
+  .badge.red { background: rgba(244,106,106,0.08); color: var(--danger); border-color: rgba(244,106,106,0.2); }
+
+  /* ARTICLE LIST */
+  .section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .section-title {
+    font-family: 'Syne', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #fff;
+  }
+  .section-title span { color: var(--accent); font-style: italic; }
+  .section-controls { display: flex; gap: 8px; align-items: center; }
+  .btn {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--r);
+    padding: 7px 14px;
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--text-mid);
+    cursor: pointer;
+    transition: all 0.15s;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+  .btn:hover { border-color: var(--border-hi); color: var(--text); }
+  .btn.primary {
+    background: rgba(74,244,176,0.1);
+    border-color: rgba(74,244,176,0.3);
+    color: var(--accent);
+  }
+  .btn.primary:hover { background: rgba(74,244,176,0.18); }
+
+  .articles-list { display: flex; flex-direction: column; gap: 10px; }
+
+  .article-row {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--r);
+    padding: 16px 20px;
+    cursor: pointer;
+    transition: all 0.15s;
+    display: grid;
+    grid-template-columns: 40px 1fr auto;
+    gap: 16px;
+    align-items: start;
+  }
+  .article-row:hover {
+    border-color: var(--border-hi);
+    background: rgba(255,255,255,0.02);
+  }
+
+  .article-rank {
+    font-family: 'Instrument Serif', serif;
+    font-size: 28px;
+    color: var(--text-dim);
+    line-height: 1;
+    padding-top: 2px;
+    text-align: right;
+  }
+  .article-rank.top { color: var(--accent); }
+
+  .article-body {}
+  .article-title {
+    font-family: 'Syne', sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+    color: var(--text);
+    line-height: 1.4;
+    margin-bottom: 6px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .article-meta { font-size: 11px; color: var(--text-dim); margin-bottom: 8px; }
+  .article-meta span { color: var(--text-mid); }
+  .article-snippet {
+    font-size: 12px;
+    color: var(--text-mid);
+    line-height: 1.5;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-bottom: 8px;
+  }
+  .article-tags { display: flex; gap: 4px; flex-wrap: wrap; }
+
+  .article-score {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 6px;
+    min-width: 70px;
+  }
+  .score-num {
+    font-family: 'Instrument Serif', serif;
+    font-size: 28px;
+    line-height: 1;
+    color: var(--accent);
+  }
+  .score-label { font-size: 9px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-dim); }
+  .score-bars { display: flex; flex-direction: column; gap: 3px; width: 60px; }
+  .score-bar-row { display: flex; align-items: center; gap: 4px; }
+  .score-bar-label { font-size: 9px; color: var(--text-dim); width: 10px; }
+  .score-bar-track { flex: 1; height: 3px; background: var(--border); border-radius: 2px; }
+  .score-bar-fill { height: 100%; border-radius: 2px; transition: width 0.4s; }
+
+  /* ARTICLE DETAIL */
+  .detail-back {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--text-dim);
+    font-size: 12px;
+    cursor: pointer;
+    margin-bottom: 24px;
+    width: fit-content;
+    transition: color 0.15s;
+  }
+  .detail-back:hover { color: var(--accent); }
+
+  .detail-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--r);
+    padding: 32px;
+    max-width: 900px;
+  }
+  .detail-modality {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--accent);
+    margin-bottom: 12px;
+  }
+  .detail-title {
+    font-family: 'Syne', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    color: #fff;
+    line-height: 1.35;
+    margin-bottom: 16px;
+  }
+  .detail-meta-row {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+    font-size: 11px;
+    color: var(--text-dim);
+  }
+  .detail-meta-row span { color: var(--text-mid); }
+  .detail-divider {
+    height: 1px;
+    background: var(--border);
+    margin: 20px 0;
+  }
+  .detail-section-title {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text-dim);
+    margin-bottom: 10px;
+  }
+  .detail-abstract {
+    font-size: 13px;
+    line-height: 1.7;
+    color: var(--text-mid);
+    font-family: 'DM Mono', monospace;
+  }
+  .detail-scores {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+  .detail-score-box {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--r);
+    padding: 14px 16px;
+  }
+  .detail-score-num {
+    font-family: 'Instrument Serif', serif;
+    font-size: 32px;
+    line-height: 1;
+    margin-bottom: 4px;
+  }
+  .detail-score-lbl { font-size: 10px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-dim); }
+  .detail-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 10px 18px;
+    background: rgba(74,244,176,0.1);
+    border: 1px solid rgba(74,244,176,0.3);
+    border-radius: var(--r);
+    color: var(--accent);
+    text-decoration: none;
+    font-size: 12px;
+    font-family: 'DM Mono', monospace;
+    transition: all 0.15s;
+    margin-top: 20px;
+  }
+  .detail-link:hover { background: rgba(74,244,176,0.18); }
+
+  /* ARCHIVE VIEW */
+  .archive-empty {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--r);
+    padding: 48px;
+    text-align: center;
+  }
+  .archive-empty-icon { font-size: 40px; margin-bottom: 16px; opacity: 0.5; }
+  .archive-empty-title {
+    font-family: 'Syne', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: var(--text-mid);
+    margin-bottom: 8px;
+  }
+  .archive-empty-sub { font-size: 12px; color: var(--text-dim); }
+
+  /* LOADING */
+  .loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 60px;
+    color: var(--text-dim);
+    font-size: 12px;
+    gap: 10px;
+  }
+  .spinner {
+    width: 16px; height: 16px;
+    border: 2px solid var(--border-hi);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.7s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* FADE IN */
+  .fade-in { animation: fadeIn 0.3s ease; }
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+
+  /* ARCHIVE TABS */
+  .archive-mod-tabs { display: flex; gap: 6px; margin-bottom: 24px; flex-wrap: wrap; }
+  .archive-mod-tab {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--r);
+    padding: 7px 14px;
+    font-size: 11px;
+    font-family: 'DM Mono', monospace;
+    color: var(--text-dim);
+    cursor: pointer;
+    transition: all 0.15s;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .archive-mod-tab:hover { border-color: var(--border-hi); color: var(--text); }
+  .archive-mod-tab.active {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: rgba(74,244,176,0.08);
+  }
+
+  /* RESPONSIVE */
+  @media (max-width: 700px) {
+    .header { padding: 14px 16px; }
+    .main { padding: 16px; }
+    .nav-tabs { padding: 12px 16px 0; }
+    .article-row { grid-template-columns: 30px 1fr; }
+    .article-score { display: none; }
+  }
+</style>
+</head>
+<body>
+<div id="app"></div>
+
+<script type="module">
+// ─────────────────────────────────────────────────────
+// TINY REACTIVE FRAMEWORK  (no build step needed)
+// ─────────────────────────────────────────────────────
+
+const MODALITY_COLORS = {
+  bispecific_antibodies: { accent: '#4af4b0', label: 'Bispecific Antibodies', icon: '⬡' },
+  monoclonal_antibodies: { accent: '#6e8cff', label: 'Monoclonal Antibodies', icon: '◎' },
+  molecular_glues:       { accent: '#f4a24a', label: 'Molecular Glues',       icon: '◈' },
+  gene_editing:          { accent: '#f46a6a', label: 'Gene Editing',           icon: '⟐' },
+};
+
+const MODALITY_KEYWORDS_PREVIEW = {
+  bispecific_antibodies: ['bispecific', 'BiTE', 'T-cell engager', 'CrossMab', 'bsAb'],
+  monoclonal_antibodies: ['monoclonal', 'mAb', 'therapeutic antibody', 'humanized', 'fully human'],
+  molecular_glues:       ['molecular glue', 'TPD', 'E3 ligase', 'ternary complex', 'degrader'],
+  gene_editing:          ['CRISPR', 'Cas9', 'guide RNA', 'base editing', 'prime editing'],
+};
+
+let state = {
+  tab: 'dashboard',        // 'dashboard' | 'articles' | 'archive' | 'detail'
+  activeModality: null,
+  archiveModality: 'bispecific_antibodies',
+  selectedArticleId: null,
+  modalities: [],          // from API
+  articles: [],
+  archiveArticles: [],
+  selectedArticle: null,
+  loading: false,
+  stats: null,
+};
+
+function setState(patch) {
+  state = { ...state, ...patch };
+  render();
+}
+
+// ─────────────────────────────────────────────────────
+// API
+// ─────────────────────────────────────────────────────
+
+async function api(path) {
+  const r = await fetch(path);
+  if (!r.ok) throw new Error(`API ${r.status}`);
+  return r.json();
+}
+
+async function loadModalities() {
+  setState({ loading: true });
+  try {
+    const [mods, stats] = await Promise.all([
+      api('/api/modalities'),
+      api('/api/stats'),
+    ]);
+    setState({ modalities: mods, stats, loading: false });
+  } catch {
+    setState({ loading: false });
+  }
+}
+
+async function loadArticles(modality) {
+  setState({ loading: true, activeModality: modality, tab: 'articles', articles: [] });
+  try {
+    const data = await api(`/api/modalities/${modality}/articles?limit=100`);
+    setState({ articles: data.articles, loading: false });
+  } catch {
+    setState({ loading: false });
+  }
+}
+
+async function loadArchive(modality) {
+  setState({ loading: true, archiveModality: modality });
+  try {
+    const data = await api(`/api/modalities/${modality}/archive`);
+    setState({ archiveArticles: data.articles, loading: false });
+  } catch {
+    setState({ loading: false });
+  }
+}
+
+async function loadArticle(id) {
+  setState({ loading: true, tab: 'detail' });
+  try {
+    const art = await api(`/api/articles/${id}`);
+    setState({ selectedArticle: art, loading: false });
+  } catch {
+    setState({ loading: false });
+  }
+}
+
+// ─────────────────────────────────────────────────────
+// HELPERS
+// ─────────────────────────────────────────────────────
+
+function extractTitle(abstract, url) {
+  if (!abstract) return url ? new URL(url).pathname.split('/').pop() || 'Untitled' : 'Untitled';
+  // Try to get first meaningful sentence up to 120 chars
+  const lines = abstract.split(/\n/);
+  for (const l of lines) {
+    const t = l.trim();
+    if (t.length > 20 && t.length < 200) return t.slice(0, 140) + (t.length > 140 ? '…' : '');
+  }
+  return abstract.slice(0, 120) + '…';
+}
+
+function sourceName(website) {
+  if (!website) return '—';
+  try {
+    const u = new URL(website);
+    return u.hostname.replace('www.', '');
+  } catch { return website.slice(0, 30); }
+}
+
+function fmtDate(d) {
+  if (!d) return '—';
+  return new Date(d + 'T00:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+}
+
+function clamp(v, mn, mx) { return Math.max(mn, Math.min(mx, v)); }
+
+// ─────────────────────────────────────────────────────
+// RENDER FUNCTIONS
+// ─────────────────────────────────────────────────────
+
+function renderHeader() {
+  const s = state.stats;
+  return `
+    <header class="header">
+      <div class="header-left">
+        <div class="header-logo">PrePrint<span>Intelligence</span></div>
+        <div class="header-sub">Biotech Preprint Monitor</div>
+      </div>
+      <div class="header-right">
+        ${s ? `<div class="stat-pill"><strong>${s.total_articles}</strong> articles</div>` : ''}
+        ${s?.latest_scrape ? `<div class="stat-pill">last scraped <strong>${fmtDate(s.latest_scrape)}</strong></div>` : ''}
+      </div>
+    </header>
+  `;
+}
+
+function renderNavTabs() {
+  const tabs = [
+    { id: 'dashboard', label: 'Dashboard' },
+    { id: 'archive',   label: 'Archive' },
+  ];
+  return `
+    <nav class="nav-tabs">
+      ${tabs.map(t => `
+        <button class="nav-tab ${state.tab === t.id || (state.tab === 'articles' && t.id === 'dashboard') || (state.tab === 'detail' && t.id === 'dashboard') ? 'active' : ''}"
+          onclick="window._nav('${t.id}')">${t.label}</button>
+      `).join('')}
+    </nav>
+  `;
+}
+
+function renderModalityGrid() {
+  const keys = ['bispecific_antibodies','monoclonal_antibodies','molecular_glues','gene_editing'];
+  const byKey = Object.fromEntries((state.modalities || []).map(m => [m.key, m]));
+
+  return `
+    <div class="modality-grid fade-in">
+      ${keys.map(key => {
+        const info = MODALITY_COLORS[key];
+        const data = byKey[key] || {};
+        const kws = MODALITY_KEYWORDS_PREVIEW[key] || [];
+        const isActive = state.activeModality === key && state.tab === 'articles';
+        return `
+          <div class="modality-card ${isActive ? 'active' : ''}"
+            style="--card-accent: ${info.accent}"
+            onclick="window._openModality('${key}')">
+            <div class="card-label">${info.icon} ${info.label}</div>
+            <div class="card-meta">Last scraped: ${fmtDate(data.last_scraped) || 'Never'}</div>
+            <div class="card-count">${data.total_articles ?? '—'}</div>
+            <div class="card-count-label">Articles indexed</div>
+            <div class="card-badges">
+              ${kws.slice(0, 3).map(k => `<span class="badge" style="background:${info.accent}18;color:${info.accent};border-color:${info.accent}33">${k}</span>`).join('')}
+            </div>
+          </div>
+        `;
+      }).join('')}
+    </div>
+  `;
+}
+
+function renderArticleList(articles, backTo) {
+  if (state.loading) return `<div class="loading"><div class="spinner"></div> Loading articles…</div>`;
+  if (!articles.length) return `<div class="archive-empty"><div class="archive-empty-icon">◎</div><div class="archive-empty-title">No articles found</div><div class="archive-empty-sub">Try a different date range or check back after the next scrape.</div></div>`;
+
+  const maxScore = Math.max(...articles.map(a => a.score || 0), 1);
+  const maxPrimary = Math.max(...articles.map(a => a.primary_keyword_hits || 0), 1);
+  const maxSec = Math.max(...articles.map(a => a.secondary_keyword_hits || 0), 1);
+
+  return articles.map((a, i) => {
+    const info = MODALITY_COLORS[a.modality] || MODALITY_COLORS.bispecific_antibodies;
+    const pct = clamp((a.score / maxScore) * 100, 0, 100);
+    const pPct = clamp((a.primary_keyword_hits / maxPrimary) * 100, 0, 100);
+    const sPct = clamp((a.secondary_keyword_hits / maxSec) * 100, 0, 100);
+    const title = extractTitle(a.abstract, a.url);
+    const pkws = a.primary_abstract_matched_keywords || [];
+    const skws = a.secondary_abstract_matched_keywords || [];
+
+    return `
+      <div class="article-row fade-in" onclick="window._openArticle(${a.id})"
+        style="animation-delay:${Math.min(i * 0.03, 0.5)}s">
+        <div class="article-rank ${i < 3 ? 'top' : ''}" style="${i < 3 ? `color:${info.accent}` : ''}">${i + 1}</div>
+        <div class="article-body">
+          <div class="article-title">${title}</div>
+          <div class="article-meta">
+            <span>${sourceName(a.website)}</span> · ${fmtDate(a.date)} · <span>${a.modality?.replace(/_/g,' ')}</span>
+          </div>
+          ${a.abstract ? `<div class="article-snippet">${a.abstract.slice(0, 200)}…</div>` : ''}
+          <div class="article-tags">
+            ${pkws.slice(0, 4).map(k => `<span class="badge" style="background:${info.accent}18;color:${info.accent};border-color:${info.accent}33">${k}</span>`).join('')}
+            ${skws.slice(0, 3).map(k => `<span class="badge blue">${k}</span>`).join('')}
+            ${a.duplicate_count > 0 ? `<span class="badge orange">×${a.duplicate_count + 1} found</span>` : ''}
+          </div>
+        </div>
+        <div class="article-score">
+          <div class="score-num" style="color:${info.accent}">${a.score || 0}</div>
+          <div class="score-label">score</div>
+          <div class="score-bars">
+            <div class="score-bar-row">
+              <div class="score-bar-label">P</div>
+              <div class="score-bar-track"><div class="score-bar-fill" style="width:${pPct}%;background:${info.accent}"></div></div>
+            </div>
+            <div class="score-bar-row">
+              <div class="score-bar-label">S</div>
+              <div class="score-bar-track"><div class="score-bar-fill" style="width:${sPct}%;background:#6e8cff"></div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+function renderArticlesView() {
+  const modality = state.activeModality;
+  const info = MODALITY_COLORS[modality] || {};
+  return `
+    <div>
+      <div class="section-header">
+        <div class="section-title" style="color:#fff">
+          <span style="color:${info.accent || 'var(--accent)'}">${info.label || modality}</span> — Ranked Articles
+        </div>
+        <div class="section-controls">
+          <button class="btn" onclick="window._nav('dashboard')">← All Modalities</button>
+          <button class="btn primary" onclick="window._openArchive('${modality}')">Archive ↓</button>
+        </div>
+      </div>
+      <div class="articles-list">
+        ${renderArticleList(state.articles)}
+      </div>
+    </div>
+  `;
+}
+
+function renderArchiveView() {
+  const keys = Object.keys(MODALITY_COLORS);
+  const modality = state.archiveModality;
+  const info = MODALITY_COLORS[modality] || {};
+  const arts = state.archiveArticles || [];
+
+  return `
+    <div>
+      <div class="section-header">
+        <div class="section-title">Archive — <span>Last 7 Days</span></div>
+      </div>
+      <div class="archive-mod-tabs">
+        ${keys.map(k => {
+          const ci = MODALITY_COLORS[k];
+          return `
+            <button class="archive-mod-tab ${k === modality ? 'active' : ''}"
+              style="${k === modality ? `border-color:${ci.accent};color:${ci.accent};background:${ci.accent}15` : ''}"
+              onclick="window._openArchive('${k}')">${ci.label}</button>
+          `;
+        }).join('')}
+      </div>
+      ${state.loading
+        ? `<div class="loading"><div class="spinner"></div> Loading…</div>`
+        : arts.length === 0
+          ? `<div class="archive-empty">
+               <div class="archive-empty-icon">📭</div>
+               <div class="archive-empty-title">No data yet for ${info.label}</div>
+               <div class="archive-empty-sub">This modality hasn't been scraped in the last 7 days.<br>It runs every 4th rotation — check back soon.</div>
+             </div>`
+          : `<div class="articles-list">${renderArticleList(arts)}</div>`
+      }
+    </div>
+  `;
+}
+
+function renderDetailView() {
+  const a = state.selectedArticle;
+  if (!a) return `<div class="loading"><div class="spinner"></div></div>`;
+  const info = MODALITY_COLORS[a.modality] || MODALITY_COLORS.bispecific_antibodies;
+  const title = extractTitle(a.abstract, a.url);
+  const pkws = a.primary_abstract_matched_keywords || [];
+  const skws = a.secondary_abstract_matched_keywords || [];
+  const searched = a.searched_keywords_found_duplicates || [];
+
+  return `
+    <div class="fade-in">
+      <div class="detail-back" onclick="window._back()">← Back</div>
+      <div class="detail-card">
+        <div class="detail-modality" style="color:${info.accent}">${info.icon} ${info.label}</div>
+        <div class="detail-title">${title}</div>
+        <div class="detail-meta-row">
+          <div>Source: <span>${sourceName(a.website)}</span></div>
+          <div>Published: <span>${fmtDate(a.date)}</span></div>
+          <div>Scraped: <span>${fmtDate(a.date_scraped)}</span></div>
+          <div>Window: <span>${fmtDate(a.date_window_start)} → ${fmtDate(a.date_window_end)}</span></div>
+        </div>
+
+        <div class="detail-scores">
+          <div class="detail-score-box">
+            <div class="detail-score-num" style="color:${info.accent}">${a.score || 0}</div>
+            <div class="detail-score-lbl">Total Score</div>
+          </div>
+          <div class="detail-score-box">
+            <div class="detail-score-num" style="color:var(--accent2)">${a.primary_keyword_hits || 0}</div>
+            <div class="detail-score-lbl">Primary Hits</div>
+          </div>
+          <div class="detail-score-box">
+            <div class="detail-score-num" style="color:var(--accent3)">${a.secondary_keyword_hits || 0}</div>
+            <div class="detail-score-lbl">Secondary Hits</div>
+          </div>
+          <div class="detail-score-box">
+            <div class="detail-score-num" style="color:var(--text-mid)">${(a.duplicate_count || 0) + 1}</div>
+            <div class="detail-score-lbl">Times Found</div>
+          </div>
+        </div>
+
+        ${pkws.length || skws.length || searched.length ? `
+          <div class="detail-divider"></div>
+          <div class="detail-section-title">Matched Keywords</div>
+          <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px">
+            ${pkws.map(k => `<span class="badge" style="background:${info.accent}18;color:${info.accent};border-color:${info.accent}33">${k} (primary)</span>`).join('')}
+            ${skws.map(k => `<span class="badge blue">${k} (secondary)</span>`).join('')}
+            ${searched.filter(k => !pkws.includes(k) && !skws.includes(k)).map(k => `<span class="badge orange">${k} (search)</span>`).join('')}
+          </div>
+        ` : ''}
+
+        <div class="detail-divider"></div>
+        <div class="detail-section-title">Abstract</div>
+        <div class="detail-abstract">${a.abstract || 'No abstract available.'}</div>
+
+        ${a.url ? `<a class="detail-link" href="${a.url}" target="_blank" rel="noopener">Open Preprint ↗</a>` : ''}
+      </div>
+    </div>
+  `;
+}
+
+function renderDashboard() {
+  return `
+    <div>
+      ${renderModalityGrid()}
+      ${state.tab === 'articles' ? renderArticlesView() : ''}
+    </div>
+  `;
+}
+
+function render() {
+  const app = document.getElementById('app');
+  let main = '';
+
+  if (state.tab === 'detail') {
+    main = renderDetailView();
+  } else if (state.tab === 'archive') {
+    main = renderArchiveView();
+  } else {
+    // dashboard + possibly articles
+    main = `
+      ${state.tab === 'dashboard' ? renderModalityGrid() : ''}
+      ${state.tab === 'articles' ? renderArticlesView() : ''}
+    `;
+  }
+
+  app.innerHTML = `
+    ${renderHeader()}
+    ${renderNavTabs()}
+    <main class="main">${main}</main>
+  `;
+}
+
+// ─────────────────────────────────────────────────────
+// GLOBAL EVENT HANDLERS
+// ─────────────────────────────────────────────────────
+
+window._nav = (tab) => {
+  if (tab === 'archive') {
+    setState({ tab: 'archive' });
+    loadArchive(state.archiveModality);
+  } else {
+    setState({ tab: 'dashboard', activeModality: null, articles: [] });
+  }
+};
+
+window._openModality = (key) => loadArticles(key);
+window._openArchive = (key) => {
+  setState({ tab: 'archive', archiveModality: key });
+  loadArchive(key);
+};
+window._openArticle = (id) => loadArticle(id);
+window._back = () => {
+  if (state.tab === 'detail') {
+    setState({ tab: state.activeModality ? 'articles' : 'dashboard', selectedArticle: null });
+  }
+};
+
+// ─────────────────────────────────────────────────────
+// BOOT
+// ─────────────────────────────────────────────────────
+
+render();
+loadModalities();
+</script>
+</body>
+</html>
