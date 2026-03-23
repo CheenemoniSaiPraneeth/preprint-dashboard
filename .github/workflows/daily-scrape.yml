@@ -1,0 +1,14 @@
+name: Daily Scrape
+
+on:
+  schedule:
+    - cron: '0 8 * * *'   # every day at 8:00 AM UTC
+  workflow_dispatch:        # also lets you trigger it manually
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger scrape
+        run: |
+          curl -X POST https://preprint-dashboard.onrender.com/api/admin/trigger-scrape
