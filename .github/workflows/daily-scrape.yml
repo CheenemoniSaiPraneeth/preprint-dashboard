@@ -2,13 +2,36 @@ name: Daily Scrape
 
 on:
   schedule:
-    - cron: '30 4 * * *'   # every day at 10:00 AM IST
-  workflow_dispatch:        # also lets you trigger it manually
+    - cron: '30 4 * * *'  # 10:00 AM IST
+  workflow_dispatch:       # manual trigger
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
+
     steps:
-      - name: Trigger scrape
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
         run: |
-          curl -X POST https://preprint-dashboard.onrender.com/api/admin/trigger-scrape
+          pip install aiohttp beautifulsoup4 python-dateutil certifi playwright
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Run scraper
+        run: python main.py
+
+      - name: Push results to GitHub
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add ranked_results_*.json
+          git diff --staged --quiet || git commit -m "Auto scrape $(date +'%Y-%m-%d')"
+          git push
