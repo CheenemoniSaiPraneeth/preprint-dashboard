@@ -2,7 +2,7 @@ name: Daily Scrape
 
 on:
   schedule:
-    - cron: '30 4 * * *'  # 10:00 AM IST
+    - cron: '30 5 * * *'  # 11:00 AM IST
   workflow_dispatch:       # manual trigger
 
 jobs:
