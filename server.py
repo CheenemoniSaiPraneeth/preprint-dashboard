@@ -368,7 +368,10 @@ def get_articles(
 
     filters = ["modality = ?"]
     params: list = [modality]
-
+    if not date_from and not date_to:
+        cutoff = (datetime.today().date() - timedelta(days=7)).isoformat()
+        filters.append("date_scraped >= ?")
+        params.append(cutoff)
     if date_from:
         filters.append("date >= ?")
         params.append(date_from)
