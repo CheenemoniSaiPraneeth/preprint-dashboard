@@ -339,7 +339,7 @@ def get_modalities():
     for key in MODALITY_ROTATION:
         # Latest scrape date for this modality
         row = conn.execute(
-            "SELECT MAX(date_scraped) as last_scraped, COUNT(*) as total FROM articles WHERE modality=?",
+            "SELECT MAX(date_scraped) as last_scraped, COUNT(*) as total FROM articles WHERE modality=? AND date_scraped >= date('now', '-7 days')",
             (key,)
         ).fetchone()
         result.append({
