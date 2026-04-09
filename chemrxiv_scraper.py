@@ -312,7 +312,7 @@ async def run_scraper(
 
         context = await playwright_instance.chromium.launch_persistent_context(
             user_data_dir="chem_profile",
-            headless=False,
+            headless=True,
             channel="chrome",
             args=["--disable-blink-features=AutomationControlled"]
         )
