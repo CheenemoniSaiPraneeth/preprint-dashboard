@@ -75,7 +75,7 @@ MODALITY_KEYWORDS = {
 PREPRINT_SERVERS = [
     {"name": "bioRxiv", "url": "https://www.biorxiv.org/", "search_url": "https://www.biorxiv.org/search/{query}%20numresults%3A10%20sort%3Apublication-date%20direction%3Adescending"},
     {"name": "medRxiv", "url": "https://www.medrxiv.org/", "search_url": "https://www.medrxiv.org/search/{query}%20numresults%3A10%20sort%3Apublication-date%20direction%3Adescending"},
-    {"name": "ChemRxiv", "url": "https://chemrxiv.org/", "search_url": "https://chemrxiv.org/action/doSearch?AllField={query}&startPage=0&sortBy=EPubDate"},
+    #{"name": "ChemRxiv", "url": "https://chemrxiv.org/", "search_url": "https://chemrxiv.org/action/doSearch?AllField={query}&startPage=0&sortBy=EPubDate"},
     #{"name": "DrugRxiv", "url": "https://drugrepocentral.scienceopen.com/search", "search_url": "https://drugrepocentral.scienceopen.com/search#('v'~4_'id'~''_'queryType'~1_'context'~null_'kind'~77_'order'~3_'orderLowestFirst'~false_'query'~'(query)'_'filters'~!('kind'~86_'not'~false_'offset'~1_'timeUnit'~5)*_'hideOthers'~false)"},
     {"name": "arXiv", "url": "https://arxiv.org/", "search_url": "https://arxiv.org/search/?searchtype=all&query={query}&abstracts=show&size=50&order=-announced_date_first"},
 ]
