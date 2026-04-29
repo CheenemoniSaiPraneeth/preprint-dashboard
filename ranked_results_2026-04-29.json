@@ -1,0 +1,23 @@
+{
+  "gene_editing": [
+    {
+      "date_scraped": "2026-04-29",
+      "date_window_start": "2026-04-22",
+      "date_window_end": "2026-04-29",
+      "modality": "gene_editing",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2604.24506",
+      "date": "2026-04-27",
+      "abstract": "Computer Science > Artificial Intelligence arXiv:2604.24506 (cs) [Submitted on 27 Apr 2026] Title: MIMIC: A Generative Multimodal Foundation Model for Biomolecules Authors: Siavash Golkar , Jake Kovalic , Irina Espejo Morales , Samuel Sledzieski , Minhuan Li , Ksenia Sokolova , Geraud Krawezik , Alberto Bietti , Claudia Skok Gibbs , Roman Klypa , Shengwei Xiong , Francois Lanusse , Liam Parker , Kyunghyun Cho , Miles Cranmer , Tom Hehir , Michael McCabe , Lucas Meyer , Rudy Morel , Payel Mukhopadhyay , Mariel Pettee , Helen Qu , Jeff Shen , David Fouhey , Hadi Sotoudeh , Vikram Mulligan , Pilar Cossio , Sonya M. Hanson , Alisha N. Jones , Olga G. Troyanskaya , Shirley Ho View a PDF of the paper titled MIMIC: A Generative Multimodal Foundation Model for Biomolecules, by Siavash Golkar and 29 other authors View PDF HTML (experimental) Abstract: Biological function emerges from coupled constraints across sequence, structure, regulation, evolution, and cellular context, yet most foundation models in biology are trained within one modality or for a fixed forward task. We present MIMIC, a generative multimodal foundation model trained on our newly curated and aligned dataset, LORE, linking nucleic acid, protein, evolutionary, structural, regulatory, and semantic/contextual modalities within partially observed biomolecular states. MIMIC uses a split-track encoder-decoder architecture to condition on arbitrary subsets of observed modalities and reconstruct or generate missing components of molecular state across the genome, transcriptome, and proteome. Multimodal conditioning consistently improves MIMIC's sequence reconstruction relative to sequence-only inputs, while its learned representations enable state-of-the-art performance on RNA and protein downstream tasks. MIMIC achieves state-of-the-art splicing prediction, and its joint generative formulation enables isoform-aware inference that further improves performance. Beyond prediction, the same generative framework supports constrained design. For RNA, MIMIC identifies corrective edits in a clinically relevant HBB splice-disrupting mutation without reverting it by using evolutionary and structural signals. For proteins, jointly conditioning on shape and surface chemistry of PD-L1 and hACE2 binding sites produces diverse, high-confidence sequences with strong in silico support for target binding. Finally, MIMIC uses experimental context as semantic conditioning to model assay-dependent RNA chemical probing, rather than treating context as a fixed output. Together, these results position MIMIC's aligned multimodal generative modeling as a strong foundation for unifying representation learning, conditional prediction, and constrained biomolecular design within a single model. Subjects: Artificial Intelligence (cs.AI) ; Machine Learning (cs.LG) Cite as: arXiv:2604.24506 [cs.AI] (or arXiv:2604.24506v1 [cs.AI] for this version) https://doi.org/10.48550/arXiv.2604.24506 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Irina Espejo Morales [ view email ] [v1] Mon, 27 Apr 2026 14:10:01 UTC (10,242 KB) Full-text links: Access Paper: View a PDF of the paper titled MIMIC: A Generative Multimodal Foundation Model for Biomolecules, by Siavash Golkar and 29 other authors View PDF HTML (experimental) TeX Source view license Current browse context: cs.AI < prev | next > new | recent | 2026-04 Change to browse by: cs cs.LG References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with thi",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
