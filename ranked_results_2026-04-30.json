@@ -1,0 +1,168 @@
+{
+  "bispecific_antibodies": [
+    {
+      "date_scraped": "2026-04-30",
+      "date_window_start": "2026-04-23",
+      "date_window_end": "2026-04-30",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.24.26350878v1",
+      "date": "2026-04-27",
+      "abstract": "ABSTRACT PURPOSE Bispecific antibodies (BsAbs) represent a major advancement in the management of relapsed/refractory multiple myeloma (RRMM), offering high response rates even in heavily pretreated patients. However, their use presents operational, safety, and supportive care complexities that require coordinated care teams, and evolving infrastructure. This manuscript summarizes best practice recommendations for adverse event (AE) management, outpatient operational models, referral pathways, and emerging strategies to optimize long-term tolerability. METHODS Medlive—A PlatformQ Health Brand conducted qualitative interviews of academic and community-based clinicians. Discussions focused on BsAb implementation, patient selection and counseling, and AE management. Experts provided recommendations on team-based protocols, transitions of care, and inpatient versus outpatient considerations. RESULTS Ten hematologists/oncologists (academic n=4; community n=6) described practice patterns, barriers, and perspectives on BsAb use. BsAbs were consistently regarded as highly effective across multiple lines of therapy, particularly for patients without alternatives. Cytokine release syndrome (CRS) was the most common acute toxicity, generally low grade and managed effectively with early tocilizumab, including prophylactic use in outpatient settings. Immune effector cell-associated neurotoxicity syndrome (ICANS) was rare, mild, and best mitigated through early recognition and caregiver support. Infections, largely from BCMA-associated hypogammaglobulinemia, frequently interrupted therapy, necessitating antiviral prophylaxis, pneumocystis jirovecii pneumonia (PJP) prophylaxis, and intravenous immunoglobulin (IVIG). Outpatient step-up dosing is expanding, supported by prophylactic strategies and academic-community collaboration. Timely referral was emphasized to preserving eligibility. Major outpatient challenges included sequencing, infrastructure readiness, and standardized caregiver and staff education. CONCLUSION Effective community implementation of BsAbs requires multidisciplinary coordination, standardized AE protocols, infection prevention, and infrastructure to support monitoring, referrals, and equitable access. These measures are critical to ensure safe, sustainable integration of bispecific therapies and to optimize patient outcomes. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager",
+        "bispecific",
+        "bsAb"
+      ],
+      "primary_abstract_matched_keywords": [
+        "bispecific",
+        "bsAb"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 7,
+      "secondary_keyword_hits": 0,
+      "score": 9
+    },
+    {
+      "date_scraped": "2026-04-30",
+      "date_window_start": "2026-04-23",
+      "date_window_end": "2026-04-30",
+      "modality": "bispecific_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2604.26343",
+      "date": "2026-04-29",
+      "abstract": "Computer Science > Computers and Society arXiv:2604.26343 (cs) [Submitted on 29 Apr 2026] Title: Taking a Bite Out of the Forbidden Fruit: Characterizing Third-Party Iranian iOS App Stores Authors: Amirhossein Khanlari , Amir Rahmati View a PDF of the paper titled Taking a Bite Out of the Forbidden Fruit: Characterizing Third-Party Iranian iOS App Stores, by Amirhossein Khanlari and 1 other authors View PDF HTML (experimental) Abstract: Due to U.S. sanctions and strict internet censorship, Iranian iOS users are barred from accessing the Apple App Store and developer services. In response, despite violating Apple's developer terms, a thriving underground ecosystem of third-party iOS app stores has emerged to serve Iranian users. This paper presents the first comprehensive empirical study of these clandestine app stores. We document how these stores operate, including their distribution mechanisms, user authentication processes, and evasion techniques. By collecting and analyzing more than 1700 iOS application packages and their metadata from three major Iranian third-party app stores, we characterize the ecosystem's size, structure, and content. Our analysis reveals a significant presence of Iranian-exclusive apps, widespread distribution of cracked apps, unauthorized monetization of paid content, and embedded third-party tracking and piracy libraries. We also uncover a notable overlap among financial, navigational, and social apps that exist solely in this ecosystem, reflecting the unique digital constraints of Iranian users. Finally, we quantify the potential revenue losses for developers due to piracy and document security and privacy risks associated with altered binaries. Our findings highlight how sanctions, censorship, and enforcement gaps have enabled a parallel app distribution ecosystem with complex socio-technical implications. Subjects: Computers and Society (cs.CY) ; Cryptography and Security (cs.CR) Cite as: arXiv:2604.26343 [cs.CY] (or arXiv:2604.26343v1 [cs.CY] for this version) https://doi.org/10.48550/arXiv.2604.26343 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Amir Rahmati [ view email ] [v1] Wed, 29 Apr 2026 06:50:32 UTC (3,181 KB) Full-text links: Access Paper: View a PDF of the paper titled Taking a Bite Out of the Forbidden Fruit: Characterizing Third-Party Iranian iOS App Stores, by Amirhossein Khanlari and 1 other authors View PDF HTML (experimental) TeX Source view license Current browse context: cs.CY < prev | next > new | recent | 2026-04 Change to browse by: cs cs.CR References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv fe",
+      "searched_keywords_found_duplicates": [
+        "BiTE"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 3,
+      "secondary_keyword_hits": 0,
+      "score": 3
+    },
+    {
+      "date_scraped": "2026-04-30",
+      "date_window_start": "2026-04-23",
+      "date_window_end": "2026-04-30",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.22.26351423v1",
+      "date": "2026-04-23",
+      "abstract": "Introductory Paragraph Rheumatoid arthritis (RA) is a heritable and common autoimmune condition. To date, most genetic associations were derived from individuals with either European or East Asian ancestries. Here, we applied a multimodal automated phenotyping strategy to define RA and performed a genome-wide association study (GWAS) of RA in the Million Veteran Program (MVP), including underrepresented African American (AFR) and Admixed American (AMR) populations. Meta-analyses with previous RA cohorts identified 152 autosomal genome-wide significant loci, of which 31 were novel. Inclusion of multi-ancestry data dramatically improved fine-mapping resolution. Functional characterization of these loci using single-cell transcriptomic and chromatin data suggested new RA genes such as CHD7 and CD247 . We identified underappreciated functional roles of fine-grained immune cell states other than T cells, such as B cell and myeloid cell states. We observed that multi-ancestry polygenic risk scores using our data demonstrated better predictive ability, especially for AFR and AMR populations. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager",
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-04-30",
+      "date_window_start": "2026-04-23",
+      "date_window_end": "2026-04-30",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.21.26351426v1",
+      "date": "2026-04-23",
+      "abstract": "Abstract Background Inflammatory markers play an important role in the pathophysiology of Lumbar disc herniation (LDH). This study presents a comprehensive multi-assessment of the inflammatory landscape by combining serum inflammatory cytokines quantification, their diagnostic performance, associations with radiological features, and integrating the experimental findings into an in-silico protein–protein interaction network. Methods A multifaceted study design was utilized to quantify and compare the distribution of selected inflammatory cytokines in patients with LDH and control subjects. The diagnostic ability of these cytokines was assessed using receiver operating characteristic curve analysis. The cytokines values were correlated with selected radiological findings including disc herniation subtypes (protrusion, extrusion, and sequestration), and further categorized as contained and non-contained in patients using a Spearman’s rank correlation test. Additionally, computational analysis was performed to identify the central hubs and functionally enriched pathways. Results In patients with LDH, IL-6 and IL-1β showed statistically significant (IL-6: p < 0.001; IL-1β: p = 0.001) rise, but IL-6 showed high diagnostic and discriminative power (AUC = 0.99; cut-off: 19.99 pg/mL). Further IL-1β exhibited a positive correlation with non-contained disc herniation (extrusion and sequestration), while displaying a significant (p < 0.05) negative correlation with protrusion. In silico analysis identified IL-1β, IL-8, TNF-α, IL-6, IL-1α, CSF2, CSF3, and IL-10 as central hubs, with IL-1β being the top ranked hub in determining functionally enriched cytokine-cytokine receptor interaction. Conclusions Study confirmed IL-6 as a powerful diagnostic marker for LDH, while IL-1β aids in determining contained and non-contained disc herniation. Further, IL-1β was identified as the central hub, triggering functionally enriched pathways in the pathogenesis of LDH. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-04-30",
+      "date_window_start": "2026-04-23",
+      "date_window_end": "2026-04-30",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.14.26349982v1",
+      "date": "2026-04-24",
+      "abstract": "Abstract Despite considerable advances, the emergence of treatment resistance to tyrosine kinase inhibitors (TKIs) therapy remains a significant challenge in chronic myeloid leukemia (CML). Here, we report the first clinical case of resistance to combined ponatinib and asciminib therapy in a CML patient who relapsed with B lymphoblastic blast crisis. While at presentation the patient harbored the canonical e13a2 BCR::ABL1 fusion, at relapse his disease harbored the T315I mutation together with a novel e6a3 BCR::ABL1 fusion, arisen by internal deletion in the original translocated allele. Structural modeling and biochemical analyses demonstrated that deletion of exon 2–encoded residues of ABL1 destabilizes the autoinhibited conformation, resulting in a hyperactive kinase with increased propensity for B-cell differentiation. Functional studies revealed that both BCR::ABL1 e6a3 and BCR::ABL1 e6a3/T315I conferred resistance to ponatinib and asciminib, alone or in combination. BCR::ABL1 e6a3 demonstrated enhanced sensitivity to active-state selective inhibitors dasatinib and bosutinib, whereas BCR::ABL1 e6a3/T315I remained resistant. Combined drug sensitivity assays showed that axitinib restored inhibitory activity when combined with ponatinib or asciminib. Strikingly, a combination of axitinib and asciminib with low dose ponatinib fully suppressed enzymatic activity of BCR::ABL1 e6a3/T315I and cellular proliferation. These data show that treatment with asciminib and ponatinib can select for mutations with notably elevated enzymatic activity, effectively targeted by an axitinib-based triple combination. These data highlight the remarkable mutability of the BCR::ABL1 kinase, including through novel isoforms and provides a strong rationale for the clinical assessment of a triple inhibitor combination as a strategy to overcome resistance to dual ponatinib and asciminib therapy. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-04-30",
+      "date_window_start": "2026-04-23",
+      "date_window_end": "2026-04-30",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.23.26351580v1",
+      "date": "2026-04-27",
+      "abstract": "Abstract Diffuse Large B-cell lymphoma (DLBCL) is the most common aggressive lymphoma in the Western world. First-line immunochemotherapy fails in approximately 30–40% of patients, with refractory and relapse patients presenting a dismal prognosis. Currently, these high-risk patients cannot be accurately identified at diagnosis. Using statistical modeling and machine learning approaches applied to large public DLBCL datasets, we identified a novel predictive signature based on the reactivation of eight normally silent tissue-dependent genes associated with survival. We then developed a multiplex RT-MLPseq based assay, compatible with formalin-fixed paraffin-embedded (FFPE) samples and transferable into routine clinical practice, enabling analysis of expression of these eight genes and validated their prognosis impact in an independent real-life cohort. This signature could be integrated with current prognostic indices and molecular classifications to improve patient stratification and guide treatment selection toward a personalized theragnostic approach, thereby enhancing management of non-responder patients. Data Sharing Statement For access to original data, please contact: anouk.emadali{at}univ-grenoble-alpes.fr Key points - Ectopic activation of 8 tissue-specific genes defines a robust prognostic signature for survival stratification in DLBCL patients - A FFPE-compatible RT-MLPseq assay enables clinical use and improves risk stratification beyond IPI and COO, especially in high-risk patients ",
+      "searched_keywords_found_duplicates": [
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-04-30",
+      "date_window_start": "2026-04-23",
+      "date_window_end": "2026-04-30",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.02.18.25322458v4",
+      "date": "2026-04-25",
+      "abstract": "Abstract Understanding the influence of both genetics and environment on human health, especially early in life, is essential for shaping long-term health. Here, we utilize a nationwide prospective birth cohort, the Japan Environment and Children’s Study (JECS), to conduct a large-scale population-based genetic study using biannual questionnaire surveys and biological and physical measurements collected from both parents and their children up to the age of 4, since the participant mothers were pregnant. Analyses of genome-wide genotyping for 80,639 child participants with parental consent and sufficient DNA from cord blood samples represent the genetic diversity of the general population in Japan. Systematic genome-wide association studies of 1,255 child health and developmental traits (including, e.g., food allergy, anthropometry measurements or ASQ-3 developmental screening) and parental environmental exposure traits (including, e.g., mercury or PFAS exposure) identify 6,073 common genomic loci (2,332 of which passed the phenome-wide significance threshold 𝑃 = 4.0 × 10 -1 ), of which 18-20% of loci represent novel associations not previously reported, including loci with potential therapeutic relevance. Additional longitudinal GWAS of BMI, using Gaussian process regression, identified 29 novel dynamic genetic associations throughout child development. These associations can also be used to predict an individual’s growth trajectory based on their genetic background. In addition, genetic correlation analysis suggested potential associations between maternal environmental exposures during pregnancy and child traits after birth. Together with studies of genetic risk factors and environmental exposures, across time and multiple outcomes, these demonstrate the uniqueness and value of the JECS data. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-04-30",
+      "date_window_start": "2026-04-23",
+      "date_window_end": "2026-04-30",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.23.26351609v1",
+      "date": "2026-04-24",
+      "abstract": "Abstract Metabolic dysfunction is increasingly recognized as a risk factor for poor outcomes in breast cancer, but whether incretin-based therapies confer survival benefit beyond weight loss remains unresolved. Using a federated electronic health record platform spanning nearly 29 million patients, we evaluated breast cancer survival after semaglutide and tirzepatide initiation in routine care. In 1:1 propensity-matched pooled-comparator analyses, semaglutide was associated with improved overall survival versus metformin, sodium–glucose cotransporter 2 (SGLT2) inhibitor, and dipeptidyl peptidase 4 (DPP4) inhibitor users, with 54 deaths among 2,433 semaglutide users (2.2%) versus 395 deaths among 2,433 comparators (16.2%) over 24 months (log-rank P < 0.001). Tirzepatide showed a favorable survival association relative to pooled anti-diabetic comparators that did not meet statistical significance (P = 0.24), with 3 deaths among 220 users (1.4%) versus 64 deaths among 220 comparators (29.1%). In a head-to-head propensity-score–matched comparison, overall survival did not differ significantly between semaglutide- and tirzepatide-treated patients with pre-existing breast cancer (2,117 per arm; P = 0.12). In semaglutide-treated patients alive and observable at the 1-year landmark, higher maximum dose achieved was significantly associated with lower post-landmark mortality (P = 0.034), with an event rate of approximately 1.0% in the high-dose group (≥1.7 mg) versus approximately 4.5% in the low-dose group (0.25–1.0 mg). Despite a linear dose–weight loss relationship for semaglutide, however, weight-loss strata did not separate survival outcomes (global P = 0.22). In tirzepatide-treated patients alive and observable at the same landmark, neither maximum dose achieved nor weight-loss strata separated post-landmark survival (P = 0.98 and P = 0.50, respectively). Structured EHR and AI-based clinical-note analyses further showed significantly lower frequency of documented metastatic disease in semaglutide-treated patients relative to pooled anti-diabetic comparators, including any metastasis (7.0% versus 15.0%, rate ratio 0.5, P < 0.001), bone metastasis (1.0% versus 5.2%, rate ratio 0.2, P < 0.001), and liver, lung, or brain metastases (all P < 0.001). LLM-derived cause-of-death extraction further showed a 60% lower relative proportion of cancer-associated deaths in semaglutide-treated patients (19% of ascertainable deaths) than in matched pooled anti-diabetic comparators (47% of ascertainable deaths), with comparator deaths more often attributed to cancer progression involving metastatic breast cancer, leptomeningeal carcinomatosis, and cancer-driven organ failure. Overall, this study demonstrates that semaglutide use in patients with pre-existing breast cancer is associated with a dose-correlated but weight-loss independent improvement in overall survival. These findings motivate prospective trials of GLP-1 receptor agonists in breast cancer across various stages and treatment settings. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
