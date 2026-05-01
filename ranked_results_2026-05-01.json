@@ -1,0 +1,1030 @@
+{
+  "monoclonal_antibodies": [
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.26.26350467v1",
+      "date": "2026-04-28",
+      "abstract": "Abstract Background Florzolotau (18F) positron emission tomography (florzolotau PET) enables high-contrast in vivo detection of four-repeat tau pathology in progressive supranuclear palsy (PSP), but whether longitudinal tau imaging reflects disease progression remains unclear. Objectives To explore longitudinal tau accumulation using florzolotau PET and evaluate its association with clinical progression in PSP. Methods A total of 26 patients with PSP (18 Richardson’s syndrome [PSP-RS], 8 non-RS) and 10 age- and sex-matched healthy controls (HCs) underwent florzolotau PET, MRI, and clinical assessments at baseline and after 1 year. Regional standardized uptake value ratios (SUVR) were extracted across 57 regions of interest. Partial least squares (PLS) multivariate analyses revealed regions with elevated baseline SUVR and longitudinal increase (ΔSUVR) in PSP relative to HCs, alongside regions where ΔSUVR was associated with changes in PSP Rating Scale scores. Results At baseline, tau deposition was most prominent in the globus pallidus (GP) and midbrain in patients with PSP. Longitudinal tau increases were observed in the GP, frontoparietal cortex, and cerebellum, whereas minimal progression was observed in the midbrain. GP tau accumulation exhibited the strongest association with clinical progression in the PLS model among PSP-RS and a univariate correlation (Spearman’s ρ = 0.674, p = 0.002). Conclusions This study provides in vivo evidence of the spatiotemporal progression of tau pathology in PSP. In the GP, tau accumulation emerges early and continues to rise with clinical deterioration. These findings support the utility of florzolotau PET for monitoring disease progression and as a biological outcome measure in tau-targeted therapeutic trials. ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody",
+        "monoclonal",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 3,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 3
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.28.26351941v1",
+      "date": "2026-04-29",
+      "abstract": "Abstract Virus infected cells release viral particles, which have variable protein content and are functionally diverse. Deciphering this heterogeneity remains a challenge. Here, we adapt flow virometry to detect and phenotype severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) particles. In supernatants of infected cells, we observe particles measuring 70-100 nm. The appearance of these particles is associated to the increase in viral RNA and infectivity. Sample inactivation using temperature or detergent leads to the disappearance of these particles. Using antibodies and dyes for lipid membranes and nucleic acids, we detect the spike protein, the lipid envelope and the RNA genome. We further confirm the presence of viral particles by electron microscopy. Analyzing different viral preparations demonstrate that spike detection in particles outcompetes particle concentration to predict infectivity. Antibodies against different spike epitopes enable probing of spike conformation changes in the presence of soluble ACE2. Lastly, we detect SARS-CoV-2 particles in PCR-confirmed patient nasal swabs without prior purification steps. In summary, we developed an efficient framework to detect and characterize single SARS-CoV-2 particles. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody",
+        "mAb",
+        "monoclonal",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 3,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 3
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.21.26351402v2",
+      "date": "2026-04-29",
+      "abstract": "Abstract A multiplex diagnostic test is evaluated for self-reported long COVID associated persistent symptoms and a poor recovery from a SARS-CoV-2 infection. A mass-standardised concentration of total antibodies (AC), high-quality (HQ) antibodies and percentage of HQ antibodies (HQ%) is assessed against a spectrum of spike proteins to the SARS-CoV-2 variants: Wuhan, alpha, delta, and the Omicron variants BA.1, BA.2, BA.2.12.1, BA.2.75, BA.5, CH.1.1, BQ.1.1 and XBB.1.5 in three cohorts. A cohort of control patients (n = 46) recovered (CC) and a cohort of self-declared long COVID patients (n = 113) (LCC). A nested Receiver Operating Characteristic (ROC) analysis, performed for the variant with lowest HQ concentration in the spectrum, produced an area under the curve and AUC = 0.61 (0.53-0.70) for the CC vs LCC cohorts. For the LCC cohort, the cut-off thresholds for AC = 0.8 mg/L, HQ = 1.5 mg/L and HQ% of 34% were determined, leading to a 71% sensitivity and 66% specificity derived by the Youden metric. The cohorts may be fully classified based on ROC and outlier analysis to give an incidence of persistent virus 62% (95% CI 52% - 71%), hyperimmune 12% (95% CI 7% - 20%) and unclassified, 26% (95% CI 18% - 35%). The overall diagnostic accuracy for both the hyper and hypo immune is 69%. All clinical interventions can now be tailored for the heterogenous long COVID patient cohort. ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody",
+        "monoclonal",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 3,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 3
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.24.26351693v1",
+      "date": "2026-04-27",
+      "abstract": "Summary Individuals with admixed ancestry comprise a significant proportion of populations of the Americas. Statistical methods have been developed to specifically leverage local ancestry inference to enhance the power and interpretability of genome-wide association studies in admixed populations. However, no such methods currently exist to test for rare-variant aggregate associations. Here we present LANTERN (Leveraging local ANcestry Tracts to Enhance Rare variaNt aggregate associations), a method that infers the alleles that lie on each ancestral haplotype and conducts rare-variant aggregate association testing in a generalized linear mixed model framework. Through simulation studies we demonstrated that LANTERN achieves proper control of Type 1 error while boosting power to detect associations when causal alleles predominately lie on one ancestral haplotype. Using data from a cohort of African American participants from the Jackson Heart Study, LANTERN identified two genes known to be involved in red-blood cell (RBC) biology when local ancestry information was incorporated. Specifically, a burden of rare alleles on European ancestral haplotypes in EPO was associated with both hemoglobin levels (HGB) and RBC counts, whereas a burden of rare alleles on African ancestral haplotypes in EPB42 was associated with HGB and RBC. In summary, LANTERN (i) allows for the identification of ancestry-specific rare-variant associations; and (ii) enhances rare-variant association signals compared to an analysis that ignores local ancestry. LANTERN is implemented in R and is freely available on GitHub. ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody",
+        "monoclonal",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 3,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 3
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.24.26351644v1",
+      "date": "2026-04-25",
+      "abstract": "Abstract Allogeneic hematopoietic stem cell transplantation (HSCT) is a life-saving treatment for hematologic malignancies, but long-term survivors present with lower muscle mass and functional capacity. In adult HSCT survivors 10-20 years after treatment, single nucleus RNA sequencing uncovered elevated XRRA1 expression levels in all muscle nuclei populations, which was retained in primary muscle stem cell cultures. HSCT survivors were characterized in vivo by impaired neuromuscular innervation that associated with muscle weakness, and lower muscle stem cell neurotrophic action. Despite these impairments, the molecular and physiological responses to heavy resistance training (HReT) were preserved in HSCT survivors, as demonstrated in a pre-registered clinical trial (ClinicalTrials.gov: NCT04922970 ). After 12 weeks of HReT, gains in muscle mass and strength were similar in HSCT survivors and healthy controls. In addition, we observed that ∼9% of muscle-resident immune cells persist into adulthood and that bone marrow derived cells do not adopt alternative cell fates in muscle tissue, resolving long-standing questions in human muscle biology. Together, these findings uncover molecular mechanisms of HSCT sequelae in muscle nuclei and muscle stem cells, which, importantly, can at least partly be overcome by mechanical loading. Given the growing population of HSCT survivors and the multitude of benefits of HReT for all organ systems, our findings support the importance of HReT in this population to promote healthspan. Download figure Open in new tab ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody",
+        "monoclonal",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 3,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 3
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.11.03.25339415v2",
+      "date": "2026-04-30",
+      "abstract": "Abstract RIO is an ongoing double blind randomized placebo controlled human trial in which participants that started antiretroviral therapy (ART) during primary or early-stage infection underwent treatment interruption and were randomly assigned to a group receiving one or two doses of two long acting broadly neutralizing antibodies 3BNC117-LS and 10-1074-LS (Arm A), or saline (Arm B). The two arms differed significantly in time to viral rebound, ART restart and number of individuals that remained off therapy after 96 weeks (p=0.001). Here we report on pre-specified secondary and exploratory analyses including the relationship between viremic control, the latent HIV-1 proviral reservoir, rebound viruses, and their sensitivity to the infused and autologous antibodies. Pre-infusion reservoir measurements showed low levels of intact proviral HIV-1 DNA in circulating CD4+ T cells in both arms. The rebounding viruses in participants that received the antibodies, showed significant selection for resistance to 10-1074-LS but not to 3BNC117-LS. Notably, there was a significant correlation between initial reservoir sensitivity to autologous antibodies and to 10-1074 and time to rebound. Finally, comparison of pre-infusion and pre-rebound HIV-1 proviral reservoir showed a significant decrease in intact but not defective proviruses in Arm A but not in Arm B. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody",
+        "monoclonal",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.24.26351687v2",
+      "date": "2026-04-29",
+      "abstract": "Abstract Background Group A streptococcus (GAS) infections have been associated with neuropsychiatric disorders in epidemiologic studies and animal models, but data in US health care populations are limited. GAS is also associated with autoimmune sequelae, including acute rheumatic fever (ARF)/Sydenham chorea (SC), poststreptococcal reactive arthritis (PSRA), poststreptococcal glomerulonephritis (PSGN), and guttate psoriasis (GP). Epstein-Barr virus (EBV) has been linked to systemic lupus erythematosus (SLE) and multiple sclerosis (MS) and the complexity of these associations parallels that of GAS-associated conditions, providing a useful comparison. Objectives 1) Assess the association between a positive GAS test and incident neuropsychiatric diagnoses within 1 year in a large US health care database. 2) Assess the validity of the same database in detecting well-established disease associations while avoiding false associations. Design, Setting, Participants Retrospective cohort study using TriNetX data from US health care organizations. Patients with positive or negative tests were propensity score-matched (GAS cohort n=178,301; EBV cohort n=64,854). Patients with documented neuropsychiatric diagnoses prior to testing were excluded. To approximate a primary care population, inclusion required at least one well-visit. Exposures Positive vs negative GAS test; positive vs negative EBV test (separate cohorts). Main Outcomes and Validations Main outcome: incident neuropsychiatric diagnoses within 1 year of GAS testing. Positive control outcomes: ARF/SC, PSRA, PSGN, and GP (for GAS cohort); SLE and MS (for EBV cohort). Negative control outcomes: conditions without known association with GAS. Results After matching, a positive GAS test was associated with attention-deficit/hyperactivity disorder (ADHD) (RR: 1.09; 95% CI: 1.03-1.15). Among established poststreptococcal conditions, only GP was associated with prior GAS (RR: 1.75; 95% CI: 1.06-2.89). Case counts were insufficient to evaluate ARF/SC, PSRA, and PSGN. Negative control outcomes showed no association. In the EBV cohort, no association was observed with SLE, and MS showed a decreased risk. Conclusions and Relevance A positive GAS test was associated with ADHD but not with other neuropsychiatric disorders. The database detected poststreptococcal GP but did not identify most established postinfectious autoimmune associations, likely reflecting rarity, heterogeneity, and diagnostic complexity. These findings begin to describe the range of real-world health care databases to evaluate postinfectious neuropsychiatric risk. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody",
+        "monoclonal",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.28.26351691v1",
+      "date": "2026-04-29",
+      "abstract": "Abstract Background Cardiovascular disease (CVD) constitutes a major global burden of disease. CVD risk can be managed in primary care using lipid-lowering therapies (LLTs) and antihypertensives (AHTs), for either primary (no prior CVD) or secondary (with prior CVD) prevention, but patients may discontinue treatment. Previous studies have demonstrated that LLT and AHT discontinuation is common, but little synthesised real world data for LLT/AHT discontinuation exists. Methods We systematically reviewed English language reports of observational studies from PubMed, EMBASE, Web of Science, and CINAHL published from 2010-2025 describing discontinuation/restarting prevalence for first-to-third line LLTs/AHTs used for CVD prevention in primary care (PROSPERO: CRD420250599340). Summary data were extracted from included studies, including discontinuation/restarting prevalences and associations between discontinuation and sociodemographic factors. Findings Of 5,756 records we included 31 reports (16 LLT; 15 AHT) representing 9,146,252 patients overall, though databases were re-used between studies. Risk of bias was generally low except for two papers with substantial risk of bias due to unmeasured confounding. One-year discontinuation prevalences were 9%-84% (LLTs), and 10% 64% (AHTs). Restarting prevalences were 12%-75% (LLTs), and 18%-28% (AHTs). Discontinuation/restarting prevalence depended on discontinuation definition and indication. Patients aged ~65 years old were less likely to discontinue than younger or older patients. Women discontinued LLTs more often irrespective of indication; men discontinued AHTs more often for primary prevention. The association between SEP and LLT/AHT discontinuation was unclear; income-based SEP measures were associated with discontinuation, but composite measures were not. People from minority ethnic groups were more likely to discontinue LLTs and AHTs. Interpretation This systematic review of real-world data identified patterns of discontinuation of first to-third line LLTs and AHTs based on age, sex, and ethnicity. Awareness of these patterns and additional research into patient-level drivers of drug discontinuation could improve health equity by addressing LLT/AHT discontinuation in the highest risk patients. ",
+      "searched_keywords_found_duplicates": [
+        "mAb",
+        "monoclonal",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.29.26350963v1",
+      "date": "2026-04-29",
+      "abstract": "Abstract Background: Patients with Common Variable Immunodeficiency (CVID) exhibit diverse clinical manifestations, indicating heterogeneity in pathogenic mechanisms. Systematic application of standardised phenotyping in large cohorts is essential to dissect this heterogeneity. The Human Phenotype Ontology (HPO) provides a structured framework for capturing and comparing disease phenotypes. Objective: To evaluate the implementation and outcomes of HPO-based phenotyping in CVID patients enrolled for whole-genome sequencing in a large national adult primary immunodeficiency cohort. Methods: We developed a web-based Phenotype Capture Tool and delivered structured clinician training to standardise HPO annotation. Numerical laboratory parameters were mapped to corresponding HPO terms to enrich patient records. Results: We coded the phenotypes of 526 CVID patients across 11 UK centres. Clinician training increased phenotype granularity and improved phenotyping consistency between clinicians. We assigned 883 unique HPO terms across the cohort and applied logical rules to the terms to classify patients into an infection-only group and a complex phenotype group (42% vs 58%, respectively). Patients in the complex phenotype group were significantly more likely to have reduced switched memory and expanded CD21low B cells, as well as pathogenic variants in IUIS-listed genes overall and pathogenic NFKB1 variants specifically. Having a pathogenic variant in an IUIS-listed gene was associated with Autoimmune hemolytic anemia and having a pathogenic NFKB1 variant specifically was associated with Autoimmune neutropenia. Conclusion: This is the first study to systematically collect granular HPO-coded phenotypes in a large real-world CVID cohort, refining the CVID landscape and providing a comprehensive CVID HPO term set relevant for international research. Clinical Implication: HPO allows systematic capture of CVID phenotypes with low inter-clinician variability and improves comparison of cohorts, enhancing identification of disease heterogeneity essential to support genotype-phenotype studies and targeted therapeutic strategies. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody",
+        "monoclonal",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.24.26350878v1",
+      "date": "2026-04-27",
+      "abstract": "ABSTRACT PURPOSE Bispecific antibodies (BsAbs) represent a major advancement in the management of relapsed/refractory multiple myeloma (RRMM), offering high response rates even in heavily pretreated patients. However, their use presents operational, safety, and supportive care complexities that require coordinated care teams, and evolving infrastructure. This manuscript summarizes best practice recommendations for adverse event (AE) management, outpatient operational models, referral pathways, and emerging strategies to optimize long-term tolerability. METHODS Medlive—A PlatformQ Health Brand conducted qualitative interviews of academic and community-based clinicians. Discussions focused on BsAb implementation, patient selection and counseling, and AE management. Experts provided recommendations on team-based protocols, transitions of care, and inpatient versus outpatient considerations. RESULTS Ten hematologists/oncologists (academic n=4; community n=6) described practice patterns, barriers, and perspectives on BsAb use. BsAbs were consistently regarded as highly effective across multiple lines of therapy, particularly for patients without alternatives. Cytokine release syndrome (CRS) was the most common acute toxicity, generally low grade and managed effectively with early tocilizumab, including prophylactic use in outpatient settings. Immune effector cell-associated neurotoxicity syndrome (ICANS) was rare, mild, and best mitigated through early recognition and caregiver support. Infections, largely from BCMA-associated hypogammaglobulinemia, frequently interrupted therapy, necessitating antiviral prophylaxis, pneumocystis jirovecii pneumonia (PJP) prophylaxis, and intravenous immunoglobulin (IVIG). Outpatient step-up dosing is expanding, supported by prophylactic strategies and academic-community collaboration. Timely referral was emphasized to preserving eligibility. Major outpatient challenges included sequencing, infrastructure readiness, and standardized caregiver and staff education. CONCLUSION Effective community implementation of BsAbs requires multidisciplinary coordination, standardized AE protocols, infection prevention, and infrastructure to support monitoring, referrals, and equitable access. These measures are critical to ensure safe, sustainable integration of bispecific therapies and to optimize patient outcomes. ",
+      "searched_keywords_found_duplicates": [
+        "monoclonal",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [
+        "mAb"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.24.26351678v1",
+      "date": "2026-04-27",
+      "abstract": "Abstract The menopausal transition represents a major neuroendocrine shift marked by declining estradiol and progesterone, rising follicle-stimulating hormone, and increased vulnerability to cognitive and affective symptoms. Despite extensive evidence of hormone-related neural changes, few biomarkers directly index hormone-sensitive neuronal adaptations in vivo . Neuron-enriched extracellular vesicles (nEVs) isolated from blood provide a minimally invasive window into central nervous system (CNS) biology by carrying microRNAs (miRNAs) linked to neuronal regulatory processes. This pilot study tested whether L1 cell adhesion molecule (L1CAM)–positive nEV miRNA profiles differ between early (STRAW stage −2; n = 22) and late (STRAW stage −1; n = 24) perimenopause. A pooled discovery screen of 179 miRNAs identified 10 candidates with substantial fold-change differences between groups; these were then quantified at the individual level using qPCR. Linear mixed-effects models showed a significant main effect of STRAW stage, with late perimenopause associated with higher ΔCq values (lower overall expression) across the miRNA panel. The miRNA x STRAW stage interaction was not significant, indicating a coordinated shift across the measured miRNAs rather than miRNA-specific regulation. No evidence of an association between nEV miRNA expression and current estradiol levels or menopausal symptom severity was observed. Bioinformatic analysis of predicted mRNA targets identified significant enrichment of the gonadotropin-releasing hormone (GnRH) receptor pathway, along with related growth factor, immune, and intracellular signaling pathways, with preferential expression in brain-relevant tissues. These findings are consistent with stage-related differences in hormone-sensitive neuronal regulatory processes across the transition. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody",
+        "monoclonal",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.22.26351547v1",
+      "date": "2026-04-24",
+      "abstract": "Abstract Background Regulatory inconsistency across African countries contributes to duplicative scientific assessments, prolonged approval timelines, and delayed access to essential medical products. To inform the operationalisation of the African Medicines Agency (AMA), the African Medicines Regulatory Harmonisation (AMRH) programme implemented Africa’s first continental pilot study for the scientific evaluation and listing of human medicinal products. This study evaluates the pilot’s procedural performance and examines how continental scientific opinions were translated into national regulatory decisions through reliance mechanisms. Methods and Findings A mixed-methods programme evaluation was conducted using regulatory datasets generated during the pilot study. Quantitative data included assessment timelines, GMP inspection outcomes and national post-listing regulatory actions. Qualitative thematic analysis was applied to governance documents and National Regulatory Authority (NRA) feedback to identify legal, institutional and procedural determinants influencing uptake. Of 64 expressions of interest, 24 products progressed to full evaluation and 12 received positive continental scientific opinions. Ten met the predefined performance target of ≤210 working days. Twenty-four GMP inspections identified no critical deficiencies and aligned with global regulatory benchmarks. National uptake demonstrated active reliance: full reliance (continental opinion as primary basis for national approval) for 7 products (58%); sequential reliance (continental assessment supplemented with targeted national queries) for 3 products (25%); and supplemented national review (separate national assessment undertaken) for 2 products (17%). Products with broader market strategies achieved registration in up to 23 African countries within a median of 77 working days post-listing. Variability in uptake reflected national legal authority, administrative requirements, and applicant submission strategies Conclusions The pilot study demonstrates the feasibility of a continent-wide regulatory assessment mechanism capable of producing trusted scientific outputs and enabling reliance-based national decision-making in Africa. While reliance was widely applied, heterogeneity in national procedures and administrative sequencing affected time to national registration. Findings provide empirical evidence to inform the AMA scale-up, highlighting the need for harmonised reliance pathways, streamlined administrative processes, and coordinated digital regulatory infrastructure. Author Summary Why Was This Study Done? Access to essential, safe, and effective medicines in Africa is often delayed because regulatory systems across countries work independently and have different capacities. To strengthen regulatory efficiency, African institutions have established the African Medicines Agency (AMA) which will carry out continent-wide scientific assessments that countries can rely on when making their own regulatory decisions. However, since no evidence previously existed to show whether such a continental process could work in practice, there was a need to carry out such a study. What Did the Researchers Do and Find? Africa’s first pilot study of a continent-wide regulatory assessment process for human medicines was evaluated. Of 24 eligible applications, 12 products were listed following a positive scientific opinion issued after scientific assessment and manufacturing quality evaluation. Sixteen national regulatory authorities used the continental assessments directly when granting marketing authorisations, reducing duplication and accelerating decision-making. Countries varied in how quickly and extensively they adopted the continental recommendations, depending on national laws, administrative procedures and capacity. What Do These Findings Mean? A continental assessment system is feasible in Africa that can provide the basis for reliance-based national decisions. To ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody",
+        "monoclonal"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.24.26351513v1",
+      "date": "2026-04-29",
+      "abstract": "Abstract The skin microbiome shapes local immunity, but the mechanisms of microbiome-immune crosstalk remain poorly understood. A major barrier to discovery is the lack of approaches that enable simultaneous, longitudinal measurement of microbes and immune cells from the same tissue without disrupting barrier integrity. Here we present a hydrogel-coated microneedle (MN) patch that enables minimally invasive co-sampling of viable microbes, immune cells, and interstitial fluid from skin. In humans, the patches were well tolerated and preserved inter-individual microbial signatures. Murine models colonized with commensal Staphylococcus epidermidis and the opportunistic pathogen Staphylococcus aureus, revealed distinct immune trajectories during commensal colonization, pathogen challenge, and commensal-pathogen co-colonization. Pathogen colonization drives progressive inflammatory amplification, whereas commensal exposure induces controlled immune activation that stabilizes over time. Notably, S. epidermidis reshapes pathogen-induced responses, producing a transient immune activation followed by attenuation of inflammation. These results establish MN sampling as a strategy to resolve immune-microbiome dynamics in barrier tissues and provide a framework for mechanistic studies of host-microbe interactions in health and disease. ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.29.26351981v1",
+      "date": "2026-04-30",
+      "abstract": "Abstract Background: Gliomas are heterogeneous tumors with poor outcomes following current therapies, including immunotherapy. The tumor microenvironment (TME) is a critical determinant of therapeutic response in gliomas. We have classified the immune TME of gliomas by multiplex immunofluorescence (mIF). Methods: Tissue taken at initial resection from 354 patients with newly−diagnosed glioma grades 2-4 were analyzed using three mIF panels of markers for T, B, and myeloid cells. Tumor cores were characterized by the relative abundances of: (i) 15 primary immune phenotypes, (ii) 96 secondary immune phenotypes, and, (iii) 29 biologically meaningful multi-marker immune phenotypes. Results: Using unsupervised cluster analysis of WHO grade 4 gliomas we identified four subtypes α, β, γ, and δ that were internally reproducible. Immune subtype α was characterized by high abundance of antigen-presenting cells (APCs) and low levels of MHC II− monocytes. Subtype β was high in regulatory T cells and myeloid cells, but low in lymphocytes with effector functions. Subtype γ displayed high abundance of immune cell phenotypes, particularly lymphocytes with effector or helper functions. Subtype δ was low in lymphoid and myeloid immune phenotypes and APCs, with poorer outcomes. Grade 3 tumors could also be classified into α, β, γ, and δ subtypes, indicating generalizability of these immune TME subtypes across high grade gliomas. Conclusions: We have identified internally reproducible criteria for classifying gliomas according to the immune microenvironment, findings that could aid our understanding of the natural progression of low- and high-grade gliomas and inform the rational application of immune-oncologic therapeutic interventions. ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.29.26351809v1",
+      "date": "2026-04-30",
+      "abstract": "Abstract Heterochronic parabiosis improves physiological and cognitive function in aging rodents; these benefits appear to be derived from the removal of aged blood plasma components and the addition of younger ones. In humans, removing plasma from older individuals with Alzheimer's disease (AD) and replacing it with saline and albumin delayed cognitive deterioration in a large clinical trial. However, mimicking heterochronic parabiosis in humans by removing large volumes of a patient's blood plasma and replacing it with plasma from young and healthy donors has not been tested. Here, we have performed a pilot study to characterize the feasibility and safety of such a procedure, replacing between 16 and 26 L of patient blood plasma with young (ages 18-24) donor blood plasma for twelve patients who recently received a diagnosis of mild cognitive impairment with biomarker evidence of AD. The dose and time interval between plasma exchanges was tailored to maximize equilibration of donor plasma components into the interstitial fluid, achieving what we term interstitial rejuvenation. We explored three permutations of a plasma exchange protocol with different treatment intensities and doses, each performed on three to five patients. We present data on safety, feasibility, patient burden, resource use of the treatments, preliminary measurements of clinical variables and short-term cognitive trajectories in the patients. The procedures were safe and feasible, supporting further investigation of treatment efficacy in a larger controlled trial. This safety and feasibility study was first registered 22 December 2023 at ClinicalTrials.gov and given the identifier NCT06234436 . ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.02.05.26345712v2",
+      "date": "2026-04-30",
+      "abstract": "Abstract Background: Clonal hematopoiesis of indeterminate potential (CHIP) is associated with cardiovascular disease (CVD) in the general population and is more common among people with HIV (PWH). The mechanisms by which CHIP contributes to atherosclerosis in PWH are unknown. We hypothesized that CHIP is associated with carotid atherosclerosis and arterial inflammation among PWH. Methods: In a cohort study, we studied PWH ages 31-74 years with treated, suppressed HIV. CHIP mutations were detected with a validated targeted sequencing assay. Carotid intima-media thickness (IMT) was measured longitudinally with ultrasound. Aortic inflammation and lymph node activity were assessed cross-sectionally using 18F-FDG-PET. Inflammatory biomarkers were measured using multiplex electrochemiluminescence assay. Linear regression was employed, with adjustments for traditional and HIV-related factors. Results: We included 230 PWH (52+-9 years, 7% female); 32 (14%) had CHIP with median variant allele fraction of 2.8%. Common mutations were in DNM3TA (n=21) and TET2 (n=6). Age was associated with CHIP (OR 2.0 per decade older, 95% CI 1.3-3.01; p=0.002). Among 166 participants with IMT measurements (CHIP=23), CHIP was not associated with IMT (p=0.21; unchanged after adjustment). Among 80 with FDG-PET, CHIP (n=12) was not associated with arterial inflammation (p=0.89), but was associated with higher lymph node metabolic activity (p=0.017) that was attenuated in reference to background activity and adjusted for risk factors. CHIP was not associated with soluble inflammatory markers or viral persistence markers. Conclusions: Among PWH, CHIP mutations were not associated with subclinical atherosclerosis, arterial inflammation, or soluble inflammatory markers but may be related to lymph node metabolic activity. The mechanism by which CHIP increases HIV-associated atherosclerosis may preferentially involve lymph nodes and merits additional evaluation. ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.20.26351111v1",
+      "date": "2026-04-29",
+      "abstract": "Abstract Biallelic disease-causing variants in IGHMBP2 cause spinal muscular atrophy with respiratory distress type I (SMARD1) and Charcot-Marie-Tooth type 2S (CMT2S). We present 12 unrelated patients with clinically suspected IGHMBP2-related-disease, each carrying a variant deep in intron 8 of IGHMBP2 (c.1235+1076G>A (n=6), c.1235+450G>A (n=5), and c.1235+894C>A (n=1)), along with a known deleterious variant in trans. To assess aberrant pathogenic splicing induced by these deep intronic variants in a relevant model, patient-derived induced pluripotent stem cells were differentiated into motor neurons (iMNs). Long-read RNA sequencing revealed introduction of different pseudoexons by each variant: c.1235+450G>A (626bp), c.1235+1076G>A (112bp and 77bp) and c.1235+894C>A (182bp). Although each variant utilizes a unique splice acceptor site, they all activate the same cryptic donor site, enabling a therapeutic approach to redirect aberrant splicing for all the variants using a single shared antisense oligonucleotide (ASO). Treatment of iMNs with this single ASO restored full-length IGHMBP2 protein in c.1235+894G>A and c.1235+1076G>A by decreasing the use of the novel acceptor site. In contrast, ASO treatment did not correct the splicing in c.1235+450G>A, suggesting that additional splice correction will be needed for this specific variant. A CRISPR interference screen of IGHMBP2 loss-of-function in iMNs identified ribonucleoprotein complex biogenesis (RNP), and rRNA and tRNA processing as top pathways implicated in motor neuron vulnerability. Proteomics and transcriptomics analysis of successfully treated patient iMNs revealed correction of RNP biogenesis and rRNA processing defects. This study highlights the importance of characterizing deep intronic variants in disease-relevant cells to assist the diagnostic process and inform therapeutics development. ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.27.26351884v1",
+      "date": "2026-04-29",
+      "abstract": "Abstract Distinguishing pathogenic from benign mutation is critical for genetic diagnosis. A CRISPR-targeted saturation genome editing (SGE) platform in primary human cells assessed 489 single nucleotide variants (SNVs) in exon 5 of IL2RG, the gene causing X-linked SCID. The functional impact was clearly defined for 470 variants, agreeing with 100% (18/18) of ClinVar-deposited benign or likely benign annotations, and 100% (42/42) of pathogenic or likely pathogenic annotations. We discovered 90 novel loss-of-function mutations and validated an expected block in T-lymphocyte differentiation from edited hematopoietic stem cells. ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.27.26351061v1",
+      "date": "2026-04-28",
+      "abstract": "Abstract Syphilis, caused by the spirochete Treponema pallidum subsp. pallidum (TPA), is resurging globally, particularly in low- and middle-income countries. However, TPA genomic diversity and population structure in these settings remain poorly characterized. We investigated the global genetic diversity of syphilis spirochetes, sequencing 298 new TPA genomes from 11 countries across five continents, including underrepresented areas such as Argentina, Colombia, Malawi, Sri Lanka, and Vietnam. Combined with 1,409 public genomes, our dataset comprised 1,707 genomes. Hierarchical clustering identified six Nichols and five SS14-lineage subpopulations, with distinct subpopulations concentrated in Africa, East Asia, and the Americas, as well as previously unrecognized diversification within the globally dominant SS14 lineage. Concordance analysis showed that widely used multilocus sequencing typing methods recapitulate major Nichols-lineage subpopulations but have reduced discriminatory power for the SS14 lineage. Genome-wide Fixation index scans and targeted analyses of genes encoding outer membrane proteins prioritized for vaccine development demonstrated lineage- and subpopulation-specific patterns of genetic structure and selection. We observed strong diversifying selection acting on cell envelope assembly factors (BamA, LptD), selected FadL-like transporters, members of the T. pallidum repeat (Tpr) family, and efflux-associated outer membrane factors, alongside strictly conserved β-barrel scaffolds. Macrolide resistance and reduced beta-lactam susceptibility marker prevalence varied by lineage and geographical region. These findings refine our understanding of TPA’s genetic diversity, delineate heterogeneous evolutionary trajectories across key vaccine-relevant loci, and underscore the importance of geographically representative genomic analyses to inform syphilis vaccine design and for antimicrobial resistance monitoring. Significance Statement Despite increasing syphilis rates worldwide, genomic data from its causative agent Treponema pallidum subsp. pallidum have largely originated from a small number of high-income countries. This study significantly expands our understanding of TPA genomic diversity by sampling across underrepresented low- and middle-income countries (LMICs) in Africa, Asia and South America. We analyze 1,707 genomes, including 298 newly sequenced from 11 LIMCs, and identify novel subpopulations, lineage-specific variation in outer membrane proteins, and geographic differences in antimicrobial resistance markers. These results illustrate how sampling from understudied regions reveals previously unappreciated, geographically structured diversity, improving our understanding of TPA population structure and informing the development of globally relevant vaccines, treatment strategies, and diagnostic tools. ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.28.26351915v1",
+      "date": "2026-04-29",
+      "abstract": "Abstract Obesity and behavioral impulsivity are highly heritable traits that share overlapping genetic risk and often co-occur in childhood. This study investigates whether maturation of the nucleus accumbens shell (NAC-shell) inhibitory-control circuit mediates shared vulnerability to both traits. Using state-of-the-art dynamic fMRI, we mapped NAC-shell development across 460 longitudinal assessments from childhood to adulthood, in 136 healthy controls and 126 individuals with 22q11.2 deletion syndrome (22q11DS), a genetic model conferring high risk for obesity and impulsivity. Blunted NAC-shell maturation predicted steeper BMI increases and persistent neurocognitive impulsivity, consistently mediating their association in both HC and 22q11DS populations. NAC-shell development explained both impulsivity/obesity genetic vulnerability linked to 22q11DS and familial correlations between affected/unaffected siblings. These findings propose NAC-shell maturation as a transdiagnostic endophenotype underlying obesity and self-regulation, bridging neurodevelopment, genetics, and behavior. They could inform future early-screening and precision preventive strategies for youth at risk of obesity and other impulsivity-related phenotypes. ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.23.26351580v1",
+      "date": "2026-04-27",
+      "abstract": "Abstract Diffuse Large B-cell lymphoma (DLBCL) is the most common aggressive lymphoma in the Western world. First-line immunochemotherapy fails in approximately 30–40% of patients, with refractory and relapse patients presenting a dismal prognosis. Currently, these high-risk patients cannot be accurately identified at diagnosis. Using statistical modeling and machine learning approaches applied to large public DLBCL datasets, we identified a novel predictive signature based on the reactivation of eight normally silent tissue-dependent genes associated with survival. We then developed a multiplex RT-MLPseq based assay, compatible with formalin-fixed paraffin-embedded (FFPE) samples and transferable into routine clinical practice, enabling analysis of expression of these eight genes and validated their prognosis impact in an independent real-life cohort. This signature could be integrated with current prognostic indices and molecular classifications to improve patient stratification and guide treatment selection toward a personalized theragnostic approach, thereby enhancing management of non-responder patients. Data Sharing Statement For access to original data, please contact: anouk.emadali{at}univ-grenoble-alpes.fr Key points - Ectopic activation of 8 tissue-specific genes defines a robust prognostic signature for survival stratification in DLBCL patients - A FFPE-compatible RT-MLPseq assay enables clinical use and improves risk stratification beyond IPI and COO, especially in high-risk patients ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.09.14.25335686v3",
+      "date": "2026-04-24",
+      "abstract": "ABSTRACT Background Low-grade inflammation occurs in ∼30% of individuals with major depressive disorder (MDD) and is linked to poorer treatment outcomes, autonomic dysregulation, and elevated cardiometabolic risk. Such inflammation may contribute to variability in response to intermittent theta burst stimulation (iTBS) of the left dorsolateral prefrontal cortex. We tested whether baseline inflammation moderates the association between heart–brain coupling (HBC) during iTBS and clinical improvement, and examined neuroimaging correlates of inflammatory status. Methods Inflammation was indexed using routine clinical markers: white blood cell count (WBC) and C-reactive protein (CRP). HBC, a physiological marker of frontal-vagal engagement, was derived from electrocardiographic recordings obtained during the first iTBS sessions. Diffusion MRI free-water metrics were used to assess white-matter microstructural alterations associated with inflammation. Results Higher HBC was associated with symptom improvement only among individuals with lower WBC. Patients with higher WBC counts showed elevated free-water diffusion MRI signal in the fornix and corpus callosum, suggesting possible inflammation-related white matter differences warranting replication. Conclusions Baseline WBC moderated the association between HBC and clinical response and may contribute to inter-individual variability in iTBS outcomes. Routine inflammatory markers could support stratification approaches for biomarker-guided neuromodulation in MDD. HIGHLIGHTS Baseline WBC moderates HBC–iTBS response in major depression High HBC was associated with improvement primarily at lower WBC levels (≈<6.44×10□/L) CRP does not significantly moderate HBC–response associations Exploratory DTI analyses linked higher WBC to increased free-water in the fornix & corpus callosum WBC may be a candidate low-cost stratification marker for future biomarker-guided neuromodulation studies. ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.23.26350376v1",
+      "date": "2026-04-24",
+      "abstract": "Abstract The spinocerebellar ataxias (SCAs) are a clinically heterogenous group of neurodegenerative disorders that affect movement, vision, speech and balance. Here, we reassign the linkage of SCA30 to 14q32.13 based on a cumulative LOD score >12. Within this interval we identified a 331 kb duplication, absent in population controls and not observed in >800 unrelated individuals with genetically unresolved cerebellar ataxia. RNA-Seq analysis of patient-derived lymphoblastoid cell lines revealed a splice-mediated chimeric transcript resulting from the duplication event. This transcript joined exon 1 of CLMN to exon 2 of SYNE3. In silico translation predicted that this chimeric transcript would produce a short N-terminal peptide corresponding to exon 1 of CLMN and the usually untranslated region of exon 2 of SYNE3 fused to the complete and in-frame SYNE3 protein. Transient overexpression of SYNE3 or the CLMN::SYNE3 fusion protein, in both HeLa cells and mouse primary cortical neurons, resulted in equivalent cellular outcomes including altered nuclear morphology and chromosomal DNA fragmentation. SYNE3 forms part of the linker of nucleoskeleton and cytoskeleton complex and is not usually expressed in cerebellar Purkyně neurons while, CLMN has a Purkyně specific expression pattern within the brain. Our data suggests that ectopic expression of SYNE3 in cerebellar Purkyně neurons, mediated by the CLMN promoter, leads to cerebellar atrophy and causes spinocerebellar ataxia in the SCA30 family. This is an example of Mendelian disease arising from a novel, chimeric transcript with a likely dominant negative effect. Chimeric transcripts are commonly associated with cancers, but they are not often associated with monogenic disorders. Detection of chimeric transcripts as part of structural variant analysis could increase the genetic diagnostic yield of Mendelian disorders. ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.27.26351820v1",
+      "date": "2026-04-28",
+      "abstract": "Abstract Background Timely detection is crucial to improve outcomes in patients with cardiac amyloidosis (CA) by initiation of life-saving treatments. Although confirmatory bone scintigraphy is highly accurate for CA detection, identifying at-risk patients for referral remains challenging. Objectives This study aimed to develop and validate a machine learning model, Amylo-Detect , using structured multimodal electronic health record (EHR) data to guide referrals for confirmatory scintigraphy and monoclonal protein testing. Methods Consecutive all-comer patients (n=11,616) referred for bone scintigraphy at the Vienna General Hospital (2010-2023) were retrospectively included. Patients referred before August 2020 formed the development cohort. The remaining patients comprised the internal validation cohort. External validation was performed at the University Hospital Essen (n=1,521). Amylo-Detect was trained using 50 routinely available parameters to predict CA-suggestive uptake (Perugini grade ≥2) and compared with an existing score and clinical routine. Results High-grade uptake was present in 388 patients (3.0%). Amylo-Detect demonstrated excellent performance in development (AUC 0.93), independent internal validation (AUC 0.91), and external validation cohort (AUC 0.91), outperforming existing scoring systems and clinical routine. Results were consistent across subgroups, even when crucial predictors were missing. Of the 42/388 (10.8%) patients missed in clinical routine, 12/42 (29%) were additionally detected by Amylo-Detect . The model further conveyed significant prognostic value for mortality and heart failure hospitalization. Conclusions We present Amylo-Detect , a validated EHR-based tool for CA risk prediction, available as a web app, allowing application and further evaluation. By improving timely detection and referral, Amylo-Detect promises to address diagnostic delays and improve outcomes. Author summary Cardiac amyloidosis is a progressive and often fatal heart disease that is frequently diagnosed too late, even though effective treatments are now available. A major challenge is recognizing which patients should be referred for specialized testing, because early symptoms are diverse and often non-specific. In this study, we developed and validated a machine learning prediction system, called Amylo-Detect, that uses routinely collected information from electronic health records to identify patients who may be at risk for cardiac amyloidosis. We trained and externally validated the tool using data from 13,137 patients across two hospitals. We found that Amylo-Detect was highly accurate in identifying patients with disease-indicative findings on confirmatory scans and identified a substantial number of patients who were not initially suspected of having cardiac amyloidosis. Amylo-Detect, which we make publicly available via a web app, consistently outperformed existing risk scores and routine clinical decision-making. Our findings suggest that automated analysis of electronic health records can support clinicians in recognizing cardiac amyloidosis earlier, reduce diagnostic delays, and potentially improve patient outcomes by enabling timely treatment. ",
+      "searched_keywords_found_duplicates": [
+        "monoclonal"
+      ],
+      "primary_abstract_matched_keywords": [
+        "monoclonal"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.24.26351614v1",
+      "date": "2026-04-27",
+      "abstract": "Abstract Purpose We evaluated healthcare resource utilization (HCRU) and costs in patients with eosinophilic granulomatosis with polyangiitis (EGPA). Methods Patients with newly diagnosed EGPA (2017–2021), ≥12 months’ pre-diagnosis health plan enrollment, and ≥1 inpatient or ≥2 outpatient claims with an EGPA diagnosis were included. Follow-up was from EGPA diagnosis until disenrollment or database end. HCRU and health insurer payment costs during follow-up were compared with those for matched cohorts of general insured patients without EGPA (comparison A) and without EGPA but with severe uncontrolled asthma (SUA; comparison B). Results In comparison A, all-cause HCRU was higher in the EGPA cohort (n = 213) versus matched patients (n = 779) for all clinical encounters/pharmacy claim types; annualized, mean total all-cause costs were 16-fold higher ($117,563/patient) versus matched patients ($7,520/patient). In comparison B, all-cause HCRU was higher for the EGPA cohort (n = 182) versus the matched SUA cohort (n = 640) for all clinical encounters/pharmacy claim types, with 5-fold higher mean total all-cause costs ($118,127/patient vs $22,286/patient). In both EGPA cohorts, HCRU and associated costs increased between the baseline and follow-up periods. Conclusions These findings highlight the need for more effective treatments to reduce the clinical and economic burden of EGPA. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody",
+        "monoclonal"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2604.22569",
+      "date": "2026-04-24",
+      "abstract": "Computer Science > Cryptography and Security arXiv:2604.22569 (cs) [Submitted on 24 Apr 2026] Title: Adversarial Co-Evolution of Malware and Detection Models: A Bilevel Optimization Perspective Authors: Olha Jurečková , Martin Jureček , Matouš Kozák , Róbert Lórencz View a PDF of the paper titled Adversarial Co-Evolution of Malware and Detection Models: A Bilevel Optimization Perspective, by Olha Jure\\v{c}kov\\'a and 2 other authors View PDF HTML (experimental) Abstract: Machine learning-based malware detectors are increasingly vulnerable to adversarial examples. Traditional defenses, such as one-shot adversarial training, often fail against adaptive attackers who use reinforcement learning to bypass detection. This paper proposes a robust defense framework based on bilevel optimization, explicitly modeling the strategic interaction between a defender and an attacker as an adversarial co-evolutionary process. We evaluate our approach using the MAB-malware framework against three distinct malware families: Mokes, Strab, and DCRat. Our experimental results demonstrate that while standard classifiers and basic adversarial retraining often remain vulnerable, showing evasion rates as high as 90 %, the proposed bilevel optimization approach consistently achieves near-total immunity, reducing evasion rates to 0 - 1.89 %. Furthermore, the iterative framework significantly increases the attacker's query complexity, raising the average cost of successful evasion by up to two orders of magnitude. These findings suggest that modeling the iterative cycle of attack and defense through bilevel optimization is essential for developing resilient malware detection systems capable of withstanding evolving adversarial threats. Subjects: Cryptography and Security (cs.CR) ; Machine Learning (cs.LG) Cite as: arXiv:2604.22569 [cs.CR] (or arXiv:2604.22569v1 [cs.CR] for this version) https://doi.org/10.48550/arXiv.2604.22569 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Martin Jureček [ view email ] [v1] Fri, 24 Apr 2026 14:01:18 UTC (474 KB) Full-text links: Access Paper: View a PDF of the paper titled Adversarial Co-Evolution of Malware and Detection Models: A Bilevel Optimization Perspective, by Olha Jure\\v{c}kov\\'a and 2 other authors View PDF HTML (experimental) TeX Source view license Current browse context: cs.CR < prev | next > new | recent | 2026-04 Change to browse by: cs cs.LG References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openn",
+      "searched_keywords_found_duplicates": [
+        "mAb"
+      ],
+      "primary_abstract_matched_keywords": [
+        "mAb"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2604.24810",
+      "date": "2026-04-27",
+      "abstract": "Computer Science > Machine Learning arXiv:2604.24810 (cs) [Submitted on 27 Apr 2026 ( v1 ), last revised 29 Apr 2026 (this version, v2)] Title: A Comparative Analysis on the Performance of Upper Confidence Bound Algorithms in Adaptive Deep Neural Networks Authors: Grigorios Papanikolaou , Ioannis Kontopoulos , Konstantinos Tserpes View a PDF of the paper titled A Comparative Analysis on the Performance of Upper Confidence Bound Algorithms in Adaptive Deep Neural Networks, by Grigorios Papanikolaou and 2 other authors View PDF HTML (experimental) Abstract: Edge computing environments impose strict constraints on energy consumption and latency, making the deployment of deep neural networks a significant challenge. Therefore, smart and adaptive inference strategies that dynamically balance computational cost or latency with predictive accuracy are critical in edge computing scenarios. In this work, we build on Adaptive Deep Neural Networks (ADNNs) that employ the Multi-Armed Bandit (MAB) framework. Current literature leverages the first version of the Upper Confidence Bound (UCB1) strategy to dynamically select the optimal confidence threshold, enabling efficient early exits without sacrificing accuracy. However, we introduce four additional Upper Confidence Bound strategies in ADNNs, namely UCB-V, UCB-Tuned, UCB-Bayes, and UCB-BwK, and perform, for the first time, a comparative study of these strategies with respect to trade-offs between accuracy, energy consumption, and latency. The proposed UCB strategies are employed on the ResNet and MobileViT neural networks, and are evaluated on the benchmark datasets of CIFAR-10, CIFAR-10.1, and CIFAR-100. Experimental results demonstrate that all strategies achieve sub-linear cumulative regret, with UCB-Bayes converging the fastest, followed by UCB-Tuned and UCB-V. Finally, UCB-V and UCB-Tuned dominate the Pareto Frontiers of accuracy-latency and accuracy-energy trade-offs. Comments: The paper has been accepted for publication in IEEE SMARTCOMP 2026 Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI) Cite as: arXiv:2604.24810 [cs.LG] (or arXiv:2604.24810v2 [cs.LG] for this version) https://doi.org/10.48550/arXiv.2604.24810 Focus to learn more arXiv-issued DOI via DataCite Submission history From: Grigorios Papanikolaou [ view email ] [v1] Mon, 27 Apr 2026 08:51:44 UTC (1,288 KB) [v2] Wed, 29 Apr 2026 11:04:41 UTC (1,289 KB) Full-text links: Access Paper: View a PDF of the paper titled A Comparative Analysis on the Performance of Upper Confidence Bound Algorithms in Adaptive Deep Neural Networks, by Grigorios Papanikolaou and 2 other authors View PDF HTML (experimental) TeX Source view license Current browse context: cs.LG < prev | next > new | recent | 2026-04 Change to browse by: cs cs.AI References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is",
+      "searched_keywords_found_duplicates": [
+        "mAb"
+      ],
+      "primary_abstract_matched_keywords": [
+        "mAb"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.28.26351835v1",
+      "date": "2026-04-29",
+      "abstract": "Abstract Epidemiological studies link aging and autoimmune diseases to increased herpes zoster (HZ) risk, yet their shared genetic basis remains unresolved. Here, we integrated large-scale genome-wide association studies (GWAS) of a multivariate aging latent factor (mvAge), rheumatoid arthritis (RA, representing autoimmunity), and HZ with multi-omics quantitative trait loci. Using linkage disequilibrium-aware colocalization and Mendelian randomization (MR), we identified a shared pleiotropic major histocompatibility complex (MHC) signal, tagged by rs1800628. Phenome-wide association scans and network analyses revealed that the signal drives systemic immune remodeling, characterized by increased pro-inflammatory mediators, elevated T-cell regulation markers, and reduced lymphocyte counts. This pleiotropic genetic variation may alter the lifelong immune regulatory trajectory, predisposing individuals to both autoimmunity and VZV reactivation. Collectively, our findings support a life-course \"high inflammatory burden–compensatory immune tolerance dysregulation\" model that mechanistically underpins the broader epidemiological overlap of aging, autoimmunity, and HZ, providing a conceptual framework for early immune-rebalancing interventions. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.20.26350987v1",
+      "date": "2026-04-29",
+      "abstract": "Abstract Background Monogenic diseases are considered rare, yet many remain underdiagnosed when clinical manifestations are heterogeneous. A20 haploinsufficiency (HA20) is an early-onset inborn error of immunity (IEI) caused by heterozygous germline TNFAIP3 variants, resulting in dysregulated inflammatory signaling and diverse immune phenotypes. Methods We analyzed variants in all human haploinsufficiency disease genes in gnomAD v4, applying refined loss-of-function predictors to estimate population frequencies. We assessed rare TNFAIP3 variants (allele frequency <0.01%) in All of Us (AoU), UK Biobank (UKBB), and gnomAD. Variants were classified as predicted loss-of-function (pLOF) or high predicted pathogenic missense (HPPM). Clinical associations were tested through phenome-wide association studies (PheWAS) and validated in a University of Pittsburgh referral cohort. Findings High-confidence deleterious variants in human haploinsufficiency disease genes, including IEI haploinsufficiency genes, occur frequently at the population level despite strong constraint. Across datasets, TNFAIP3 pLOF variants corresponded to estimated prevalences of ~1:14,400 (U.S.) and ~1:23,700 (global); combined pLOF + HPPM prevalences were ~1:2,800 (U.S.) and ~1:4,900 (global). PheWAS linked rare TNFAIP3 variants to immune phenotypes with large effect sizes. In a referral cohort (18 patients, 9 families), missense variants conferred hypomorphism with intermediate immunophenotypes. Interpretation Deleterious TNFAIP3 variants are over 100-fold more common than reported cases suggest and are associated with immune dysregulation spanning variable expressivity and severity. These findings establish proof-of-concept that haploinsufficiency diseases may be pervasively underrecognized. Patients with early-onset or treatment-refractory autoimmune disease should be considered for genetic testing, as precision therapies are available and commercial panels already incorporate TNFAIP3. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.29.26352062v1",
+      "date": "2026-04-30",
+      "abstract": "Abstract Sensory processing is a common target in autism spectrum disorder (ASD) research, yet the latent structure of sensory experience is disputed. Researchers frequently explore the presence of \"subtypes\" to categorize sensory heterogeneity, but such discrete models can fail to capture the intrinsic geometry of phenotypic data. In this study, we aim to characterize heterogeneous sensory profiles in ASD and explore if the same characterization can describe neurobiological function. First, we apply unsupervised spectral manifold dimensionality reduction to item-level Sensory Profile data from a large cohort of autistic participants (n=223) to compare categorical subtyping against continuous models. The behavioral results reveal unstable and irreproducible subtyping solutions; instead, sensory processing differences are best characterized as a continuous, non-linear manifold of sensory severity. To determine the neurobiological relevance of this sensory gradient, we employed voxel-wise linear mixed-effects modeling of insula-seeded functional connectivity (n=63). We demonstrate that sensory severity predicts a significant decoupling between the insula and sensorimotor cortices during externally driven stimulation involving motion stimuli, but not during resting state. This finding supports the interpretation that sensory-related neural hypoconnectivity is context-dependent and not reflective of intrinsic traits. Further, we identify a significant sex-by-sensory gradient interaction, indicating heightened sensitivity of connectivity patterns to sensory severity in autistic males. These findings indicate that sensory atypicality in ASD points toward a continuous regulatory manifold linked to disrupted social-sensory integration. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.28.26351971v1",
+      "date": "2026-04-29",
+      "abstract": "Abstract Background: Immune dysfunction in sepsis and critical illness is biologically heterogeneous, yet available stratification frameworks leave many patients unclassified. We hypothesized that ex vivo cytokine-induction responses would define a continuous axis of functional immune responsiveness and identify a low-response state enriched in sepsis. Methods: In this prospective observational study, 39 critically ill adults enrolled within 48 hours of ICU admission and 6 healthy controls underwent standardized whole-blood stimulation with lipopolysaccharide, anti-CD3/anti-CD28 antibodies, and PMA/ionomycin, with selected wells additionally supplemented with interleukin-7 or granulocyte-macrophage colony-stimulating factor. Interleukin-6, tumor necrosis factor, and interferon-gamma responses were quantified and referenced to subject-specific unstimulated baselines. A patient-anchored primary feature matrix was used to derive a continuous immune axis by principal component analysis, and a cross-validated 5-feature MiniResponder score was developed as a portable summary measure. Results: Among critically ill patients, induced cytokine responses organized along a dominant continuous axis of functional immune responsiveness; the first principal component explained 53.3% of between-patient variance. MiniResponder captured this axis and showed a lower-shifted distribution in sepsis. Using a control-referenced threshold defined by the 10th percentile of the healthy-control distribution, 19 of 39 patients (48.7%) were classified as low-response, including 15 of 21 patients with sepsis (71.4%) and 4 of 18 critically ill patients without sepsis (22.2%) (odds ratio 8.75, Fisher exact P=0.004). In exploratory analyses, lower MiniResponder scores were associated with greater unadjusted improvement in Sequential Organ Failure Assessment score from day 1 to days 3-9 (rho=-0.33; P=0.046), but this association attenuated after adjustment for baseline SOFA score (beta=-0.10; 95% CI -0.36 to 0.27). Conclusions: Ex vivo immune profiling identified a continuous patient-anchored axis of functional immune responsiveness in critical illness that can be summarized by a compact 5-feature score. A control-referenced low-response state was enriched in sepsis. This framework may complement existing biomarker-based stratification approaches and support future enrichment strategies in sepsis trials. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.19.26351188v2",
+      "date": "2026-04-28",
+      "abstract": "Abstract Background Clinical pharmacists, trainees, and educators increasingly rely on multi-database literature retrieval and structured evidence synthesis to answer drug-information questions and support therapeutic decisions. Commercial integrated platforms exist but remain inaccessible to many learners in community, rural, and international training contexts. Objective This paper describes the architecture and current capabilities of AuditMed — a single-file, browser-based clinical evidence audit platform — and reports the findings of an initial internal validation exercise in which the platform’s one-click Clinical Inference workflow was applied to a pre-authored compendium of ten complex clinical cases (Cases 30–39) to produce synthetic data outputs which are simulated for the deterministic engine. Methods AuditMed integrates nineteen free, publicly available clinical and biomedical APIs into a six-stage Search→Select→Parse→Analyze→Infer→Create pipeline and produces nine structured output formats. A complex clinical case compendium (10 pre-authored cases spanning multi-organ disease, oncology, immunology, and hematology) was processed through the one-click inference workflow. Each output was reviewed against the case’s documented diagnoses, lab values, medications, and pharmacy-boards-level teaching points to identify correctly flagged findings, missed findings, and structural artifacts. Results Across ten cases, the platform correctly surfaced six high-yield teaching points: a three-agent serotonin-syndrome combination (Case 30), dual hepatotoxicity (Case 31), an amiodarone–digoxin P-gp interaction (Case 34), voriconazole CPIC-A pharmacogenomics (Case 36), phenytoin HLA-B*15:02 screening (Case 38), and warfarin CYP2C9/VKORC1 dosing guidance (Case 39). Four structural problems recurred: (i) a 50-layer polyroot reasoning chain was identical across all cases regardless of clinical seed; (ii) an input-parsing error mapped patient age to body temperature, producing physiologically impossible fevers of 41°C to 70°C in six cases; (iii) the diagnosis field in Case 38 was corrupted by a medication-dosing instruction that propagated through the entire report; and (iv) the embedded drug-drug interaction matrix was sparse, missing clinically significant pairs including ciprofloxacin–warfarin, voriconazole–cyclosporine, amphotericin–aminoglycoside nephrotoxicity stacking, and prednisone–warfarin. Discussion AuditMed’s pharmacogenomic and selected drug-drug interaction modules produced clinically meaningful outputs when they fired, and the platform’s explicit verification-step architecture is a structural strength. The recurrent failure modes — a boilerplate polyroot chain, input parsing without sanity validation, and sparse DDI coverage — are amenable to short, high-yield engineering fixes and do not require re-architecting the pipeline. Case-level clinical question framing also suffers from a relevance-ranking bias toward medications in list order rather than by clinical acuity. Conclusion AuditMed demonstrates proof-of-concept for a free, transparent, auditable multi-source evidence synthesis workflow suitable for pharmacy education and drug-informatics training. The internal validation exercise reported here identifies four specific, tractable engineering priorities whose resolution is required before the platform can be responsibly recommended beyond research and educational use. Formal external validation against retrieval and synthesis benchmarks remains planned. ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.17.26351136v1",
+      "date": "2026-04-25",
+      "abstract": "ABSTRACT Type 2 diabetes (T2D) is a heterogeneous disease shaped by genetic pathways related to insulin resistance and β-cell dysfunction, but how this heterogeneity is reflected molecularly remains unclear. We integrated partitioned polygenic scores (pPS) with proteomic and metabolomic profiling to define molecular signatures of T2D and their clinical relevance. We analyzed UK Biobank participants with genomic, proteomic, and metabolomic data. In a disease-free training subset, we used LASSO regression to identify multi-omic signatures associated with each pPS by jointly modeling proteins and metabolites. In an independent testing set, we constructed multi-omic scores and examined their associations with clinical traits and diabetes-related outcomes. Mediation analyses were used to investigate putative causal pathways. Key findings were evaluated in the Multi-Ethnic Study of Atherosclerosis (MESA). We identified distinct multi-omic signatures that capture the molecular architecture of T2D genetic risk across physiological subtypes. Compared with genetic scores alone, multi-omic pPS showed larger effect sizes and better disease discrimination. These scores recapitulated subtype-specific physiology and were associated with T2D risk. The Beta-Cell 2 multi-omic score showed marked stratification for insulin use, which was replicated in MESA, where it also predicted future insulin use. Mediation analyses implicated lipoprotein remodeling and fatty acid metabolism in the Lipodystrophy 1 cluster, accounting for 30–45% of the total effect of pPS on T2D risk. Integrating process-specific genetic risk with circulating multi-omic profiles reveals biologically distinct endotypes of T2D and supports a framework for improved patient stratification and risk assessment. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.23.26351633v1",
+      "date": "2026-04-25",
+      "abstract": "Abstract Purpose Recurrence in high-grade glioma (HGG) predominantly occurs within the high-dose radiation field, raising the question of whether treatment failure reflects limitations in radiation target delineation or is driven by intrinsic tumor biology. This study evaluated recurrence patterns following standard chemoradiotherapy and their treatment implications. Material and Methods This retrospective single-center study included 41 patients with histologically confirmed HGG treated with surgery followed by radiotherapy with concurrent and adjuvant temozolomide (TMZ). Patients were followed through August 2018; those with recurrence were included in the analysis. Recurrence patterns were classified based on their spatial relationship to the 60 Gy isodose line as central, in-field, marginal, or distant. Survival outcomes were estimated using the Kaplan–Meier method and compared using the log-rank test. Results The most common pattern of recurrence was central (15 patients, 36.5%), followed by in-field (11, 26.8%), distant (6, 14.6%), marginal (5, 12.1%), and multicentric (4, 9.8%). Central and in-field recurrences (local failures) accounted for 26 patients (63%). Median overall survival (OS) was 27 months, and median progression-free survival (PFS) was 12 months. Survival differed significantly by recurrence pattern (log-rank p = 0.018), with marginal recurrence associated with more favorable outcomes. Conclusion The predominance of central and in-field recurrences within the high-dose region suggests that treatment failure in HGG is not solely explained by inadequate target delineation and may also be driven, in part, by intrinsic tumor biology, including radioresistant subpopulations and tumor heterogeneity. Future strategies may benefit from incorporating biologically guided approaches alongside optimization of radiation treatment parameters. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.17.26351121v1",
+      "date": "2026-04-25",
+      "abstract": "Abstract Introduction Intermittent preventive treatment in pregnancy (IPTp) with sulfadoxine-pyrimethamine (SP) has become less effective at preventing malaria due to rising parasite resistance. IPTp with dihydroartemisinin-piperaquine (DP) alone or in combination with SP (DP+SP) dramatically lowers the risk of malaria in pregnancy compared to SP but is associated with lower birthweight and early life wasting. We estimated the effect of IPTp-DP, DP+SP, and SP on infant growth outcomes and assessed possible treatment mechanisms through a causal mediation analysis. Methods We used infant follow-up data (N=761) from a trial ( NCT04336189 ) that randomized pregnant women to receive monthly IPTp-DP, SP, or DP+SP. We compared weight-for-length (WLZ) and length-for-age (LAZ) z-scores between treatment arms. We assessed possible mediation through pregnancy, birth, and infancy factors using interventional indirect effect models. Results Compared to IPTp-SP, IPTp-DP+SP decreased mean WLZ by 0.18 [95% confidence interval (CI) -0.03, 0.39] between 1-3 months and 0.28 (95% CI 0.07, 0.49) between 4-6 months, with the largest differences among primigravidae. Lower risk of active placental malaria in IPTp-DP+SP helped reduce differences in mean WLZ vs IPTp-SP (+0.06, 95% CI 0.02, 0.10). The IPTp-DP+SP arm had up to 0.28 lower mean LAZ between 7-13 months compared to IPTp-DP, particularly among children who were wasted between 0-6 months; low birthweight had a persistent, mediating effect on linear growth. Conclusion Adverse birth outcomes contributed to early growth faltering among children born to mothers receiving IPTp-DP+SP vs IPTp-SP, but the prevention of placental malaria partially counteracted the negative effects of IPTp-DP+SP on ponderal growth. Key Messages Intermittent preventive treatment of malaria in pregnancy (IPTp) with a combination of dihydroartemisinin-piperaquine (DP) and sulfadoxine-pyrimethamine (SP) leads to lower birth weight compared to SP alone, but it is unclear whether effects persist through infancy and what mechanisms drive these differences. DP+SP provided some improvements to ponderal growth over SP by preventing active placental malaria, but these benefits were not large enough to offset negative effects associated with other prenatal factors. Infants born to mothers who received IPTp with DP+SP were at higher risk of growth faltering in the first year of life compared to DP or SP alone; while differences in weight-for-length subsided over time, some children developed chronic forms of malnutrition that may be difficult to recover from. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.24.26351667v1",
+      "date": "2026-04-27",
+      "abstract": "Abstract Proteome-wide association studies (PWAS) typically link genetically predicted protein levels to disease using cis-pQTLs, which can be limited by low cis-heritability for disease-critical genes under negative selection and by tagging due to co-regulation among nearby genes. Trans-pQTLs provide complementary information when large sample sizes are available to detect weak polygenic effects, enabling associations between trans-predicted protein levels and disease. We developed PolyPWAS, a functionally informed, summary statistics-based framework for associating both cis- and trans-predicted protein levels to disease. PolyPWAS integrates 96 functional annotations with proteome-wide pleiotropy to improve protein prediction, while correcting for PCs of predicted protein levels to limit tagging effects. We applied PolyPWAS to 2.8K plasma proteins measured in 34K UKB-PPP participants, analyzing GWAS summary statistics for 88 diseases and complex traits (average N =336K). Trans-predicted protein levels explained 21% of disease heritability (vs. 9.6% for cis-predicted protein levels), leveraging a 24% relative improvement in trans-prediction accuracy from functional priors. Trans-PWAS identified more significant protein-disease associations (and more conditionally significant associations) than cis-PWAS. Cis and trans associations showed only modest excess overlap (1.18, 95% CI: 1.11-1.26). Accordingly, combining evidence from cis and trans associations improved disease gene prioritization evaluated using gene sets from rare variant association studies (+11% relative improvement) and PoPS (+7.0% relative improvement) relative to cis-only approaches. PWAS associations to disease replicated across protein level cohorts, with strong UKB-PPP/deCODE concordance after adjusting for cohort-specific prediction accuracy. We provide examples where trans-regulatory effects link multiple disease-critical genes, underscoring the importance of integrating cis- and trans-regulatory effects to map protein-mediated disease biology. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2024.11.28.24318124v2",
+      "date": "2026-04-27",
+      "abstract": "Abstract Diabetes mellitus (DM) is associated with impaired wound healing, partly driven by excessive neutrophil extracellular trap (NET) formation mediated by peptidyl-arginine deiminase 4 (PADI4). While circulating NET markers predict poor healing outcomes, they likely reflect established tissue damage and offer limited opportunity for early intervention. We therefore investigated the association between PADI4 haplotypes, PADI4 expression, NET formation, and clinical outcomes, namely infections and delayed wound and bone healing, in 687 surgical patients (44.7% with DM). Pre-surgical PADI4 expression was 9.4-fold higher in patients with DM, particularly in those who developed wound healing complications. Neutrophils carrying the PADI4 minor haplotype showed increased PADI4 mRNA and protein expression and produced larger quantities of NETs more rapidly than those with the major haplotype. Clinically, patients with DM carrying the minor haplotype had the highest rates of delayed wound healing and infections. Together, these results demonstrate that PADI4 genetic variation influences neutrophil behavior and clinical outcomes. PADI4 haplotyping may provide a clinically actionable biomarker to identify patients with DM at high risk for wound healing complications and guide early preventive strategies. Download figure Open in new tab ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.21.26351406v1",
+      "date": "2026-04-24",
+      "abstract": "Abstract Purpose Limited CNS bioavailability and pharmacodynamics are obstacles to effective systemic therapies for glioblastoma. One strategy to overcome these challenges is drug combinations enhancing CNS penetration and/or tumor chemosensitivity. LP-184, a synthetic acylfulvene class alkylator, induces DNA damage and inhibits glioblastoma cell viability in pre-clinical models. LP-184 is a prodrug converted to active metabolites by intracellular prostaglandin reductase 1 (PTGR1) that is over-expressed in >70% of glioblastoma. DNA damage induced by LP-184 is MGMT agnostic and reversed by transcription-dependent NER. Patients LP-184 was evaluated in a Phase 1a study ( NCT05933265 ) in 63 adult patients with advanced malignancies including 16 patients with recurrent glioblastoma. All patients with glioblastoma received prior standard-of-care therapy and most had received 1 or more additional therapies before enrollment. Results Patients with glioblastoma experienced more frequent transaminitis, Grade 1-2 nausea and a trend towards more frequent and severe thrombocytopenia compared to the non-glioblastoma cohort. Otherwise, overall toxicity profiles were similar. Clinical pharmacokinetic analysis combined with published pre-clinical intra-tumoral bioavailability data (∼20% penetration) predicted that LP-184 at the recommended dose for expansion (RDE) would achieve cytotoxic levels if combined with spironolactone, a BBB permeable ERCC3 degrader and TC-NER inhibitor that sensitizes glioblastoma cells to LP-184 3-6-fold. We show that three daily doses of spironolactone deplete orthotopic glioblastoma PDX ERCC3 protein by ∼ 80% and increases tumor LP-184 cytotoxicity 2-fold. Conclusions LP-184 is well tolerated at the RDE, and we establish a clinically translatable scheme for dosing spironolactone in combination with LP-184 for a future Phase 1b clinical trial. Statement of translational relevance Treatment failure in glioblastoma reflects inadequate drug brain exposure and DNA repair– mediated resistance. LP-184, a novel acylfulvene alkylator, generates MGMT-independent DNA lesions predominantly repaired by transcription-coupled NER. In a Phase 1a dose finding trial, LP-184 was well-tolerated at the recommended dose for expansion (RDE) in participants with advanced cancers, including recurrent glioblastoma. Plasma drug levels achieved predicted effective systemic exposures but not brain concentrations based on projected 20% brain penetrance. Pharmacokinetic modeling indicates that NER inhibition could increase tumor chemosensitivity with the addition of spironolactone. The optimal dosing regimen for spironolactone combined with LP-184 was identified in orthotopic PDX models, facilitating advancement to Phase 1b/2a testing of LP-184 plus spironolactone. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.27.26351858v1",
+      "date": "2026-04-28",
+      "abstract": "Abstract Coinfection of COVID-19 and malaria in endemic regions may generate complex epidemiological interactions that influence susceptibility patterns, disease burden, and outbreak risk. Although malaria-acquired immunity has been hypothesized to modulate host responses to other infections, its population-level implications for COVID-19 transmission under uncertainty remain insufficiently understood. In this study, we develop a deterministic-stochastic compartmental model for the coupled dynamics of COVID-19, malaria, and their co-infection. Malaria-acquired partial immunity is incorporated through a relative susceptibility parameter that reduces the risk of COVID-19 infection among malaria-recovered individuals. For the deterministic system, we establish positivity, boundedness, an invariant feasible region, and basic reproduction numbers for the COVID-19-only and malaria-only subsystems. We then use numerical simulations to examine how immunity-mediated reductions in susceptibility may influence COVID-19 incidence, peak burden, hospitalization, and cumulative mortality. To account for environmental and transmission variability, we extend the deterministic model to an Itô stochastic differential equation framework and use repeated realizations to characterize uncertainty in epidemic trajectories, peak distributions, and outbreak risk. In addition, global sensitivity analysis based on partial rank correlation coefficients (PRCCs) is performed to identify the parameters with the greatest influence on COVID-19 outcomes. Our results suggest that, under the assumed modeling framework, malaria-acquired partial immunity may reduce the peak infectious burden and cumulative mortality associated with COVID-19. The stochastic simulations further show substantial variability around deterministic trajectories and indicate a non-negligible probability of large outbreak events that are not fully captured by mean-field predictions alone. Overall, the proposed framework provides an uncertainty-aware, mechanistic basis for studying COVID-19–malaria co-dynamics and for assessing how interacting disease processes may shape epidemic outcomes in endemic settings. ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.18.26351163v1",
+      "date": "2026-04-27",
+      "abstract": "Abstract Background Dengue remains a major public health challenge in Thailand despite decades of vector control implementation. While mathematical models have explored dengue transmission dynamics, systematic evaluation of current control strategies under realistic operational conditions remains limited. Methods We developed a temperature-dependent, multi-serotype dengue transmission model that explicitly incorporates three primary vector control strategies: reduction in mosquito biting rates through personal protection measures, further reduction in mosquito birth rates beyond current larval control efforts, and further increase in adult mosquito mortality beyond current adulticide application levels. Using Approximate Bayesian Computation with Sequential Monte Carlo (ABC-SMC), we fitted the model to dengue hemorrhagic fever (DHF) surveillance data from nine province-year combinations representing high (Rayong), moderate (Ratchaburi), and low (Phrae) transmission settings across three years (2006, 2015, and 2017). The model accounts for four dengue serotypes, temperature-dependent mosquito dynamics, and temporary cross-protective immunity between serotypes. Results The model closely reproduced observed monthly DHF case counts across all nine province-year combinations. Estimated reporting proportions ranged from 1.4% to 16.7%, with the highest values occurring in high-transmission provinces during the 2015 outbreak year. When each strategy was independently intensified by 50% relative to fitted baseline levels, reducing mosquito biting rates and increasing adult mosquito mortality consistently produced greater reductions in transmission than reducing mosquito birth rates. In the highest-transmission scenario (Rayong, 2015), a 50% reduction in biting rate from the baseline level yielded a 96.4% reduction in cumulative infections (95% CrI: 95.4-97.3%), compared with 94.3% (95% CrI: 91.8-95.6%) for a 50% increase in adult mosquito mortality and 77.0% (95% CrI: 58.6-84.6%) for a 50% reduction in mosquito birth rate. Analysis of the time-varying reproduction number ( R t ) confirmed that interventions targeting adult mosquito-human contact achieved the greatest sustained epidemic suppression, although the relative ranking between bite prevention and adulticide application varied by epidemiological setting. Conclusions Under the uniform 50% intensification scenario tested, interventions that directly disrupt adult mosquito-human contact, whether through personal protection or adulticide application, substantially outperformed larval control in reducing dengue transmission across diverse Thai settings. These findings support prioritizing personal protection and adulticide application, while the generalizability of this ranking to other intensification levels and settings warrants further investigation. ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2025.12.20.25342730v2",
+      "date": "2026-04-28",
+      "abstract": "Abstract Ductal carcinoma in situ (DCIS) spans a biologic continuum from atypical ductal hyperplasia (ADH) to high-grade lesions with variable risk of progression to invasive ductal carcinoma (IDC), yet morphologic assessment by hematoxylin and eosin (H&E) remains diagnostically limited, particularly at the benign versus ADH/low-grade DCIS boundary. TRPV4, a mechanosensitive ion channel with pathology-dependent subcellular localization in DCIS, offers a biologically motivated immunohistochemical (IHC) marker that may refine classification beyond routine H&E assessment. We tested whether deep learning models trained on TRPV4 IHC outperform H&E-based models across the DCIS progression spectrum. We assembled a multi-institutional cohort of paired H&E and TRPV4 IHC whole-slide images from 108 patients, comprising an internal development cohort (n=69), an external test cohort (n=39), yielding 24,248 annotated tiles. Histopathological tiles from annotated regions were grouped into four ordered classes: normal/benign, ADH/low-grade DCIS, high-grade DCIS, and IDC. Xception and EfficientNet-B0 convolutional neural networks were trained with patient-level 3-fold cross-validation on the development cohort and evaluated as ensembles on the external test cohort. On external patient-level testing, H&E ensembles achieved macro-F1 values of 0.43 to 0.44 and macro-AUC values of 0.73 to 0.80, whereas TRPV4 IHC ensembles improved performance to macro-F1 values of 0.68 to 0.72 and macro-AUC values of 0.91 to 0.92, corresponding to a 54.5-67.4% relative improvement in patient-level macro-F1. Per-class analyses showed the largest gains with TRPV4 IHC versus H&E for ADH/low-grade DCIS (AUC, 0.83–0.84 vs 0.70–0.81) and IDC (AUC, 0.74–0.79 vs 0.65–0.66). These findings support TRPV4 IHC as a mechanistically grounded complement to H&E that improves patient-level discrimination across the DCIS progression spectrum, with the strongest gains for ADH/low-grade DCIS and IDC, in a pilot multi-institutional setting. ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.25.26351732v1",
+      "date": "2026-04-27",
+      "abstract": "Abstract Vaccine effectiveness against symptomatic SARS-CoV-2 infection varies over time and across epidemic waves. This variation can reflect waning immunity, immune escape by emerging variants, exposure heterogeneity, and differences in previous infection history. Test-negative case-control designs are widely used to monitor vaccine effectiveness, while longitudinal serological studies describe antibody trajectories after vaccination and infection. These evidence streams are often analysed separately. This manuscript presents a simulation-based Bayesian joint modelling framework that links individual-level antibody kinetics to test-negative vaccine effectiveness estimates across successive epidemic waves. Hybrid immunity is represented as the combined effect of vaccination and infection history, with latent antibody titres following a boost-and-decay process after each immunising event. A variant-specific titre-protection curve maps latent antibody levels to the risk of symptomatic infection. The framework is intended to illustrate how apparent changes in vaccine effectiveness may be decomposed into components related to waning, immune escape, and exposure heterogeneity. Using fully synthetic data calibrated to plausible vaccination schedules, infection histories, assay variability, and epidemic-wave structures, the model is evaluated in three simulation studies. The simulations illustrate that joint modelling can recover broad features of the assumed titre-protection relationship under idealised conditions and can separate waning from variant-specific shifts when the data-generating process is correctly specified. The results are not presented as validation on real-world surveillance data. Instead, they provide a transparent methodological proof of concept and identify assumptions that would need to be assessed before applying the framework to linked serological and test-negative datasets. Author declarations This manuscript reports a methodological simulation study. All individual-level data used in the manuscript are synthetic. No human participants, patient records, biological samples, or identifiable data were used. No ethics approval was required for the analyses presented here. The author declares no ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.16.26350925v1",
+      "date": "2026-04-24",
+      "abstract": "Abstract Interpreting serological data remains challenging, particularly in low-prevalence or cross-reactive contexts, where antibody responses often show substantial overlap between exposed and unexposed individuals and may depart from normal distributional assumptions. Conventional cutoff-based approaches often yield inconsistent or biased estimates of seroprevalence. Here, we present a decisional framework based on finite mixture models (FMMs) that enhances the robustness and interpretability of serological analyses. Beyond simply applying mixture models, our framework integrates multiple methodological innovations : (i) systematic comparison of Gaussian and skew-normal mixture models to accommodate asymmetric antibody distributions; (ii) rigorous model selection using the Cramér–von Mises test (p > 0.01) combined with a parsimonious score (APS) to prioritize models with well-separated clusters; and (iii) hierarchical clustering of posterior probabilities to collapse latent components into biologically meaningful seronegative and seropositive groups. Applied to chikungunya virus (CHIKV) data from Bangladesh, the framework produced prevalence estimates consistent with ROC-based methods while probabilistically identifying borderline cases. Validation on SARS-CoV-2 and dengue datasets further demonstrated its generalizability: for SARS-CoV-2, the approach identified up to five latent clusters with high sensitivity (up to 100%) and specificity (up to 100%), enabling discrimination by disease severity. For dengue, it revealed interpretable subgrouping consistent with background exposure and subclinical infection, despite limited confirmed cases. By integrating distributional flexibility, robust goodness-of-fit testing, and biologically guided cluster consolidation, this decisional FMM framework provides a reproducible and scalable method for serological interpretation across pathogens and epidemiological settings, addressing key limitations of threshold-based classification. ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.23.26351562v1",
+      "date": "2026-04-24",
+      "abstract": "ABSTRACT Background Since September 2024, France has implemented a national reform allowing prescription-free access (PFA) to sexually transmitted infection (STI) screening in medical biological laboratories (MBLs). This study aims to characterize the populations undergoing STI testing according to their access modality and evaluate the probability of test positivity in relation to testing pathway, sex, and age groups. Methods We conducted a cross-sectional analysis of all individuals screened for Chlamydia trachomatis , Gonorrhoea, human immunodeficiency virus (HIV), hepatitis B virus (HBV), and syphilis by treponemal-specific immunoassay (TSI) in Cerballiance MBLs between Mars 2025 and February 2026. Multivariable logistic regression models stratified by sex and adjusted for age and region assessed associations between screening modality and STI positivity. Results Among 1,008,737 individuals included, 27.8% were under PFA and 72.2 under prescription-based access (PBA). PFA users were more frequently male (47.4% vs. 36.3%, p<0.001) and aged 20-39 years (34.0%, p<0.001). Overall positivity rates differed by modality: PFA was associated with higher detection of Chlamydia (4.6% vs. 3.6%). PBA group showed more positive cases of syphilis (3.4% vs. 1.2%), HBV (1.3% vs. 0.4%), and HIV infections (0.3% vs. 0.2%, all p<0.001). Co-infection and gonorrhoea proportions did not significantly differ between modalities. Conclusions PFA substantially increased STI screening uptake, particularly among young adults and men, and enhanced detection of bacterial STIs. PBA remains essential for diagnosing viral and chronic infections. These findings highlight the complementary roles of both access strategies and support PFA screening as an effective public health intervention to broaden STI detection and reduce transmission. ",
+      "searched_keywords_found_duplicates": [
+        "fully human antibody",
+        "humanized antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.28.26351930v1",
+      "date": "2026-04-29",
+      "abstract": "Abstract Background: Malaria transmission persists in Sahelian West Africa, with asymptomatic Plasmodium falciparum infections acting as a reservoir. Yet malaria epidemiology and research focus heavily on clinical cases. It remains unclear whether parasites causing clinical infections are genetically representative of the asymptomatic reservoir. Methods: A one-year cohort study (2021 and 2022) was conducted in four villages in the Kedougou district of Senegal and two villages in the Kati district of Mali, collecting 1,133 P. falciparum-positive samples from asymptomatic and clinical infections. Using parasite molecular barcodes and whole-genome sequencing, we estimated multiplicity of infection (MOI), runs of homozygosity (RoH), and identity-by-descent (IBD) to compare parasite populations between infection types and across age groups. Results: A total of 226 whole genomes and 728 barcodes were analysed, representing 78.2% (570/729) of clinical cases and 21.7% (158/728) of asymptomatic infections. MOI was high, with over 50% of infections being polyclonal, and did not differ by age or infection status. IBD analysis revealed a highly diverse parasite population, with transmission clusters including both asymptomatic carriers and clinical cases. Drug resistance allele frequencies were similar between groups. Conclusion: Overall, we found no evidence of genetic differentiation between parasites from clinical and asymptomatic infections, suggesting that clinical cases reflect the broader parasite population sustaining transmission. These findings provide a basis for linking genomic metrics with epidemiological factors and for monitoring the impact of future interventions on the parasite population. ",
+      "searched_keywords_found_duplicates": [
+        "monoclonal"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2024.09.30.24314651v2",
+      "date": "2026-04-29",
+      "abstract": "Abstract Transthyretin amyloid cardiomyopathy (ATTR –CM) is a treatable but underrecognized cause of heart failure, with diagnosis often delayed until advanced disease manifests. This gap is amplified in underserved populations at increased risk for ATTR –CM where access to specialist evaluation and advanced cardiac imaging is limited. Electrocardiograms (ECGs) are ubiquitous and often obtained years before ATTR –CM diagnosis in affected individuals, but conventional interpretation lacks the sensitivity and specificity needed for a practical screening tool. Here, we develop an artificial intelligence model that identifies ATTR –CM directly from widely available images of 12 –lead ECGs. The model achieved an area under the receiver operating characteristic curve (AUROC) of 0.87 (95% confidence interval [CI], 0.82–0.91), with performance maintained across patients with echocardiographic features mimicking ATTR–CM. Performance was consistent and generalizable across 8 multinational validation cohorts with a wide range of prevalences across the US and Europe. Prospective deployment across three screening cohorts spanning older Black and Hispanic adults with heart failure and individuals with prior carpal tunnel syndrome surgery demonstrated clinical applicability with increased risk and plausible screening settings. These findings establish ECG imaging as a scalable entry point for ATTR–CM detection, enabling targeted referral for confirmatory testing and earlier initiation of disease–modifying therapy. ",
+      "searched_keywords_found_duplicates": [
+        "monoclonal"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.29.26352020v1",
+      "date": "2026-04-30",
+      "abstract": "Abstract Objective: Accumulation of hyperphosphorylated tau (pTau) is a proposed mechanism for dementia associated with epileptic seizures but the evidence directly linking seizures and pTau accumulation remains weak. Here, we aimed at determining the burden of pTau pathology in a historical cohort of epilepsy patients who developed dementia hypothesizing an association between seizure onset zone and pTau accumulation. Methods: Post-mortem brain tissue was obtained from the Danish Brain Collection comprising autop-sies from psychiatric patients that died between 1945-1982. Sections from the middle frontal gyrus, thalamus, and medial temporal lobe from both hemispheres were stained for pTau and beta-amyloid and quantified by a blinded assessor. Comparisons were conducted using non-parametric tests. Results: Thirty-two patients (median age 61.5 years, 59.4% men) were included. pTau pathology was detected in 22 brains (68.8%), with Tau Burden Scores (0-100) ranging from 2 (almost undetectable) to 94 (high load; median 6.5). pTau burden was significantly associated with age at death (Spearman's rho = 0.62, p < 0.001) and duration of epilepsy (Spearman's rho = 0.47, p = 0.02), but not with other clinical variables. Among 11 patients with focal seizures, a significantly higher pTau (p = 0.02) but not a higher beta-amyloid burden (p = 1.0) was observed in the epileptogenic hemisphere. 81.3% of all patients (n=26) had a competing dementia diagnosis: three patients fulfilled the pathological criteria of Alzheimer's dementia, 13 patients had clinical and/or autoptic diagnosis of vascular dementia. Significance: In this cohort, dementia epileptica was associated with increased pTau burden in the epileptogenic hemisphere and time since diagnosis supporting the concept of seizure-induced pTau accumulation. However, pTau is unlikely to be the primary neuropathological link between epilepsy and dementia in the cohort studied given the overall mild pathology and competing diagnoses. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.24.26351690v1",
+      "date": "2026-04-28",
+      "abstract": "Abstract Background: Mosquito-borne arboviruses present persistent public health threats in México. Multiple vector species are often considered to influence the local transmission of arboviral diseases; however, the structure and spatial dynamics of mosquito-arbovirus associations are unknown. Methods: We conducted a systematic review to synthesize research investigating natural arboviral infections across mosquito taxa. PRISMA-guided search was done in PubMed, Scopus, Web of Science and Google Scholar, resulting in 46 included articles from 2007 to 2025. To delineate mosquito-arbovirus associations, spatial autocorrelation, bipartite network analysis, generalized linear mixed models (GLMMs) and comparative analysis of infection across sex and life stages were used to resolve spatial dynamics, species-specific viral detection and maintenance profiles. Results: Minimum Infection Rate (MIR) revealed significant positive spatial autocorrelation (Global Moran’s I = 0.139; p = 0.016), indicating structured but diffuse spatial patterns (Local Moran’s I = 0.092; p = 0.045). Sampling intensity negatively correlated with the MIR (Spearman ρ = −0.680, p < 0.001), indicating that sampling effort did not obscure the spatial structure. Elevated values were observed in a few municipalities across south-central and southeastern Mexico, where vegetation and land use interface. Network analysis (connectance = 0.40) and GLMM characterized an Aedes-centered network with broader taxonomic patterns driven by ZIKV; detection was significantly higher in Culex quinquefasciatus (OR = 1.88, p < 0.001) relative to Aedes aegypti. DENV detection patterns contrasted with other key viruses; no significant differences in transmission modes (χ² = 1.01, p = 0.315), suggesting a distinct maintenance profile. Conclusions: This review unveils spatially diffuse and virus-specific detection patterns across heterogeneous communities in México, findings that transcend Aedes-centric frameworks. These resolutions provide an evidence-based baseline that encourages an integrated, community-scale approach in regional surveillance programs. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.23.26351620v1",
+      "date": "2026-04-24",
+      "abstract": "Summary Vaccination programs worldwide have effectively reduced the burden of childhood diseases, yet immune responses remain highly heterogeneous among individuals 1 , 2 . While host characteristics such as age and sex are established determinants of vaccine immunogenicity, the timing of vaccination, specifically the calendar season of vaccination, remains largely underexplored 3 . Although circadian rhythms are known to regulate daily immune function 4 , evidence for long-term circannual patterns has been limited by the difficulty of collecting year-round vaccination data across diverse populations. Here, we show that the season of vaccination systematically shapes the immune response across a broad range of pediatric vaccines. By leveraging data from 96 randomized control trials worldwide, including over 48,000 children vaccinated against 14 pathogens, we demonstrate that immunogenicity after vaccination follows a pronounced latitudinal gradient, typically peaking during colder months in temperate regions and exhibiting distinct variability in the tropics. These findings suggest that the circadian human immune response might extend to a circannual scale, potentially synchronized by environmental cues. Incorporating the season of vaccination into the design of clinical trials and public health campaigns may optimize vaccine performance and enhance seroprotection. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-01",
+      "date_window_start": "2026-04-24",
+      "date_window_end": "2026-05-01",
+      "modality": "monoclonal_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2604.22444",
+      "date": "2026-04-24",
+      "abstract": "Condensed Matter > Soft Condensed Matter arXiv:2604.22444 (cond-mat) COVID-19 e-print Important: e-prints posted on arXiv are not peer-reviewed by arXiv; they should not be relied upon without context to guide clinical practice or health-related behavior and should not be reported in news media as established information without consulting multiple experts in the field. [Submitted on 24 Apr 2026] Title: Comparative Silane Surface Functionalization Strategies for Enhanced Bloch Surface Wave Biosensing of Anti-SARS-CoV-2 Antibodies Authors: Agostino Occhicone , Alberto Sinibaldi , Paola Di Matteo , Daniele Chiappetta , Riccardo Guadagnoli , Peter Munzert , Francesco Michelotti View a PDF of the paper titled Comparative Silane Surface Functionalization Strategies for Enhanced Bloch Surface Wave Biosensing of Anti-SARS-CoV-2 Antibodies, by Agostino Occhicone and 6 other authors View PDF Abstract: Surface functionalization plays a decisive role in the performance of biosensors, as it governs the efficiency and stability of biomolecule immobilization at the sensor interface and, consequently, the overall performance of the biosensing platforms. In this work, we present a comparative study of three organosilane chemistries - APTES, APDMS, and CPTES - applied to a SiO2 terminated 1D photonic crystal able to sustain Bloch surface waves and designed to operate as optical biosensors in both label free and fluorescence enhanced modes. Each chemistry was evaluated through a standardized label-free protocol based on the interaction between immobilized SARS CoV 2 spike protein and its corresponding antibodies, enabling quantitative assessment of binding efficiency, nonspecific adsorption, and signal repeatability. CPTES exhibited the most favorable balance between specific signals, reduced variability, and low nonspecific adsorption. The three chemistries were subsequently tested in fluorescence mode for the detection of anti SARS CoV 2 IgG antibodies in human serum, demonstrating the suitability of BSW enhanced fluorescence for rapid serological analysis. Overall, the study identifies CPTES as the most robust and reproducible functionalization strategy among the three investigated for BSW biosensing and highlights the potential of the platform for fast, sensitive detection of clinically relevant antibodies. Comments: Main manuscript: 19 pages, 12 figures, 2 tables. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
