@@ -1,0 +1,224 @@
+{
+  "bispecific_antibodies": [
+    {
+      "date_scraped": "2026-05-04",
+      "date_window_start": "2026-04-27",
+      "date_window_end": "2026-05-04",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.24.26350878v1",
+      "date": "2026-04-27",
+      "abstract": "ABSTRACT PURPOSE Bispecific antibodies (BsAbs) represent a major advancement in the management of relapsed/refractory multiple myeloma (RRMM), offering high response rates even in heavily pretreated patients. However, their use presents operational, safety, and supportive care complexities that require coordinated care teams, and evolving infrastructure. This manuscript summarizes best practice recommendations for adverse event (AE) management, outpatient operational models, referral pathways, and emerging strategies to optimize long-term tolerability. METHODS Medlive—A PlatformQ Health Brand conducted qualitative interviews of academic and community-based clinicians. Discussions focused on BsAb implementation, patient selection and counseling, and AE management. Experts provided recommendations on team-based protocols, transitions of care, and inpatient versus outpatient considerations. RESULTS Ten hematologists/oncologists (academic n=4; community n=6) described practice patterns, barriers, and perspectives on BsAb use. BsAbs were consistently regarded as highly effective across multiple lines of therapy, particularly for patients without alternatives. Cytokine release syndrome (CRS) was the most common acute toxicity, generally low grade and managed effectively with early tocilizumab, including prophylactic use in outpatient settings. Immune effector cell-associated neurotoxicity syndrome (ICANS) was rare, mild, and best mitigated through early recognition and caregiver support. Infections, largely from BCMA-associated hypogammaglobulinemia, frequently interrupted therapy, necessitating antiviral prophylaxis, pneumocystis jirovecii pneumonia (PJP) prophylaxis, and intravenous immunoglobulin (IVIG). Outpatient step-up dosing is expanding, supported by prophylactic strategies and academic-community collaboration. Timely referral was emphasized to preserving eligibility. Major outpatient challenges included sequencing, infrastructure readiness, and standardized caregiver and staff education. CONCLUSION Effective community implementation of BsAbs requires multidisciplinary coordination, standardized AE protocols, infection prevention, and infrastructure to support monitoring, referrals, and equitable access. These measures are critical to ensure safe, sustainable integration of bispecific therapies and to optimize patient outcomes. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager",
+        "bispecific",
+        "bsAb"
+      ],
+      "primary_abstract_matched_keywords": [
+        "bispecific",
+        "bsAb"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 7,
+      "secondary_keyword_hits": 0,
+      "score": 9
+    },
+    {
+      "date_scraped": "2026-05-04",
+      "date_window_start": "2026-04-27",
+      "date_window_end": "2026-05-04",
+      "modality": "bispecific_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2604.26343",
+      "date": "2026-04-29",
+      "abstract": "Computer Science > Computers and Society arXiv:2604.26343 (cs) [Submitted on 29 Apr 2026] Title: Taking a Bite Out of the Forbidden Fruit: Characterizing Third-Party Iranian iOS App Stores Authors: Amirhossein Khanlari , Amir Rahmati View a PDF of the paper titled Taking a Bite Out of the Forbidden Fruit: Characterizing Third-Party Iranian iOS App Stores, by Amirhossein Khanlari and 1 other authors View PDF HTML (experimental) Abstract: Due to U.S. sanctions and strict internet censorship, Iranian iOS users are barred from accessing the Apple App Store and developer services. In response, despite violating Apple's developer terms, a thriving underground ecosystem of third-party iOS app stores has emerged to serve Iranian users. This paper presents the first comprehensive empirical study of these clandestine app stores. We document how these stores operate, including their distribution mechanisms, user authentication processes, and evasion techniques. By collecting and analyzing more than 1700 iOS application packages and their metadata from three major Iranian third-party app stores, we characterize the ecosystem's size, structure, and content. Our analysis reveals a significant presence of Iranian-exclusive apps, widespread distribution of cracked apps, unauthorized monetization of paid content, and embedded third-party tracking and piracy libraries. We also uncover a notable overlap among financial, navigational, and social apps that exist solely in this ecosystem, reflecting the unique digital constraints of Iranian users. Finally, we quantify the potential revenue losses for developers due to piracy and document security and privacy risks associated with altered binaries. Our findings highlight how sanctions, censorship, and enforcement gaps have enabled a parallel app distribution ecosystem with complex socio-technical implications. Subjects: Computers and Society (cs.CY) ; Cryptography and Security (cs.CR) Cite as: arXiv:2604.26343 [cs.CY] (or arXiv:2604.26343v1 [cs.CY] for this version) https://doi.org/10.48550/arXiv.2604.26343 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Amir Rahmati [ view email ] [v1] Wed, 29 Apr 2026 06:50:32 UTC (3,181 KB) Full-text links: Access Paper: View a PDF of the paper titled Taking a Bite Out of the Forbidden Fruit: Characterizing Third-Party Iranian iOS App Stores, by Amirhossein Khanlari and 1 other authors View PDF HTML (experimental) TeX Source view license Current browse context: cs.CY < prev | next > new | recent | 2026-04 Change to browse by: cs cs.CR References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv fe",
+      "searched_keywords_found_duplicates": [
+        "BiTE"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 3,
+      "secondary_keyword_hits": 0,
+      "score": 3
+    },
+    {
+      "date_scraped": "2026-05-04",
+      "date_window_start": "2026-04-27",
+      "date_window_end": "2026-05-04",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.29.26351856v2",
+      "date": "2026-04-30",
+      "abstract": "Abstract The current gold standard for diagnosing and assessing treatment response is tumor biopsy; however, biopsies are not always feasible, safe or easily repeated during treatment. Utilization of peripheral blood mononuclear cells (PBMCs) as a surrogate for tumor biopsy allows for longitudinal sampling and is a safer, more readily available option. However, collection conditions, sample transfer time across multiple clinical sites, and PBMC processing conditions are external pre-analytical factors that must be understood and controlled to mitigate bias in downstream functional analyses. This study aims to systematically evaluate the pre-analytical variables affecting PBMC integrity and functional immune readouts as a prerequisite for downstream translational biomarker applications. Peripheral blood samples were collected from 80 treatment-naive patients with a diagnosis of head and neck squamous cell carcinoma. Blood was collected in cell preparation tubes (CPT), potassium ethylenediaminetetraacetic acid (EDTA), or sodium heparin (SH) tubes and diluted 1:1 with sterile PBS or remained undiluted. PBMCs were processed and cryopreserved immediately or held for 8- and 24-hours before processing. PBMC viability was measured at cryopreservation and upon thawing. CD8+ T cells or natural killer (NK) cells derived from PBMCs were subjected to cytotoxicity assays using flow cytometry. CPT tubes provided lower cell viability and yield at cryopreservation and upon thaw compared to EDTA and SH tubes while dilution had no effect on viability. NK cell cytotoxicity was similar between EDTA and SH tubes irrespective of dilution. However, diluted EDTA tubes resulted in lower T cell cytotoxicity after 24-hour hold. Viability and NK and T cell cytotoxicity were equivalent between cryopreserved PBMCs that were processed immediately or processed after 8- or 24-hour hold. Here we report cryopreservation methods for reproducibility of viable cells that maintain functional immunological capacity even after significant delay in processing allowing flexibility and feasibility for collection from multiple clinical sites for deferred processing. ",
+      "searched_keywords_found_duplicates": [
+        "BiTE",
+        "T-cell engager",
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-04",
+      "date_window_start": "2026-04-27",
+      "date_window_end": "2026-05-04",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.30.26352161v1",
+      "date": "2026-05-03",
+      "abstract": "Abstract ABSTRACT Understanding the immune response against HIV-1 and the natural resistance exhibited by HIV-exposed Seronegative Individuals (HESN) offers the possibility of proposing new control strategies. Several studies suggest an important role of HLA and KIR genes in protecting against HIV-1 infection. Moreover, there is an important gap in the knowledge of these genetic factors in seronegative Latin American men who have sex with men (MSM), a population largely underrepresented in HIV immunogenetic studies. This study aimed to identify HLA and KIR genetic profile associated with potential resistance to HIV-1 acquisition, in a cross-sectional study including a cohort of 60 HIV-1-seronegative Colombian MSM at low and high risk of HIV-1 infection. The high-risk group showed a higher frequency of the HLA-B*18 allele, and a lower frequency of the HLA*B35, which have been previously associated with protection and susceptibility to HIV-1 infection respectively. Likewise, the high-risk group exhibited a low frequency of Bx haplotypes, a higher frequency of one AA haplotype and differences in KIR gene profile, with a low frequency of the inhibitory KIR2DL5 and both activating KIR2DS1, KIR2DS2 and KIR2DS5 genes. These findings suggest that host immunogenetic factors may contribute to resistance to HIV-1 acquisition in highly exposed individuals. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 2,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-04",
+      "date_window_start": "2026-04-27",
+      "date_window_end": "2026-05-04",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.23.26351580v1",
+      "date": "2026-04-27",
+      "abstract": "Abstract Diffuse Large B-cell lymphoma (DLBCL) is the most common aggressive lymphoma in the Western world. First-line immunochemotherapy fails in approximately 30–40% of patients, with refractory and relapse patients presenting a dismal prognosis. Currently, these high-risk patients cannot be accurately identified at diagnosis. Using statistical modeling and machine learning approaches applied to large public DLBCL datasets, we identified a novel predictive signature based on the reactivation of eight normally silent tissue-dependent genes associated with survival. We then developed a multiplex RT-MLPseq based assay, compatible with formalin-fixed paraffin-embedded (FFPE) samples and transferable into routine clinical practice, enabling analysis of expression of these eight genes and validated their prognosis impact in an independent real-life cohort. This signature could be integrated with current prognostic indices and molecular classifications to improve patient stratification and guide treatment selection toward a personalized theragnostic approach, thereby enhancing management of non-responder patients. Data Sharing Statement For access to original data, please contact: anouk.emadali{at}univ-grenoble-alpes.fr Key points - Ectopic activation of 8 tissue-specific genes defines a robust prognostic signature for survival stratification in DLBCL patients - A FFPE-compatible RT-MLPseq assay enables clinical use and improves risk stratification beyond IPI and COO, especially in high-risk patients ",
+      "searched_keywords_found_duplicates": [
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-04",
+      "date_window_start": "2026-04-27",
+      "date_window_end": "2026-05-04",
+      "modality": "bispecific_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2604.27113",
+      "date": "2026-04-29",
+      "abstract": "Quantitative Biology > Populations and Evolution arXiv:2604.27113 (q-bio) [Submitted on 29 Apr 2026] Title: Modeling the impact of host diversity on the evolution of vector feeding preferences and implications for disease control Authors: Shravani Shetgaonkar , Anupama Sharma View a PDF of the paper titled Modeling the impact of host diversity on the evolution of vector feeding preferences and implications for disease control, by Shravani Shetgaonkar and Anupama Sharma View PDF HTML (experimental) Abstract: Vector-borne diseases often infect multiple host species, increasing the likelihood of disease persistence due to the presence of multiple reservoirs. Vector biting patterns and feeding preferences can shift in response to selective pressures introduced by disease control interventions, altering the dynamics of transmission. In this paper, we develop a mathematical model that couples host diversity and adaptive vector behavior with vector-borne disease transmission dynamics, focusing on a system with two hosts and a vector population exhibiting preference for one host. We derive the basic reproduction number, $R_0$, a threshold that determines the existence of two equilibria in our model, and obtain conditions that can lead to the long-term persistence of the disease. Our analysis suggests that shortening the infectious period of the vector's preferred host is an effective control strategy. We also identified a threshold that determines whether shifting vector preference toward a non-preferred host amplifies or reduces the disease burden on the primary preferred host. Our results show that protective measures for the preferred host can trigger adaptive shifts in vector preferences, reducing disease prevalence in that host. However, this shift may lead to an increase in overall host prevalence. Subjects: Populations and Evolution (q-bio.PE) ; Dynamical Systems (math.DS); Adaptation and Self-Organizing Systems (nlin.AO) Cite as: arXiv:2604.27113 [q-bio.PE] (or arXiv:2604.27113v1 [q-bio.PE] for this version) https://doi.org/10.48550/arXiv.2604.27113 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Anupama Sharma Dr. [ view email ] [v1] Wed, 29 Apr 2026 19:06:46 UTC (4,568 KB) Full-text links: Access Paper: View a PDF of the paper titled Modeling the impact of host diversity on the evolution of vector feeding preferences and implications for disease control, by Shravani Shetgaonkar and Anupama Sharma View PDF HTML (experimental) TeX Source view license Current browse context: q-bio.PE < prev | next > new | recent | 2026-04 Change to browse by: math math.DS nlin nlin.AO q-bio References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLab",
+      "searched_keywords_found_duplicates": [
+        "BiTE"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-04",
+      "date_window_start": "2026-04-27",
+      "date_window_end": "2026-05-04",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.03.29.26349664v2",
+      "date": "2026-05-02",
+      "abstract": "Abstract Chimeric antigen receptor (CAR) T-cell therapy has transformed treatment for relapsed /refractory(r/r) lymphoid malignancies. Yet, these cellular immunotherapies are often associated with immune-related adverse events (irAEs), namely cytokine release syndrome (CRS) and immune effector cell-associated neurotoxicity syndrome (ICANS), that pose significant risks to patient safety and limit broader clinical implementation of CAR T-cell therapies. In the current study, we used proteomics technology to establish circulating protein signatures that would predict severe CRS and ICANS in r/r lymphoma patients that subsequently received CAR T-cell therapy. Initial discovery was performed using plasma samples collected preceding CAR T-cell infusion from 39 r/r lymphoma patients at MD Anderson Cancer Center. A 5-marker and 8-marker protein panel was developed for predicting Grade ≥ 2 CRS and ICANS respectively, yielding respective AUCs of 0.85 [95% CI: 0.72-0.98] and 0.91 [95% CI: 0.81-1.00]. Independent testing of the CRS and ICANS panel was performed in a cohort of 59 r/r lymphoma patients from the Moffitt Cancer Center, with resultant AUCs of 0.76 [95% CI: 0.63-0.89] and 0.67 [95% CI: 0.51-0.84] for the CRS and ICANS panel, respectively. Patients were further classified into low-, intermediate-, and high-risk groups based on panel score tertiles. In the combined dataset (MDACC + Moffitt), compared to patients in the low-risk group (reference), patients in the intermediate- and high-risk groups were 3.15 [95% CI: 0.92-12.71] and 13.84 [95% CI: 4.21-56.26] more likely to have Grade ≥ 2 CRS, and 1.21 [95% CI: 0.36-4.23] and 8.59 [95% CI: 2.87-29.09] more likely to have Grade ≥2 ICANS. The protein biomarker panels provide a means to risk stratify patients who are at high risk for developing severe CRS and ICANS, to inform on the need for prophylactic interventions and improve patient outcomes. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-04",
+      "date_window_start": "2026-04-27",
+      "date_window_end": "2026-05-04",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.29.26352021v1",
+      "date": "2026-05-01",
+      "abstract": "Abstract γδ T cells play critical roles in innate immunity to Plasmodium falciparum malaria, yet their functional heterogeneity and memory-like dynamics during first and subsequent infections remain poorly defined. Using longitudinal single-cell RNA sequencing, ex vivo phenotyping and in vitro functional analysis of γδ T cells in controlled human malaria infection (CHMI), we dissect their activation mechanisms and functions. During first infection, Vδ2 T cells dominated the responses, expanding into inflammatory and cytotoxic cells. Despite upregulation of antigen-presenting-like markers and CD16, Vδ2 T cell activation remained TCR-dependent, and these cells had no capacity to phagocytose parasites nor present antigen to CD4+ T cells. Leveraging a Phase I clinical study of type I IFN signalling blockade with JAK2 inhibitor ruxolitinib in CHMI, including rechallenge, we show that Vδ2 T cell activation is dependent on JAK/STAT signalling. In second malaria infection Vδ2 T cell responses are memory-like, with higher and more rapid activation, and robust induction of cytotoxic and activated terminal effector memory phenotypes. These memory-like cell responses were linked to cell-extrinsic factors, with increased systemic inflammation during second infection associated with enhanced Vδ2 T cell activation. Mechanistically we demonstrate that cytokines IL-12, IL-15 and IL-18, synergize with TCR-dependent activation by malaria parasites to enhance Vδ2 T cell responses. Memory-like Vδ2 T cells in second infection were not associated with parasite control but instead linked to inflammation and markers of disease severity. Together, these data identify key mechanisms of Vδ2 T cells activation and highlight that therapeutically targeting these cells may benefit immunopathology without compromising parasite control during malaria. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-04",
+      "date_window_start": "2026-04-27",
+      "date_window_end": "2026-05-04",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.01.26352167v1",
+      "date": "2026-05-03",
+      "abstract": "Abstract Background: Hepatitis E virus (HEV) seroprevalence varies by age and geography. Data on HEV seroprevalence across age groups and among people living with HIV (PLWH) in South Africa is scarce. Methods: We conducted a prospective multi–site assessment of anti–HEV IgG seroprevalence on 859 South African participants enrolled at three clinical research centres including Newtown Clinical Research Centre in Johannesburg, Be Part Research in Mbekweni, Paarl, Western Cape, and Mecru Clinical Research Unit in Garankuwa, Pretoria. Participants comprised adults aged 18 –45 years (PLWH, n = 178 and HIV-negative, n = 232), and children aged 2–17 years (n = 449). Anti–HEV IgG serostatus and antibody titer were measured using a commercial ELISA kit and a WHO reference standard. Seroprevalence was assessed by site, age group, sex, and HIV status. Results: Overall anti–HEV IgG seroprevalence was 18.0% (95% CI: 15.6–20.8). Adults had the highest seroprevalence (27.3% among all adults; 29.2% among PLWH and 25.9% in HIV-negative adults), while adolescents aged 12–17 years had the lowest (6.9%), and young children aged 6–11 years and 2–5 years had 10.3% and 13.0%, respectively. Adults had significantly higher odds of seropositivity than children (aOR 2.8, 95% CI: 1.5–5.5, p = 0.002). A significant site-specific variation was also observed among healthy adults and adolescents: Newtown Clinical Research Centre (23.0% and 14.0%) and Be Part Research (34.5% and 7.3%) had higher seroprevalence compared with those from Mecru Clinical Research Unit (17.2% and 1.5%, p = 0.0499 and 0.0262, respectively). A higher mean antibody titer observed in younger children aged 2–5 years (5.06 IU/mL), compared with adults (0.88 IU/mL among PLWH and 0.68 IU/mL among HIV–negative adults), and with older children (2.02 IU/mL in those aged 6–11 years and 0.67 IU/mL in those aged 12–17 years). Conclusions: HEV seroprevalence in South Africa was highly heterogeneous, varying markedly by age group and study site. These findings highlight the need for strengthened, integrated HEV surveillance to better define transmission patterns and to inform evidence–based considerations for prevention of infection. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-04",
+      "date_window_start": "2026-04-27",
+      "date_window_end": "2026-05-04",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.29.26352088v1",
+      "date": "2026-05-01",
+      "abstract": "Abstract Background Inflammation is an emerging target for stroke prevention, but additional therapeutic candidates are needed. Experimental and observational studies implicate tumor necrosis factor (TNF) in atherosclerotic plaque progression and cardiovascular events. We integrated plasma proteomics from population-based studies and prospective stroke cohorts with single-cell and spatial transcriptomic profiling of human atherosclerotic plaque to investigate TNF signaling in stroke pathogenesis. Methods We assessed associations between 34 TNF-superfamily proteins (Olink Explore) and incident ischemic stroke among 47,529 UK Biobank participants without cardiovascular disease. We performed an individual-participant data (IPD) meta-analysis of four prospective cohorts with ischemic stroke (n=2,180) to examine associations between TNF-? and recurrent vascular events. We characterised plaque-level TNF biology using single-cell RNA sequencing of 259,116 cells (62 donors) and Xenium spatial transcriptomics (12 donors) with human carotid plaques. Results In UK Biobank, higher circulating TNF pathway proteins were independently associated with incident stroke after multivariable adjustment, including TNF, TNFR1, and TNFR2 (Hazard Ratio [HR] per SD increase, 1.14, [95% CI 1.07?1.20], 1.22, [1.14?1.31], and 1.15 [1.09?1.21], respectively. An additional 15 TNF superfamily members were also associated with incident stroke. In the IPD analysis of stroke cohorts, TNF-? was associated with recurrent stroke (risk ratio [RR] 1.50, 95% CI 1.14-1.98; top vs. bottom third of TNF-?) and MACE (RR 1.54, 1.18-2.02) after adjustment for cardiovascular risk factors and secondary prevention medications (537 MACE events, 6793 person-years follow up). In single-cell RNA plaque sequencing, TNF and TNF pathway genes were broadly expressed across immune cell populations. In spatial transcriptomics, TNF detection increased progressively from media to fibrous cap (Odds Ratio 2.32 vs media, 95% CI 1.94?2.78; p<0.001). At the fibrous cap, CD8+ effector T cells demonstrated 4.1-fold enrichment for TNF expression despite comprising only 3% of fibrous cap cells. Conclusions TNF signaling is independently associated with incident ischemic stroke and recurrent MACE after stroke. TNF is enriched in human carotid plaque at the fibrous cap, in macrophages and CD8+ effector T cells. These results support evaluation of TNF-targeted therapies for stroke prevention. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-04",
+      "date_window_start": "2026-04-27",
+      "date_window_end": "2026-05-04",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.30.26352124v1",
+      "date": "2026-05-01",
+      "abstract": "Abstract Background. Sub-Saharan Africa carries a disproportionate burden of HIV-associated malignancies, yet the contemporary tumour spectrum in the dolutegravir (DTG) era and the immunovirological context at cancer diagnosis remain incompletely characterised in East African routine HIV-care settings. We sought to describe the spectrum, malignant fraction, and immunovirological determinants of neoplasms diagnosed at a specialised HIV centre in Kampala, Uganda. Methods. We conducted a retrospective cohort analysis of 220 tumour records from 217 unique people living with HIV (PLHIV) registered at Mildmay Hospital between November 2017 and January 2026. Tumours were classified by ICD-10 disease group and malignancy status (benign/malignant). Bivariate associations with malignancy status were tested using chi-squared or Fisher exact tests for categorical variables and Mann-Whitney U tests for continuous variables. Crude odds ratios (OR) with 95% confidence intervals (CI) were computed for selected dichotomous comparisons. Results. The cohort had a median age of 47 years (IQR 39-54) and was 58.2% female. Overall, 138/220 tumours (62.7%) were malignant. Kaposi sarcoma (KS) was the most frequent malignancy (n=65; 47.1% of all malignant cases), followed by haematopoietic malignancies (n=32; 23.2%) and malignant gynaecological tumours (n=10; 7.2%). Among 156 patients with viral load data, 134 (85.9%) were virally suppressed at tumour diagnosis, yet 70/134 (52.2%) of those suppressed patients had a malignant tumour. Advanced WHO clinical stage (III/IV) at ART initiation was strongly associated with malignant diagnosis (OR 3.53, 95% CI 1.59-7.84; p=0.002). Median CD4 at ART initiation was markedly lower in malignant compared to benign tumour patients (147 vs 476 cells/uL; p<0.001), and median ART duration was substantially shorter (37 vs 102 months; p<0.001). KS patients had significantly lower CD4 (136 vs 269 cells/uL; p=0.002) and shorter ART duration (4 vs 86 months; p<0.001) than patients with other malignancies. Malignancy did not differ across DTG-, EFV-, and PI-based regimens (p=0.992). Conclusions. HIV-associated tumours in this Ugandan cohort remain predominantly malignant and dominated by KS, even against a backdrop of high viral suppression rates. The clustering of malignancy among patients with low pre-ART CD4 counts and advanced WHO stage points to incomplete immune reconstitution, persistent oncoviral co-infection, and residual inflammation as mechanistic targets. These data establish the scientific platform for a prospective HIV-oncology cohort at Mildmay Research Centre and inform context-appropriate cancer screening and surveillance priorities. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
