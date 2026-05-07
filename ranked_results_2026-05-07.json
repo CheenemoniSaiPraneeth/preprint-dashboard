@@ -1,0 +1,1248 @@
+{
+  "gene_editing": [
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.06.22.25330092v2",
+      "date": "2026-05-05",
+      "abstract": "Abstract Antimalarial resistance, including reduced susceptibility to artemisinin-based combination therapies, is increasing in Africa. 157 Plasmodium falciparum isolates from Cibitoke Province, Burundi, were sequenced for ten markers of resistance (including potential background markers conferring kelch13-mediated artemisinin partial resistance) by Nanopore sequencing. Plasmepsin-2 and mdr1 copy number variations were typed by digital PCR. No validated pfkelch13 mutations linked to artemisinin partial resistance (ART-R) were detected. A novel pfkelch13 mutation, A676T, was detected in one isolate. This mutation is adjacent to the validated A675V mutation previously reported in neighboring East African countries. Pure mutant alleles were observed at background loci previously implicated in artemisinin resistance in South-East Asia, including pffd D193Y (7.0%), pfmdr2 I492V (31.8%), pfatg18 T38I (3.2%), and pfarps10 V127M/D128H (2.6%), while pfpx1 (C1484F) and pfmdr2 (T484I) remained wild type. However, their functional role in Africa remains uncertain. Markers of sulfadoxine-pyrimethamine (SP) resistance were widespread. In single clone infections, the quintuple pfdhfr/pfdhps haplotype predominated (59.6%). Chloroquine resistance-associated pfcrt IET triple mutant haplotypes at codons 74-76 were detected in 94.3% of isolates. pfmdr1 haplotypes defined by codons 86, 184, and 1246 were dominated by NYD (56.3%) and NFD (40.4%). No pfpm2 duplications were observed, while pfmdr1 copy number amplification was rare (1.8%). These findings reveal a high prevalence of mutations associated with SP resistance, posing a threat to the efficacy of intermittent preventive treatment in pregnancy (IPTp) and seasonal malaria chemoprevention (SMC) in Burundi. The identification of the pfkelch13 A676T variant highlights the importance of continued genomic surveillance. However, the role of this mutation in artemisinin resistance remains to be determined. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR",
+        "CRISPR-Cas9",
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 3,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 3
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.05.26352427v1",
+      "date": "2026-05-06",
+      "abstract": "Abstract MAP3K7 is a causative gene of Cardiospondylocarpofacial (CSCF) and Frontometaphyseal dysplasia 2 (FMD2) syndromes, characterized by skeletal malformations, facial dysmorphisms, hearing loss, and mild intellectual disability. While cardiac defects are predominant in CSCF, keloid scar is a distinct feature in FMD2. However, involvement of MAP3K7 in gonadal development and DSD was not known. Here we report three syndromic cases of 46,XY DSD with CSCF or FMD2 carrying novel heterozygous missense variants in MAP3K7 (NM_145331.3:c.250G>A; p.V84M, NM_145331.3:c.195A>G; p.I65M, and NM_145331.3: c.574A>G; p.S192G) identified by whole exome sequencing. The DSD phenotypes include cryptorchidism, micropenis, small testis, and hypospadias. In silico tools predict variants are deleterious. All 3 MAP3K7 variants occur in the kinase domain at highly conservative positions among mammals. MAP3K7 is highly expressed in human fetal Sertoli cells. MAP3K7 knock-out in HEK293T cells led to downregulation of GATA4 and FOG2 expression by RNA-Seq. Like MAP3K1, MAP3K7 phosphorylated p38 while all three MAP3K7 variants did not alter phosphorylated p38 compared to wildtype in HEK293TMAP3K7-/- cells. Two MAP3K7 missense mutants (p.V84M and p.I65M) ectopically activate ovarian beta catenin/ Wnt signalling in TOPFLASH assays. Our data suggest that MAP3K7 contributes to male sex differentiation by increasing expression of pro-testis genes GATA4 and FOG2 in HEK293TMAP3K7-/- cells and antagonizing pro-ovarian beta-catenin signalling, and that one or more of these activities were likely affected in 3 cases of 46,XY DSD with CSCF/FMD2 during sex development. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR",
+        "CRISPR-Cas9",
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [
+        "knock-out"
+      ],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 1,
+      "score": 3
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.05.26352375v1",
+      "date": "2026-05-06",
+      "abstract": "Abstract Background and objective: High-risk non-muscle-invasive bladder cancer (HR-NMIBC) is treated with transurethral resection and intravesical BCG instillations, yet approximately 50% recur and 20% progress to invasive disease. Although molecular subtyping, e.g., BCG-response-subtype (BRS), is associated with progression risk and may aid risk stratification, yet is costly and time-consuming. Intratumoral heterogeneity complicates accurate subtyping. To address these challenges, we developed a deep-learning model that predicts BRS from routine hematoxylin-eosin-stained images. We verified the model's area-by-area predictions against tissue-level gene-expression maps. Methods and participants: Hematoxylin-eosin-stained images from 231 HR-NMIBC patients with known BRS were used to develop a deep-learning model through cross-validation, then validated in 83 independent samples. The model's spatial predictions were assessed using spatial transcriptomics to map gene expression to tissue locations in five HR-NMIBC tumors. Outcome measurements and statistical analysis: Discriminative ability for BRS3 vs. BRS1/2 was measured by AUC. Spatial alignment was assessed by calculating Pearson and Spearman correlation coefficients between model predictions and BRS fractions; significance was assessed through permutation analysis. Key findings and limitations: The trained algorithm achieved AUC of 0.79 (development) and 0.71 (external) to detect BRS3 vs BRS1/2. Tile-level correlation between model output and molecular labels was significant (Pearson r = 0.33-0.44; p <= 0.002). Limitations include retrospective sampling and limited spatial transcriptomic cases. Conclusions and clinical implications: Our trained algorithm showed potential to stratify HR-NMIBC patients by clinically relevant BCG-response subtypes using routine hematoxylin-eosin-stained images and showed predicted spatial heterogeneity comparable to molecular profiling. Prospective validation is required before any clinical implementation. Patient summary: Standard pathology images contain hidden details related to tumor's molecular subtype. We trained an AI model to read these routine images and identify specific bladder cancer subtypes associated with poor response to BCG therapy. This approach may help reveal molecular subtype-associated information from routine pathology images, without additional laboratory procedures. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing",
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.05.26352448v1",
+      "date": "2026-05-06",
+      "abstract": "Abstract Interpreting non-coding variant effects in their native cellular context is the central problem in medical genomics. Using paired single-cell ATAC-seq and whole-genome sequencing in human immune cells, we measured allele-specific regulatory effects at 129,241 heterozygous variants across seven cell types. We trained REG-FOCUS, a transferable sequence-and-chromatin framework, and extended predictions to 1,188,417 common variants across twelve immune cell types. These predictions revealed that enhancer-centric variant directionality is governed by quantitative tuning of transcription factor binding affinity. Applied to systemic lupus erythematosus, REG-FOCUS prioritized causal regulatory variants selectively converging on pathways of approved therapies, and enabled us to identify rare enhancer variants in patients corroborated by expression outliers in carriers. This work brings cell-type-resolved variant interpretation to non-coding personal genomes. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR",
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.02.25.25322833v3",
+      "date": "2026-05-05",
+      "abstract": "Abstract Pleiotropic and monotonic effects of gene dosage are central to understanding comorbidities in developmental pediatric and psychiatric disorders, yet the underlying biological processes are unknown. We developed Functional Burden analysis (FunBurd) to investigate the association of all protein-coding copy-number-variants (CNVs), genome-wide, with 43 complex traits in ~500,000 UK-Biobank participants. We tested CNV associations disrupting 172 tissue or cell-type gene-sets. We observed associations for all traits, and replicated these associations in the All of Us cohort. Functional burden pleiotropy, defined as the number of traits significantly associated with a gene set, was correlated with genetic constraint and was higher for brain compared to non-brain functions, even after normalizing for genetic constraint. Levels of pleiotropy, measured by burden correlation, were similar in deletions and loss-of-function SNVs, and higher compared to common variants and duplications. Most gene dosage responses were non-monotonic, with deletions and duplications showing same-direction effects, and the proportions of monotonic responses decreased with genetic constraint. Consistent with this paucity of monotonicity, associations between functional gene sets and traits were observed for either deletions or duplications, but rarely both. In addition, deletion and duplication effect sizes were negatively correlated, demonstrating that associations between traits and functional gene sets are variant-specific. Our results highlight the key role of genetic constraint and brain-specific mechanisms in shaping monotonicity and pleiotropy, providing a mechanistic basis for the whole-body multimorbidity observed in neurodevelopmental and psychiatric conditions. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing",
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.03.26352309v1",
+      "date": "2026-05-04",
+      "abstract": "Abstract Background: Tryptophan (Trp) metabolism is a central immunometabolic axis in inflammatory bowel disease (IBD), yet its clinical utility unclear. We aimed to identify biologically and clinically relevant Trp-related metabolic subtypes (metabotypes) in IBD and assess their association with disease activity, outcomes, and early pathogenesis. Methods: We applied unsupervised clustering to 16 serum Trp-related metabolites in a discovery cohort of IBD patients undergoing biologic induction (52 Crohns disease [CD], 82 ulcerative colitis [UC]). The resulting metabotypes were validated in three independent IBD cohorts (Suivitheque: 788 CD, 281 UC, 50 non-IBD; MSCCR: 470 CD, 374 UC, 329 non-IBD; Ibsen III: 179 CD, 340 UC, 26 IBD-U, 209 symptomatic non-IBD controls), a healthy reference population, and a prospective pre-disease cohort of CD relatives. Associations with clinical indices, outcomes, and metabolic pathway shifts were assessed using multivariable models and pathway enrichment analysis. Results: Four reproducible metabotypes were identified and are described based on dominant metabolites in their metabolite profiles Low Kynureninic acid (Kyna), High Kyna, High Quinolinic acid (Quin), and Balanced. Low Kyna and High Quin were associated with elevated disease activity across all cohorts, yet exhibited differential metabolic perturbations when assessed by pathway enrichment analysis. A pre-disease cluster resembling Low Kyna and High Quin was enriched for inflammatory markers and future CD diagnosis. Conclusion: Trp-linked metabotypes define distinct immunometabolic states in IBD that associate with inflammation and may precede disease onset. These findings provide a framework for metabolic stratification in mechanistic studies and clinical trials targeting nutrient pathways. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing",
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.03.26352319v1",
+      "date": "2026-05-05",
+      "abstract": "Abstract Intermittent preventive treatment in pregnancy (IPTp) with sulfadoxine-pyrimethamine (SP), an antifolate drug with antimalarial and antibiotic activity, reproducibly improves birthweight across sub-Saharan Africa and the Western Pacific. This clinical protection is independent of SP's original malaria indication: it is not diminished by widespread antimalarial resistance or reduced transmission, and SP outperforms more potent non-antibiotic antimalarials (e.g., dihydroartemisinin-piperaquine, DP) for fetal growth. The biological mechanism is unexplained. We previously showed that gestational weight gain (GWG) is a significant component of this mechanism and mediates two-thirds of SP's overall birthweight benefit ( NCT03009526 ). In the first longitudinal characterization of antifolate antibiotic effects on the pregnant gut microbiome, we show that ~45% of SP's GWG advantage over DP is explained by gut microbial changes consistent with its pharmacology. Microbiome-mediated GWG coincided with 126g higher birthweight in SP but not DP recipients (95%CI 22.6-229.3g; p=0.019). Relative to DP, SP suppressed gastrointestinal pathobionts and enriched anaerobic commensals with recognized roles in mucosal immunity and host metabolism, a microbiome-sparing pattern distinct from conventional antibiotic-associated dysbiosis. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing",
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2024.06.18.24309100v2",
+      "date": "2026-05-05",
+      "abstract": "Abstract Acute SARS-CoV-2 infection triggers the de novo production of diverse, functional autoantibodies (AABs) that remain elevated in Long COVID (LC), but their pathogenic role remains unclear. Using tissue-based immunofluorescence, ELISA, human protein array, and mass spectrometry assays, we identified a broad range of AAB targets among individuals with LC. Individuals with neurocognitive symptoms showed increased AABs against central and peripheral nervous system proteins. Purified IgG reacted with human locus coeruleus, thalamus, adrenal gland, thyroid, and cross-reacted with mouse sciatic nerve and meninges. CNS-reactive AABs correlated with several neurological symptoms. MED20-targeting IgG from patients with LC showed enhanced antibody-dependent phagocytosis. Passive transfer of IgG from individuals with LC into mice induced fatigue-like behavior, loss of balance/coordination, thermal hyperalgesia, small fiber nerve damage, and increased pain-related neuronal activity, recapitulating patients symptoms. These findings suggest that targeting AABs might offer therapeutic benefits for this LC subgroup. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR",
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.05.26351600v1",
+      "date": "2026-05-05",
+      "abstract": "Abstract Conventional short-read sequencing cannot determine whether co-occurring variants within a cancer gene reside on the same allele (cis) or on opposing alleles (trans), a distinction with direct biological and therapeutic consequences. Trans configurations confirm biallelic tumor suppressor inactivation and inform therapy selection, while cis configurations generate compound oncogenic alleles with enhanced activity. We analyzed 768 patients with prostate, breast, or ovarian cancers in the PROBLEM cohort, using mutational signatures to nominate cryptic genomic instability cases where the causative biallelic event was not apparent from short-read sequencing. Long-read nanopore sequencing resolved 32 of 46 cryptic cases (69.6%), leveraging its unique advantages in direct methylation detection, long insertion resolution, and complex structural variant characterization, confirming trans biallelic inactivation in all resolved tumor suppressor cases. Systematic analysis of 4,496 MiOncoSeq samples identified 17,519 multi-hit gene pairs, of which 78.7% exceeded the 500 bp short-read phasing limit. Long-read phasing further revealed recurrent compound cis oncogenic alleles in NOTCH1, PIK3CA, PDGFRB, and KIT with functionally synergistic activity. Haplotype phasing resolves a systematically overlooked gap in cancer variant interpretation and warrants broader integration into precision oncology workflows. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing",
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.01.26352257v1",
+      "date": "2026-05-04",
+      "abstract": "Abstract Adipokines are key metabolic hormones that modulate cardiometabolic risk through multiple distinct biological pathways. To delineate these pathways, we systematically mapped adipokine⍰associated variants to putative effector genes (V2G) across□1,669 human traits in three ancestries from the Million Veteran Program. Grouping the variants by their associations with insulin⍰resistance-related traits yielded six discrete variant clusters, including a “Lipodystrophy” cluster characterised by lower body⍰mass index but higher waist⍰to⍰hip ratio, fasting glucose, and insulin levels. V2G mapping implicated TGFB2 and VEGFA as candidate effector genes in the Lipodystrophy cluster. VEGFA also appeared in a distinct “Thyroid-adiposity” cluster that was strongly associated with increased insulin resistance and decreased thyroid function. The Thyroid-adiposity cluster comprised variants that are thyroid eQTLs, unlike those in the Lipodystrophy cluster. These findings indicate that VEGFA may influence insulin resistance via two separate mechanisms: abnormal adiposity and altered thyroid function. Although both clusters increased coronary artery disease risk, only the Lipodystrophy cluster increased type□2 diabetes risk. Our results highlight mechanistically distinct routes by which adipokines modulate insulin resistance and cardiometabolic disease. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing",
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.29.26351907v1",
+      "date": "2026-05-01",
+      "abstract": "Abstract Background & Aims Clarithromycin (CLA) resistance severely compromises the efficacy of triple therapy (TT) against Helicobacter pylori ( H. pylori ). Bismuth-based regimens exhibit greater efficacy against CLA-resistant H. pylori than against strains resistant to other antibiotics, suggesting a resistance-specific vulnerability rather than broad antimicrobial activity. The mechanistic basis for this selectivity, however, remains unknown. We hypothesized that high-level CLA resistance confers a metabolically targetable vulnerability that can be exploited by bismuth, and that a quantitative MIC of CLA threshold could identify this responsive subset. Methods We conducted a real-world retrospective analysis of 4,610 pediatric patients with H. pylori infection treated between 2019 and 2024, among whom 1,844 (40%) had complete follow-up data for eradication assessment. In parallel, we prospectively enrolled 51 patients with culture-positive isolates—the largest liquid checkerboard panel reported to date—to evaluate bismuth–CLA interactions and track treatment outcomes. Mechanistic validation included transcriptomic profiling and functional assays of iron and ATP metabolism, with iron chelation and supplementation experiments. Results In the retrospective real-world cohort (n = 4,610; 1,844 with follow-up), bismuth quadruple therapy (BQT) achieved superior eradication specifically in CLA-resistant infections (93.1% vs 68.8% with TT; p = 0.017). In vitro , bismuth–CLA synergy was exclusive to resistant strains and intensified with increasing MIC of CLA. Mechanistically, bismuth triggered coordinated depletion of intracellular iron and ATP—a phenotype mimicked by iron chelation and reversed by iron supplementation. A baseline MIC of CLA ≥16 μg/mL robustly predicted this synergy (AUC = 0.991) and was prospectively validated in an independent patient subset: bismuth cured 96% of high-level resistant patients (MIC ≥ 16 μg/mL) versus 0% with triple therapy ( p < 0.001). Conclusion High-level CLA resistance defines an iron-dependent metabolic vulnerability in H. pylori that is selectively targeted by bismuth. The MIC threshold of ≥ 16 μg/mL provides the first clinically actionable biomarker for resistance-guided therapy, transforming a marker of treatment failure into a positive predictor of bismuth response. These findings establish the mechanistic and clinical foundation for MIC-stratified eradication strategies and inform future randomized trials aimed at precision management of antibiotic-resistant H. pylori infection. Left High-level clarithromycin (CLA) resistance defines a distinct physiological phenotype in Helicobacter pylori , in which an elevated MIC of CLA (≥ 16 µg/mL) predicts poor eradication with triple therapy (TT) but favorable response to bismuth-containing quadruple therapy (BQT). Middle Mechanistically, CLA resistance is associated with upregulation of the ferric uptake regulator Fur, leading to reprogrammed iron homeostasis and an increased metabolic burden. Colloidal bismuth subcitrate (CBS) disrupts Fur-dependent iron regulation, exacerbates iron-restricted metabolic stress, and compromises cellular integrity, thereby selectively sensitizing CLA-resistant bacteria to antibiotic killing. Right Translational implication of reframing antibiotic resistance as a therapeutic vulnerability—bismuth-based regimens function as a “key” that unlocks resistance-associated metabolic liabilities, delays resistance evolution, and improves treatment outcomes. Download figure Open in new tab ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing",
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.05.26352444v1",
+      "date": "2026-05-06",
+      "abstract": "Abstract Abstract Background: Father's adolescent smoking and overweight affect respiratory health in offspring, suggesting that paternal puberty exposures may influence offspring biological ageing through preconception epigenetic mechanisms. Methods: We analyzed epigenetic age acceleration using four validated epigenetic clocks derived from blood DNA methylation in 892 RHINESSA offspring (mean age 27 years), linked to parental data on smoking and body shapes from RHINE/ECRHS. Linear regression examined parental smoking initiation (≤15 or >15 years) and overweight body shape (childhood/puberty or age 30) in relation to offspring epigenetic age acceleration, adjusting for offspring sex, age and parental socioeconomic status. Sensitivity analyses accounted for offspring smoking and BMI. Results: PCHorvath (β 1.53; 95% CI 0.02, 2.9), PCGrimAge (1.21; 0.03, 2.1), DunedinPACE (0.04; -0.001, 0.1) and PCPhenoAge (1.92; -0.3, 4.2) were accelerated in daughters of fathers who started smoking ≤15 years. Likewise, PCHorvath (2.25; 1.2, 3.3), PCGrimAge (1.36; -0.2, 2.9), DunedinPACE (0.07; 0.01, 0.1) and PCPhenoAge (3.11; 1.8, 4.4) were accelerated in daughters and sons of fathers who had been overweight in childhood and puberty. These results remained largely unchanged after additional adjustments or stratification in sensitivity analyses. No associations were found for maternal smoking or overweight in puberty. Conclusions: Epigenetic ageing is accelerated in offspring of fathers who smoked or were overweight in puberty, independent of offspring lifestyle. These findings suggest that adolescent boys' environment and lifestyle may be critical for next-generation health. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.04.26352410v1",
+      "date": "2026-05-06",
+      "abstract": "Abstract Understanding the molecular mechanisms that drive treatment response is central to personalized cancer care, but assays such as spatial transcriptomics are not yet scalable in routine clinical practice. A critical question, then, is whether this deeper molecular insight can be extracted directly from routine histology. Here, we introduce SPARC, a framework that infers spatially resolved activity maps for 40 gene expression programs directly from H&E slides. Integrating predicted program maps with morphological features improves survival prediction in 17 of 18 cancer types across 8,383 patients and matches a multi-omic method requiring paired RNA sequencing. SPARC also stratifies bevacizumab response in ovarian cancer (odds ratio = 8.08) and trastuzumab response in breast cancer (odds ratio = 3.44),while H&E image-only baselines yield non-significant separation between responders and non-responders. Unsupervised analysis of predicted maps reveals canonical tumor microenvironment compartments and spatial interaction patterns directly from tissue morphology, linking predictive performance of clinical outcomes to underlying biological mechanisms. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2025.12.15.25342269v4",
+      "date": "2026-05-06",
+      "abstract": "Abstract Background: In sub-Saharan Africa (sSA), invasive antimicrobial-resistant infections often originate from community-level acquisition. We assessed whether a behavioural intervention bundle targeting sub-optimal antibiotic use and hygiene practices reduced household-level acquisition of extended-spectrum beta-lactamase-producing E. coli (ESBL-E). Methods: We conducted a cluster-randomised controlled trial in 22 village clusters in Nanoro district, Burkina Faso. We enrolled 12 randomly selected households per cluster to assess intervention impact on ESBL-E household-transmission. The intervention comprised three rounds at three-month intervals and combined WHO AWaRe-based educational feedback for formal and informal medicine providers with a community-wide WASH and antibiotic-use behaviour change campaign. Consenting household members provided stool samples before, during, and after intervention rollout, alongside a pre-post household WASH survey. We estimated intervention effects on ESBL-E acquisition using Bayesian Markov models. Cox frailty models assessed associations between WASH exposures and acquisition. ClinicalTrials.gov, NCT05378880 . Findings: Between Oct 11, 2022, and Feb 19, 2024, 1203 individuals were enrolled. At baseline, 56.6% (342/604) of control and 47.2% (283/599) of intervention household members were colonised. Pre-intervention acquisition incidence was 3.8 per 100 person-days (95% credible interval [CrI] 2.0-9.9) in the intervention group and 3.5 (95% CrI 1.8-9.6) in the control group. The intervention did not change the risk of ESBL-E acquisition in months 1-6 (hazard ratio [HR] 1.02, 95% CrI 0.78-1.31), while we estimated a reduction in ESBL-E acquisition from months 6-9 (HR 0.82, 95% CrI 0.56-1.14). Acquisition risk was higher in the rainy season (peak HR 1.73, 95% CI 1.49-2.00), while improved sanitation was associated with lower risk (HR 0.77, 95% CI 0.59-1.00). Interpretation: Findings, though inconclusive, were consistent with a modest intervention-related reduction in ESBL-E incidence. Higher acquisition rates associated with the rainy season and poor sanitation highlight the need to tackle environmental drivers of AMR transmission in addition to antibiotic use in rural sSA. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.05.26352450v1",
+      "date": "2026-05-06",
+      "abstract": "Abstract ABSTRACT Background: Hypertension and preeclampsia are clinically distinct, yet biologically related conditions characterized by vascular dysfunction and elevated cardiovascular risk. Although genome-wide association studies (GWAS) have identified loci associated with blood pressure traits and preeclampsia, the functional mechanisms linking shared variants to gene regulation and clinical phenotypes remain unclear. Methods: We integrated GWAS summary statistics for hypertension, systolic blood pressure (SBP), diastolic blood pressure (DBP), and preeclampsia to identify shared variants (p ≤ 1×10 −4 ). Cis-expression quantitative trait loci (eQTL) analyses were performed in whole blood using RNA-seq data from 180 African American women. Significant associations (FDR ≤ 0.05) were evaluated for replication across vascular, metabolic, and endocrine tissues in the Genotype-Tissue Expression (GTEx) project. Associations between gene expression and blood pressure traits were also assessed. Results: We identified 4,792 shared GWAS variants, of which 4,663 were tested in eQTL analyses, yielding 1,837 significant variant-gene associations across 78 genes. Replication in GTEx confirmed 645 associations involving 24 genes, many showing cross-tissue regulatory effects. Three genes (C4B, HLA-C, and HLA-DQB1) demonstrated convergent evidence across GWAS, gene regulation, and expression-trait analyses. C4B expression was positively associated with hypertension and SBP, while HLA-C showed consistent negative associations with hypertension, SBP, and DBP. HLA-DQB1 expression was specifically associated with DBP, suggesting trait-specific effects. Conclusions: These findings highlight immune-related pathways as key mediators linking hypertension and preeclampsia. Integrating genetic, transcriptomic, and phenotypic data provides a framework for identifying functionally relevant loci and advancing mechanistic insights into cardiometabolic and pregnancy-related disorders. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.29.26351868v1",
+      "date": "2026-05-06",
+      "abstract": "Abstract Tuberculosis screening is not mandatory for prospective tissue donors. In 2021 and 2023, two different bone allograft products caused nationwide tuberculosis outbreaks. We assessed the morbidity and mortality of the second outbreak and reviewed donor and tissue screening to identify deficiencies. Thirty-six people residing in nine states received the product during spinal and dental procedures. Twenty-seven recipients had tuberculosis infection, 11 had microbiologic or imaging evidence of tuberculosis disease, and two died from tuberculosis within 12 months of outbreak detection. Another recipient died from tuberculosis nearly 3 years after product implantation. The bone donor died of pneumonia and septic shock. Polymerase chain reaction testing of the product before and after distribution did not detect Mycobacterium tuberculosis. Mycobacterial culture was not performed until after outbreak detection, when M. tuberculosis was isolated from 2 of 6 unused product units. This outbreak demonstrates persistent gaps in tissue transplant safety. Appropriate selection of donors and mycobacterial culture of donated tissues could reduce but not eliminate the risk of M. tuberculosis transmission. Therefore, it is important that clinicians monitor tissue recipients and promptly report adverse events to tissue establishments and health authorities. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.05.26352467v1",
+      "date": "2026-05-06",
+      "abstract": "Abstract Background Children with cleft lip and/or palate (CL/P) experience increased rates of neurodevelopmental difficulties, including ADHD, autism spectrum disorder, and educational challenges. While rare neurodevelopmental copy number variants (ND-CNVs) are enriched in this population and associated with poorer outcomes, these variants are present in only a small proportion of children born with cleft. Whether shared common genetic variation contributes to neurodevelopmental comorbidities in CL/P remains unknown. Methods We investigated this question using data from 2,313 children with CL/P from the Cleft Collective and 7,913 population controls from the Millennium Cohort Study. We tested for shared genetic architecture using linkage disequilibrium score regression, examined associations between polygenic risk scores for eight cognitive, neurodevelopmental, and psychiatric traits and developmental and behavioural outcomes within the cleft population, compared polygenic risk scores between cases and controls, burden between ND-CNV carriers and non-carriers, and employed two-sample Mendelian randomization to test whether genetic liability to cleft causally influences neurodevelopmental outcomes. Results Linkage disequilibrium score regression revealed little evidence of genetic correlations between CL/P and any of the eight traits examined. Within the cleft population, polygenic risk scores demonstrated expected associations with developmental and behavioural outcomes; however, children with CL/P did not have increased polygenic risk scores for ADHD, autism, depression, anxiety, schizophrenia, bipolar disorder, or lower scores for educational attainment or intelligence compared to controls. Mendelian randomization provided no robust evidence that genetic liability to cleft causally influences neurodevelopmental outcomes. ND-CNV carriers did not differ from non-carriers in polygenic burden. Conclusions The increased neurodevelopmental risk observed in CL/P does not appear to be explained by shared common genetic architecture with psychiatric disorders, contrasting with established rare variant contributions. Polygenic risk scores for neurodevelopmental traits predict behavioural outcomes within the cleft population similarly to the general population, indicating these genetic factors operate independently of cleft status but remain clinically relevant. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.04.26352406v1",
+      "date": "2026-05-06",
+      "abstract": "Abstract Background: Cell and gene therapies (CGT) represent a transformative class of medical interventions, yet their high production costs limit patient access. Understanding the structure of manufacturing costs is essential for informing policies that can expand access to these therapies. Objective: This study develops and applies a cost-of-goods-sold (COGS) model to analyze the contributors to manufacturing costs for mRNA-based CGT, with application to a wide range of current and future therapies. Methods: An Excel-based COGS model was constructed based on cost categories for CGT. Two mRNA-based products at commercial scale were used to populate the model: an mRNA vaccine and a therapeutic mRNA gene therapy. Cost inputs were drawn from vendor pricing, peer-reviewed and grey literature, and expert consultation with CGT manufacturing specialists. Three scenarios (worst, base, and best case) were modeled across six cost categories: materials, consumables, capital, labor, licenses, and royalties. A tornado diagram sensitivity analysis was conducted to identify key cost drivers. The mRNA vaccine was used to build and validate the model strucutre using publicly available data sources. The therapeutic mRNA therapy was used as the main use case for illustration and sensitivity analysis. Results: Under base-case assumptions, the estimated cost per dose for the therapeutic mRNA product is $56.09, ranging from $3.68 (best case) to $383.22 (worst case). Licensing and royalty fees together account for approximately 83% of total base-case COGS ($6,996,000 and $6,960,000 per production run, respectively, out of $16,825,597 total). Excluding these fees, material costs represent the largest remaining share (61%), followed by consumables (34%), capital (4%), and labor (1%). Sensitivity analysis confirms that licensing and royalty assumptions are the dominant source of uncertainty in the model. Conclusions: Licensing and royalty fees are the primary driver of mRNA-based CGT production costs and represent the greatest opportunity for cost reduction through policy intervention. Strategic priorities for cost reduction should focus on optimizing reagent utilization, increasing platform potency, and expanding use of contract development and manufacturing organizations (CDMOs) to reduce capital and labor costs. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.29.26350889v1",
+      "date": "2026-05-04",
+      "abstract": "Abstract Amyotrophic lateral sclerosis (ALS) is a devastating neurodegenerative disease with substantial genetic and clinical heterogeneity that impedes therapeutic development. Large-scale multi-tissue genomic resources have transformed the study of neuropsychiatric and neurodegenerative diseases, but no equivalent resource exists for ALS. Here we present the full NYGC ALS Consortium dataset, combining whole-genome sequencing from 4,746 donors and bulk RNA-seq from 2,574 samples across 8 brain and spinal cord regions from 695 donors across the ALS disease spectrum. Our catalogue of small variants, structural variants, and short tandem repeats identified likely pathogenic mutations in 15.6% of ALS cases. Gene expression and mRNA splicing analysis across 5 major tissues reveals shared and region-specific features, highlighting microglial and T-cell dysregulation in the spinal cord. Mapping the genetic regulation of expression and splicing across tissues identified associations with 6 ALS risk loci, whereas allele-specific rare variant analysis detected expression effects for C9orf72 and OPTN. All data are immediately publicly available. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.28.26351782v1",
+      "date": "2026-05-05",
+      "abstract": "Abstract Chimeric Antigen Receptor T-cell (CAR-T) therapy, where genetically engineered patient T cells target tumor antigens, has transformed care for hematologic malignancies but requires careful tracking of adverse events (AEs) often documented only in unstructured EHR notes. We evaluated a Large Language Model (LLM)–based approach in UCSF’s secure environment to extract AEs, dates, grades, and interventions within 30 days post-infusion for six commercial CAR-T products (2012–2023), benchmarking against two evaluators. Using GPT-4-0314 in a zero-shot setting with four prompts (prespecified AEs, non-prespecified AEs, CRS, ICANS), we compared outputs against dual annotations on a random sample of 50 notes using accuracy, precision, recall, F1, and Cohen’s kappa. From 4,762 progress notes for 293 patients (median age 65.6), CRS occurred in 80.2% (median onset 4 days); neutropenia 70.0% (16 days); neutropenic fever 64.8% (4 days); ICANS in 34.8%. Interventions included tocilizumab and corticosteroids. Grades were frequently undocumented (CRS 62.3%, ICANS 56.1%); documented cases were mainly CRS grade 1 (59.4%) and ICANS grade 2 (28.0%). Performance was high on CRS and ICANS grading (accuracy of 0.97 and 0.91, respectively). Moderate performances were assessed for prespecified AE extraction (accuracies 0.62–0.76), and non-prespecified AEs (accuracies 0.76–0.84). Inter-rater reliability was strong to near-perfect for CRS/ICANS presence and grade (kappa 0.86–0.96), moderate for dates and interventions, and weaker for broader AE attributes. LLM-derived insights can augment AE monitoring and real-world evidence generation by unlocking unstructured clinical detail and characteristic timelines after CAR T. However, performance varied for broader AE attributes, warranting cautious use. Performance was highest for detecting the presence and grade of CRS and ICANS, with strong to near-perfect inter-rater reliability. While cautious use of LLMs for broad AE extraction is warranted due to the variable performance observed in this study, these results support integrating high-performing CRS/ICANS extraction into EHR workflows. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.04.26352173v1",
+      "date": "2026-05-05",
+      "abstract": "Abstract Neurofibromatosis type 1 (NF1) is a common autosomal dominant genetic tumor predisposition syndrome.1 NF1 patients display remarkable phenotypic variability, even within families carrying the same NF1 mutation.2 With few exceptions, the identification of specific genotype-phenotype correlations has remained elusive.3-6 We utilized RNA-seq data and direct DNA sequencing to determine HLA genotypes for individuals with NF1-associated high-grade glioma (HGG, n=25), low-grade glioma (LGG, n=79), and malignant peripheral nerve sheath tumors (MPNST, n=105). Odds ratios (OR), binomial p-values and false discovery values were calculated by comparing observed carrier frequencies against expected frequencies derived from ethnicity-matched population data. We find that specific HLA class I and II alleles are associated with different NF1 tumor types. For example, HLA-B*40:02 is significantly associated with NF1-MPNST (OR=3.71, p=0.001, Q=0.02), increasing the lifetime risks for MPNST from 10% to about 29%. The relative cancer risk for an individual in the general population carrying a risk allele can be high, however, that individuals absolute risk for cancer typically remains very low. In contrast, individuals that carry a risk allele and are also burdened with a tumor predisposition syndrome will have a substantially higher absolute risk to develop a tumor, simply because they start at a higher baseline susceptibility for tumors. The identification of HLA-risk alleles for NF1 tumor development is therefore important, as it will allow for a risk-adapted screening or more aggressive treatment of individuals with a specific HLA haplotype. If confirmed, this study will thus improve clinical care and potential outcomes of individuals with NF1. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.30.26352163v1",
+      "date": "2026-05-03",
+      "abstract": "Abstract SARS-CoV-2 infection exhibits heterogeneous viral clearance kinetics even in individuals with mild disease. The immunological determinants underlying rapid versus prolonged viral RNA detection remain incompletely defined. Here, we performed a three-year longitudinal analysis of 77 healthcare professionals infected with the ancestral Wuhan strain. Participants were stratified according to viral RNA clearance kinetics into non-persistent (≤21 days) and persistent (>21 days) groups. Non-persistent individuals exhibited accelerated seroconversion to Spike and receptor-binding domain (RBD) antigens during the first 11 days after symptom onset. Early antibody responses were characterized by higher functional activity, including significantly greater neutralizing activity against the ancestral strain. In contrast, persistent individuals displayed delayed seroconversion, prolonged IgM responses, and weaker coordination among IgG subclasses, with less synchronized subclass responses, during early infection. Importantly, total immunoglobulin levels did not distinguish the groups. Cross-variant antibody recognition during acute infection was limited and largely strain-focused in both groups. During convalescence, durable anti-Spike IgG responses were maintained independently of persistence status, without significant differences in cross-variant breadth. Vaccination robustly amplified antibody titers, enhanced variant recognition, and sustained high-affinity responses in both groups. Together, our findings demonstrate that the timing and functional quality of early humoral maturation, reflected by neutralizing antibody activity, rather than antibody magnitude or breadth, are key determinants of SARS-CoV-2 RNA clearance in mild infection. These results highlight the importance of early neutralizing antibody generation in shaping acute viral control and the long-term immune architecture. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.08.20.25334075v4",
+      "date": "2026-05-02",
+      "abstract": "Abstract Background Breast cancer genome-wide association studies (GWAS) have identified more than 200 susceptibility loci, but most studies are dominated by European and East Asian populations. Methods We analyzed breast cancer GWAS summary statistics from African (AFR), East Asian (EAS), European (EUR), and Hispanic/Latina (H/L) samples (159,297 cases and 212,102 controls). We estimated logit-scale SNP-based heritability, polygenicity, and cross-ancestry genetic correlation, partitioned heritability across functional annotations, and integrated GWAS results with the Tabula Sapiens single-cell atlas using scDRS+. Results The logit-scale heritability of breast cancer ranged from ℎ 2 =0.47 (SE = 0.07) in EAS to AFR ℎ 2 =0.61 (SE = 0.10), with no significant differences across ancestries (p=0.63). The estimated number of susceptibility markers in a sparse normal-mixture effects model also varied from 4,446 (SE = 3,100) in EAS to 8,308 (SE = 2,751) in AFR, but differences were not significant across ancestries (p=0.55). Cross-sample genetic correlations varied, with the strongest correlation between EUR and EAS (𝜌 = 0.79, SE = 0.08) and weakest between AFR and H/L (𝜌 = 0.26, SE = 0.24). Regulatory annotations were enriched for breast cancer heritability across samples. Integration with single-cell expression profiles implicated ancestry-shared associations with innate immune, secretory epithelial, and stromal cell types. Conclusion These results indicate substantial cross-ancestry sharing of breast cancer polygenic architecture, highlight a consistent contribution of regulatory variation, and identify convergent cellular contexts that motivate functional follow-up and inform expectations for the transferability and attainable performance of common-variant risk prediction across populations. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.30.26352188v1",
+      "date": "2026-05-03",
+      "abstract": "Abstract Background Lipoprotein(a) [Lp(a)] can be reported as mass concentration (mg/dL) or particle concentration (nmol/L). Because Lp(a) biology is likely mediated at the particle level, molar concentration may better reflect biologically relevant exposure. We compared molar- and mass-based Lp(a) measurements in relation to cardiovascular outcomes, LPA genetic variation, and apo(a) isoform phenotype in a population-based cohort. Methods Lp(a) was measured in 6,182 participants in the Young Finns Study. Among participants aged ≥40 years, associations with prevalent coronary artery disease (CAD) and composite cardiovascular disease (CVD) were assessed using logistic regression models. Lp(a) was modeled as quintiles, inverse-normal transformed continuous variables, and clinically relevant cut-points. Discrimination and model fit were evaluated using c-statistics and Akaike’s Information Criterion. Associations with an LPA genetic risk score (GRS) and apo(a) isoform phenotype were examined using Spearman’s correlation analyses. Results The relation between molar and mass Lp(a) was not constant across the concentration range. The molar-to-mass ratio increased across higher clinically relevant Lp(a) categories, indicating concentration-dependent correspondence between nmol/L and mg/dL. The molar-to-mass ratio was directly associated with the LPA GRS and inversely associated with apo(a) isoform size, and these associations were more strongly attenuated after adjustment for molar than for mass Lp(a). Across CAD and composite CVD, molar- and mass-based Lp(a) showed broadly similar associations. In fully adjusted CAD models, the odds ratio for the highest versus lowest quintile was 1.55 for molar Lp(a) and 1.67 for mass Lp(a); corresponding continuous-model ORs were 1.20 and 1.22 per 1-unit increase in inverse-normal transformed Lp(a). Discrimination and global model fit were essentially identical between the two measurement scales. Conclusions Molar- and mass-based Lp(a) measurements showed comparable epidemiologic associations with prevalent cardiovascular outcomes. However, molar reporting aligned somewhat more closely with the genetic and structural determinants of Lp(a), supporting continued standardization toward particle-based reporting. What Is New? In the Young Finns Study, Lp(a) reported in molar and mass units showed highly similar associations with prevalent coronary artery disease and composite cardiovascular disease. The relation between molar and mass Lp(a) was not fixed: the molar-to-mass ratio varied across clinically relevant Lp(a) concentration ranges and according to apo(a) isoform size. Molar Lp(a) showed slightly stronger alignment with the LPA genetic risk score, and ratio-based analyses suggested that genetically and structurally determined assay discordance was more closely captured by molar than by mass measurement. What Are the Clinical Implications? Mass- and molar-based Lp(a) remain broadly comparable for cardiovascular risk association analyses, but they should not be treated as directly interchangeable using a single universal conversion factor. Particle-based reporting in nmol/L may better reflect the biologic dimension of Lp(a), even when disease discrimination is similar to that of mass-based reporting. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.10.24.25338576v3",
+      "date": "2026-05-02",
+      "abstract": "Abstract Influenza virus infections vary widely in severity, with human challenge studies revealing substantial heterogeneity in viral shedding and immune responses. However, the mechanistic basis of this variability remains unresolved. Here, we applied individualized mechanistic modeling to determine how variation in viral replication and CD8 + T cell responses shape infection kinetics and symptom dynamics once variation in exposure dose is removed in individuals experimentally challenged with H1N1 influenza virus. Our analysis identified four distinct infection clusters driven predominantly by individualized differences in viral infectivity and CD8 + T cell expansion rates rather than baseline T cell levels or killing efficacy. These mechanistic distinctions were conserved across independent cohorts and enabled accurate prediction of symptom trajectories despite subjectivity in symptom reporting and differences in viral strain. Collectively, these findings demonstrate that interindividual variation can converge on similar infection trajectories and clinical outcomes and provide a mechanistic basis for improving individual-level prediction of influenza infection dynamics. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.01.26352221v1",
+      "date": "2026-05-03",
+      "abstract": "Abstract Background Hemoglobin A1c (HbA1c), an important diagnostic biomarker for type 2 diabetes (T2D), is also associated with aging, cognitive performance, and mortality. To identify epistatic interactions, we assessed 133 known gene variants associated with HbA1c among 3,778 non-diabetic subjects of European ancestry in the Long Life Family Study (LLFS). Methods We applied Bayesian Imputation Based Association Mapping (BIMBAM) to identify significant pairwise epistatic interactions among genetic variants that were previously shown to be associated with levels of HbA1c. To take into account confounding effects, we adjusted age, sex, field centers, body mass index (BMI), and genetic principal components (PCs). Results This analysis yielded seven pairs with log 10 (BF)>10; of those, six pairs were confirmed using a full-term mixed regression model. Specifically, these included significant interactions of HK1-rs17476364 with variants in GCK (rs2971670, rs4607517) or G6PC2 (rs560887), as well as between HK1-rs16926246 and the same variants ( P values for each term ≤ 7.14×10 -3 ). All epistatic interactions between HK1 and GCK , and between HK1 and G6PC2 were replicated in two large independent studies (namely, Framingham Offspring Study, P < 0.05; Health and Retirement Study, P < 0.05). Conclusion The present study revealed that HK1 and GCK interact to contribute to regulating levels of HbA1c and are likely to be involved in molecular mechanisms underlying healthy aging processes. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.29.26351683v1",
+      "date": "2026-05-01",
+      "abstract": "Abstract Direct genome sequencing of Mycoplasma genitalium from clinical specimens is challenging due to the organism’s low bacterial load. We developed and compared two DNA enrichment strategies—amplicon-based and hybridisation capture-based—coupled with next-generation sequencing, and assessed the suitability of DNA capture for whole-genome sequencing and high-resolution molecular typing. The enrichment approaches, RNA bait hybridisation and targeted sequence amplification, were combined with paired-end sequencing on the Illumina iSeq 100. Method performance was evaluated in 89 M. genitalium -positive specimens across five genomic loci: 23S and 16S rRNA, and parC and gyrA for macrolide, tetracycline, and fluoroquinolone resistance, respectively, and mgpB for phylogenetic analysis. Regarding antimicrobial resistance (AMR) determinants, the multiplex amplicon sequencing method demonstrated the highest sensitivity, at 93.3–98.9%. Although < 50% of samples were characterised using DNA capture, concordance between the two methods was excellent. Using DNA capture, 24.7% of specimens achieved a minimum coverage of 95% at 1× depth. Sequencing success was inversely correlated with human DNA contamination and the presence of low-quality reads. Whole-genome single-nucleotide polymorphism analysis provided higher discriminatory power than multi-locus sequence typing schemes and confirmed the clonality of multidrug-resistant M. genitalium strains belonging to the mgpB genotype 159. In conclusion, targeted amplicon-based enrichment is the most accurate and reliable approach for epidemiological studies focused on AMR and mgpB typing, whereas DNA capture is valuable for generating comprehensive genomic data from selected M. genitalium –positive specimens. Impact statement Culturing Mycoplasma genitalium from clinical specimens is challenging; consequently, epidemiological studies rely on molecular techniques. Whole-genome sequences have been obtained from a few M. genitalium clinical isolates, and direct sequencing from clinical specimens requires enrichment strategies to overcome the organism’s low bacterial load. Consequently, published data on antimicrobial resistance (AMR) mechanisms and phylogenetic relationships among circulating strains remain incomplete. We demonstrated that targeted amplicon-based enrichment provided high-resolution AMR detection and highly sensitive mgpB genotyping, enabling the identification of minority variants. In contrast, hybridisation capture–based enrichment showed lower sensitivity but permitted successful WGS in a subset of M. genitalium –positive specimens and supported the development of new typing schemes. Although amplicon-based enrichment remains a reliable approach for epidemiological studies, strategic application of DNA capture facilitates the generation of comprehensive genomic data even though performance is reduced in the context of low bacterial loads, high host DNA contamination or suboptimal DNA quality. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.28.26352007v1",
+      "date": "2026-04-30",
+      "abstract": "Abstract Nicotinamide riboside (NR), an endogenous precursor to the essential coenzyme nicotinamide adenine dinucleotide (NAD+), is characterized as safe and effective at longitudinally elevating NAD+ in blood and tissues, when administered orally. Preclinical research on NR as an augmenter of NAD+ has demonstrated great promise in support of healthy aging, metabolic health, and several diseases, though clinical translation of thesefindings has been limited. Interest in alternative routes of administration of NR has increased in recent years and led to the development of pharmaceutical-grade NR for intravenous and injectable administration. Two separate Phase 1 pilot clinical trials were conducted evaluating NR via bolus injections. While the designs of the two studies are different, the similarities warrant combined presentation to note the similarities, particularly with regards to safety-related outcomes. Trial 1 involved 45 participants that were randomized to a 3x3 design, accounting for three interventions, placebo, NR, and NAD+ and three routes of administration, intramuscular (IM), intravenous (IV), and subcutaneous (SC), resulting in a 9-arm study (placebo IM, n=5; placebo IV, n=5; placebo SC, n=5; NR IM, n=6; NR IV, n=5; NR SC, n=4; NAD+ IM, n=4; NAD+ IV, n=5; and NAD+ SC, n=6). Participants were administered NR once daily for three days, followed by a 7-day washout period. In Trial 2 (n=39), the 2x2 study design incorporated 4-arms for phase 1, where the participants were randomized to 50 or 100 mg of NR, administered either IM or SC in-clinic for 3 consecutive days, followed by a 7-day washout (50 mg IM, n=7; IM, 100 mg IM, n=11; 50 mg SC, n=11; and 100 mg SC, n=10). Phase 2 of Trial 2 involved participants self-administering either 50 or 100 mg of NR subcutaneously. Safety assessments for both trials included vitals, blood biomarkers, participant reported outcomes regarding the experience, and adverse event monitoring. Participant retention for both studies was 100%, and the injections did not result in any attributable unexpected adverse events or experiences. The experiences described by the participants regarding the actual injection varied. In Trial 2, pain more than two minutes after the injection and muscle soreness and tightness were reported by 45.9 and 43.2% of the participants, respectively, regardless of the route of administration or dose. Vitals remained generally consistent throughout both trials, and reductions in systolic blood pressure observed in both trials should be evaluated in larger, properly powered studies. Blood chemistry biomarkers for both trials did not elicit treatment-related patterns. Both trials presented within-group reductions in hsCRP in the NR SC arms, however, given baseline imbalance and small samples size, this finding should be considered hypothesis-generating, only. Overall, in both trials, the interventions, regardless of route of administration were associated with some discomfort but were well tolerated and did not produce any concerning safety signals. It is recommended that comprehensive metabolic and inflammatory panels should continue to be employed in future studies and clinical settings to assess whether consistent patterns emerge in larger populations. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.30.26352063v1",
+      "date": "2026-05-01",
+      "abstract": "Abstract Complex traits arise from the combined effects of rare and common genetic variation, development and environment, but resolving their joint contributions has been limited by statistical power. Here, we meta-analyze effects of recurrent copy number variants (CNVs), polygenic scores, sex, age and medications on height and body mass index in 1,447,001 individuals across 6 biobanks and clinical cohorts. CNVs show largely mirror dose-dependent effects of deletions and duplications on both traits, but a subset of loci exhibit asymmetric dose-responses on adult height, consistent with buffering of one allele but not the other. Polygenic background and medications combine with CNVs in ways broadly consistent with additivity. However, detailed analyses of loci at 16p11.2 and 22q11.2 reveal context-dependent effects that vary across development, physiology and sex. At 22q11.2, the net effect of a CNV reflects opposing and reinforcing contributions of multiple genes, providing a potential mechanism for buffering of dosage effects. These results indicate that genetic effects follow additive patterns in aggregate, while context-dependent deviations are widespread for specific loci. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.05.13.25327511v2",
+      "date": "2026-05-02",
+      "abstract": "Abstract Human genetics demonstrates great potential for drug discovery, but challenges in identifying causal genes limit its clinical translation. Pleiotropy, the phenomenon where genetic variants or genes influence multiple traits, has been previously used to identify drug targets shared between phenotypically similar diseases. Here, we expand the use of pleiotropy to develop and evaluate a gene-agnostic method that predicts novel drug therapeutic and side effects across the phenome. We hypothesize that diseases with high genetic similarity to a drug’s known indications can point to new drug uses. To test this, we develop five metrics to quantify the genetic similarity between pairs of 178 diseases integrating genome-wide genetic correlation, gene-level associations and tissue-specific gene regulation. Comparing these metrics with data on indications and side effects of 1,711 common drugs, we find that more genetically similar diseases tend to share more drugs. We then use genetic similarity to predict drug therapeutic effects: our predictions with probability >0.1 show a 2.03-fold increased likelihood of progressing from Phase I clinical trials to regulatory approval. As well, predictions with probability >0.2 are 1.42 times more likely to correspond to true adverse effects. Notably, the indications model predicts side effects better than expected by chance, and vice-versa, implying a shared genetic basis for therapeutic and adverse drug effects. Together, our results suggest that genetic similarity can reveal new drug-disease links, putting forward a new use of genetics that bypasses the need for disease and drug target identification. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.29.26352032v1",
+      "date": "2026-04-30",
+      "abstract": "Abstract Adverse drug effects remain a major barrier to safe and effective cancer therapy, underscoring the need for tools that predict treatment-related toxicities. We analyzed multimodal real-world data from 14,596 cancer patients across 38 cancer entities, encompassing 330 clinical, tumor, and imaging characteristics, along with 89 anticancer agents. Hematological adverse events (HAE), defined by nadirs of hemoglobin, leukocyte, neutrophil, and platelet values within two months of treatment initiation, were highly prevalent (87.7%; 33.1% severe). We developed Toxix , an explainable artificial intelligence (xAI) framework modeling interactions between patient characteristics and drug combinations. Toxix achieved strong predictive performance for severe toxicities (median AUROC 0.85 for anemia; >0.76 for leukopenia, neutropenia, and thrombocytopenia) and was validated in an external cohort of 2,768 patients with non-small cell lung cancer. Model explainability enabled systematic characterization of drug-patient interactions underlying HAEs. Toxix provides a real-world informed framework for personalized and toxicity-aware cancer therapy planning. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.27.26351816v1",
+      "date": "2026-05-01",
+      "abstract": "Abstract Hospital settings can act as reservoirs for pathogens, with many nosocomial bacteria surviving for extended periods of time and spreading via contaminated environments, healthcare workers, or medical equipment. Infection prevention and control in hospital settings relies on accurately identifying transmission events to prevent further transmission. Whole-genome sequencing (WGS) offers the possibility to accurately identify bacterial strains and define transmission routes, yet traditional analyses often rely on fixed single nucleotide polymorphisms (SNP) thresholds that fail to account for the accumulation of variations over extended periods of time. We analyzed WGS surveillance data from bacterial isolates collected over five years in two hospitals in Germany and Denmark. By leveraging longitudinal sampling and repeated isolates from persistent infections, we estimated in vivo evolutionary rates from different strains belonging to three species: Escherichia coli, Klebsiella pneumoniae and Pseudomonas aeruginosa . Using species-level mean molecular clock rates, we developed a time-aware framework that defines transmission threshold based on expected SNP accumulation over time. Using this approach, transmission clusters were detected in 0.3% of E. coli , 9.3% of K. pneumoniae and 3.5% of P. aeruginosa isolates. To understand the genetic factors underlying epidemic strain potential, we compared epidemic lineages part of transmission chains with sporadic lineages. We found that epidemic lineages of K. pneumoniae and E. coli had higher virulence scores than sporadic strains, with enrichment of siderophores and adhesion genes, while resistance scores were similar. Genome-wide association analyses revealed hundreds of variants associated with epidemic status, particularly in replication, recombination and repair mechanisms, as well as metabolism related functions. With the predicted virulence and resistance scores we could easily observe predicted phenotypic changes within transmission clusters, including the loss of virulence factors in an outbreak, and the emergence of resistance after antibiotic treatment. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.01.26352272v1",
+      "date": "2026-05-04",
+      "abstract": "Abstract Background Epidemiological studies have consistently documented an inverse association between atopic dermatitis (AD) and glioblastoma (GBM), yet the immunogenetic mechanisms underlying this paradox remain elusive. We hypothesized that distinct immune subsets driven by shared genetic variants exhibiting antagonistic pleiotropy may explain this relationship. Objective To dissect the immunogenetic basis underlying the inverse association between AD and GBM by integrating single-cell transcriptomics and clustered Mendelian randomization, and to identify shared immune subsets and genetic variants exhibiting antagonistic pleiotropy that may explain this epidemiological paradox. Methods We integrated single-cell RNA sequencing (scRNA-seq) of publicly available datasets from AD skin (GSE153760) and GBM tumors (GSE256490) with genome-wide association study (GWAS) summary statistics. Disease-specific immune cell subsets were identified, and pathway enrichment was conducted on marker genes. Clustered Mendelian randomization (MR-Clust) was applied to detect heterogeneous causal effects, followed by drug target enrichment analysis using the DGIdb database. Results scRNA-seq revealed that Th2A cells were the predominant pathogenic subset in AD lesions, whereas S100A9 + HLA −low suppressive monocytes were enriched in the GBM microenvironment. Both subsets shared enrichment in the NF-κB and FcϵRI signaling pathways, revealing a common immunological framework linking peripheral Type 2 inflammation to central nervous system immunosuppression. MR-Clust identified a distinct genetic cluster (Cluster 2) comprising 32 genes (e.g., IL4R, JAK1, SYK, FCER1G) significantly overexpressed in these cell types. This cluster exhibited antagonistic pleiotropy: it was directionally associated with reduced AD risk (OR = 0.930, 95% CI 0.846–1.023, p = 0.137) but a non-significant risk trend for GBM (OR = 1.447, 95% CI 0.737–2.841, p = 0.283). Drug target analysis indicated that Cluster 2 genes are primary targets of approved AD therapies, including dupilumab (IL4R) and JAK inhibitors (JAK1). Conclusion Our integrative analysis uncovers an immune-genetic axis linking Th2A cells in AD to suppressive monocytes in GBM, providing a mechanistic basis for their inverse comorbidity. These findings highlight a potential therapeutic paradox, underscoring the need for pharmacovigilance regarding long-term cancer risk in AD patients receiving targeted immunomodulators. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR",
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.29.26351484v1",
+      "date": "2026-05-06",
+      "abstract": "Abstract APOE gene variants encoding the apolipoprotein E (ApoE) protein are strong genetic modifiers of risk of Alzheimer′s disease (AD) with the APOE ϵ4 allele ( APOE4 &) associated with substantially increased disease risk, APOE & ϵ2 allele ( APOE2 &) associated with decreased risk and APOE ϵ3 allele ( APOE3 &) considered neutral. Recently the Christchurch variant of APOE3 & ( APOE3Ch &) has been shown to protect people from familial AD. Despite this strong evidence for APOE mediating AD risk, the exact biological mechanisms through which APOE & influences pathogenesis remain unknown. Our previous work implicates APOE & in synapse degeneration in AD with exacerbated plaque–associated synapse loss, increased accumulation of amyloid beta in synapses, and increased ingestion of synapses by glia around plaques observed in APOE4 & carriers. Here we used a cell culture system to test the hypothesis that APOE & isoforms would differentially regulate phagocytosis of synapses isolated from human post–mortem AD brain tissue. Humanized APOE & knock–in astrocyte cell lines exhibited isoform–dependent differences in phagocytic activity with APOE2 & < APOE3 & < APOE4 & as would be expected if APOE & genotype mediated risk at least in part through synapse phagocytosis. Interestingly, astrocytes with the protective APOE3Ch allele phagocytosed synapses similarly to APOE4 astrocytes indicating this variant does not likely protect from AD by reducing astrocyte phagocytosis of synapses. These findings indicate that APOE & isoforms differentially regulate astrocytic engulfment of AD–associated synaptic material. These isoform–specific effects are not explained by differences in phosphatidylserine recognition, suggesting the involvement of additional mechanisms underlying ApoE–dependent modulation of astrocyte function ",
+      "searched_keywords_found_duplicates": [
+        "gene editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.02.17.26346475v2",
+      "date": "2026-05-06",
+      "abstract": "Abstract The world is far from achieving universal access to rapid tuberculosis (TB) diagnostics that align with World Health Organization (WHO) diagnostic standards. Although WHO-recommended molecular rapid diagnostics (mWRDs), including low-complexity automated nucleic acid amplification tests (LCaNAAT), have significantly improved TB detection, scale-up has been constrained by high capital, maintenance, and consumable costs. Recently, lower-cost, near-point-of-care nucleic acid amplification tests (NPOCs) have emerged, with attractive global-access pricing, offering the potential to expand access to rapid TB diagnosis while reducing the financial burden. To support TB program staff better understand the budget impact of using newer NPOCs as the initial TB diagnostic compared with established mWRDs, we developed a flexible cost calculator. Originally built in Microsoft Excel for Mac (version 16.91, build 24111020), it organizes key parameters in a structured input sheet using standardized labels. Separate worksheets defined diagnostic scenarios and performed calculations, with results summarized in an overview covering various costs. After validation, the model was converted into R (version 2025.09.1 + 401). The app (app.R), developed with Shiny, is now available here for free global access. Using two hypothetical country case studies, we compared current LCaNAAT- based testing strategies with scenarios in which NPOCs were implemented as the initial diagnostic test. In hypothetical Country A, there were cost savings of 43% in Scenario 1 (based on current testing trend) and 38% in Scenario 2 (based on ambitious testing goals). In hypothetical Country B, the corresponding cost differences were 55% in Scenario 1 and 40. 5% in Scenario 2. The analysis showed that countries can reach ambitious TB testing targets using NPOCs at roughly the same cost as current LCaNAAT testing. This highlights the potential of affordable molecular diagnostics to improve access to mWRDs. By reducing capital and maintenance costs, NPOCs allow TB programs to test and detect more cases within existing or slightly increased budgets, speeding up progress toward universal rapid TB diagnosis. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.01.26352247v1",
+      "date": "2026-05-04",
+      "abstract": "Abstract Purpose Post-acute sequalae of SARS-CoV-2 (PASC) are associated with persistent neurological symptoms (neuroPASC). Perivascular spaces (PVS) in the brain may enlarge in the context of inflammation and vascular dysfunction, reflecting impaired glymphatic clearance, and have been linked to cognitive decline. SARS-CoV-2 may disrupt the blood-brain barrier and impair glymphatic function, contributing to PVS burden. This study used 7 Tesla MRI to segment and quantify PVS in neuroPASC participants and uninfected comparators and examined associations with cognitive performance. Methods Adult participants (36 neuroPASC (44.3 ± 12.7 years) and 33 comparators (38.4 ± 13.0 years)) underwent a 7 Tesla MRI scan. White matter masks of the whole brain and four lobes were segmented, and semi-automated segmentation was used to quantify PVS count and volume. All participants completed cognitive testing including Trails A and B sequencing tasks; neuroPASC participants also self-reported brain fog, fatigue, anxiety, and depression. PVS count, PVS volume, and total white matter volume (WMV) between groups were compared and associations between PVS metrics and cognitive function were assessed controlling for age, sex, and intracranial volume and corrected for multiple comparisons. Results Among neuroPASC participants, those reporting anxiety ( p =0.009) and depression ( p =0.01) had higher WMV than those without. Greater PVS burden was associated with worse cognitive performance in PASC, particularly processing speed (Trails A) and executive function (Trails B). Specifically, processing speed was negatively associated with whole-brain PVS count ( p-FDR = 0.008, R 2 = 0.27), frontal PVS count ( p-FDR = 0.03, R 2 = 0.25), and frontal PVS volume ( p-FDR = 0.04, R 2 = 0.23). Trails B was also negatively associated with whole-brain PVS count ( p-FDR = 0.005, R 2 = 0.26). In comparators, higher PVS burden (volume and count) across multiple lobes was associated with worse semantic fluency (Animal Naming). There were no other significant associations between PVS measures and neuropsychiatric tests among participants within any of the subgroups to report. Conclusion Although group-level differences in PVS were not observed, PVS burden was meaningfully negatively associated with cognitive performance in neuroPASC, with the strongest effects in frontal regions. These findings suggest that microvascular and glymphatic alterations may contribute to the characteristic processing speed and executive dysfunction seen in neuroPASC. Elevated WMV in those with anxiety and depression may reflect heightened inflammatory vulnerability. PVS may serve as a sensitive imaging marker of glymphatic dysfunction and neuroinflammation in neuroPASC, offering insight into the mechanisms underlying cognitive impairment and potential intervention targets. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.01.26352167v1",
+      "date": "2026-05-03",
+      "abstract": "Abstract Background Hepatitis E virus (HEV) seroprevalence varies by age and geography. Data on HEV seroprevalence across age groups and among people living with HIV (PLWH) in South Africa is scarce. Methods We conducted a prospective multi-site assessment of anti-HEV IgG seroprevalence on 859 South African participants enrolled at three clinical research centres including Newtown Clinical Research Centre in Johannesburg, Be Part Research in Mbekweni, Paarl, Western Cape, and Mecru Clinical Research Unit in Garankuwa, Pretoria. Participants comprised adults aged 18 – 45 years (PLWH, n = 178 and HIV-negative, n = 232), and children aged 2–17 years (n = 449). Anti-HEV IgG serostatus and antibody titer were measured using a commercial ELISA kit and a WHO reference standard. Seroprevalence was assessed by site, age group, sex, and HIV status. Results Overall anti-HEV IgG seroprevalence was 18.0% (95% CI: 15.6–20.8). Adults had the highest seroprevalence (27.3% among all adults; 29.2% among PLWH and 25.9% in HIV-negative adults), while adolescents aged 12–17 years had the lowest (6.9%), and young children aged 6–11 years and 2–5 years had 10.3% and 13.0%, respectively. Adults had significantly higher odds of seropositivity than children (aOR 2.8, 95% CI: 1.5–5.5, p = 0.002). A significant site-specific variation was also observed among healthy adults and adolescents: Newtown Clinical Research Centre (23.0% and 14.0%) and Be Part Research (34.5% and 7.3%) had higher seroprevalence compared with those from Mecru Clinical Research Unit (17.2% and 1.5%, p = 0.0499 and 0.0262 , respectively). A higher mean antibody titer observed in younger children aged 2–5 years (5.06 IU/mL), compared with adults (0.88 IU/mL among PLWH and 0.68 IU/mL among HIV-negative adults), and with older children (2.02 IU/mL in those aged 6–11 years and 0.67 IU/mL in those aged 12–17 years). Conclusions HEV seroprevalence in South Africa was highly heterogeneous, varying markedly by age group and study site. These findings highlight the need for strengthened, integrated HEV surveillance to better define transmission patterns and to inform evidence-based considerations for prevention of infection. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.26.26350738v1",
+      "date": "2026-05-04",
+      "abstract": "Abstract Purpose Assessing visual function in patients with ultralow vision (ULV), particularly those with retinitis pigmentosa (RP), remains a significant challenge in therapeutic development. Full-field stimulus test (FST) provides a quantitative measure of retinal light sensitivity and may serve as a valuable clinical endpoint. We investigated FST in ULV RP by examining its associations with functional measures and daily activity–based tasks. Design Observational, cross-sectional study. Participants Patients with RP and visual acuity in the worse-seeing eye below counting fingers (CF) were enrolled. Methods After dilation and 45-minute dark adaptation, FST was performed monocularly with brief full-field white-light flashes across three visits. Visual acuity was classified into four groups: no light perception (NLP), light perception (LP), hand motion (HM), and CF or better. We assessed functional vision using two tabletop object-recognition and exploration tasks, two mobility tasks, and three vision-related questionnaires. FST thresholds were compared across visual acuity groups, and associations with functional outcomes were analyzed. Main Outcome Measures FST thresholds and their associations with functional vision outcomes. Results Thirty-five patients (70 eyes; median age, 62 years, range 39–84) were included. Median FST thresholds (log cd⋅s/m²) by visual acuity group were as follows: NLP, 1.13 (-0.63–2.54); LP, -0.27 (-2.70–2.91); HM, -1.13 (-6.24–0.51); CF or better, -2.82 (-5.67– -1.73) (p < 0.001). Measurable FST thresholds were obtained in 9 of 14 NLP eyes (64.3%). FST thresholds showed significant correlations with tabletop performance (r = –0.70 to – 0.46) and mobility performance (r = –0.65), whereas no significant association was observed with questionnaire scores. Test–retest variability across three visits showed no systematic bias, with a coefficient of repeatability of ±0.66 to ±0.82 log cd·s/m². ROC analyses identified FST cutoffs of –1.75 to –0.87 log cd·s/m² at which patients first achieved nonzero functional task performance. Conclusions FST quantifies residual visual function in ULV RP and correlates strongly with performance-based measures of functional vision in daily life. These findings support FST as a clinically meaningful endpoint for therapeutic trials in advanced RP and other severe visual impairments and highlight the value of anchoring FST thresholds to functional task performance. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.27.26351652v1",
+      "date": "2026-05-04",
+      "abstract": "Abstract Background Schistosomiasis remains a significant neglected tropical disease of public health concern, particularly in Sub-Saharan African countries, including Ghana. For decades, school-based preventive chemotherapy (PC) has been the mainstay of schistosomiasis elimination in Ghana; however, implementation fidelity across districts falls below WHO recommendations, leading to persistent transmission. This study explores contextual factors that influence the implementation fidelity of school-based preventive chemotherapy for schistosomiasis in endemic districts. Methods A phenomenological qualitative study design using a maximum-variation purposive sampling technique was conducted in two endemic districts (Gomoa East and Awutu Senya East) in Ghana, with 21 participants, six key informant interviews with district Neglected Tropical Diseases (NTDs) coordinators and School Health Education Program (SHEP) coordinators, and 15 in-depth interviews with head teachers and SHEP teachers. Recruitment of participants and data collection were conducted from 20/06/2025 to 30/07/2025 using semi-structured interview techniques and were thematically analyzed in NVivo version 15, guided by Braun & Clarke (2006). The thematic analysis blended inductive and deductive coding techniques; inductive allowed themes to emerge from the data, while deductive was guided by Damschroder et al. (2022) Consolidated Framework for Implementation Research (CFIR), and Carroll et al. (2007), a framework for implementation fidelity. Results Implementation fidelity was shaped by the interplay of sociocultural, organizational, and health system factors. Key barriers included socio-cultural beliefs and perceptions on treatment uptake, drug-related fears and adverse reactions, logistical constraints and resource limitations, lack of training and incentives for frontline implementers, inadequate community sensitization and engagement, and gaps in coverage and adherence to program protocols. Conversely, fidelity was much better in situations where awareness had been raised, the community was effectively engaged, frontline implementers were motivated, and collaboration was strong among the health and education sectors, suggesting that high fidelity can be achieved through a systemic response. Conclusion Implementation fidelity of school-based preventive chemotherapy is a context-dependent, system-driven process shaped by the complex interaction of socio-cultural and structural factors. Moving forward, to enhance fidelity and achieve sustained schistosomiasis control requires a shift toward a community-centered delivery approach that emphasizes community sensitization and engagement, reliable logistical support, effective training and motivation for frontline implementers, and intersectoral collaboration. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.29.26352062v1",
+      "date": "2026-04-30",
+      "abstract": "Abstract Sensory processing is a common target in autism spectrum disorder (ASD) research, yet the latent structure of sensory experience is disputed. Researchers frequently explore the presence of “subtypes” to categorize sensory heterogeneity, but such discrete models can fail to capture the intrinsic geometry of phenotypic data. In this study, we aim to characterize heterogeneous sensory profiles in ASD and explore if the same characterization can describe neurobiological function. First, we apply unsupervised spectral manifold dimensionality reduction to item-level Sensory Profile data from a large cohort of autistic participants ( n =223) to compare categorical subtyping against continuous models. The behavioral results reveal unstable and irreproducible subtyping solutions; instead, sensory processing differences are best characterized as a continuous, non-linear manifold of sensory severity. To determine the neurobiological relevance of this sensory gradient, we employed voxel-wise linear mixed-effects modeling of insula-seeded functional connectivity ( n =63). We demonstrate that sensory severity predicts a significant decoupling between the insula and sensorimotor cortices during externally driven stimulation involving motion stimuli, but not during resting state. This finding supports the interpretation that sensory-related neural hypoconnectivity is context-dependent and not reflective of intrinsic traits. Further, we identify a significant sex-by-sensory gradient interaction, indicating heightened sensitivity of connectivity patterns to sensory severity in autistic males. These findings indicate that sensory atypicality in ASD points toward a continuous regulatory manifold linked to disrupted social-sensory integration. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.29.26352039v1",
+      "date": "2026-04-30",
+      "abstract": "Abstract Chronic psychosocial stress (CPS) is associated with adverse brain and mental health outcomes. Effects on the cerebral microvasculature have been proposed as an underlying mechanism, although this remains to be established. Here, we examined the association between CPS and an early marker of microvascular dysfunction, magnetic resonance imaging (MRI)-visible perivascular spaces (PVS). Analyses were conducted in two cohorts of healthy young adults (N = 61; ages 18-43 years; 88% male) using high-resolution 3T MRI and an automated PVS quantification pipeline. CPS was assessed using the Perceived Stress Scale (PSS-10). We applied a two-step meta-analytic framework and controlled for known allostatic factors impacting PVS, including age, body mass index and mean arterial pressure. In accordance with our hypothesis, individuals with higher CPS had significantly higher fractional PVS volumes in the centrum semiovale (CSO), in particular in the frontal and occipital lobes (p FDR < .05). No such effect was found in the basal ganglia, or in the CSO subdivision, parietal, and temporal lobes (p FDR > .09). Our findings indicate that CPS may contribute to subtle, centrum semiovale specific microvascular alterations even in healthy young adults. Future multimodal research including inflammatory marker and blood-brain barrier measures may help to elucidate mechanistic pathways. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.05.26352445v1",
+      "date": "2026-05-06",
+      "abstract": "Abstract Background. Dengue has been a major health threat globally in recent years. In particular, dengue incidences continue to increase annually and the epidemic area has expanded primarily due to global warming. Therefore, effective case detection and surveillance strategies are crucial to tackle this global health challenge. In clinical practice, the rapid test kit detecting dengue non-structural protein 1 antigen and commonly referred as NS1, is widely employed for early diagnosis. However, real-world studies revealed that the sensitivity of the NS1 test kit ranged from approximately 61% to 95%. Since early diagnosis is really critical for disease surveillance in the early stage of a dengue epidemic, scientists have been working hard to develop novel diagnosis methods that can provide higher sensitivity levels. Methodology/Principal Findings. In response to this challenge, in this study, we have developed a novel diagnosis procedure that integrates machine learning technologies with the NS1 test kit. Our experimental results revealed that we would be able to raise the sensitivity of the dengue diagnosis procedure to higher than 99% by incorporating machine learning based prediction models to screen the suspected patients with a negative NS1 result. Furthermore, the relative risks between the suspected patients who were predicted to be positive and those who were predicted to be negative exceeded 4.8. Conclusions/Significance. These results illustrate that the proposed approach provides an effective and efficient diagnosis procedure to address the global health challenge caused by spread of dengue. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.03.26352343v1",
+      "date": "2026-05-05",
+      "abstract": "Abstract Background: Non–steroidal anti–inflammatory drugs (NSAIDs) and weak opioids such as tramadol are cornerstones of multimodal analgesia, particularly in settings with limited access to potent opioids. However, cross–class equianalgesic data comparing these agents remain scarce. This pilot randomised controlled trial aimed to explore the analgesic equivalence of ketorolac, diclofenac, and tramadol administered as premedication in patients undergoing minimally invasive surgery. Methods: In this double–blind, parallel–group pilot trial, 30 patients scheduled for elective minimally invasive surgery (28 laparoscopic cholecystectomies, 2 laparoscopic abdominal wall repairs) under balanced general anaesthesia were randomised to receive intravenous tramadol 150 mg, ketorolac 60 mg, or diclofenac 150 mg 45 minutes before skin incision. The primary outcome was pain intensity measured using the Numerical Rating Scale (NRS, 0–10) at recovery room arrival (T0) and at 30 (T1), 60 (T2), and 90 (T3) minutes thereafter. Secondary outcomes included Verbal Rating Scale (VRS) scores, rescue morphine consumption, and safety. Between–group comparisons were performed using Kruskal–Wallis tests with Dunn post–hoc corrections; within–group trajectories were analysed using Friedman tests. Effect sizes were estimated with epsilon–squared and Kendall's W. Results: All 30 patients completed the study. At T0 and T1, NRS scores were higher in the ketorolac group (median 1.5 and 3, respectively) compared with tramadol and diclofenac (both median 0 at T0; T1: tramadol 1, diclofenac 2; p < 0.05 for both). However, by T2 and T3, all three groups converged to a median NRS of 2 (p > 0.05 for between–group differences). Rescue analgesia requirements at T1 were 0/10 (tramadol), 3/10 (ketorolac), and 2/10 (diclofenac), with no statistically significant differences (p = 0.19). No hypersensitivity reactions occurred. Within–group analyses showed consistent pain trajectories, with Kendall's W ranging from 0.31 (ketorolac) to 0.64 (tramadol). Conclusions: In this pilot study, equianalgesic doses of tramadol, ketorolac, and diclofenac provided comparable postoperative pain control over 90 minutes following minimally invasive surgery. All agents were well tolerated. These findings support the feasibility of a larger definitive trial and offer clinically useful guidance for analgesic selection in resource-limited settings. Keywords: Analgesic equivalence, NSAIDs, tramadol, ketorolac, diclofenac, postoperative pain, minimally invasive surgery, pilot randomised controlled trial ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.02.26352297v1",
+      "date": "2026-05-04",
+      "abstract": "Abstract Neurosurgical and neuromodulation therapies such as deep brain stimulation (DBS) require millimeter-level accuracy to effectively target functional brain regions. Yet, many neuroanatomical boundaries remain invisible to current imaging and electrophysiology methods, limiting precision and contributing to suboptimal patient outcomes. Here, we introduce a self-supervised artificial intelligence (AI) framework that learns to delineate functional subregions directly from the spectral content of intraoperative local field potential (LFP) recordings, without the need for predefined biomarkers or anatomical labels. The framework identifies physiologic structure across the full spectrum of the signal and, through explainable AI (XAI), reveals the specific frequency components underlying these distinctions. Validated in the subthalamic nucleus (STN), the model aligned with clinically defined borders and rediscovered known beta oscillations. Applied to the motor thalamus in tremor patients, it consistently identified functional transitions corresponding to the ventral oralis posterior (Vop) and ventral intermediate (Vim) nuclei—regions where conventional methods fail to provide reliable boundaries. To assess clinical relevance, physiologically defined clusters were functionally evaluated using monopolar review data at their first DBS clinic postoperative visit, demonstrating distinct stimulation-response profiles across clusters and linking electrophysiologic segmentation to clinically meaningful programming outcomes. These findings demonstrate that intraoperative LFP recordings can be transformed into both a real-time guidance resource and a data-driven platform for biomarker discovery, establishing a foundation for more precise, individualized neuromodulation therapies and advancing our understanding of functional brain organization. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.11.14.25340276v2",
+      "date": "2026-05-05",
+      "abstract": "Abstract Efficient clinical trial recruitment in oncology is constrained by the need to interpret long, heterogeneous electronic health records (EHRs) that remain largely unstructured and difficult to automate. We present Patient2Sentence (P2S), a large language model-based framework that performs semantic compression of full oncology EHRs into concise, standardized natural-language patient sentences while preserving eligibility-defining clinical logic. Using 75 fully synthetic EHRs modeled after the KATHERINE, MONARCH-E, and OLYMPIA breast cancer trials, we compared trial eligibility classifications derived from full clinical narratives with those obtained exclusively from compressed patient sentences. Eligibility decisions were evaluated against expert adjudication using agreement metrics and paired statistical testing. Sentence-based classifications achieved 94.7% concordance with expert judgments (Cohen's kappa = 0.83), with no statistically significant difference in diagnostic accuracy compared to full-record assessments (McNemar's p = 1.00), demonstrating non-inferiority of semantic compression for eligibility screening. Trial-specific agreement reached 100% for MONARCH-E, 96% for OLYMPIA, and 88% for KATHERINE, indicating robust performance across heterogeneous eligibility criteria. Semantic compression reduced token consumption by an average of 67.1%, corresponding to a threefold gain in computational efficiency without loss of reasoning fidelity. By reformulating complex oncologic records into human-interpretable, semantically dense sentences, P2S provides an explainable, scalable, and privacy-preserving approach to AI-assisted trial screening. This framework advances biomedical computing by enabling interoperable processing of unstructured clinical narratives and supports the integration of large language models into translational research workflows aimed at accelerating clinical trial recruitment. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.01.26352200v1",
+      "date": "2026-05-03",
+      "abstract": "Abstract Aims/hypothesis Type 2 diabetes (T2D) frequently co-occurs with other chronic conditions and has been suggested as a key driver of multimorbidity development. However, the temporal dynamics of how T2D influences multimorbidity progression are not well understood. We aimed to investigate how T2D influences the rate of multimorbidity progression. Methods We analyzed data from the UK Biobank, a prospective population-based cohort study (n=502,368, median age 58 years [range 37–73 years], 46% male at baseline) with a median follow-up of 15.3 year. 8.7% of participants were diagnosed with T2D over the follow-up period. We counted the current number of morbidities (among 80 long-term chronic conditions) identified through hospital admission records using ICD-10 diagnosis codes. We modeled the age-specific transition rates between multimorbidity states using multistate models tailored for time-split data (i.e., 2 to 3 morbidities, T2D (with 1 morbidity) toT2D (with 2 morbidities), etc.). Age was modeled using natural splines with an interaction term with T2D, adjusting for sex, education, ethnicity, smoking, and body mass index. Results The total follow-up time was 7.5 million person-years (PY), of which 0.33 million PY was in T2D. Individuals with T2D consistently experienced higher transition rates between morbidity transition states. For example, the transition rate from 2 to 3 morbidities was 7.94 per 100 PY without the presence of T2D, compared to 18.35 per 100 PY with T2D (rate ratio=2.31, 95% CI: 2.28-2.34). The excess in transition rates was most pronounced from states with few comorbidities. Further, the transition rates were consistently influenced by T2D status and age, with younger individuals with T2D showing the most accelerated progression. Conclusion/interpretation Our study suggests that T2D is associated with accelerated development of subsequent multimorbidity, highlighting T2D as a critical contributor of chronic disease accumulation. The progression of disease accumulation is more pronounced in younger age groups, which suggests different underlying mechanisms of multimorbidity progression across age, warranting further investigation. The findings indicate the need for early intervention among younger people with T2D to slow multimorbidity progression. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.29.26351926v1",
+      "date": "2026-04-30",
+      "abstract": "Abstract Background Menarche is a critical developmental milestone, with earlier onset associated with adverse long-term health consequences. Despite a reported global decline in age at menarche over the last century, this trend and its determinants remain insufficiently studied in Spain. Objective To assess secular trends in age at menarche and its determinants in the Valencian Community, Spain. Methods This population-based study included 417,260 participants born between 1931 and 2008. First, secular trends in age at menarche were assessed using time-series models across 5-year birth cohorts for the overall population. Then, participants were categorized as either women (born 1931–1985) or girls (born 1990–2008), and Bayesian linear regression models were fitted for each group, adjusting for birth cohort and continent of birth in all models, and additionally for educational level in women and body mass index (BMI) in girls. Results Mean age at menarche decreased by 1.9 years, from 13.1 to 11.1, between the 1931–1935 and 2006–2008 birth cohorts, with a steeper decline after 1975. Compared to Europeans, women born in South/Central America (β[95% CI]: 0.33[0.30, 0.36] years) and Africa (0.52[0.45, 0.58] years) experienced later menarche, while girls from South/Central America experienced earlier onset (−0.18[−0.28, −0.09] years). In girls, lower BMI was associated with later menarche (0.96[0.74, 1.18] years) and higher BMI with earlier onset (−0.53[−0.57, −0.48] years). Conclusion There was a marked decline in age at menarche in the Valencian Community, with no evidence of leveling off. Key determinants included continent of birth (with cohort-specific effects) and BMI. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.30.26351819v1",
+      "date": "2026-05-01",
+      "abstract": "Abstract text Background As hepatitis A (HA) incidence declines in Europe and infections occur later in life, clinical presentations may worsen, particularly during outbreaks involving adults. Aim We analysed temporal trends and factors associated with severe disease and mortality among patients hospitalised for HA in France between 2013 and 2024. Methods ICD-10 codes B150 or B159 as primary discharge diagnosis were used to identify HA cases from the National Discharge Data Set. Severity (hepatic and/or extrahepatic organ failure within 12 weeks post-admission) and mortality were analysed using adjusted odds ratios in original and propensity-matched samples. Trends were assessed across five periods covering the 2017 epidemic and COVID-19, with 2013–2016 as reference. Results Among 7,928 cases (60.6% male; median age 30) 29.1% developed severe HA, and 1.43% died. Risk of severe HA increased with age (+17% of risk per decade, p < 0.001), male sex (+39%, p < 0.001), smoking (+25%, p=0.024), liver risk factors (+32%, p=0.026), and cirrhosis (+48%, p = 0.024). Risk of death increased with cirrhosis (3.55-fold, p < 0.001) and high Charlson Comorbidity Index (CCI) (9.95-fold, p < 0.001), but not with advanced age. Compared with 2013–2016, severe HA increased by 60% (p<0.001) and case fatality increased 2.22-fold (p=0.003) in 2021–2024. Conclusions HA severity and mortality have increased in France over the last decade, with advanced age and male sex increasing severity but not mortality, and high CCI limiting access to organ support, thereby increasing mortality in frail patients. Our findings highlight the need for targeted prevention and optimized care strategies for high-risk groups. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.04.26352369v1",
+      "date": "2026-05-05",
+      "abstract": "Abstract Objectives This study aimed to compare exercise-induced changes in serum and salivary concentrations of cardiac troponin-I (cTnI) in athletes during and after a marathon. Methods Thirty-six male runners were recruited. Eighteen participants in group 1 completed a marathon (42.195 km), while eighteen participants in group 2 did not undergo this exercise. Blood and saliva samples were collected at twelve different time points and then analyzed for cTnI using an immunoassay. Results Biphasic cTnI release into the circulation was observed during and after the marathon. Moreover, a similar pattern of biphasic cTnI elevation was found in saliva. In group 1, salivary and serum concentrations of cTnI first peaked after 60 min of exercise (0.67±0.08 ng/mL and 0.76±0.07 ng/mL), decreased slightly towards the end of the marathon (0.40±0.06 ng/mL and 0.46±0.06 ng/mL), and then reached a second, higher peak 4 h post-exercise (0.72±0.09 ng/mL and 0.82±0.09 ng/mL), returning to baseline by 48 h after marathon completion (0.16±0.04 ng/mL and 0.18±0.04 ng/mL). In group 2, there were no time-dependent changes in cTnI concentrations in both saliva and serum. Deming regression and Passing—Bablok regression demonstrated that there was proportional agreement between salivary and serum levels of cTnI in both groups at all twelve time points. The Bland—Altman method revealed that there was a negative differential bias but no proportional bias in the data. Conclusions Documenting a similar, biphasic pattern of cTnI elevations in saliva and serum during and after the marathon provides a reliable non-invasive alternative without requiring a blood draw. ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.05.26352469v1",
+      "date": "2026-05-06",
+      "abstract": "Abstract INTRODUCTION: Mounting evidence support exposome influences on brain function and health, complementing genome influences. Understanding the molecular imprint of exposome on brain metabolism and the biochemical communication between the body and brain can impact our fundamental understanding and treatment of neuropsychiatric diseases. METHODS: Leveraging two complementary metabolomics platforms, we classified 1400 features in 514 brains from the ROSMAP collection. We evaluated the origin of these compounds using literature and databases. We correlated those metabolites with cognitive function using linear models. RESULTS: We identified over 230 non-endogenous compounds in the brain, including 103 drugs and metabolites, 120 dietary and microbial products and possibly 15 compounds from environmental exposures. Over 20 dietary and gut microbial compounds showed associations with cognition. DISCUSSION: Comprehensive profiling of chemicals in the brain and the link to cognitive function provides foundational work to connect body and brain in the study of AD and related dementias. ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.05.26352461v1",
+      "date": "2026-05-06",
+      "abstract": "Abstract The genetic contributions of the X chromosome to Alzheimer's disease (AD) remain poorly understood yet are expected to importantly shape sex differences in AD. We therefore performed large-scale X-chromosome-wide association studies (N=1,240,451), evaluating differential risk due to sex, APOE*4, and escape from X-chromosome inactivation, finding most X-linked loci appear relevant to female-biased AD etiology. In evaluating genetic pleiotropy with hormonal, lipid, and brain imaging traits, we discovered X-linked AD loci converged on white matter traits, particularly in the anterior corona radiata and splenium of the corpus callosum. Through brain-centric functional genomics analyses, we then nominated candidate causal genes, including 5 that appeared highly robust. Notably, we found the escape gene RBBP7 decreases AD risk in APOE*4 carriers likely through higher expression in excitatory neurons to counter tau-related neurodegeneration. Altogether, we provide an atlas of sex and APOE*4-informed candidate X-linked AD risk loci, genes, and mechanisms that will guide future studies. ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.03.19.25324246v2",
+      "date": "2026-05-06",
+      "abstract": "Abstract Background Major Depressive Disorder is complex and moderately heritable, with heritability estimates ranging from 30% to 40%. Major depressive disorder (MDD) is a significant comorbidity in people living with HIV (PLWHIV), where it is associated with non-adherence to anti-retroviral treatment, increased risk of suicide-related behaviors among others. This study investigated the genetic risk loci associated with MDD among adult PLWHIV in Uganda. Methods The case-control study analyzed 282 samples (139 MDD cases and 143 controls), who were assessed for MDD using the Mini International Neuropsychiatric Interview. The DNA of study participants was genotyped at the Center for Proteomic and Genomic Research in South Africa using the H3Africa array (version2). Data were analyzed using PLINK2 and GEMMA softwares for quality control and genome-wide association analysis respectively, followed by functional mapping with FUMA software. Results While no significant single nucleotide polymorphisms (SNPs) were identified at the genome-wide threshold, three independent SNPs were found to be suggestively associated with MDD with the most significant being rs4375916 on chromosome 2 (p=1.086x10⁻⁷), followed by rs1075618 on chromosome 3 (p=3.093x10⁻⁷) and rs953855 on chromosome 13 (p=4.906x10⁻⁷). These SNPs have been found to be linkage disequilibrium (LD) with SNPs previously associated with other psychiatric conditions like Alzheimer's, alcohol use disorder, and bipolar disorder, although they have not previously been linked to MDD. Gene-set enrichment analysis revealed associations with key biological processes including synaptic organization suggesting potential involvement in the pathophysiology of MDD. Conclusion This study provides preliminary evidence for genetic contributors to MDD in PLWHIV of African ancestry. While larger, adequately powered studies are needed, our findings emphasize the importance of investigating psychiatric genetics in HIV populations, where depression represents a critical comorbidity influencing treatment outcomes. ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.05.26352474v1",
+      "date": "2026-05-06",
+      "abstract": "Abstract The liver and heart are tightly interconnected organs, and liver disease is frequently accompanied by cardiovascular dysfunction, including heart failure. Despite this clinical association, the mechanisms by which liver-derived endocrine signals influence cardiac gene programs and disease susceptibility remain poorly defined. Inter-organ endocrine communication is increasingly recognized as a key regulator of systemic physiology, including cardiac function, but a comprehensive understanding of liver-heart communication is lacking. Here we use an unbiased, population-based systems genetics approach in a genetically diverse mouse cohort to identify liver-derived secreted factors associated with cardiac transcriptomic variation. This analysis reveals hepatocyte growth factor activator (HGFAC) as a candidate mediator of inter-organ communication. Cross-tissue analysis of human genetic and transcriptomic datasets further suggests a conserved relationship between hepatic HGFAC expression and cardiac gene programs. These observations implicate a previously unrecognized liver-heart axis that appears to contribute to heart failure pathophysiology across species. ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.04.26352055v1",
+      "date": "2026-05-04",
+      "abstract": "Abstract The plasma proteome provides a molecular bridge between genetic variation and disease risk, yet its contribution to breast cancer susceptibility across ancestries remains unclear. We conducted a proteome-wide Mendelian randomization (MR) study of 2,923 plasma proteins using cis -protein quantitative trait loci from 34,557 European participants in the UK Biobank Pharma Proteomics Project, integrated with genome-wide association studies of 156,901 breast cancer cases and 204,634 controls of European, East Asian, and African ancestries. Cross-ancestry meta-analysis identified 12 candidate proteins associated with breast cancer risk ( P < 2.5×10 -5 ), including six previously reported and six newly implicated in MR studies. DNPH1 showed cross-ancestry heterogeneity, with a risk-increasing association in European populations and a nominally inverse association in East Asian populations. CASP8, RALB, and USP28 displayed subtype-differentiated associations. Orthogonal validation provided variable support: six demonstrated strong evidence of statistical colocalization; four replicated in an independent European proteomic dataset (deCODE, n = 35,559); two replicated in an independent East Asian proteomic dataset (JCTF, n = 1,384); and four were supported by polygenic-score analyses in the ancestrally diverse All of Us cohort (9,250 cases, 214,857 controls). These findings prioritize a high-confidence subset of plasma proteins, including LRRC25, PARK7, and LRRC37A2, for future mechanistic and translational investigation. ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.02.26352058v1",
+      "date": "2026-05-04",
+      "abstract": "Abstract Induction of broadly neutralizing antibodies (bnAbs) remains a central goal of HIV vaccine development. In the HVTN300 clinical trial ( NCT04915768 ), we evaluated an HIV CH505 transmitted/founder (TF) envelope trimer designed to prime naive B cell precursors of the CD4 binding site (CD4bs) class of bnAbs that use a CDRH3-dominated binding mode. Autologous tier 2 serum neutralizing activity was detected in 9 of 11 vaccinees, and neutralizing B cells were isolated from all participants. CD4bs-directed, CDRH3-binder bnAb precursors were identified in 8 of 11 vaccinees (73%), including one lineage with nascent heterologous breadth that neutralized 6% of global HIV isolates. Cryo-EM structures confirmed CD4bs CDRH3-binder modes of engagement and additionally revealed vaccine-induced V1/V3-directed antibodies and a neutralizing lineage targeting the gp120/gp41 interface. Together, these results demonstrate that the CH505 TF trimer primes a diverse, polyclonal neutralizing B cell repertoire in humans, providing multiple entry points for sequential boosting strategies to achieve HIV bnAb breadth. ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.28.25331845v1",
+      "date": "2026-05-04",
+      "abstract": "Abstract Aims This study aimed to explore the relationship between gut microbiota composition, obesity, and the effects of a dietary intervention in 50 participants with obesity diagnosis from Antioquia, Colombia. Methods A single-blind intervention study was conducted, with 25 participants assigned to a control group (CG) and 25 to an intervention group (IG), these last followed a microbiota-enhancing dietary plan for 90 consecutive days. Gut microbiota changes were assessed by sequencing region V3-V4 of 16S rRNA gene and applying the analytical methodology of Biomatest® gut health index. Blood biomarkers, including HbA1C, cholesterol, HDL, LDL, triglycerides, and glucose, were measured at baseline and post-intervention. Results Prevotella and Succinivibrio were prevalent in the study population. The IG showed significant increases in gut microbial diversity (Shannon index) from baseline to post-intervention. Both groups exhibited significant changes in the Biomatest gut health index, with significant improvements in the IG. Significant correlations were found between dietary intake, blood biomarkers, and microbial abundances, such as the direct association between serum glucose and ultra-processed food intake and between total cholesterol and Dialister . Fish and seafood consumption correlated positively with Akkermansia , while egg intake was associated with higher levels of Desulfovibrio, and Lactobacillus with decreased glycated hemoglobin. The IG experienced a significant rise in Roseburia , a gut health biomarker, while the CG showed higher levels in inflammatory groups like Fusobacteriota . Conclusions Dietary intake significantly influences gut microbiota composition and blood biomarkers. Nutritional programs that improve gut microbiota, as demonstrated by the IG, positively impact gut health in people with obesity diagnosis and may influence healthier dietary choices. These findings support integrating microbiota diagnostics into personalized nutrition strategies, contributing valuable data on Latin American populations. Download figure Open in new tab ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.01.26352185v2",
+      "date": "2026-05-05",
+      "abstract": "Abstract In recent years, detection of local dengue cases in Florida have increased in both frequency and geographical extent. From 2022 to 2024, consecutive outbreaks in Miami-Dade County were mainly caused by a single lineage of dengue virus (DENV) serotype 3, prompting questions about changing epidemiology and a transition towards endemicity. In this study, we used mathematical modeling and genomic epidemiology to reveal the spatiotemporal dynamics and drivers of local dengue cases in Florida. We found that annual clusters and outbreaks were caused by frequent short-lived DENV introductions, primarily from the Caribbean, and did not find evidence for local trans-seasonal DENV lineage persistence. Further, we show that the climate-driven increases in local suitability for Aedes aegypti transmission and travel-associated cases were the greatest risk factors for outbreaks in Miami-Dade and the geographic expansion of dengue in Florida. Overall, while we do not yet find evidence for endemicity, we demonstrate how climatic trends are enhancing the local public health risk caused by dengue in Florida. ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.24.26350928v1",
+      "date": "2026-05-04",
+      "abstract": "Abstract Background Leptospirosis is a re-emerging zoonosis in French Guiana, with broad and sometimes misleading clinical spectrum. Neurological involvement, referred to as neuroleptospirosis, lacks a consensus definition. Therefore, it is likely underrecognized, raising concerns about missed diagnosis and potentially poor outcomes. This study aimed to characterize the epidemiology, clinical features and outcomes of neuroleptospirosis. Methodology/ Principal findings A multicenter retrospective study was conducted across all public healthcare facilities of French Guiana (2015-2021). Neuroleptospirosis was defined by the combination of (i) neurological symptoms and (ii) objective evidence of neurological involvement based on cerebrospinal fluid (CSF) analysis and/or neuroimaging. Cases were compared with leptospirosis without neurological involvement. Among 146 consecutive hospital-managed cases of leptospirosis, 18 (12%) met criteria for neuroleptospirosis (incidence 0.88 cases/100,000 inhabitants/year; 95% CI 0.52-1.39). Among them, 78% (14/18) presented a meningeal syndrome, 22% (4/18) an encephalitic syndrome, and 17% (3/18) showed paresthesia. Lumbar puncture was performed in 28/146 (19%) patients, with pleocytosis observed in 18/28 (64%) patients; median CSF leukocyte count was 42 cells/mm 3 (range 13-240/mm 3 ), with lymphocytic predominance in 8/13 (62%), a slight protein level (median 0.51 g/l, range 0.32-0.88) and no hypoglycorachia. Brain MRI revealed abnormalities in 2/8 (25%) cases of neuroleptospirosis: one cerebral infarct and one pachymeningitis. Compared with patients without neurological involvement, factors associated with a diagnosis of neuroleptospirosis were an age <30 years ( p= 0.004, 95% CI 1.72-18), no leukocytosis ( p= 0.042, 95% CI 1.04-10.39) nor thrombocytopenia ( p= 0.012, 95% CI 1.39-14.32) during hospitalization. Neuroleptospirosis cases had milder disease: they less often progressed to sepsis (OR 0.28; 95% CI 0.10-0.79); none required intensive care admission nor died. Discussion/Conclusions This study provides new insights into the clinical spectrum and outcomes of neuroleptospirosis in French Guiana. Prospective studies incorporating a consensus definition, systematic CSF analysis and microbiological testing are warranted to further characterize the pathophysiology and optimize diagnostic strategies for neuroleptospirosis. Author summary Leptospirosis is a re-emerging infection in French Guiana, with a broad range of clinical presentations. Yet, its neurological manifestations—referred to as neuroleptospirosis — remain likely underrecognized, lacking a consensus definition. We conducted a multicenter retrospective study to describe the epidemiological, clinical features and outcomes of neuroleptospirosis. Then, we compared cases with non-neurological leptospirosis. We used a standardized definition of neuroleptospirosis, based on neurological symptoms associated with cerebrospinal fluid analysis and/or neuroimaging. Neuroleptospirosis accounted for one tenth of leptospirosis cases. Clinical presentation was largely dominated by meningitis (three quarters of cases). Laboratory parameters showed lower rates of leukocytosis and renal involvement. CSF profiles revealed moderate lymphocytic pleocytosis, closely mimicking viral infections. Strikingly, compared with non-neurological forms, neuroleptospirosis cases exhibited fewer severity markers and uniformly favorable outcomes, with lower sepsis, no deaths nor need for intensive care admission. Factors associated with a diagnosis of neuroleptospirosis were an age lower than 30, the absence of hyperleukocytosis and thrombocytopenia during hospitalization. Neuroleptospirosis accounted for a non-negligible proportion of leptospirosis cases in French Guiana, exhibiting CSF features mimicking viral meningitis, and carrying excellent outcomes. Increasing awareness and improving recognition of this presentation is essential to reduce underdiagnosis and ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.23.26351499v2",
+      "date": "2026-05-05",
+      "abstract": "Abstract Purpose: To test whether histology-derived gene-expression signatures from routine hematoxylin and eosin slides are prognostic for recurrence and predictive of chemotherapy benefit in early breast cancer. Methods: We conducted a multi-cohort study including CALGB 9344 (anthracycline +/- paclitaxel), CALGB 9741 (standard vs dose-dense chemotherapy), a pooled Chicago real-world cohort, and the American Cancer Society (ACS) Cancer Prevention Studies-II and -3. Whole-slide images were processed with a previously described pipeline to generate 61 histology-derived signatures per patient. The primary endpoint was distant recurrence-free interval (DRFI), except in ACS, where breast cancer-specific survival was used. Secondary endpoints include distant recurrence-free survival (DRFS) and overall survival. The most prognostic signature in CALGB 9344, selected by Harrell's C-index, was evaluated in additional cohorts. Signature-treatment interaction was assessed by likelihood-ratio tests. Multivariable Cox models incorporating age, tumor size, nodal status, estrogen/progesterone receptor status, and signature were fit in CALGB 9344 to improve risk stratification. Results: A total of 7,170 patients were included across four cohorts. The top histology-derived signature in CALGB 9344 showed strong prognostic performance for 5-year DRFI (C-index 0.63) and performed well across validation cohorts (C-index 0.60, 0.70, and 0.62 in CALGB 9741, Chicago, and ACS, respectively). The strongest predictive signal for treatment benefit was observed for DRFS. High-risk cases identified by the signature demonstrated greater benefit from taxane in CALGB 9344 (adjusted hazard ratio [aHR] 0.76 for DRFS, 95% CI 0.66-0.88; interaction p=0.028), from dose-dense chemotherapy in CALGB 9741 (aHR 0.69, 95% CI 0.56-0.85; interaction p=0.039), and differential chemotherapy benefit in the Chicago cohort (aHR 0.84, 95% CI 0.59-1.21; interaction p=0.009). Combined clinical-histology models improved risk stratification and identified low-risk groups with a 2%-10% risk of distant recurrence or breast cancer death. Conclusion: Histology-derived signatures from H&E images are broadly prognostic and, unlike clinical factors, may predict chemotherapy benefit. ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.15.26350949v3",
+      "date": "2026-05-03",
+      "abstract": "ABSTRACT Background and Objectives Hereditary transthyretin amyloidosis (hATTR) manifests as cardiomyopathy and/or polyneuropathy. Patients may be thought to have neuropathy for a variety of reasons, but the clinical evidence supporting that impression varies. We used ICD-10 coding to broadly capture patients thought to have neuropathy in a V142I-predominant cohort and examined what clinical documentation actually supported the diagnosis and whether documentation level influences treatment selection. Methods Retrospective chart review of 54 patients identified by co-occurring ICD-10 codes for hereditary transthyretin amyloidosis and polyneuropathy at a major academic medical center, with pathogenic TTR variant confirmation. Neuropathy codes were then classified by the level of clinical evidence supporting the diagnosis. Treatment with TTR stabilizers and gene silencers was assessed. Results Of 54 patients (88.9% African American, 85.2% V142I), 51 (94.4%) had confirmed cardiac involvement with 40/42 eligible (95.2%) receiving stabilizers. Sixteen patients (29.6%) received gene silencers, with 13 receiving both concurrently. Clinical evidence supporting the neuropathy code was identified in 30 patients (55.6%): ancillary testing confirmation in 17 (31.5%), provider documentation without ancillary testing in 13 (24.1%), and symptoms only in 10 (18.5%). The remaining 14 (25.9%) had no clear clinical basis for the code. Gene silencer use was highest among those with ancillary testing (47.1%) versus symptoms only (10.0%). Discussion Among hATTR patients coded for neuropathy, only 31.5% had ancillary testing confirmation. Gene silencer use tracked with documentation quality rather than the presence of a code alone. These findings highlight the gap between administrative coding and clinical documentation and support standardized neurological assessment in hATTR. ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.29.26351681v1",
+      "date": "2026-04-30",
+      "abstract": "A bstract Machine learning models that can utilize high-dimensional data to make predictions and derive biological insights can improve understanding of diseases. Here, we develop a biologically annotated neural network model for proteomics data (P-BANN) which has several practical advantages: (1) it incorporates known relationships between proteins and signaling pathways into its architecture design; (2) it uses Bayesian principles to enable variable selection on the most important proteins for a disease of interests; and (3) it combines structured and black-box variational inference to analyze different classes of phenotypes at scale. To demonstrate the value of the approach, we apply P-BANN to one of the most common neurodegenerative disorders: Parkinson’s disease (PD). We consider two biomarker-defined phenotypes within the PD population: presence of neuronal-predominate aggregated α -synuclein in cerebrospinal fluid, and changes in dopamine transporter binding in the striatum on imaging. By considering biomarkers of both neuropathological hallmarks of PD, we can examine the extent to which their underlying biology is connected. Using the P-BANN framework, we discover sparse, statistically-calibrated sets of proteins which map to pathways, enabling more straightforward interpretation and generation of testable hypotheses. ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.03.29.26349664v2",
+      "date": "2026-05-02",
+      "abstract": "Abstract Background Severe cytokine release syndrome (CRS) and immune effector cell-associated neurotoxicity syndrome (ICANS) remain frequent, life-threatening complications of CD19 chimeric antigen receptor (CAR) T-cell therapy and constrain its safety, scalability, and outpatient adoption. Existing predictive models lack sufficient external validation for routine clinical use, and pre-infusion biomarkers that capture host susceptibility before infusion are urgently needed. Methods We applied unbiased mass-spectrometry-based proteomics to pre-infusion biofluids from 98 prospectively-followed adults with relapsed/refractory (r/r) lymphoma at two academic centers (MD Anderson Cancer Center, n = 39, plasma; Moffitt Cancer Center, n = 59, serum). Logistic regression with backward feature selection on the MD Anderson cohort yielded panels for severe (Grade ≥ 2) CRS and ICANS that were locked and tested without refitting on the Moffitt cohort. Patients were stratified into low-, intermediate-, and high-risk tertiles. Ingenuity Pathway Analysis defined upstream regulators and canonical pathways. The 17 CRS-associated and 21 ICANS-associated consensus proteins were classified into mechanistic themes for biological interpretation. Results A 5-marker CRS panel (SCRIB, MYL6, MTHFD1L, HSP90B1, MMP2) achieved AUCs of 0.85 (95% CI 0.72–0.98) and 0.76 (0.63–0.89) in the discovery and validation cohorts, respectively. An expanded 8-marker ICANS panel (the CRS panel plus SPOCK2, SLC3A2, CD84) achieved AUCs of 0.91 (0.81–1.00) and 0.67 (0.51–0.84). In the combined dataset, high-risk-tertile patients were 13.84-fold (95% CI 4.21–56.26) and 8.59-fold (2.87–29.09) more likely to develop Grade ≥ 2 CRS and ICANS, respectively. Pathway analysis converged on AKT-driven inflammation and endothelial activation. Functional clustering of the consensus proteins partitioned into mechanistically coherent themes consistent with a dual-anatomy model: severe CRS reflected peripheral macrophage priming and endothelial activation with surplus complement amplification (HSP90B1▴, CSF1▴, MMP2▴, HEG1▴, C3▴) and endotheliopathic coagulation (PROC▾, F7▾), whereas severe ICANS reflected cerebrovascular junction and basement-membrane stripping (CDH5▾, ITGB1▾, FN1▾, brain-enriched SPOCK2▾), hepatic synthetic suppression (TTR▾, APOA2▾, IGFBP3▾), compromised plasma antioxidant capacity (GPX3▾, PON1▾), and inflammasome dis-restraint via DPP9▾. PGLYRP2 and SCRIB depletion were shared by both signatures and identified a common upstream priming substrate. Conclusions Externally validated, pre-infusion proteomic panels predict severe CRS and ICANS following CAR T-cell therapy and define a coherent pre-infusion endothelial–immune priming axis (HSP90B1, MMP2, AKT) with mechanistically interpretable, druggable nodes. The dual-anatomy framework distinguishes peripheral CRS-biased from cerebrovascular ICANS-biased phenotypes downstream of a shared microbiome-host barrier priming substrate, providing a foundation for biomarker-guided risk stratification and cluster-matched prophylactic intervention to enhance the safety and outpatient feasibility of CAR T-cell therapy. ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-07",
+      "date_window_start": "2026-04-30",
+      "date_window_end": "2026-05-07",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.30.26352100v1",
+      "date": "2026-05-01",
+      "abstract": "Abstract Background Rapid identification of pathogens and antimicrobial resistance (AMR) in bloodstream infections (BSIs) is critical for timely clinical management. Although blood culture is the reference standard, it is limited by turnaround time and incomplete resolution of resistance mechanisms. We evaluated metagenomic next-generation sequencing (mNGS) applied to flagged positive blood culture bottles to enhance diagnostic resolution and inform targeted molecular approaches. Methods Fifty-five flagged positive blood culture bottles from a tertiary care hospital in Bengaluru, India, were analyzed. Shotgun mNGS was performed directly on blood culture broth and compared with routine phenotypic identification and antimicrobial susceptibility testing (AST) from corresponding isolates. Antimicrobial resistance genes (ARGs) and plasmid replicons were profiled. Results mNGS showed high concordance with routine culture for pathogen identification (54/55; 98.2%) and improved species-level resolution across bacterial and fungal pathogens. Genotypic resistance profiles were consistent with phenotypic AST, identifying β-lactamases, efflux-associated determinants, and target modification mechanisms. Diverse ARGs and plasmid replicons (Inc-, Col-, and rep-family) were detected, providing genomic context for resistance. Sequencing predominantly reflected the cultured organism, supporting high specificity in flagged blood culture material. Conclusions mNGS applied to flagged blood culture bottles enables high-resolution characterization of pathogens and resistance determinants at a clinically actionable stage. The genomic insights generated provide a framework for developing targeted multiplex PCR assays that can reduce turnaround time and improve affordability compared with sequencing-based approaches. This strategy supports the use of mNGS as an adjunct to conventional diagnostics and as a bridge toward scalable, rapid, and cost-effective solutions for BSI diagnosis and AMR surveillance. ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
