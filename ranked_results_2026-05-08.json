@@ -1,0 +1,199 @@
+{
+  "bispecific_antibodies": [
+    {
+      "date_scraped": "2026-05-08",
+      "date_window_start": "2026-05-01",
+      "date_window_end": "2026-05-08",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.15.26350980v2",
+      "date": "2026-05-07",
+      "abstract": "Abstract The ABACUS study was a single arm, phase II trial evaluating neoadjuvant atezolizumab in operable urothelial carcinoma. Initial bulk transcriptomic and immunohistochemistry analyses suggested links between immune activation, tissue remodeling, and resistance pathways such as transforming growth factor beta that were associated with clinical outcome. To further characterize spatial and phenotypic changes at high resolution, artificial intelligence assisted digital image analysis of hematoxylin and eosin sections and spatial transcriptomics were performed on paired tissue samples. In baseline samples, cells residing in lymphoid aggregates and tertiary lymphoid structures were more abundant in stable disease than in relapse and exhibited gene expression programs associated with improved survival in urothelial carcinoma. Most spatial features reflected shared pharmacodynamic changes between stable disease and relapse; however, carcinoma- endothelial adjacency was reduced significantly following treatment and differed between groups, accompanied by distinct transcriptional programs. Together, these findings indicate that atezolizumab induces localized immune and stromal remodeling within the tumor microenvironment, while non-response despite immune expansion is associated with persistent spatial immune exclusion and carcinoma-endothelial adjacency. Spatial and phenotypic biomarkers identified here may inform rational combination strategies for immune checkpoint inhibitor refractory urothelial carcinoma. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager",
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-08",
+      "date_window_start": "2026-05-01",
+      "date_window_end": "2026-05-08",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.30.26352161v1",
+      "date": "2026-05-03",
+      "abstract": "ABSTRACT Understanding the immune response against HIV-1 and the natural resistance exhibited by HIV-exposed Seronegative Individuals (HESN) offers the possibility of proposing new control strategies. Several studies suggest an important role of HLA and KIR genes in protecting against HIV-1 infection. Moreover, there is an important gap in the knowledge of these genetic factors in seronegative Latin American men who have sex with men (MSM), a population largely underrepresented in HIV immunogenetic studies. This study aimed to identify HLA and KIR genetic profile associated with potential resistance to HIV-1 acquisition, in a cross-sectional study including a cohort of 60 HIV-1-seronegative Colombian MSM at low and high risk of HIV-1 infection. The high-risk group showed a higher frequency of the HLA-B*18 allele, and a lower frequency of the HLA*B35, which have been previously associated with protection and susceptibility to HIV-1 infection respectively. Likewise, the high-risk group exhibited a low frequency of Bx haplotypes, a higher frequency of one AA haplotype and differences in KIR gene profile, with a low frequency of the inhibitory KIR2DL5 and both activating KIR2DS1, KIR2DS2 and KIR2DS5 genes. These findings suggest that host immunogenetic factors may contribute to resistance to HIV-1 acquisition in highly exposed individuals. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 2,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-08",
+      "date_window_start": "2026-05-01",
+      "date_window_end": "2026-05-08",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.02.26352058v1",
+      "date": "2026-05-04",
+      "abstract": "SUMMARY Induction of broadly neutralizing antibodies (bnAbs) remains a central goal of HIV vaccine development. In the HVTN300 clinical trial ( NCT04915768 ), we evaluated an HIV CH505 transmitted/founder (TF) envelope trimer designed to prime naïve B cell precursors of the CD4 binding site (CD4bs) class of bnAbs that use a CDRH3-dominated binding mode. Autologous tier 2 serum neutralizing activity was detected in 9 of 11 vaccinees, and neutralizing B cells were isolated from all participants. CD4bs-directed, CDRH3-binder bnAb precursors were identified in 8 of 11 vaccinees (73%), including one lineage with nascent heterologous breadth that neutralized 6% of global HIV isolates. Cryo-EM structures confirmed CD4bs CDRH3-binder modes of engagement and additionally revealed vaccine-induced V1/V3-directed antibodies and a neutralizing lineage targeting the gp120/gp41 interface. Together, these results demonstrate that the CH505 TF trimer primes a diverse, polyclonal neutralizing B cell repertoire in humans, providing multiple entry points for sequential boosting strategies to achieve HIV bnAb breadth. HIGHLIGHTS CH505 germline-targeting trimeric immunogen induced autologous tier 2 neutralizing B cell lineages in 100% of vaccinated humans. CD4 binding site CDRH3-binder bnAb precursors were detected in 73% of vaccinees. Single immunogen primed CD4bs, V1/V3, and gp120/gp41 targeting neutralizing antibodies. A CD4 binding site B cell clonal lineage was isolated that neutralized 6% of global HIV primary isolates. ",
+      "searched_keywords_found_duplicates": [
+        "bsAb"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-08",
+      "date_window_start": "2026-05-01",
+      "date_window_end": "2026-05-08",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.29.26352088v1",
+      "date": "2026-05-01",
+      "abstract": "Abstract Background Inflammation is an emerging target for stroke prevention, but additional therapeutic candidates are needed. Experimental and observational studies implicate tumor necrosis factor (TNF) in atherosclerotic plaque progression and cardiovascular events. We integrated plasma proteomics from population-based studies and prospective stroke cohorts with single-cell and spatial transcriptomic profiling of human atherosclerotic plaque to investigate TNF signaling in stroke pathogenesis. Methods We assessed associations between 34 TNF-superfamily proteins (Olink Explore) and incident ischemic stroke among 47,529 UK Biobank participants without cardiovascular disease. We performed an individual-participant data (IPD) meta-analysis of four prospective cohorts with ischemic stroke (n=2,180) to examine associations between TNF-α and recurrent vascular events. We characterised plaque-level TNF biology using single-cell RNA sequencing of 259,116 cells (62 donors) and Xenium spatial transcriptomics (12 donors) with human carotid plaques. Results In UK Biobank, higher circulating TNF pathway proteins were independently associated with incident stroke after multivariable adjustment, including TNF, TNFR1, and TNFR2 (Hazard Ratio [HR] per SD increase, 1.14, [95% CI 1.07–1.20], 1.22, [1.14–1.31], and 1.15 [1.09–1.21], respectively. An additional 15 TNF superfamily members were also associated with incident stroke. In the IPD analysis of stroke cohorts, TNF-α was associated with recurrent stroke (risk ratio [RR] 1.50, 95% CI 1.14-1.98, top vs. bottom third of TNF-α) and MACE (RR 1.54, 1.18-2.02) after adjustment for cardiovascular risk factors and secondary prevention medications (537 MACE events, 6793 person-years follow up). In single-cell RNA plaque sequencing, TNF and TNF pathway genes were broadly expressed across immune cell populations. In spatial transcriptomics, TNF detection increased progressively from media to fibrous cap (Odds Ratio 2.32 vs media, 95% CI 1.94–2.78, p<0.001). At the fibrous cap, CD8+ effector T cells demonstrated 4.1-fold enrichment for TNF expression despite comprising only 3% of fibrous cap cells. Conclusions TNF signaling is independently associated with incident ischemic stroke and recurrent MACE after stroke. TNF is enriched in human carotid plaque at the fibrous cap, in macrophages and CD8+ effector T cells. These results support evaluation of TNF-targeted therapies for stroke prevention. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-08",
+      "date_window_start": "2026-05-01",
+      "date_window_end": "2026-05-08",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.04.26352384v1",
+      "date": "2026-05-06",
+      "abstract": "Abstract Background: Stigma remains a pervasive barrier to curbing the spread of human immunodeficiency virus (HIV) among adolescents and young adults in Lima, Peru. Social media offers a promising avenue for scalable, youth-centered stigma reduction, but few interventions have been rigorously evaluated in this context. Objective: We evaluated the potential of a social media campaign to reduce perceived HIV-related stigma among young adults living with HIV. This involved a sequential explanatory mixed-methods study, including a randomized evaluation, followed by focus groups to understand the findings. Methods: 150 young adults (aged 18-29 years) living with HIV (YLWH) were randomized to receive information on social media from one of the following: (1) the control account; (2) the control account and the social media campaign accounts (Instagram and TikTok); or (3) the control account, the campaign accounts, and the accounts of participating influencers. Perceived stigma was measured via pre- and post-campaign surveys using Spanish versions of the abridged Berger HIV Stigma Scale and the Stigma Stress Scale. Focus groups and interviews were conducted with a purposive sample of participants to contextualize quantitative results. Qualitative data were analyzed using Framework Analysis. Results: Mean changes in HIV Stigma and Stigma Stress scores were small and not statistically significant. Post-hoc as-treated analyses supported these findings. Fidelity to intervention allocation was low to moderate, depending on the metric considered. Qualitative data suggested that the campaign positively impacted participants' perceived stigma and that personal circumstances, crossover, frequency of exposure to content, and issues related to completing study questionnaires contributed to the lack of meaningful change in stigma scores. Conclusions: While quantitative data did not support that exposure to a social media campaign led to meaningful reductions in HIV-related stigma, qualitative data suggested that the campaign had a positive impact and that limitations in the study design, together with external factors, may have obscured benefits in quantitative analyses. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-08",
+      "date_window_start": "2026-05-01",
+      "date_window_end": "2026-05-08",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.29.26352021v1",
+      "date": "2026-05-01",
+      "abstract": "Abstract γδ T cells play critical roles in innate immunity to Plasmodium falciparum malaria, yet their functional heterogeneity and memory-like dynamics during first and subsequent infections remain poorly defined. Using longitudinal single-cell RNA sequencing, ex vivo phenotyping and in vitro functional analysis of γδ T cells in controlled human malaria infection (CHMI), we dissect their activation mechanisms and functions. During first infection, Vδ2 T cells dominated the responses, expanding into inflammatory and cytotoxic cells. Despite upregulation of antigen-presenting-like markers and CD16, Vδ2 T cell activation remained TCR-dependent, and these cells had no capacity to phagocytose parasites nor present antigen to CD4 + T cells. Leveraging a Phase I clinical study of type I IFN signalling blockade with JAK2 inhibitor ruxolitinib in CHMI, including rechallenge, we show that Vδ2 T cell activation is dependent on JAK/STAT signalling. In second malaria infection Vδ2 T cell responses are memory-like, with higher and more rapid activation, and robust induction of cytotoxic and activated terminal effector memory phenotypes. These memory-like cell responses were linked to cell-extrinsic factors, with increased systemic inflammation during second infection associated with enhanced Vδ2 T cell activation. Mechanistically we demonstrate that cytokines IL-12, IL-15 and IL-18, synergize with TCR-dependent activation by malaria parasites to enhance Vδ2 T cell responses. Memory-like Vδ2 T cells in second infection were not associated with parasite control but instead linked to inflammation and markers of disease severity. Together, these data identify key mechanisms of Vδ2 T cells activation and highlight that therapeutically targeting these cells may benefit immunopathology without compromising parasite control during malaria. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-08",
+      "date_window_start": "2026-05-01",
+      "date_window_end": "2026-05-08",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.05.26352450v1",
+      "date": "2026-05-06",
+      "abstract": "Abstract ABSTRACT Background: Hypertension and preeclampsia are clinically distinct, yet biologically related conditions characterized by vascular dysfunction and elevated cardiovascular risk. Although genome-wide association studies (GWAS) have identified loci associated with blood pressure traits and preeclampsia, the functional mechanisms linking shared variants to gene regulation and clinical phenotypes remain unclear. Methods: We integrated GWAS summary statistics for hypertension, systolic blood pressure (SBP), diastolic blood pressure (DBP), and preeclampsia to identify shared variants (p ≤ 1×10 −4 ). Cis-expression quantitative trait loci (eQTL) analyses were performed in whole blood using RNA-seq data from 180 African American women. Significant associations (FDR ≤ 0.05) were evaluated for replication across vascular, metabolic, and endocrine tissues in the Genotype-Tissue Expression (GTEx) project. Associations between gene expression and blood pressure traits were also assessed. Results: We identified 4,792 shared GWAS variants, of which 4,663 were tested in eQTL analyses, yielding 1,837 significant variant-gene associations across 78 genes. Replication in GTEx confirmed 645 associations involving 24 genes, many showing cross-tissue regulatory effects. Three genes (C4B, HLA-C, and HLA-DQB1) demonstrated convergent evidence across GWAS, gene regulation, and expression-trait analyses. C4B expression was positively associated with hypertension and SBP, while HLA-C showed consistent negative associations with hypertension, SBP, and DBP. HLA-DQB1 expression was specifically associated with DBP, suggesting trait-specific effects. Conclusions: These findings highlight immune-related pathways as key mediators linking hypertension and preeclampsia. Integrating genetic, transcriptomic, and phenotypic data provides a framework for identifying functionally relevant loci and advancing mechanistic insights into cardiometabolic and pregnancy-related disorders. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-08",
+      "date_window_start": "2026-05-01",
+      "date_window_end": "2026-05-08",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.30.26352124v1",
+      "date": "2026-05-01",
+      "abstract": "Abstract Background Sub-Saharan Africa carries a disproportionate burden of HIV-associated malignancies, yet the contemporary tumour spectrum in the dolutegravir (DTG) era and the immunovirological context at cancer diagnosis remain incompletely characterised in East African routine HIV-care settings. We sought to describe the spectrum, malignant fraction, and immunovirological determinants of neoplasms diagnosed at a specialised HIV centre in Kampala, Uganda. Methods We conducted a retrospective cohort analysis of 220 tumour records from 217 unique people living with HIV (PLHIV) registered at Mildmay Hospital between November 2017 and January 2026. Tumours were classified by ICD-10 disease group and malignancy status (benign/malignant). Bivariate associations with malignancy status were tested using χ 2 or Fisher exact tests for categorical variables and Mann–Whitney U tests for continuous variables (α = 0.05). Crude odds ratios (OR) with 95% confidence intervals (CI) were computed for selected dichotomous comparisons. Results The cohort had a median age of 47 years (IQR 39–54) and was 58.2% female. Overall, 138/220 tumours (62.7%) were malignant. Kaposi sarcoma (KS) was the most frequent malignancy (n=65; 47.1% of all malignant cases), followed by haematopoietic malignancies (n=32; 23.2%) and malignant gynaecological tumours (n=10; 7.2%). Among 156 patients with viral load data, 134 (85.9%) were virally suppressed at tumour diagnosis, yet 70/134 (52.2%) of those suppressed patients had a malignant tumour. Advanced WHO clinical stage (III/IV) at ART initiation was strongly associated with malignant diagnosis (39/86 [45.3%] versus 9/79 [11.4%]; OR 3.53, 95% CI 1.59–7.84; p =0.002). Median CD4 at ART initiation was markedly lower in malignant compared to benign tumour patients (147 vs 476 cells/µL; p<0.001), and median ART duration was substantially shorter (37 vs 102 months; p<0.001). KS patients had significantly lower CD4 (136 vs 269 cells/µL; p =0.002) and shorter ART duration (4 vs 86 months; p<0.001) than patients with other malignancies. Malignancy did not differ across DTG-, EFV-, and PI-based regimens (p =0.992). Conclusions HIV-associated tumours in this Ugandan cohort remain predominantly malignant and dominated by KS, even against a backdrop of high viral suppression rates. The clustering of malignancy among patients with low pre-ART CD4 counts and advanced WHO stage points to incomplete immune reconstitution, persistent oncoviral co-infection, and residual inflammation as mechanistic targets. These data establish the scientific platform for a prospective HIV-oncology cohort at Mildmay Hospital and Mildmay Research Centre and inform context-appropriate cancer screening and surveillance priorities. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-08",
+      "date_window_start": "2026-05-01",
+      "date_window_end": "2026-05-08",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.01.26352167v1",
+      "date": "2026-05-03",
+      "abstract": "Abstract Background Hepatitis E virus (HEV) seroprevalence varies by age and geography. Data on HEV seroprevalence across age groups and among people living with HIV (PLWH) in South Africa is scarce. Methods We conducted a prospective multi-site assessment of anti-HEV IgG seroprevalence on 859 South African participants enrolled at three clinical research centres including Newtown Clinical Research Centre in Johannesburg, Be Part Research in Mbekweni, Paarl, Western Cape, and Mecru Clinical Research Unit in Garankuwa, Pretoria. Participants comprised adults aged 18 – 45 years (PLWH, n = 178 and HIV-negative, n = 232), and children aged 2–17 years (n = 449). Anti-HEV IgG serostatus and antibody titer were measured using a commercial ELISA kit and a WHO reference standard. Seroprevalence was assessed by site, age group, sex, and HIV status. Results Overall anti-HEV IgG seroprevalence was 18.0% (95% CI: 15.6–20.8). Adults had the highest seroprevalence (27.3% among all adults; 29.2% among PLWH and 25.9% in HIV-negative adults), while adolescents aged 12–17 years had the lowest (6.9%), and young children aged 6–11 years and 2–5 years had 10.3% and 13.0%, respectively. Adults had significantly higher odds of seropositivity than children (aOR 2.8, 95% CI: 1.5–5.5, p = 0.002). A significant site-specific variation was also observed among healthy adults and adolescents: Newtown Clinical Research Centre (23.0% and 14.0%) and Be Part Research (34.5% and 7.3%) had higher seroprevalence compared with those from Mecru Clinical Research Unit (17.2% and 1.5%, p = 0.0499 and 0.0262 , respectively). A higher mean antibody titer observed in younger children aged 2–5 years (5.06 IU/mL), compared with adults (0.88 IU/mL among PLWH and 0.68 IU/mL among HIV-negative adults), and with older children (2.02 IU/mL in those aged 6–11 years and 0.67 IU/mL in those aged 12–17 years). Conclusions HEV seroprevalence in South Africa was highly heterogeneous, varying markedly by age group and study site. These findings highlight the need for strengthened, integrated HEV surveillance to better define transmission patterns and to inform evidence-based considerations for prevention of infection. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-08",
+      "date_window_start": "2026-05-01",
+      "date_window_end": "2026-05-08",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.03.29.26349664v2",
+      "date": "2026-05-02",
+      "abstract": "Abstract Background Severe cytokine release syndrome (CRS) and immune effector cell-associated neurotoxicity syndrome (ICANS) remain frequent, life-threatening complications of CD19 chimeric antigen receptor (CAR) T-cell therapy and constrain its safety, scalability, and outpatient adoption. Existing predictive models lack sufficient external validation for routine clinical use, and pre-infusion biomarkers that capture host susceptibility before infusion are urgently needed. Methods We applied unbiased mass-spectrometry-based proteomics to pre-infusion biofluids from 98 prospectively-followed adults with relapsed/refractory (r/r) lymphoma at two academic centers (MD Anderson Cancer Center, n = 39, plasma; Moffitt Cancer Center, n = 59, serum). Logistic regression with backward feature selection on the MD Anderson cohort yielded panels for severe (Grade ≥ 2) CRS and ICANS that were locked and tested without refitting on the Moffitt cohort. Patients were stratified into low-, intermediate-, and high-risk tertiles. Ingenuity Pathway Analysis defined upstream regulators and canonical pathways. The 17 CRS-associated and 21 ICANS-associated consensus proteins were classified into mechanistic themes for biological interpretation. Results A 5-marker CRS panel (SCRIB, MYL6, MTHFD1L, HSP90B1, MMP2) achieved AUCs of 0.85 (95% CI 0.72–0.98) and 0.76 (0.63–0.89) in the discovery and validation cohorts, respectively. An expanded 8-marker ICANS panel (the CRS panel plus SPOCK2, SLC3A2, CD84) achieved AUCs of 0.91 (0.81–1.00) and 0.67 (0.51–0.84). In the combined dataset, high-risk-tertile patients were 13.84-fold (95% CI 4.21–56.26) and 8.59-fold (2.87–29.09) more likely to develop Grade ≥ 2 CRS and ICANS, respectively. Pathway analysis converged on AKT-driven inflammation and endothelial activation. Functional clustering of the consensus proteins partitioned into mechanistically coherent themes consistent with a dual-anatomy model: severe CRS reflected peripheral macrophage priming and endothelial activation with surplus complement amplification (HSP90B1▴, CSF1▴, MMP2▴, HEG1▴, C3▴) and endotheliopathic coagulation (PROC▾, F7▾), whereas severe ICANS reflected cerebrovascular junction and basement-membrane stripping (CDH5▾, ITGB1▾, FN1▾, brain-enriched SPOCK2▾), hepatic synthetic suppression (TTR▾, APOA2▾, IGFBP3▾), compromised plasma antioxidant capacity (GPX3▾, PON1▾), and inflammasome dis-restraint via DPP9▾. PGLYRP2 and SCRIB depletion were shared by both signatures and identified a common upstream priming substrate. Conclusions Externally validated, pre-infusion proteomic panels predict severe CRS and ICANS following CAR T-cell therapy and define a coherent pre-infusion endothelial–immune priming axis (HSP90B1, MMP2, AKT) with mechanistically interpretable, druggable nodes. The dual-anatomy framework distinguishes peripheral CRS-biased from cerebrovascular ICANS-biased phenotypes downstream of a shared microbiome-host barrier priming substrate, providing a foundation for biomarker-guided risk stratification and cluster-matched prophylactic intervention to enhance the safety and outpatient feasibility of CAR T-cell therapy. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
