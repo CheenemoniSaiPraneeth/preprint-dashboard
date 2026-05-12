@@ -1,0 +1,141 @@
+{
+  "bispecific_antibodies": [
+    {
+      "date_scraped": "2026-05-12",
+      "date_window_start": "2026-05-05",
+      "date_window_end": "2026-05-12",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.15.26350980v2",
+      "date": "2026-05-07",
+      "abstract": "ABSTRACT The ABACUS study was a single arm, phase II trial evaluating neoadjuvant atezolizumab in operable urothelial carcinoma. Initial bulk transcriptomic and immunohistochemistry analyses suggested links between immune activation, tissue remodeling, and resistance pathways such as transforming growth factor β that were associated with clinical outcome. To further characterize spatial and phenotypic changes at high resolution, artificial intelligence–assisted digital image analysis of hematoxylin and eosin sections and spatial transcriptomics were performed on paired tissue samples. In baseline samples, cells residing in lymphoid aggregates and tertiary lymphoid structures were more abundant in stable disease than in relapse and exhibited gene expression programs associated with improved survival in urothelial carcinoma. Most spatial features reflected shared pharmacodynamic changes between stable disease and relapse; however, carcinoma-endothelial adjacency was reduced significantly following treatment and differed between groups, accompanied by distinct transcriptional programs. Together, these findings indicate that atezolizumab induces localized immune and stromal remodeling within the tumor microenvironment, while non-response despite immune expansion is associated with persistent spatial immune exclusion and carcinoma-endothelial adjacency. Spatial and phenotypic biomarkers identified here may inform rational combination strategies for immune checkpoint inhibitor–refractory urothelial carcinoma. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager",
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-12",
+      "date_window_start": "2026-05-05",
+      "date_window_end": "2026-05-12",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.06.26352582v1",
+      "date": "2026-05-08",
+      "abstract": "Abstract Background Subcutaneous oncology monoclonal antibodies (SCOmAbs) offer significant benefits compared to intravenous formulations, including reduced administration time and potential for self-administration. However, little has been published on real-world preparation and administration practices with these novel formulations. Methods This was a qualitative, exploratory study of 30 participants (10 patients receiving SCOmAbs, 10 nurses, and 10 pharmacists/pharmacy technicians) across various U.S. healthcare facilities. One-on-one, in-depth interviews examined current practices, pain points, device integration potential, projected impact of increased SCOmAb adoption, and perspectives on home administration. Results Findings revealed considerable variability in SCOmAb preparation and administration practices. While preparation methods generally aligned with typical parenteral workflows, notable deviations included bedside preparation by nurses (7/30), use of syringe pump modules (3/19), and one case of patient self-administration at home. Most participants utilized closed-system transfer devices (12/22) despite inconsistent hazardous drug treatment between facilities. Administration challenges included ergonomic difficulties for nurses during manual push (5/9 reporting physical discomfort) and variable injection techniques to accommodate patient comfort. Nurses reported significant workflow impact from being “tethered” to patients during administration, which could require staffing adjustments as SCOmAb frequency increases. Most patients (6/9) expressed interest in home administration for potential time savings and flexibility, though concerns about training, support, and safety were common. Conclusions As SCOmAb utilization expands, facilities may face barriers associated with increased demand that could necessitate innovative solutions. To leverage the full potential of SCOmAb products, developers should consider how next generation product presentations might minimize identified pain points, streamline administration, and facilitate safe transition to home self-administration. Delivery device integration, whether through prefilled syringes, portable infusion pumps, or other delivery systems, may address current challenges but requires careful consideration of facility infrastructure, product complexity and usability, workflow impact, and patient training requirements. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager",
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-12",
+      "date_window_start": "2026-05-05",
+      "date_window_end": "2026-05-12",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.07.26352649v1",
+      "date": "2026-05-08",
+      "abstract": "Abstract Purpose Patients with common variable immunodeficiency (CVID) frequently exhibit impaired antibody responses to vaccination, yet the dynamics of humoral and cellular immunity following mRNA immunisation remain incompletely defined. This study aimed to characterise the temporal evolution of anti-SARS-CoV-2 antibody and T cell responses across successive vaccine doses in a well-characterised CVID cohort, and to identify key determinants of vaccine responsiveness in this population. Methods We performed a longitudinal and cross-sectional analysis of serum and peripheral blood mononuclear cell (PBMC) samples collected from 88 CVID patients after two, three, or four doses of mRNA vaccine (Moderna/mRNA-1273 or Pfizer-BioNTech/BNT162b2). Anti-receptor-binding domain (RBD) IgG titers were quantified in relation to vaccine dose, time since last vaccination, and clinical characteristics. Vaccine-specific CD4 + and CD8 + T cell responses were assessed ex vivo using an activation-induced marker (AIM) assay by flow cytometry. Results The proportion of patients with detectable anti-RBD IgG increased from 35% after two doses to more than 80% after four doses. Boosting-dependent increases in IgG titers were observed exclusively in samples collected more than three months after the last dose, and antibody levels correlated positively with time since vaccination, consistent with delayed but progressive humoral kinetics that stabilised after the third dose. In contrast, spike-specific CD4 + and CD8 + T cell responses were rapidly induced and remained stable across all timepoints. Conclusion Vaccine-induced immunity in CVID is characterised by delayed humoral responses alongside preserved cellular immunity. Early post-vaccination serology may systematically underestimate vaccine responsiveness, and booster vaccination supports stabilisation of antibody responses in this population. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-12",
+      "date_window_start": "2026-05-05",
+      "date_window_end": "2026-05-12",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.01.07.25342310v2",
+      "date": "2026-05-11",
+      "abstract": "Abstract Annual influenza vaccination is the cornerstone for seasonal protection, yet antibody responses are highly variable across individuals and over time. To systematically assess the determinants of this heterogeneity, we compiled 20,449 hemagglutination inhibition and neutralization titers from 4,540 participants enrolled in 14 new vaccine studies we conducted and 50 prior studies that collectively span 2010-2023. Seasonal effects dominated, with pre- and post-vaccination titers declining steadily from 2017 onwards, outweighing the influence of age, sex, or repeated vaccination. Titers to B Yamagata remained steady throughout all years examined, suggesting unique durability and offering a reason for lineage extinction. Vaccine timing emerged as a strong and previously underappreciated determinant of immunity, with individuals vaccinated later in the season exhibiting larger post-vaccination titers. Not being vaccinated or receiving the live-attenuated FluMist vaccine in one year significantly enhanced the response to inactivated vaccines in 45% or 68% of cohorts, respectively, whereas antigen dose and adjuvants had modest impact. These findings identify vaccine timing and seasonal context as underrecognized drivers of immunogenicity and provide actionable insights for optimizing influenza vaccination strategies. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-12",
+      "date_window_start": "2026-05-05",
+      "date_window_end": "2026-05-12",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.04.26352384v1",
+      "date": "2026-05-06",
+      "abstract": "ABSTRACT Background Stigma remains a pervasive barrier to curbing the spread of human immunodeficiency virus (HIV) among adolescents and young adults in Lima, Peru. Social media offers a promising avenue for scalable, youth-centered stigma reduction, but few interventions have been rigorously evaluated in this context. Objective We evaluated the potential of a social media campaign to reduce perceived HIV-related stigma among young adults living with HIV. This involved a sequential explanatory mixed-methods study, including a randomized evaluation, followed by focus groups to understand the findings. Methods 150 young adults (aged 18-29 years) living with HIV (YLWH) were randomized to receive information on social media from one of the following: (1) the control account; (2) the control account and the social media campaign accounts (Instagram and TikTok); or (3) the control account, the campaign accounts, and the accounts of participating influencers. Perceived stigma was measured via pre- and post-campaign surveys using Spanish versions of the abridged Berger HIV Stigma Scale and the Stigma Stress Scale. Focus groups and interviews were conducted with a purposive sample of participants to contextualize quantitative results. Qualitative data were analyzed using Framework Analysis. Results Mean changes in HIV Stigma and Stigma Stress scores were small and not statistically significant. Post-hoc as-treated analyses supported these findings. Fidelity to intervention allocation was low to moderate, depending on the metric considered. Qualitative data suggested that the campaign positively impacted participants’ perceived stigma and that personal circumstances, crossover, frequency of exposure to content, and issues related to completing study questionnaires contributed to the lack of meaningful change in stigma scores. Conclusions While quantitative data did not support that exposure to a social media campaign led to meaningful reductions in HIV-related stigma, qualitative data suggested that the campaign had a positive impact and that limitations in the study design, together with external factors, may have obscured benefits in quantitative analyses. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-12",
+      "date_window_start": "2026-05-05",
+      "date_window_end": "2026-05-12",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.05.26352450v1",
+      "date": "2026-05-06",
+      "abstract": "ABSTRACT Background Hypertension and preeclampsia are clinically distinct, yet biologically related conditions characterized by vascular dysfunction and elevated cardiovascular risk. Although genome-wide association studies (GWAS) have identified loci associated with blood pressure traits and preeclampsia, the functional mechanisms linking shared variants to gene regulation and clinical phenotypes remain unclear. Methods We integrated GWAS summary statistics for hypertension, systolic blood pressure (SBP), diastolic blood pressure (DBP), and preeclampsia to identify shared variants (p ≤ 1×10⁻⁴). Cis-expression quantitative trait loci (eQTL) analyses were performed in whole blood using RNA-seq data from 180 African American women. Significant associations (FDR ≤ 0.05) were evaluated for replication across vascular, metabolic, and endocrine tissues in the Genotype-Tissue Expression (GTEx) project. Associations between gene expression and blood pressure traits were also assessed. Results We identified 4,792 shared GWAS variants, of which 4,663 were tested in eQTL analyses, yielding 1,837 significant variant-gene associations across 78 genes. Replication in GTEx confirmed 645 associations involving 24 genes, many showing cross-tissue regulatory effects. Three genes (C4B, HLA-C, and HLA-DQB1) demonstrated convergent evidence across GWAS, gene regulation, and expression-trait analyses. C4B expression was positively associated with hypertension and SBP, while HLA-C showed consistent negative associations with hypertension, SBP, and DBP. HLA-DQB1 expression was specifically associated with DBP, suggesting trait-specific effects. Conclusions These findings highlight immune-related pathways as key mediators linking hypertension and preeclampsia. Integrating genetic, transcriptomic, and phenotypic data provides a framework for identifying functionally relevant loci and advancing mechanistic insights into cardiometabolic and pregnancy-related disorders. Download figure Open in new tab GRAPHICAL ABSTRACT Shared genetic variants across hypertension, blood pressure traits, and preeclampsia converge on immune regulatory genes linking gene regulation to clinical phenotypes. GWAS summary statistics for hypertension, SBP, DBP, and preeclampsia were intersected to identify 4,792 shared variants, of which 4,663 were tested in cis-eQTL analyses in whole blood from 180 African American women ( left ). Shared variants regulate immune-related genes through cis-eQTL effects, yielding 1,837 associations involving 78 genes (FDR ≤ 0.05). Three convergent genes emerged: C4B (upregulated), HLA-C (downregulated), and HLA-DQB1 (upregulated), with 645 associations involving 24 genes replicated across eight tissues in GTEx ( center ). Expression-trait analyses confirmed that C4B expression was positively associated with hypertension and SBP, HLA-C expression was negatively associated with hypertension, SBP, and DBP, and HLA-DQB1 expression was specifically associated with DBP. These genes implicate complement activation, antigen presentation, and adaptive immunity as shared mechanisms contributing to vascular dysfunction in both hypertension and preeclampsia. eQTL indicates expression quantitative trait locus; FDR, false discovery rate; GTEx, Genotype-Tissue Expression project; SBP, systolic blood pressure; DBP, diastolic blood pressure; APC, antigen-presenting cell; TCR, T-cell receptor; MHC, major histocompatibility complex. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-12",
+      "date_window_start": "2026-05-05",
+      "date_window_end": "2026-05-12",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.07.26352627v1",
+      "date": "2026-05-10",
+      "abstract": "Abstract Large language models in clinical and educational settings routinely receive user-provided context containing incorrect prior beliefs. Existing benchmarks measure aggregate susceptibility to such priors but do not disentangle which structural component (the asserted answer, the supporting rationale, or their combination) drives the damage, nor test whether safety meta-prompts such as \"verify the reasoning firs\" consistently mitigate it. We introduce MISP-Bench, a factorial benchmark of 1,724 audited multiple-choice items (1,430 MedMCQA medical + 294 GSM8K quantitative) evaluated under 13 prompt conditions across 10 open-weight instruction-tuned models (1B-27B) in chain-of-thought and direct modes, with approximately 1.33M audited response records across three runs per condition. Distractors were generated by GPT-5.4 and the model was excluded from the evaluated set to prevent circular evaluation. Targeted and arbitrary distractor subsets yield similar aggregate Misinformation Damage Index (MDI; accuracy drop relative to a distractor-free baseline) at +19.7 vs +20.4 pp but diverge by 39.1 pp in sycophancy rate (78.4% vs 39.3%). The subsets differ in baseline difficulty, so this is a between-subset composition gap rather than a within-item causal effect. The combined answer-plus-rationale attack exhibits sub-additive saturation (+20.3 pp observed vs +24.5 pp expected under independence; 7/10 models sub-additive, 2 additive, 1 super-additive). Verification-style safety guards split models into three groups by sign at α=0.05 (4 reversal, 3 recovery, 3 null), while source-independence and explicit-override guards yield positive recovery in 8/10 and 9/10 models. A six-category audit excludes 770 items, including 732 multi-correct items structurally incompatible with single-best-answer evaluation. The audit list is reusable beyond MISP-Bench. The corpus, response records, notebooks, and audit are released on Hugging Face Datasets (https://huggingface.co/datasets/yh0502/misp-bench) under CC-BY-4.0 (with original-source license inheritance for MedMCQA Apache-2.0 and GSM8K MIT content) with Croissant RAI metadata, with companion code at https://github.com/anon-misp-2026/misp-bench. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
