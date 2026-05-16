@@ -1,0 +1,141 @@
+{
+  "bispecific_antibodies": [
+    {
+      "date_scraped": "2026-05-16",
+      "date_window_start": "2026-05-09",
+      "date_window_end": "2026-05-16",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.08.26352776v1",
+      "date": "2026-05-12",
+      "abstract": "Abstract Background Long COVID postural orthostatic tachycardia syndrome (LCPOTS) is characterized by persistent orthostatic tachycardia and multiple constitutional symptoms, many of which suggest persistent inflammation. We sought to define mechanisms responsible for ongoing immune activation in LCPOTs and to determine if this is related to autonomic dysregulation. Methods We performed a case-control study of 25 patients with LCPOTS and 15 controls who recovered from COVID-19 without persistent autonomic sequelae. Peripheral blood mononuclear cells were analyzed by flow cytometry to quantify circulating CD3⁺CD14⁺ T cell–monocyte doublets, cytokine production, memory phenotype, mitochondrial ROS, and isolevuglandin (IsoLG)-adduct formation. Förster resonance energy transfer was used to assess T-cell receptor–HLA interactions within doublets. Single-cell RNA sequencing (scRNA-seq) was performed on a subset of participants, and autonomic phenotyping included orthostatic heart rate responses, heart rate variability, baroreflex sensitivity, and blood volume measurements. Results LCPOTS was linked to impaired cardiovagal function and greater autonomic symptom burden. It was also associated with roughly a threefold rise in circulating CD3⁺CD14⁺ doublets and enhanced T cell–monocyte interactions. These complexes demonstrated signs of genuine immune synapse formation and were enriched with effector-memory and TEMRA T-cell types. T cells in doublets produced higher levels of IFN-γ and IL-17A, and the proportion of cytokine-producing doublets correlated with the severity of orthostatic tachycardia and total COMPASS-31 score. Monocytes from LCPOTS showed increased mitochondrial content, superoxide generation, and IsoLG-adduct accumulation, along with decreased expression of antioxidant genes, including those related to NFE2L2. Conclusions Our findings suggest that ongoing immune activation contributes to LCPOTS pathogenesis. We propose that impaired cardiovagal regulation stimulates monocyte ROS production, promotes neoantigen formation, and T cell activation. This persistent immune response, together with disrupted mitochondrial function, likely contributes to the diverse symptoms linked to LCPOTS. What Is Known? Long COVID postural orthostatic tachycardia syndrome is associated with persistent orthostatic tachycardia and disabling orthostatic intolerance symptoms after SARS-CoV-2 infection. Immune dysregulation and oxidative stress have been implicated in long COVID, but the cellular mechanisms linking inflammation to autonomic dysfunction are not well defined. Circulating T cell: monocyte doublets are a recently recognized marker of ongoing immune activation. What New Information Does This Article Contribute? Patients with LCPOTS exhibit a marked increase in circulating CD3⁺CD14⁺ T cell–monocyte doublets. Doublet-associated T cells are enriched for inflammatory effector-memory/TEMRA phenotypes and produce IFN-γ and IL-17A in proportion to orthostatic tachycardia and autonomic symptoms severity. Impaired cardiovagal activity, monocyte mitochondrial ROS, IsoLG-adduct formation, and suppression of antioxidant pathways identify a mechanistic axis linking oxidative injury to persistent immune activation in LCPOTS. Summary of Novelty and Significance This study identifies a mechanistic link between impaired cardiovagal function, mitochondrial oxidative stress, and persistent immune activation in LCPOTS. We show that circulating CD3⁺CD14⁺ T cell–monocyte doublets are expanded in LCPOTS and form true immune synapses, as demonstrated by T-cell receptor-HLA proximity. These are enriched in inflammatory effector-memory/TEMRA T cells and are associated with increased IFN-γ and IL-17A production that correlate with orthostatic tachycardia severity and symptom burden. We further identified increased mitochondrial ROS, accumulation of IsoLG adducts, and reduced antioxidant gene expression in monocytes, suggesting that oxidation-induced neoantigen fo",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [
+        "immune synapse"
+      ],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 2,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-16",
+      "date_window_start": "2026-05-09",
+      "date_window_end": "2026-05-16",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.07.04.25330865v3",
+      "date": "2026-05-15",
+      "abstract": "Abstract Immune checkpoint inhibitors (ICIs) have transformed the therapeutic landscape of advanced malignancies. However, only a subset of patients respond to treatment. Recent efforts have focused on the identification of novel biomarkers that capture the dynamic and functional state of the tumour immune microenvironment, yet their clinical translation has remained challenging. To address these limitations, we applied amplified FRET-FLIM (QF-Pro) technology to spatially resolve and quantitatively assess functional immune checkpoint interactions directly in cells and FFPE tissue and tumour samples. Using this approach, we demonstrated that PD-1/PD-L1, CTLA-4/CD80, TIGIT/CD155, and LAG-3/MHC-II interactions can be robustly quantified in routine patient samples from multiple tumour types. Co-analysis of all four immune checkpoints was performed within an ICI-treated melanoma patient cohort enabling the identification of patterns of concomitant engagement. Notably, patients with high PD-1/PD-L1 interaction levels typically also exhibited a significantly elevated CTLA-4/CD80 interaction status. Furthermore, the survival analysis of the patients treated with immune checkpoint blockade showed that the LAG-3/MHC-II interaction state discriminated responders from non-responders, independently of the specific ICI therapy administered, suggesting that the assessment of LAG-3 engagement may serve as a novel prognostic biomarker in immunotherapy treatment in melanoma. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-16",
+      "date_window_start": "2026-05-09",
+      "date_window_end": "2026-05-16",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.05.26352329v1",
+      "date": "2026-05-12",
+      "abstract": "Abstract The development of lung-directed therapeutics is limited by poor translational fidelity between preclinical models and early-phase clinical trials. We report a first-in-human Phase 0 intratarget microdosing study demonstrating the feasibility of intrapulmonary delivery and pharmacological interrogation of a novel inflammasome inhibitor. A 100 μg microdose of ADS032, a dual NLRP1/NLRP3 inhibitor, was administered to distal airways via bronchoscopy in patients with interstitial lung disease, informed by optimisation in ex vivo human lung perfusion and ventilation systems. Clinical-grade manufacture, formulation, stability, and toxicology enabled intrapulmonary administration. Using liquid chromatography–mass spectrometry, ADS032 was detected in plasma, bronchoalveolar lavage fluid, distal airway micro-aspirates, and recovered cells, with spatially resolved sampling achieved without cross-contamination. Fluorescent labelling enabled direct visualisation of alveolar drug uptake ex vivo . These findings establish intrapulmonary intratarget microdosing as a human-relevant platform for early pharmacological evaluation of lung therapeutics prior to Phase 1 trials. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-16",
+      "date_window_start": "2026-05-09",
+      "date_window_end": "2026-05-16",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.04.04.25325117v2",
+      "date": "2026-05-12",
+      "abstract": "Abstract Polyamines such as spermidine and spermine are critical regulators of brain development, yet the mechanisms controlling their cellular uptake and extracellular availability remain poorly defined. Here, we identify ATP13A4, a P5B-type ATPase enriched in glia with prominent expression in astrocytes, as a key determinant of brain polyamine homeostasis. Using biochemical, cellular, and in vivo approaches, we show that ATP13A4 drives cellular polyamine uptake and constrains extracellular polyamine levels. Loss of ATP13A4 reduces astrocyte morphological complexity and enhances astrocyte-driven excitatory synapse formation. Exogenous spermidine recapitulates these effects, identifying extracellular spermidine as a synaptogenic cue and implicating astrocytic ATP13A4 in regulating extracellular polyamine availability. In vivo , constitutive Atp13a4 knockout mice exhibit a striking redistribution of brain polyamines, with reduced cortical levels and accumulation in cerebrospinal fluid, indicating disrupted compartmentalization between intra-and extracellular pools. These changes are accompanied by increased excitatory synapse number and synaptic activity, as well as delayed early postnatal neurodevelopment followed by mild, female-biased behavioral alterations in adulthood. Furthermore, we identify rare ATP13A4 variants associated with neurodevelopmental disorders and show that these variants impair transporter function. Together, our findings reveal that astrocyte-mediated polyamine clearance via ATP13A4 shapes extracellular spermidine availability, thereby regulating excitatory synaptogenesis throughout neurodevelopment. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-16",
+      "date_window_start": "2026-05-09",
+      "date_window_end": "2026-05-16",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.02.05.26345714v3",
+      "date": "2026-05-15",
+      "abstract": "Abstract Background Malnutrition among children remains a significant public health concern in countries with stunting, wasting, and underweight as key indicators. Rotavirus accounts for approximately 40% of moderate to severe diarrhea cases in children under five, highlighting the potential role of rotavirus vaccination in mitigating diarrhea-associated malnutrition. This study investigated the association between the Rotavirus vaccine (RVV) and malnutrition among children in India. Methods The study examined the National Family Health Survey-5 data. The sample included 67,369 children aged 12 to 35 months. Outcomes included stunting, underweight, and wasting, along with their severe form of malnutrition. Adjusted regression, sensitivity analyses, and Inverse Probability Weighting Regression Adjustment assessed the association between receiving RVV and malnutrition. Results Children receiving all three RVV doses had a lower prevalence of stunting (37% vs 41%), underweight (28% vs 33%), and wasting (17% vs 20%) compared to the unvaccinated. Full RVV coverage was significantly associated with reduced odds of stunting (aOR: 0.88; 95% CI: 0.85-0.92), underweight (aOR: 0.86; 95% CI: 0.83-0.89), and wasting (aOR: 0.85; 95% CI: 0.82-0.89). Conclusion Receiving RVV is associated with a reduced risk of malnutrition in children, highlighting the indirect effect (Herd Immunity) and the role of the vaccine beyond preventing diarrheal disease. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-16",
+      "date_window_start": "2026-05-09",
+      "date_window_end": "2026-05-16",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.01.07.25342310v2",
+      "date": "2026-05-11",
+      "abstract": "Abstract Annual influenza vaccination is the cornerstone for seasonal protection, yet antibody responses are highly variable across individuals and over time. To systematically assess the determinants of this heterogeneity, we compiled 20,449 hemagglutination inhibition and neutralization titers from 4,540 participants enrolled in 14 new vaccine studies we conducted and 50 prior studies that collectively span 2010-2023. Seasonal effects dominated, with pre- and post-vaccination titers declining from 2018 onwards, outweighing the influence of age, sex, or repeated vaccination. Titers to B Yamagata remained steady throughout all years examined, suggesting unique durability and offering a reason for lineage extinction. Vaccine timing emerged as a strong and previously underappreciated determinant of immunity, with individuals vaccinated later in the season exhibiting larger post-vaccination titers. Not being vaccinated or receiving the live-attenuated FluMist vaccine in one year significantly enhanced the response to inactivated vaccines in 53% or 68% of cohorts, respectively, whereas antigen dose and adjuvants had modest impact. These findings identify vaccine timing and seasonal context as underrecognized drivers of immunogenicity and provide actionable insights for optimizing influenza vaccination strategies. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-16",
+      "date_window_start": "2026-05-09",
+      "date_window_end": "2026-05-16",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.12.26353001v1",
+      "date": "2026-05-15",
+      "abstract": "Abstract Despite the availability of effective vaccines, pneumococcal disease remains a major global health concern. Pneumococcal vaccines are multivalent vaccines that have progressively increased in valency, a change associated with lower antibody titers to individual polysaccharide antigens. Whether increasing vaccine valency influences B cell responses through antigenic competition remains incompletely understood. Here, we studied pneumococcal polysaccharide-specific B cell responses in peripheral blood and lymph nodes of healthy adults following vaccination with the 13-valent pneumococcal conjugate vaccine. Antigen-specific memory B cells in peripheral blood expanded 2 weeks post-vaccination, whereas germinal center formation was delayed and peaked after 4 weeks. Notably, germinal center B cell responses were dominated by a limited number of specificities, in contrast to the more evenly distributed expansion observed in peripheral blood. Together, these data highlight the importance of extrafollicular responses in adult anti-pneumococcal polysaccharide immunity and provide evidence for antigenic competition during lymph node germinal center formation, which may have important implications in the context of multivalent vaccines. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
