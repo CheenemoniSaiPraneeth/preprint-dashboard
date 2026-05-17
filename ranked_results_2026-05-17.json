@@ -1,0 +1,46 @@
+{
+  "monoclonal_antibodies": [
+    {
+      "date_scraped": "2026-05-17",
+      "date_window_start": "2026-05-10",
+      "date_window_end": "2026-05-17",
+      "modality": "monoclonal_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2605.10405",
+      "date": "2026-05-11",
+      "abstract": "Computer Science > Machine Learning arXiv:2605.10405 (cs) [Submitted on 11 May 2026] Title: Valid Best-Model Identification for LLM Evaluation via Low-Rank Factorization Authors: Elad Tolochinsky , Yaniv Tenzer , Yaniv Romano View a PDF of the paper titled Valid Best-Model Identification for LLM Evaluation via Low-Rank Factorization, by Elad Tolochinsky and 2 other authors View PDF HTML (experimental) Abstract: Selecting the best large language model (LLM) for a fixed benchmark is often expensive, since exhaustive evaluation requires running every model on every example. Multi-armed bandit (MAB) algorithms can reduce the number of LLM calls by sequentially selecting the next model-example pair to evaluate, thereby avoiding wasted evaluations on clearly underperforming models. Further savings can be achieved by predicting model scores from the partially observed model-example score matrix using low-rank factorization. However, such predictions are not ground truth: they can be biased and may therefore lead to incorrect identification of the best model. In this work, we propose a principled framework that combines MAB with cheap predicted scores without compromising statistical validity. Specifically, we derive doubly robust estimators of each model's performance that use the low-rank predictions to reduce variance. This enables the construction of valid finite-sample confidence intervals in our setting, where models are selected adaptively and examples are sampled without replacement. Empirical results on real-world benchmarks show that our approach reduces the number of required evaluations, yielding meaningful savings in compute and cost while accurately identifying the best-performing model. Subjects: Machine Learning (cs.LG) Cite as: arXiv:2605.10405 [cs.LG] (or arXiv:2605.10405v1 [cs.LG] for this version) https://doi.org/10.48550/arXiv.2605.10405 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Elad Tolochinsky [ view email ] [v1] Mon, 11 May 2026 11:43:28 UTC (171 KB) Full-text links: Access Paper: View a PDF of the paper titled Valid Best-Model Identification for LLM Evaluation via Low-Rank Factorization, by Elad Tolochinsky and 2 other authors View PDF HTML (experimental) TeX Source view license Current browse context: cs.LG < prev | next > new | recent | 2026-05 Change to browse by: cs References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) IArxiv recommender toggle IArxiv Recommender ( What is IArxiv? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, co",
+      "searched_keywords_found_duplicates": [
+        "mAb"
+      ],
+      "primary_abstract_matched_keywords": [
+        "mAb"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 2,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-17",
+      "date_window_start": "2026-05-10",
+      "date_window_end": "2026-05-17",
+      "modality": "monoclonal_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2605.13145",
+      "date": "2026-05-13",
+      "abstract": "Computer Science > Machine Learning arXiv:2605.13145 (cs) [Submitted on 13 May 2026] Title: Collaborating in Multi-Armed Bandits with Strategic Agents Authors: Idan Barnea , Ofir Schlisselberg , Yishay Mansour View a PDF of the paper titled Collaborating in Multi-Armed Bandits with Strategic Agents, by Idan Barnea and 2 other authors View PDF Abstract: We study collaborative learning in multi-agent Bayesian bandit problems, where strategic agents collectively solve the same bandit instance. While multiple agents can accelerate learning by sharing information, strategic agents might prefer to free-ride and avoid exploration. We consider a setting with persistent agents that participate in multiple time periods. This is in contrast to most previous works on incentives in multi-agent MAB, which assume short-lived agents, namely each agent has a single decision to make and optimizes their expected reward in that single decision. As in the multi-agent MAB model with incentives, our model does not have monetary transfers, and the only incentives are through information sharing. We propose \\texttt{CAOS}, a mechanism that sustains collaboration as a Nash equilibrium while achieving strong regret guarantees. Our results demonstrate that collaborative exploration can be sustained purely through information sharing, achieving performance close to that of fully cooperative systems despite strategic behavior. Subjects: Machine Learning (cs.LG) Cite as: arXiv:2605.13145 [cs.LG] (or arXiv:2605.13145v1 [cs.LG] for this version) https://doi.org/10.48550/arXiv.2605.13145 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Idan Barnea [ view email ] [v1] Wed, 13 May 2026 08:10:36 UTC (30 KB) Full-text links: Access Paper: View a PDF of the paper titled Collaborating in Multi-Armed Bandits with Strategic Agents, by Idan Barnea and 2 other authors View PDF TeX Source view license Current browse context: cs.LG < prev | next > new | recent | 2026-05 Change to browse by: cs References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) IArxiv recommender toggle IArxiv Recommender ( What is IArxiv? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv's community? Learn more about arXivLabs . Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )",
+      "searched_keywords_found_duplicates": [
+        "mAb"
+      ],
+      "primary_abstract_matched_keywords": [
+        "mAb"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 2,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    }
+  ]
+}
