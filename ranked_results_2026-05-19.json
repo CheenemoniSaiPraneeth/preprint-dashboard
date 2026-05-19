@@ -1,0 +1,1069 @@
+{
+  "gene_editing": [
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.07.26352537v1",
+      "date": "2026-05-18",
+      "abstract": "Abstract Deleterious CDKN2A germline variants account for ~40% of familial melanoma cases, while rare variants in CDK4, BAP1, and telomere-maintenance genes collectively attribute ~10% of familial risk. We sought to identify new high-penetrance susceptibility variants by sequencing 305 melanoma cases from 89 multi-case families negative for known predisposition gene variants. In one family, cutaneous melanoma co-segregated with a rare variant in DMRTA1 (p.Glu383Gln), located less than 480 kb upstream of CDKN2A on chromosome 9. Whole-genome sequencing then revealed an intergenic 234kb deletion that co-segregated with melanoma in 18 out of 21 cases across four generations. Further investigations revealed a further 10 families carrying this deletion, co-segregating with melanoma. The deleted region was predicted to encompass regulatory sequences and to interact with the CDKN2A promoter region. Tiled CRISPR inhibition of the predicted enhancer region confirmed interactions between the distant upstream deletion with CDKN2A resulting in decreased p16 transcript mRNA expression. Deletion carriers exhibited nearcomplete loss of p16 mRNA expression from the affected chromosome. This distant noncoding deletion is one of the most common founder variants predisposing to melanoma and reveals a new mechanism controlling p16 expression. Routine screening for this deletion in individuals with perceived high risk of melanoma is warranted. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR",
+        "CRISPR-Cas9",
+        "gene editing",
+        "genome editing",
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [
+        "CRISPR"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 4,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 5
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.05.26350845v1",
+      "date": "2026-05-12",
+      "abstract": "Abstract Bicuspid aortic valve (BAV) is one of the most common congenital heart defects but its genetic basis remains incompletely defined. Extracellular matrix components play key roles in outflow tract (OFT) and valve development, but their contribution to BAV is not fully established. Following the analysis of a cohort of BAV patients, we identified a family harbouring a rare human ELASTIN ( ELN) variant (p.Gln691X). To assess its pathogenicity, we generated a zebrafish elna/b double knockout (KO) using an RNAless CRISPR Cas9 strategy to avoid genetic compensation. This mutant exhibited cardiovascular defects including OFT anomalies, reduced stroke volume and dysmorphic aortic valves, highlighting Elastin’s critical role in cardiac development. We then used this model to test the ELN variant identified in the BAV family. We found that wild-type ELN mRNA was able to restore normal cardiac function and morphology, whereas the variant ELN mRNA failed to do so. This study establishes a robust in vivo model to assess ELN variant pathogenicity and provides evidence linking ELASTIN to BAV, opening new avenues for uncovering the genetic mechanisms underlying BAV. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR",
+        "CRISPR-Cas9",
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [
+        "CRISPR"
+      ],
+      "secondary_abstract_matched_keywords": [
+        "Cas9"
+      ],
+      "duplicate_count": 3,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 1,
+      "score": 5
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.09.26352817v1",
+      "date": "2026-05-13",
+      "abstract": "Abstract Background and aims Current FH VCEP specifications of ACMG/AMP guidelines for familial hypercholesterolemia (FH) variant interpretation assign a higher evidence weight to functional data obtained with flow cytometry than microscopy assays, due to lack of existing evidence. This restricts the use of microscopy-derived functional data for variant classification. We aimed to systematically compare functional data of LDLR variants obtained by high-content microscopy and flow cytometry to determine their concordance and assess whether microscopy-based assays could support a higher evidence level. Methods Fifty LDLR variants with available flow cytometry and high-content microscopy data were compared for LDL uptake activity, including 21 newly characterized variants by microscopy in this study. Variants were grouped by FH VCEP functional thresholds (<70% activity, abnormal function; >90% activity, normal function) and results were integrated with UK Biobank data to assess associations with lipid traits. Results First, we validated our scalable microscopy assay with FH VCEP-classified control variants. Then we compared functional activity measured by microscopy and flow cytometry assays for 50 variants, which showed significant correlation (r = 0.66, p<0.0001) and a close average agreement (Bland–Altman bias = –0.05). Applying FH VCEP functional classification thresholds yielded broadly consistent classification in both methods, with minor shifts among categories. Integration with UK Biobank data showed that carriers of variants with reduced LDLR activity (<70% and <50%) had higher LDL-C, total cholesterol and ApoB levels compared to those with normal activity (>90%) for both microscopy and flow cytometry assays, with more pronounced differences observed at the <50% LDLR activity threshold. Conclusion High-content microscopy provides reliable and scalable measurements of LDLR function, showing high concordance with flow cytometry and consistent associations with lipid phenotypes. These findings support reconsideration of the evidence weight assigned to validated microscopy assays within FH VCEP variant classification frameworks, namely to Strong (Level 1). ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR",
+        "CRISPR-Cas9",
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 3,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 3
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.13.26352980v1",
+      "date": "2026-05-17",
+      "abstract": "Abstract Background: Immune checkpoint inhibitors have transformed cancer treatment, yet a large number of patients fail to respond. Identifying molecular characteristics that predict response before treatment initiation remains an unmet need. Towards that end, this study presents a large-scale integrative analysis of existing single-cell and bulk tissue datasets, aimed at identifying predictive features while providing insights into their cellular origin and potential function within the tumor microenvironment. Methods: A stepwise analysis was performed using single-cell RNA-sequencing data from 60 melanoma patients at baseline, separated into discovery (n=41) and validation (n=19) sets. An integrated bulk transcriptomics dataset (n=128) from melanoma patients and a bladder cancer dataset (n=298) were used for further validation. Results: Integrative analysis of melanoma single-cell datasets revealed that responders exhibit distinct molecular profiles across multiple cell types compared to non-responders. Notably, these included downregulation of the TNFR superfamily and other immunosuppressive genes (TNFRSF18, TNFRSF9, TNFRSF4, LGALS1, BATF, IL12RB2, LINGO1, DUSP4, SDC4, VCAM1) in T-cells. By investigating the findings from the immune cell populations in the bulk tumor context, 13 transcripts were found to be consistently associated with response across all cohorts. These were differentially expressed in T-cells (SELL, EPB41, CD96, UHFR2, LINGO1, LGALS1), B-cells (ALDH5A1), NK cells (PLEC, PDGFRB) and Monocytes (TLR10, ST6GAL1, IKZF1, MPRIP). A predictive model based on these features effectively discriminated responders from non-responders in melanoma (AUC=0.73). The model maintained significant predictive power in an independent bladder cancer dataset (IMvigor210; AUC=0.64). Of high clinical relevance, it demonstrated enhanced performance in identifying responders among patients with low tumor mutational burden (AUC=0.75). Conclusion: Our study reveals pre-treatment molecular features related to immune-cancer crosstalk that are associated with response to immunotherapy. A 13-gene model demonstrates potential added clinical value in stratifying responders, particularly in patients with low tumor mutational burden, meriting further validation. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing",
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.14.26353160v1",
+      "date": "2026-05-18",
+      "abstract": "Abstract Mitochondrial diseases (MDs) are genetically and phenotypically diverse and can be difficult to diagnose. Prevalence estimates derive largely from diagnosed cases and may underestimate population MD risk. Population-based studies are limited in scope and number but indicate MD variants are common. As genomic sequencing advances have made comprehensive population-based evaluation feasible, we sought to evaluate nuclear MD variation in a population cohort to understand variant prevalence and differences in MD risk estimates We identified disease-associated nuclear gene variants in 270 nuclear MD genes across 2,845 healthy older individuals in the Medical Genome Reference Bank. From Pathogenic or Likely Pathogenic Variants (PLPVs) we estimated autosomal recessive (AR) and autosomal dominant (AD) MD risk for individual genes and all nuclear variant-associated MDs. We identified 554 PLPV alleles representing 357 unique variants in 145 genes. Combined AR MD risk was estimated at 25.8 per 100,000 (95% CI 18.7 to 32.9), or 1 in 3,880 individuals. SPG7 (12.65 per 100,000; 95% CI 7.52-20.6) and POLG (4.23 per 100,000; 95% CI 2.10-8.01) contributed the greatest single gene AR MD risks and OPA1 variants posed the greatest AD MD risk. We observed a high rate of MD-associated nuclear gene variation in this healthy older cohort. The estimated lifetime AR MD risk was higher than commonly quoted prevalence estimates for all MDs, and the presence of common AD variants suggests variant penetrance may be lower than previously understood. These data help contextualise population MD risk and may inform clinical counselling and care. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.07.26350887v1",
+      "date": "2026-05-18",
+      "abstract": "Abstract Respiratory syncytial virus (RSV) disproportionately causes severe infections among infants and older adults, yet the key age group responsible for viral spread to other age groups remains poorly defined. While current immunization approaches effectively reduce disease severity among the most vulnerable, identifying the core drivers of infection is essential to effectively disrupt population-level transmission. By generating 910 whole-genome viral sequences of RSV from all age groups (<1 to 65+ years) in Connecticut, we identified that children aged 12-35 months are the primary drivers of viral transmission to other age groups. This group significantly shapes the genetic diversity of circulating strains. Furthermore, we found that RSV is introduced into the community through frequent and independent entries from other US regions throughout the year, rather than through a single explosive seasonal introduction or long-term local persistence. Ultimately, our findings justify prevention strategies that expand beyond reducing disease burden to actively prioritizing the reduction of transmission and infection. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.14.26353181v1",
+      "date": "2026-05-18",
+      "abstract": "Abstract Early life nutrition profoundly influences long-term metabolic health, and breast milk not only provides nutrients but also conveys maternal signals shaping infant metabolic development. While postpartum exercise by lactating women benefits maternal health, its impact on milk-borne signaling remains largely undefined. Small extracellular vesicles (sEVs) in breast milk are key mediators of maternal to infant communication because of their selectively packaged bioactive cargo and resistance to infant digestive enzymes and acids, enabling delivery of their cargo to peripheral tissues. Here, we show that a single session of moderate-intensity postpartum aerobic exercise robustly increases human breast milk sEV concentration, which persists for multiple post-exercise milk collections. Exercise enriches breast milk with sEVs containing regulatory metabolic cargo (proteins, miRNAs, and metabolites), which translates into enhanced mitochondrial capacity in neonatal stage cells. These findings implicate sEVs as an exercise-responsive signaling compartment in breast milk capable of connecting postpartum maternal physical activity to beneficial infant metabolic programming. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.15.26347859v1",
+      "date": "2026-05-17",
+      "abstract": "Abstract Background During infectious disease outbreaks, characteristics of reported cases are routinely collected. These give information on becoming infected but not on infecting others. We assess whether linking infectees to infectors, together with their characteristics, can help understand transmission. Methods From the start of the COVID-19 pandemic in the Netherlands, reported cases were asked to identify their most probable infector in routine surveillance, enabling the linking of cases. We assess for the period 27 February 2020 - 11 April 2022 whether the infectees of these transmission pairs are representative of all reported cases, whether the transmission pairs yield verifiable estimates of epidemiological characteristics (here the serial interval), and whether they provide information on transmission that cannot be obtained otherwise. Results Of 8,003,008 reported cases, 678,482 (8.5%) could be linked to their most probable infector. These infectees were largely representative of the reported cases regarding age group, sex, and geographical location. The mean serial interval of 3.6 days (sd 3.4 days) from transmission pairs aligns with literature. Transmissions between age groups largely follow known contact patterns. Most transmissions in September 2021 occurred between persons who were not (fully) vaccinated, indicating the effectiveness of the vaccine, and relatively few between persons with different vaccination status, indicating assortative mixing in vaccination status. Conclusion Transmission pairs can be efficiently collected in routine surveillance, providing insight into disease transmission. The current post-pandemic period provides an excellent opportunity to adjust reporting systems for linking infectees to their most probable infector as preparation for future outbreaks. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2024.09.11.24313462v2",
+      "date": "2026-05-17",
+      "abstract": "Abstract Several pathogens, including SARS-CoV-2, can cause asymptomatic infections which remain undetected but transmit disease. Estimating the proportion of asymptomatic infections, ψ, is therefore important for epidemic control. Accurate estimation of ψ has been challenging. Population-based surveys misclassify asymptomatic individuals as symptomatic when they experience overlapping symptoms from unrelated conditions. Here, we developed a rigorous mathematical formalism that accounts for symptom overlap together with infection test sensitivity and specificity and yields accurate estimates of ψ. We validated the formalism against synthetic datasets. We then applied it to 50 COVID-19 serosurveys, spanning ~0.8 million individuals across 29 nations. ψ was significantly higher (median ~60%) than previously reported (~40%) (P=8×10 -11 ). Symptom overlap explained ~89% of this difference. Furthermore, ψ became more consistent within nations, helping better devise intervention policies. We applied our formalism also to Zika virus outbreaks, demonstrating its broad applicability. Finally, we developed a web-application for its easy implementation (URL: https://therapeuticengglab.github.io/ShinyPsi/). ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.28.26351835v3",
+      "date": "2026-05-18",
+      "abstract": "Abstract Epidemiological studies connect aging and autoimmune diseases to increased herpes zoster (HZ) risk, yet their shared genetic basis remains unresolved. Here, we integrated large-scale genome-wide association studies (GWAS) of a multivariate aging latent factor (mvAge), rheumatoid arthritis (RA, representing autoimmunity), and HZ with multi-omics quantitative trait loci. Using linkage disequilibrium-aware colocalization and Mendelian randomization (MR), we identified a shared pleiotropic major histocompatibility complex (MHC) signal, tagged by rs1800628. Phenome-wide association studies (PheWAS) and network analyses indicated that the signal variation is associated with systemic immune remodeling, characterized by increased pro-inflammatory mediators, elevated T-cell regulation markers, and reduced lymphocyte counts. This pleiotropic genetic variation may alter the lifelong immune regulatory trajectory, accelerating aging and predisposing individuals to both autoimmunity and VZV reactivation. Based on these findings, we propose a life-course \"chronic high inflammatory burden–compensatory immune tolerance dysregulation\" conceptual model, providing a genetic basis for the epidemiological overlap of aging, autoimmunity, and HZ, and a hypothesis-generating framework for understanding and untangling systemic immune dysregulation prior to clinical disease onset. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.12.26353040v1",
+      "date": "2026-05-15",
+      "abstract": "Abstract Special Operations Forces (SOF) sustain repeated low-level blast (LLB) exposures; while most remain resilient, a subset develop depression, sleep disruption and reduced wellbeing that threaten readiness. We asked whether “sub-concussive” LLB chronically injures an insula-centered cortico-striato-thalamic network and whether network architecture explains divergent outcomes. In a mouse model parameterized to SOF blast exposure monitoring data, ninety 3-psi blasts over three weeks produced persistent diffusion and connectivity deficits across insular, striatal, pallidal and thalamic nodes, accompanied by tauopathy, neuroinflammation, vascular amyloid, and durable sleep and metabolic abnormalities. In SOF Soldiers, measures of cumulative LLB exposure predicted right insula-striatal diffusion/neurite disruption and increased depression risk. Interventional multi-mediator modeling showed that right insula-striatal microstructural injury mediated the effect of LLB to increase depression risk, while moderator screening identified features that amplify or buffer this mediation, defining risk and resilience zones. These findings enable precision blast-medicine integrating exposure dose, circuit biomarkers and moderator profiles. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.12.26353027v1",
+      "date": "2026-05-15",
+      "abstract": "Abstract Familial longevity, quantified using the Longevity Relatives Count (LRC) score indicating the proportion of ancestral long-lived family members, associates with a pronounced 13 years delayed onset of cardiometabolic disease (CMD). Understanding the molecular basis of familial longevity therefore provides critical insights into mechanisms of cardiometabolic resilience. However, the combined metabolomics and proteomics profile associated with the delayed CMD onset observed in such long-lived family members is not understood yet. Hence, we integrated plasma metabolomics and proteomics in 495 participants from the Leiden Longevity Study to identify molecular signatures associated with (a contrast in) the LRC score. Metabolomics profiling captured 429 features, including amino acid derivatives, nucleosides, and lipid mediators, while proteomics quantified 374 proteins related to cardiovascular, metabolic, and inflammatory pathways. Three within-family analysis approaches were examined and overlapping findings were interpreted. We identified ten metabolites and nine proteins that are associated with increased familial longevity, exemplified by a high LRC score. High LRC scoring individuals exhibited lower levels of amino acid derivatives (prolylhydroxyproline, 5-hydroxy-tryptophan, asymmetric dimethylarginine), nucleosides (2-methylguanosine, 7-methylguanosine, pseudouridine), N-acetylneuraminic acid and quinolinic acid, indicating optimized extracellular matrix integrity, vascular function, and reduced neuroinflammatory activity. Lipid mediators, including elevated 6-keto-PGF1a and reduced 9-HOTrE/alpha-linolenic acid ratio, reflected preserved endothelial homeostasis and attenuated inflammatory signaling. At the proteome level, strong ancestral familial longevity is associated with immune regulators (RETN, NPPB, IGSF8), extracellular matrix components (EFEMP1, EPHB4), and adhesion/signaling molecules (LRP11, ICAM3, KIT, ADGRG2), highlighting coordinated regulation of inflammation, tissue remodeling, and regenerative capacity. Multi-omics pathway analyses indicated convergence on amino acid and nucleotide metabolism, lipid signaling, extracellular matrix remodeling, and receptor-mediated communication. Collectively, these multi-omics systemic signatures define a molecular framework of ancestral familial longevity characterized by reduced inflammation, preserved tissue integrity, and enhanced metabolic and regenerative processes. Our findings provide mechanistic insight into the biology of familial longevity and potentially cardiometabolic resilience. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.12.26353043v1",
+      "date": "2026-05-15",
+      "abstract": "Abstract Ganciclovir (GCV), and its orally available pro-drug valganciclovir (VGCV), are preferred therapies for treating congenital cytomegalovirus (cCMV), however, their use carries a significant risk of neutropenia for the child. This risk limits dosing and effectiveness of VGCV, particularly in the treatment of infants with cCMV infection, who are at increased risk for sensorineural hearing loss (SNHL). We hypothesized that an improved understanding of the pharmacokinetics (PK) and pharmacodynamics (PD) of VGCV in cCMV-infected infants at risk for SNHL would inform strategies for optimizing safe and effective VGCV dosing. Participants were enrolled in one of two clinical studies interrogating the PK, safety, and efficacy of VGCV treatment in cCMV-infected infants at risk for SNHL. GCV exhibited a short median half-life of 2.02 h and the median (range) area under the 24 h concentration-time curve (AUC 24 ) was 60.8 (26.8, 99.4) μg*h/mL. An AUC 24 > 70 μg*h/mL was associated with an elevated risk of neutropenia (Fisher’s Exact p = 0.029). No associations between GCV PK and hearing outcomes were observed. Taken together, these results indicate vast inter-individual variability in GCV PK that is associated with dose-related toxicity, supporting the need for individualized dosing in the cCMV-infected population. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.13.26353095v1",
+      "date": "2026-05-17",
+      "abstract": "Abstract Background: For many evidence criteria within v3.0 of the ACMG/AMP guidelines, methodologies have been developed to empower their use outside the stipulated evidence strengths. However, no such methodology has been established for case-control data (PS4). With the release of large-scale unselected case-control datasets and expansion of nationally-collected laboratory datasets enriched for pathogenic variant carriers, there is potential to combine datasets across ascertainment contexts in a more quantitative manner using novel likelihood ratio tools. Methods: Using our published PS4-LR-Calculator, we calculated a combined log likelihood ratio (PS4-LLR) across five datasets (three unselected, and two enriched), and estimated enrichment of pathogenic variants in clinically-ascertained laboratory data using truncating variant prevalence. Results: Data were combined for 10,817 missense variants from 325,345 female breast cancer patients and 671,006 controls of Western European ancestry for five breast cancer susceptibility genes (BRCA1, BRCA2, PALB2, ATM, CHEK2). A combined LLR was produced for 4,690 missense variants; 927 variants received evidence towards pathogenicity (LLR≥1), and 3,242 received evidence towards benignity (LLR≤-1). Conclusion: This flexible, variant-level methodology combines nationally-collected 'enriched' datasets with unselected case-control cohorts, expanding the available information for case-control analysis, boosting power, enabling exploration of atypical penetrance and empowering variant classification. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.06.26352482v1",
+      "date": "2026-05-17",
+      "abstract": "Abstract Background: Vascular contributions to cognitive impairment and dementia (VCID) are thought to arise from distributed neurovascular unit (NVU) dysfunction rather than focal pathology, yet the transcriptional architecture of human VCID brain tissue and the status of endogenous counter-regulatory signaling within it remain incompletely characterized. Defining whether protective pathways are engaged and why they may be insufficient is critical for identifying therapeutic entry points in a disease lacking approved treatments. Methods: We performed differential gene expression analysis (DESeq2 v1.38.0) and pre-ranked gene set enrichment analysis (fgsea v1.24.0) on bulk RNA-sequencing data from superior parietal lobe tissue (GEO:GSE303449; n = 40; 19 VCID, 21 controls; model: age_scaled + Sex + condition), followed by Spearman correlation analysis, PI3K-Akt pathway level, leading-edge decomposition, and single-nucleus RNA-seq endothelial cell characterization (GEO:GSE282111). Results: No individual gene reached FDR < 0.05 for differential expression between VCID and control across 51,962 genes tested. Gene set enrichment analysis nonetheless identified eight significantly enriched pathway programs (all FDR < 0.05) that were upregulated, encompassing inflammatory, stress-response, cytoskeletal, and apoptotic signaling, consistent with distributed network-level dysregulation rather than dominant single-gene effects. The MAS1/ANG1-7 associated signaling gene set (54 genes) was the only counter-regulatory pathway achieving significance (NES = 1.381, FDR = 0.0127). MAS1 receptor expression was strongly (absolute Spearman's rho >= 0.64) and inversely associated with NF-kB pathway drivers TLR4 (Spearman's rho = -0.804) and IKBKB (Spearman's rho = -0.797; both FDR = 4.73 x 10^-9). Further, 9 of 12 correlations between MAS1 downstream effectors and endothelial activation markers were FDR-significant and positive, indicating that the downstream protective effector program is co-activated by inflammatory stress rather than directed by its receptor. Single-nucleus RNA-seq supports endothelial enrichment of the MAS1 pathway enrichment signal in VCID brain tissue. PI3K-Akt leading-edge decomposition revealed 96% gene-level non-overlap between inflammatory and vasoprotective arms. Conclusions: Human VCID brain tissue exhibits coordinated pathway-level dysregulation in the absence of dominant individual-gene effects, consistent with a disease driven by distributed transcriptional network stress. The MAS1/ANG1-7 vasoprotective axis is transcriptionally engaged and endothelially enriched, yet receptor expression is inversely associated with inflammatory signaling while downstream effectors remain transcriptionally engaged. This pattern suggests a failed compensatory state in the VCID superior parietal lobe. This architecture is consistent with a transcriptionally primed but receptor-constrained protective program. These findings suggest that therapeutic strategies restoring MAS1 receptor-level input to an already engaged downstream program may represent a plausible therapeutic strategy for VCID, pending experimental validation. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.06.26352483v1",
+      "date": "2026-05-17",
+      "abstract": "Abstract Purpose: Genetic variant reclassification is increasingly common in clinical genomics, yet limited data describe how patients experience re-contact and variant reclassification in routine clinical care. Methods: We conducted semi-structured qualitative interviews with 20 adult patients who received a variant reclassification following routine clinical genetic testing. Interviews explored emotional responses, communication experiences, and perceived value of genetic testing. Data were analyzed using Template Analysis, a form of thematic analysis. Results: Three overarching themes were identified. Participants identified a need for improved communication of reclassified results, particularly with respect to timing, modality, and contextualization (Theme 1). Experiences with reclassification also shaped perceptions of the value of genetic testing, with most participants viewing testing as worthwhile despite its evolving nature (Theme 2). Finally, many participants interpreted reclassification as evidence of personalized and ongoing care, reinforcing trust in genetic testing and biomedical research (Theme 3). Participants generally preferred to be informed of reclassified results regardless of reclassification type, although the direction of reclassification influenced emotional responses and preferred modes of communication. Downgrades from variants of uncertain significance to benign or likely benign were widely viewed as meaningful by participants. Conclusion: Variant reclassification was experienced as a signal of personalized, ongoing care. Timely, contextualized, patient-centered re-contact practices may reduce uncertainty, strengthen trust, and help patients not feel forgotten. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.11.26352970v1",
+      "date": "2026-05-15",
+      "abstract": "Abstract Background Women living in leishmaniasis-endemic zones are regularly exposed to the sandfly vector in their environments. While case series and laboratory evidence consistently suggest transplacental transmission of Leishmania parasites with deleterious maternal-fetal effects, this issue has received insufficient attention, particularly in areas where the predominant Leishmania species is mainly associated with cutaneous disease. Methodology/Principal Findings We conducted an exploratory cross-sectional study in a highly endemic zone of Tabasco, Mexico, enrolling 53 women with singleton term deliveries between April 2018 and April 2020. Placental PCR was positive in 18 (34%) participants. Buccal swabs were positive in 11 (21.2%) of 52 newborns. Immunofluorescence confirmed intracellular amastigotes within macrophages near the vascular endothelium of PCR-positive placentas, with no surrounding inflammatory infiltration. Sequencing revealed homology to Leishmania mexicana or L. amazonensis . Birthweight percentile was modestly lower in the PCR-positive group (predicted mean 53.8% vs. 56.5%, p = 0.76), while small for gestational age showed a non-significant trend toward higher prevalence among PCR-positive cases (prevalence ratio = 2.06, 95% CI: 0.32–13.39, p = 0.45). Conclusions/Significance Subclinical, dynamic transmission of Leishmania parasites typically associated with cutaneous disease was detected in this endemic zone. The presence of L. mexicana in human placentas was confirmed by immunofluorescence and sequencing, without an associated inflammatory response. These findings highlight the potential of CL-associated Leishmania species to reach the placenta and buccal mucosa of newborns, warranting further epidemiological investigation into the consequences of vertical transmission in regions with endemic CL. Author summary Leishmaniasis is a parasitic infection mainly known for causing skin ulcers (cutaneous leishmaniasis) or severe internal disease (visceral leishmaniasis). While congenital transmission of Leishmania has been documented in visceral disease, the potential for cutaneous species to cross the placenta has received less attention. We studied 53 pregnant women living in a highly endemic region of Tabasco, Mexico, and found that one-third harbored Leishmania DNA in their placentas, while about one-fifth of their newborns showed positive buccal swabs. Importantly, the women showed no clinical signs of cutaneous leishmaniasis, indicating that subclinical infection can still allow parasites to reach the placenta. We confirmed the presence of the parasite in placental tissue using immunofluorescence microscopy and DNA sequencing, which identified the species as Leishmania mexicana . The parasite was found inside immune cells (macrophages), without causing visible inflammation, suggesting the parasite can persist silently in placental tissue. These findings are important for women of reproductive age living in or travelling to cutaneous leishmaniasis-endemic regions, as they and their newborns may be at risk of subclinical exposure to the parasite. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.11.26352910v1",
+      "date": "2026-05-13",
+      "abstract": "Abstract The significant challenges associated with rare diseases in the medical and research domains include the scarcity of information, which is often confined to unstructured formats. Although existing approaches provide valuable insights, there is a need to develop effective methods to identify information pertinent to rare diseases for advancing rare disease research. We identified mentions of rare diseases in relevant texts and assessed their relevance using derived scores, the confidence score and semantic similarity from a fine-tuned BioMedBERT encoder. This encoder was fine-tuned using rare disease related text from Online Mendelian Inheritance in Man (OMIM), Orphanet, a manually validated dataset, and STS benchmark datasets. The process of identifying meaningful rare disease mentioned was presented through two case studies that retrieved relevant NIH-funded projects, utilizing a generated knowledge graph in Neo4j to host data on 2,067 GARD diseases with over 320,000 NIH funded projects. Through various case studies with NIH-funded projects related to rare diseases, we demonstrated the effectiveness of our approach in systematically providing rare disease related data to enhance our understanding of rare diseases for future investigations. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.03.31.25324931v2",
+      "date": "2026-05-13",
+      "abstract": "Abstract Background Genetics is rapidly deepening our understanding of human health and disease by investigating both common and rare genetic variants and their influence on gene expression[ 1 , 2 ]. Alternative splicing is a molecular mechanism enabling a single gene to produce multiple protein isoforms with distinct biological functions[ 3 ]. However, while protein isoforms are ubiquitous in humans, we here show that they are rarely considered when investigating common or rare genetic variants. Methods To address this gap, we systematically assessed the impact of isoform-level analysis across 83 Quantitative Trait Loci (QTL) datasets and 76 million human genetic variants. Results Using strict colocalization, we find that ∼46% of genes associated with human phenotypes via Genome-Wide Association Studies (GWAS) are associated through isoform-level expression changes. Similarly, we find that 72% of rare pathogenic variants are interpreted differently depending on the isoform expressed in relevant tissues and cell types. Conclusions These findings establish isoform-level analysis as an essential approach for genetic research. Furthermore, they underscore the need to (re)analyze genetic data at isoform resolution, thereby unlocking deeper insights into human biology and expanding clinical applications. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.03.27.26349549v3",
+      "date": "2026-05-13",
+      "abstract": "Abstract The major histocompatibility complex (MHC) is among the most polymorphic and difficult-to-genotype regions of the human genome. Accurate haplotyping of its antigen-presenting HLA genes is critical for transplantation, pharmacogenomics, and disease-risk prediction. Short reads struggle to resolve MHC haplotypes, and although long-read sequencing offers a solution, its adoption in tissue typing has been constrained by cost, throughput, and reliance on long-range PCR. We present an end-to-end workflow for MHC haplotyping that pairs hybrid capture with long-read sequencing on PacBio or Oxford Nanopore, using single-step enzymatic fragmentation and barcoding for automatable library prep. We also introduce HLA-Resolve, a tool that performs HLA typing from HiFi reads via haplotype reconstruction and benchmark the full workflow across 32 geographically diverse samples spanning three independent reference datasets. With PacBio data, the workflow achieved F1 scores of 99.8% (SNV) and 98.4% (indel) against the Genome in a Bottle benchmark, 70% of reconstructed HLA haplotypes perfectly matched the corresponding Human Pangenome Reference Consortium phased assemblies, and HLA-Resolve achieved 97% star allele concordance against International Histocompatibility Working Group reference typings at three-field resolution, outperforming existing long-read HLA typers. Although developed for the MHC, the workflow is customizable to any set of genes, offering a general framework for high-resolution haplotyping. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.07.04.25330898v3",
+      "date": "2026-05-13",
+      "abstract": "Abstract Background Numerous countries use the EXTEL HEMO-AUTO MC Quantitative Faecal Immunochemical Test (qFIT) to screen for faecal haemoglobin. We aimed to determine if bacterial 16S rRNA gene sequencing results from the leftover qFIT cassettes would be stable over time and comparable with larger volume faecal collection protocols. Methods Four qFIT probe samples were taken from each of sixteen fresh healthy volunteer stool samples and sequencing results were compared after 0, 4, 7 and 14 days to provide a baseline control and mimic postage and sample processing conditions in cancer screening programmes. qFIT results were then compared to those of standard laboratory processing of larger whole-stool samples. DNA was extracted from 100 NHS surplus qFIT samples from symptomatic patients reporting rectal bleeding and quantified to assess suitability for 16S rRNA gene sequencing. Results Bacterial composition and diversity from healthy volunteer qFITs remained stable over 14 days with only minor differences compared to baseline (day 0) and larger stool control samples; at least 75% of the symptomatic qFITs yielded sufficient DNA for 16S rRNA gene sequencing. Conclusion qFIT samples were almost identical to control samples and stable over 14 days, allowing them to be used for large-scale low-cost population-based intestinal microbiota studies. Clinical Trial Registration The study was registered on clinicaltrials.gov ( NCT06100549 ). Data summary The datasets generated from human samples supporting the conclusions of this article are available in the Figshare repository: https://figshare.com/s/3e75fcba093f13750402 . The raw sequencing datasets used for this study have been deposited in the NCBI Short Read Archive, under accession number PRJNA1268008 https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1268008 . Impact statement The quantitative Faecal Immunochemical Test (qFIT) is now widely used in colorectal cancer screening and symptomatic testing to detect faecal haemoglobin, with millions of samples tested annually worldwide. As only microlitres of the sample-containing buffer are required for haemoglobin testing, this provides a potentially very valuable, otherwise wasted resource of surplus samples, which could be used to analyse the gut microbiota composition by 16S rRNA gene sequencing or metagenomic methods. We have demonstrated that the EXTEL HEMO-AUTO MC collection picker, widely used for screening and symptomatic testing, and which uses only 2 mg of faeces, yields sufficient DNA for microbiota sequencing (with stability over 14 days) and 16S rRNA gene sequencing results were generally comparable to those from larger, conventionally collected faecal samples. An ability to reliably measure gut microbiota composition in surplus qFIT samples, with associated data linkage, could lead to large-scale, low-cost, population-based studies, including longitudinal studies from ages 50 to 74 years. Such an approach would provide unparalleled statistical power to assess links between the gut microbiota and some of the most prevalent causes of poor health, including cardiovascular disease, chronic inflammatory disease and diabetes, as well as providing vital insights into the gut microbiota during cancer development and treatment response. Repositories The raw sequencing datasets used for this study have been deposited in the NCBI Short Read Archive, under accession number PRJNA1268008. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.11.26352916v1",
+      "date": "2026-05-14",
+      "abstract": "Abstract Congenital heart defects (CHD) are a common congenital anomaly and a leading cause of neonatal mortality. Even in ostensibly isolated cases, genetic testing can reveal monogenic causes of isolated CHD or identify syndromic conditions before additional features become clinically apparent. A timely and accurate genetic diagnosis can inform medical management and surveillance, reduce the need for unnecessary investigations, and offer families valuable information about prognosis, recurrence risk, and anticipatory guidance. In September of 2023, Primary Children’s Hospital introduced a universal genetic testing protocol that implemented whole genome sequencing for all neonates admitted to the cardiac intensive care unit (CICU) undergoing cardiac surgery before 30 days of life, with the goal of increasing the number of patients who receive a timely genetic diagnosis and improving clinical care. This is a retrospective chart review of patients who underwent whole genome sequencing (WGS) under the new universal genetic testing protocol at Primary Children’s Hospital from its initiation in September 2023 to February 2026. Over the study period, 217 neonates with CHD participated in the universal WGS protocol. Of these patients, 23 (10.6%) received a genetic diagnosis that was causative of their CHD, of which 11 patients (48%) had no major extracardiac features at the time testing was ordered. Twenty patients were diagnosed with a syndromic condition, and three patients were diagnosed with a non-syndromic condition. All of these patients received additional referrals to specialists following their new diagnosis, and six families used results to inform decisions regarding continuation of care. An additional 19 patients (8.8%) received WGS results that were clinically relevant but non-diagnostic for their CHD, including partial diagnoses, secondary findings, and carrier status. In total, 19.4% of patients (n=42) had clinically relevant variants identified on their WGS. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.11.26352882v1",
+      "date": "2026-05-13",
+      "abstract": "Abstract Background Vedolizumab, a gut-selective anti-integrin therapy, is effective in IBD, but response rates remain variable. Conventional clinical and biochemical markers, including C-reactive protein and faecal calprotectin, have limited predictive value. Although recent transcriptomic studies have implicated T-cell–related signatures in predicting vedolizumab response, these findings lack validation across independent cohorts. Methods We analyzed pre-treatment transcriptomic profiles from whole blood and T-cell subsets across five independent cohorts comprising 100 patients with UC and CD. The primary outcome was clinical response. Secondary outcomes included clinical and biochemical remission. Results Among the 100 patients, 61 were responders and 39 non-responders, with no significant baseline clinical differences. Gene set enrichment analyses revealed downregulation of interferon alpha and gamma signalling in responders’ baseline blood samples, a finding validated across independent cohorts. Downregulated interferon signalling at baseline was also observed in patients who achieved clinical and biochemical remission. To build a predictive model, an adaptive elastic net logistic regression model was applied to baseline whole-blood RNA-sequencing data. The classifier achieved an AUC of 1.0 in training, 0.71–0.83 in UC validation cohorts, and 0.64–1.0 in CD cohorts. Reduced interferon signalling was observed across CD4□ and CD8□ T-cell subsets, including regulatory T cells, suggesting a broad immune signature rather than cell-type specificity. Conclusions Downregulated interferon signalling in peripheral blood prior to treatment is a reproducible molecular signature predictive of vedolizumab response and biochemical remission. Whole-blood transcriptomics revealed a robust interferon-axis signal that predicted vedolizumab response across independent cohorts, with stronger performance in UC than CD. Given heterogeneous clinical endpoints and assessment windows, these data provide proof-of-concept that warrants validation with standardised, endoscopy-based outcomes. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.07.23.25332032v2",
+      "date": "2026-05-18",
+      "abstract": "Abstract Subtyping approaches are widely used in psychological and cognitive research to classify individuals into subgroups based on shared behavioural or cognitive characteristics, particularly when addressing heterogeneity in developmental conditions such as developmental dyslexia. However, subtyping analyses involve numerous methodological decisions, including the choice of theoretical models, data preprocessing strategies, performance indices, and statistical techniques. Variability in these analytic decisions can lead to inconsistent subgroup identification and complicate comparisons across studies, yet such methodological variability is rarely systematically mapped. To support transparent examination of analytic decision pathways in subtyping research, we developed MAP-DyS, an open-source interactive Shiny app that enables researchers to explore and compare methodological choices across subtyping studies. To demonstrate the approach, we compiled a corpus of developmental dyslexia subtyping studies identified through a systematic search of four academic databases and extracted key analytic decision points reported in these studies. The resulting dataset illustrates substantial variability in theoretical models, preprocessing procedures, statistical methods, and reported subgroups. MAP-DyS allows users to interactively visualise these decision pathways and examine how different methodological configurations are represented across the literature. By making analytic variability transparent and navigable, the tool supports researchers in critically evaluating existing subtyping practices and designing more transparent and reproducible subtyping studies. Although demonstrated using developmental dyslexia research, the framework is designed to be adaptable to other areas of psychological and behavioural research that employ subtyping or classification approaches. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing",
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.04.04.25325117v2",
+      "date": "2026-05-12",
+      "abstract": "Abstract Polyamines such as spermidine and spermine are critical regulators of brain development, yet the mechanisms controlling their cellular uptake and extracellular availability remain poorly defined. Here, we identify ATP13A4, a P5B-type ATPase enriched in glia with prominent expression in astrocytes, as a key determinant of brain polyamine homeostasis. Using biochemical, cellular, and in vivo approaches, we show that ATP13A4 drives cellular polyamine uptake and constrains extracellular polyamine levels. Loss of ATP13A4 reduces astrocyte morphological complexity and enhances astrocyte-driven excitatory synapse formation. Exogenous spermidine recapitulates these effects, identifying extracellular spermidine as a synaptogenic cue and implicating astrocytic ATP13A4 in regulating extracellular polyamine availability. In vivo , constitutive Atp13a4 knockout mice exhibit a striking redistribution of brain polyamines, with reduced cortical levels and accumulation in cerebrospinal fluid, indicating disrupted compartmentalization between intra-and extracellular pools. These changes are accompanied by increased excitatory synapse number and synaptic activity, as well as delayed early postnatal neurodevelopment followed by mild, female-biased behavioral alterations in adulthood. Furthermore, we identify rare ATP13A4 variants associated with neurodevelopmental disorders and show that these variants impair transporter function. Together, our findings reveal that astrocyte-mediated polyamine clearance via ATP13A4 shapes extracellular spermidine availability, thereby regulating excitatory synaptogenesis throughout neurodevelopment. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR",
+        "CRISPR-Cas9"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.13.26353093v1",
+      "date": "2026-05-17",
+      "abstract": "Abstract A quarter of the world's population has immunologic evidence of past or present Mycobacterium tuberculosis (Mtb) infection (MTBI) detected as TST or IGRA positivity. Community-based preventive treatment of individuals with MTBI has resulted in transient decreases in TB cases, but its long-term effectiveness has been controversial. Due to the likelihood that many of those with immune responses to Mtb antigens may no longer harbor Mtb, widespread treatment of all such individuals may result in unnecessary exposure to antibiotics. We raise an additional concern that preventive treatment of individuals with MTBI, who are not at the risk of disease progression, may result in loss of protective immunity, provided by the persistent infection, and enhanced risk of TB upon re-exposure to Mtb. There is evidence from human cohorts and animal studies that prior exposure to Mtb confers protection against TB development upon re-exposure, and that treatment of Mtb-infected animals often results in loss of this protection. We build a novel epidemiological model of Mtb dynamics and progression to TB in a community allowing for protection afforded by MTBI against exogenous reinfection-driven disease progression. We show that implementation of treatment of MTBI in the whole community will result in reduction of TB cases but stopping the program may result in an increase in new TB cases that may offset (or even exceed) benefits of the preventive treatment program. Our results suggest that better understanding protective effects provided by MTBI against progression to TB upon Mtb re-exposure and identification of Mtb-infected individuals who most benefit from preventive treatment must be a priority before preventive treatment of asymptomatic MTBI is widely implemented. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.09.26352691v1",
+      "date": "2026-05-18",
+      "abstract": "Abstract Background: Participants in the ReINVEST randomised placebo-controlled trial of sertraline, conducted among men with high trait impulsivity and histories of violent offending, received structured clinical contact throughout the trial, including psychiatric assessments, nursing consultations, crisis support, and referrals to mental health and external services. We estimated the effect of placebo trial participation, compared with non-participation after baseline and single-blind run-in, on violent and domestic-violence reoffending. Methods: This prespecified secondary analysis included men from the ReINVEST trial pathway who completed baseline assessment and entered the single-blind run-in phase but did not proceed to randomisation, to inform the counterfactual. Violent and domestic-violence offences were identified from linked administrative records over 12- and 24-month follow-up periods. The adjusted difference in offending was estimated using two independent analytical approaches accounting for baseline differences. Additional analyses examined whether the effect varied by baseline clinical and criminal-history characteristics, whether pre-randomisation external referrals explained selection into placebo participation, and whether post-randomisation external referrals accounted for any part of the estimated effect. Results: Placebo trial participation was associated with lower offending across both outcome domains and follow-up periods. Placebo-standardised mean count differences for violent offending were −0.19 (95% confidence interval [CI] −0.38, −0.04) at 12 months and −0.22 (95% CI −0.51, −0.05) at 24 months. Corresponding differences for domestic-violence offending were −0.37 (95% CI −0.81, −0.14) at 12 months and −0.49 (95% CI −0.92, −0.22) at 24 months. The association was more apparent among men with a documented psychiatric history and, for domestic-violence offending, among those with higher baseline anger, irritability and aggression. Pre-randomisation referrals did not explain selection into placebo participation or materially alter the estimates. Post-randomisation referrals were observed in both groups, remained more common in the placebo group, and did not account for the observed association. Conclusion: Placebo participation in this trial involved sustained clinical contact and psychosocial support beyond exposure to inactive medication, and these non-pharmacological components may have contributed to lower reoffending. In placebo-controlled trials involving populations with high psychiatric morbidity and limited continuity of coordinated care, the clinical content of placebo participation should be explicitly characterised in trial design and interpretation. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.12.26352987v1",
+      "date": "2026-05-15",
+      "abstract": "Abstract Background Vector control is essential to malaria control and elimination. National Malaria Programmes (NMPs) must make complicated decisions about vector control in the face of evolving epidemiology, biological threats like insecticide resistance, a growing vector control toolbox, and an increasingly constrained ",
+      "searched_keywords_found_duplicates": [
+        "gene editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.13.26352871v1",
+      "date": "2026-05-17",
+      "abstract": "Abstract Objective Fatty Acid esters of Hydroxy-Fatty Acids (FAHFAs) are anti-diabetic and anti-inflammatory lipokines produced mainly by adipose tissue (AT). As exercise training enhances FAHFA levels, we investigated the impact of acute exercise (AE) and exercise-mimicking conditions on circulating and adipocyte FAHFA levels. Methods Clinical trial ( NCT05572905 ) in 60 women, grouped by BMI (lean vs. obese) and age (young vs. older), was combined with in vitro experiments on human adipocytes. Following baseline characterization (body composition, VO2max, insulin sensitivity, AT/plasma FAHFAs), women underwent a cross-over AE and control interventions with repeated blood sampling for FAHFA analysis. Results In AT, lean and older women exhibited higher FAHFA levels than obese and young women, respectively; older women also showed a shift toward higher levels of 13/12-carbon-branched FAHFAs. Circulating FAHFA levels were similar across all groups and were not positively associated with insulin sensitivity, VO2max or FAHFA levels in AT. Although AE increased circulating free fatty acids (FFA), plasma FAHFAs dropped in response to both AE and control interventions. In adipocytes, FAHFAs were unaffected by glucocorticoids but increased in response to lipolysis together with gene expression related to FFA oxidation (FAO). Nevertheless, blocking mitochondrial FAO partially mimicked the lipolytic effect, while peroxisomal inhibition synergistically boosted FAHFA lipolysis-driven production despite having no effect alone. Conclusions While adiposity and aging modulate FAHFA levels in AT, circulating levels remain stable and unaffected by AE, challenging subcutaneous AT as their primary systemic source. In vitro, FAHFA synthesis is driven by high FFA availability but limited by competing peroxisomal FAO. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.12.26350596v1",
+      "date": "2026-05-15",
+      "abstract": "Abstract Brain similarity networks (BSNs), extracted from structural magnetic resonance imaging, provide a validated framework for studying brain network organization and encode neurodevelopmental information relevant for psychiatric disorders. Recently, a neurodevelopmental hypothesis has been proposed for bipolar disorder (BD), where evidence demonstrates neuroprogression phenotypes differing from controls. BSNs offer a promising framework for investigating BD’s neural correlates but remain largely underexplored. Parallelly, graph neural networks (GNNs) have emerged as suitable deep learning models for exploiting network-level information. This study aimed to investigate BSNs for discriminating subjects with BD from controls within a GNN framework using the multi-site StratiBip network, composed of 605 controls and 501 subjects with BD. Leveraging advanced analysis tools, we developed a multi-site classification framework including: i) the state-of-the-art MIND algorithm for computing morphometric similarity (MS) networks based on gray matter volumes (GMV), ii) MS integration with age, sex, and GMV, iii) a leave-one-site-out cross-validation for multi-site model generalizability evaluation. The best model achieved a mean multi-site accuracy of 68%. Explainability analyses revealed meaningful MS patterns in the basal ganglia, frontal and temporal lobes, and a particularly relevant integration with age. This study provides interpretable insights into the role of MS in BD and unveils evidence supporting ageing-related processes as a significant component of BD pathophysiology. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.01.09.26343777v2",
+      "date": "2026-05-13",
+      "abstract": "Abstract Introduction The diagnostic utility of HbA1c for identifying prediabetes remains uncertain, particularly across diverse racial and ethnic populations. We evaluated concordance between HbA1c, fasting plasma glucose (FPG), and oral glucose tolerance testing (OGTT) in a Filipino-American cohort. Research Design and Methods We analyzed cross-sectional data from 149 Filipino-American adults without known diabetes in the San Francisco Bay Area. Prediabetes prevalence was assessed using American Diabetes Association criteria for HbA1c, FPG, and OGTT. Agreement between diagnostic methods was evaluated, and metabolic characteristics were compared across glycemic categories. Results Prediabetes prevalence differed substantially by diagnostic method: 35% by HbA1c, 8.1% by FPG, and 8.7% by OGTT. Overall agreement between tests was low. Among individuals classified as prediabetic by HbA1c, the majority did not meet criteria by FPG or OGTT. However, higher HbA1c levels were associated with increased body mass index, waist-hip ratio, blood pressure, triglycerides, fasting insulin, and HOMA-IR. Conclusions In this Filipino-American cohort, HbA1c identifies a substantially larger group of individuals with prediabetes compared to glucose-based tests, with limited concordance between methods. Individuals classified as prediabetic by HbA1c exhibit features consistent with insulin resistance. These findings highlight potential differences in metabolic phenotypes captured by alternative diagnostic criteria and underscore the need for longitudinal studies to determine their relative prognostic value. What is already known on this topic HbA1c, FPG, and OGTT are all used to diagnose prediabetes, but prior studies show poor agreement between these tests and substantial variation in prevalence estimates across populations. Evidence suggests these differences may be influenced by underlying physiology and race/ethnicity, yet data in Filipino-Americans—especially for prediabetes—have been limited. What this study adds In Filipino-Americans, HbA1c identifies a much higher prevalence of prediabetes than FPG or OGTT, with low concordance between methods. Individuals classified as prediabetic by HbA1c alone show metabolic features consistent with insulin resistance, suggesting this group represents a meaningful at-risk phenotype. How this study might affect research, practice or policy These findings suggest that reliance on a single diagnostic test may misclassify risk and that HbA1c may capture additional at-risk individuals in this population. They support the need for longitudinal studies and potential reconsideration of diagnostic thresholds or combined testing approaches tailored to specific populations. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.12.26353001v1",
+      "date": "2026-05-15",
+      "abstract": "Abstract Despite the availability of effective vaccines, pneumococcal disease remains a major global health concern. Pneumococcal vaccines are multivalent vaccines that have progressively increased in valency, a change associated with lower antibody titers to individual polysaccharide antigens. Whether increasing vaccine valency influences B cell responses through antigenic competition remains incompletely understood. Here, we studied pneumococcal polysaccharide-specific B cell responses in peripheral blood and lymph nodes of healthy adults following vaccination with the 13-valent pneumococcal conjugate vaccine. Antigen-specific memory B cells in peripheral blood expanded 2 weeks post-vaccination, whereas germinal center formation was delayed and peaked after 4 weeks. Notably, germinal center B cell responses were dominated by a limited number of specificities, in contrast to the more evenly distributed expansion observed in peripheral blood. Together, these data highlight the importance of extrafollicular responses in adult anti-pneumococcal polysaccharide immunity and provide evidence for antigenic competition during lymph node germinal center formation, which may have important implications in the context of multivalent vaccines. Summary Using lymph node fine needle aspiration, the study characterizes germinal center responses to multivalent pneumococcal conjugate vaccines. Antigen-specific peripheral blood B cells expand before germinal center formation, and germinal center B cells display a restricted serotype-specific response. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.12.26353060v1",
+      "date": "2026-05-17",
+      "abstract": "Abstract Background Since July 2022, Australian National Cervical Screening Guidelines have recommended anyone eligible for cervical screening be offered the choice between having their sample collected by a clinician with a speculum, or self-collection using a vaginal swab. Method We recruited screen-eligible people to an online survey between December 2023 and April 2024, via a paid social media (Meta) campaign, and stakeholder and community networks. Using binary logistic regression, we assessed demographic and screening history factors associated with having previously heard of self-collection. In participants screened since July-2022, we assessed factors associated with being offered a choice between self-collection and clinician-collection; choosing self-collection (among those offered choice); and using self-collection (among all recently screened participants). Results Of the 9,928 participants, 70.2% had heard of self-collection. Among those screened since July 2022, 36.1% were offered a choice in screening method. Awareness was associated with increasing age (p-trend <0.001), with participants aged >65 years most likely to have heard of self-collection (adjusted odds ratio (aOR): 1.69, 95% confidence interval (95%CI): 1.31-2.18). Compared to participants who self-reported regularly attending cervical screening, both not-regular and never screeners (based on self-reported screening history, frequency, age and sexual history) were less likely to have heard of self-collection (aOR:0.80 [95%CI:0.72-0.89] and aOR:0.73 [95%CI:0.56-0.96], respectively; p<0.001). Participants who attended a specialised womens/sexual health clinic were more likely to have heard of self-collection (aOR:1.32 (95%CI:1.06-1.64), p;<0.001), and to report being offered choice (aOR:1.62 (95%CI 1.22-2.14), p<0.001) at their last cervical screen. Half of the participants who were offered a choice opted for self-collection (N=803/1,617; 49.7%). Not-regular screeners were twice as likely (aOR:2.31 (95%CI:1.74-3.07), p<0.001) to choose self-collection as regular-screeners. Conclusion Given almost 50% of women nationally are now choosing self-collection, these findings imply national uptake might be close to plateauing overall. In high income settings where a choice in screening methods is introduced with the aim of improving screening equity, resources, adequate training, and health promotion tools should be provided prior to program launch to support healthcare providers in offering choice and facilitate improved participation in screening programs. Raising community awareness of screening options is important and needs to reach under-screened groups. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.12.26353042v1",
+      "date": "2026-05-15",
+      "abstract": "Abstract Introduction High-intensity locomotor training (HIT) is recommended for improving walking capacity, but treatment responses are variable. Understanding the brain changes underlying responsiveness to training could provide insight into this variability. Emerging evidence suggests upregulation of the contralesional cortico-reticulospinal tract (CRST) may contribute to walking function after stroke. However, it is unclear whether CRST upregulation is supportive or maladaptive, and no studies have examined CRST changes after HIT. This study investigated how CRST and corticospinal tract (CST) strength and laterality reorganize, and their relationship with walking capacity after locomotor HIT. Methods Ten participants with chronic stroke completed a 4-week no-intervention control phase then 4-weeks of HIT. Diffusion MRI and 6-minute walk distance were obtained at weeks 0, 4, and 8. Analysis tested changes in ipsilesional and contralesional CRST and CST strength and laterality. Associations between changes in tract laterality and walking capacity were examined. Results During the treatment phase (vs. the control phase), there were significantly greater increases in contralesional CRST strength (1.02 SD [95% CI: 0.25, 1.79]), contralesional CRST laterality (4.44 [2.15, 6.72]), and 6-minute walk distance (33 meters [17, 50]). Walking capacity improvements were associated with changes in CRST laterality (r = 0.77, p = 0.01), but not CST laterality (r = -0.01, p = 0.98). Discussion Following HIT, increases in contralesional CRST strength and laterality were observed. CRST laterality changes were strongly associated with walking improvements, suggesting a possible supportive role of contralesional CRST in mediating training-related improvements in walking function after stroke. Clinical trial registration ClinicalTrials.gov Identifier: NCT02858349 , https://clinicaltrials.gov/study/NCT02858349?term=NCT02858349&rank=1 ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.10.06.25337445v2",
+      "date": "2026-05-15",
+      "abstract": "Abstract Accurate prediction of which patients with mild cognitive impairment (MCI) will progress to dementia remains a major challenge. Current biomarkers detect amyloid pathology with high accuracy but offer limited prognostic value for disease progression. We conducted a prospective analysis in the multicentre BALTAZAR cohort, all diagnosed with MCI at baseline and followed for 3 years. Paired cerebrospinal fluid (CSF) and plasma samples were analysed with the NULISA ultrasensitive multiplex platform quantifying more than 120 central nervous system biomarkers. Prognostic performance was assessed using area under the curve (AUC) and hazard ratios (HRs), both for individual markers and for elastic-net-derived biomarker combinations validated by bootstrap and survival analyses. During the 3-year follow-up, 36% of participants converted to dementia. Plasma p-tau biomarkers showed strong accuracy for detecting amyloid positivity (AUC > 0.90) but limited prognostic value for conversion (AUC < 0.75). In CSF, markers of neurodegeneration (tau, NfL) and synaptic dysfunction (NPTX2 encoding the Neuronal Pentraxin 2) predicted conversion with higher accuracy, exceeding p-tau217 performance. The best-performing CSF combination (IL-16, tau, NPTX2) achieved an AUC of 0.86 (95%CI 0.80-0.91) and an HR of 39.8 (95%CI 9.6-165.2). Plasma combinations (p-tau181 or p-tau217 with YWHAG encoding for 14-3-3 protein gamma, a member of the 14-3-3 protein family) provided only modest improvement, likely reflecting the absence of robust synaptic markers in blood. Prognostic assessment of MCI progression to dementia is best achieved through CSF biomarker combinations reflecting neurodegeneration and synaptic dysfunction, complemented by inflammatory markers. These findings emphasize the clinical and pathophysiological relevance of downstream processes beyond amyloid and tau, and support the implementation of multimarker panels for prognosis and therapeutic monitoring. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.11.26352889v1",
+      "date": "2026-05-13",
+      "abstract": "Abstract We systematically evaluate and compare the performance of classical statistical methods (ARIMA), mechanistic compartmental models (SEIR), modern deep learning architectures (LSTM, DLinear, Autoformer), and an emerging time-series foundation model (TabPFN-TS) to forecasts the incidence of Influenza-Like Illness (ILI) across nine European countries. The models are benchmarked against a naive baseline and a multi-model ensemble (RespiCast) created by an initiative of the ECDC. In line with the operational practice of existing forecasting hubs, our entire evaluation is explicitly optimized for short-term horizons (1 to 4 weeks ahead). Interestingly, we found that the foundation model TabPFN-TS allows for great zero-shot inference capabilities. Without any task-specific retraining, it successfully overcomes extreme data scarcity to consistently outperform all other individual architectures, frequently rivalling or surpassing the RespiCast ensemble. Our results highlight how deep learning architectures are severely constrained by extreme data scarcity, typical in epidemic forecasting, requiring targeted endogenous data augmentation to reduce predictive errors. Within the deep learning class of models, we observe that simpler architectures (such as DLinear and LSTM) frequently exhibit greater robustness and outperform complex, attention-based models (such as Autoformer) when data is constrained. Finally, our results show how a weighted ensemble, constructed by fusing all the models, delivers highly robust forecasts in all regions considered. Overall, our findings showcase the transformative potential of zero-shot foundation models in epidemic forecasting and confirm the importance of multi-model ensembles. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.09.26352812v1",
+      "date": "2026-05-13",
+      "abstract": "ABSTRACT Objectives Phenotype-driven workflows in clinical and translational research require standardized ontology-based representation, ontology-aware cohort discovery, and provenance inspection for each assertion. Existing approaches optimize either for semantic traversal or scalable batch analytics, but not both. We describe PheBee, a hybrid system that links semantic assertions to scalable evidence storage via a deterministic identifier, preserving provenance while supporting ontology-aware discovery at cohort scale. Materials and Methods PheBee represents phenotype assertions in a knowledge graph as ontology-linked nodes with clinical modifier context (e.g., negated, family history), and stores supporting evidence records in a scalable row-oriented evidence table for cohort-scale access. The two layers are connected by a deterministic identifier enabling stable joins across repeated ingestions without duplicating high-volume evidence in the graph. We evaluated PheBee using synthetic datasets designed to exercise end-to-end ingestion and query workflows. Results Functional evaluation validated hierarchical term expansion, qualifier-aware retrieval, duplicate-free assertion handling under re-ingestion, and privacy-conscious management of subjects shared across multiple research projects. At scale (10,000 subjects producing 12M evidence records) PheBee completed ingestion in ∼30 minutes and responded to interactive queries within 6 seconds under concurrent load. Discussion PheBee exposes a unified API for ontology-aware cohort discovery with hierarchical term expansion, subject-centric retrieval of phenotypes and clinical modifiers, and evidence and provenance queries. Its data model aligns with GA4GH Phenopackets, facilitating interoperability with phenotype exchange standards. Conclusion By combining ontology-aware semantics with scalable, provenance-bearing evidence storage, PheBee provides a practical open-source foundation for phenotype-driven research workflows that demand both semantic precision and cohort-scale traceability. LAY SUMMARY Researchers often use “phenotypes” (observable clinical features) to describe individual subjects and find groups of similar subjects. Those phenotypes come from many sources and need both standard terminology and clear evidence for why a phenotype has been associated with a subject. PheBee is a software system that stores phenotype assertions in a way that supports both “ontology-aware” searching (for example, finding patients with any subtype of a condition) and scalable storage of supporting evidence across large research cohorts. PheBee uses multiple types of data storage so researchers can perform interactive phenotype searches and also store millions of pieces of supporting evidence. A shared identifier connects the two storage layers, so subjects’ phenotypes and their supporting evidence remain linked even as new data is added over time. We evaluated PheBee using fully synthetic (non-patient) data to confirm correct query behavior, evidence traceability, and system performance at large scale. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.11.26352905v1",
+      "date": "2026-05-14",
+      "abstract": "Abstract Background Accurate diagnosis of multiple system atrophy (MSA) is critical for clinical management and efficient trial designs, yet remains challenging, particularly distinguishing MSA (especially cerebellar-subtype [MSA-C]) from sporadic adult-onset ataxia (SAOA). Combining a marker of neuroaxonal degeneration, neurofilament light chain (NfL), with a marker of the pathogenic MSA hallmark, α-synuclein seeding activity, may define a mechanistically-informed CSF signature of MSA, enabling sensitive and specific differentiation from SAOA even in early disease. Methods We analyzed 60 cross-sectional patient CSF samples (n=32 clinically diagnosed MSA [MSA clin ] 22/32 MSA-C; n=28 SAOA) for NfL (Simoa) and α-synuclein seeding activity (seed amplification assay [synSAA], Piperazine-N,N’-bis(2-ethanesulfonic acid)-based), and assessed diagnostic accuracy, disease-duration correlations, and trial power using biomarker-based stratification. Results Age-adjusted NfL was higher in MSA clin than SAOA (3859 vs. 997pg/mL), yielding 96.9% sensitivity and 85.7% specificity. SynSAA was concordant with clinical diagnosis (25/32 MSA clin synSAA-positive; 23/28 SAOA synSAA-negative), with 78.1% sensitivity and 85.2% specificity (all confirmed in MSA-C subgroup). Both biomarkers displayed divergent trajectories with disease duration: NfL peaked early before declining (r=–0.45, p=0.01); whereas synSAA maximum fluorescence intensity increased (r=0.42, p=0.016), suggesting greater synSAA signal with accumulating MSA burden. Integrating both biomarkers in MSA treatment trials allows sample-size reduction by 20% versus NfL alone. Conclusions CSF NfL and synSAA capture complementary aspects of MSA biology: while NfL provides high diagnostic accuracy for MSA clin , peaking early, synSAA adds mechanistic specificity for α-synuclein seeding activity and might allow target engagement assessment. Combined, they might enable biological diagnostic frameworks, molecular trial stratification, and treatment monitoring in MSA. What is already known on this topic While highly warranted for clinical management and efficient treatment trial design, accurate diagnosis of multiple system atrophy (MSA) against overlapping and reciprocally mimicking conditions such as sporadic adult-onset ataxia (SAOA) remains clinically challenging, especially in early disease stages. A mechanistically informed biofluid signature of MSA might enable sensitive and specific differentiation from SAOA, even in early disease stage. Recently merging molecular markers reflecting neuroaxonal damage (NfL) and α-synuclein seeding activity (measured by the seed amplification assay; synSAA) might here show particular promise. What this study adds This is the first study to systematically assess the ability of both CSF NfL and CSF α-synuclein seeding activity to distinguish clinically diagnosed MSA (MSA clin ) from SAOA, thereby offering a window into underlying MSA biology in patients in vivo. Our findings suggest that the rate of axonal degeneration is most pronounced in early MSA disease stages but decreases with longer disease duration; whereas α-synuclein seeding signal activity increases as MSA-related disease burden accumulates. Finally, it demonstrates the impact of a combined molecular fluid signature of MSA for improving trial design: a biomarker-based stratification of MSA subjects in future MSA treatment trials combining NfL plus α-synuclein seeding activity allows to reduce sample sizes by 20% compared to NfL alone. How this study might affect research, practice or policy The findings from this study may help to molecularly diagnose patients with MSA against overlapping and reciprocally mimicking conditions such as SAOA, in particular and even in early disease stages. Moreover, they might lay the foundation for a future biologically-informed diagnostic framework of MSA; support trial stratification for more efficient upcoming MSA treatment trials; and might facilitate molecular ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.11.26352912v1",
+      "date": "2026-05-13",
+      "abstract": "Abstract Cognitive impairment is a major source of disability in Parkinsonian disorders, yet biomarkers that distinguish cognitive status from cognitive decline remain limited. DNA methylation-based epigenetic aging measures capture complementary dimensions of biological aging, but it remains unclear whether they primarily reflect stable differences in cognitive vulnerability or longitudinal cognitive change. We examined associations between epigenetic aging measures and global cognition in the Parkinson’s Progression Markers Initiative (PPMI) cohort. Seven epigenetic aging measures were derived from peripheral blood DNA methylation data, and cognition was assessed longitudinally using the Montreal Cognitive Assessment (MoCA). Linear mixed-effects models were applied in complementary frameworks, including baseline-plus-change-from-baseline models and within-person versus between-person decomposition models. Secondary analyses included baseline clock-by-time interaction models and a decline-focused sensitivity analysis. Across analyses, higher epigenetic aging was consistently associated with lower overall MoCA scores. In the baseline-plus-change-from-baseline models, the analytic baseline component showed the dominant signal, whereas the change-from-baseline terms were not significant after false discovery rate correction. In the within-person versus between-person decomposition models, associations were concentrated in the between-person component, while within-person deviation terms were not significant. Secondary analyses were consistent with this pattern. Together, these findings suggest that blood-based epigenetic aging measures may be more informative as biomarkers of cognitive status or vulnerability than as markers of short-term cognitive progression. Larger studies with longer follow-up and more detailed cognitive phenotyping are needed to clarify their longitudinal relevance. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.01.26349919v2",
+      "date": "2026-05-12",
+      "abstract": "Abstract Mobile laboratories (MLs) offer a flexible platform for on-site wastewater and environmental surveillance, particularly in regions with limited laboratory capacity. Effective ML deployment, however, requires optimized molecular workflows that match local infrastructure, equipment, and workforce constraints. Here, we present an integrated ML workflow that combines Oxford Nanopore Technologies (ONT) sequencing for shotgun metagenomics, multiplex metabarcoding for microbial community profiling, and Biomeme-based qPCR for targeted pathogen detection. We introduce and validate a multiplexed ONT small subunit rRNA amplicon sequencing approach that enables simultaneous profiling of bacteria, archaea, and microeukaryotes in complex environmental samples. Sample pretreatment and nucleic acid extraction was tested for combined chemical–mechanical lysis followed by magnetic bead purification. Workflow performance was assessed by analyzing a known mock community (ZymoBIOMICS) and wastewater samples spiked with inactivated monkeypox virus (MPXV), demonstrating accurate taxonomic representation and sensitive MPXV detection. The multiplex metabarcoding workflow enabled rapid, high-resolution community profiling and showed stronger concordance with qPCR-based pathogen detection than whole-genome and whole-transcriptome amplification workflows. MPXV tiled amplicon sequencing was successfully incorporated into the ML protocol, supporting near-real-time genomic characterization in field settings. Across diverse environmental matrices, a multiple displacement amplification (MDA)-based metagenomic workflow combined with ML nucleic acid extraction reliably reproduced the composition of the mock community. Overall, integrating ONT sequencing, MDA-based metagenomics, multiplex metabarcoding, and mobile qPCR provides an efficient surveillance platform within a One Health framework. While key components of the workflow were validated under controlled laboratory conditions, pilot testing on environmental samples from sub-Saharan Africa demonstrates its applicability to real-world matrices. Download figure Open in new tab ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.08.26352443v1",
+      "date": "2026-05-12",
+      "abstract": "Abstract Background Screen use is pervasive in childhood and adolescence, yet its role in antisocial behaviour (ASB) remains uncertain. While cross-sectional studies consistently link higher screen use to elevated ASB, longitudinal evidence is mixed, and few studies have controlled adequately for prior behaviour and genetic liability. Thus, it remains unclear whether these associations reflect prospective influences of screen exposure, or underlying vulnerabilities shared with ASB. We investigated whether screen use is a modifiable risk factor or a marker of underlying vulnerability. Methods We analysed data from up to 41,562 children in the Norwegian Mother, Father, and Child Cohort Study (MoBa). ASB traits and ICD-10-based conduct disorder (CD) diagnoses were assessed at ages 5, 8 and 14 years, together with screen use (total exposure and modality). Cross-sectional logistic regression models examined associations between screen use and ASB traits/CD at each age, adjusting for sex and parental education. Polygenic risk scores for ASB (PRS ASB ) were used to assess genetic susceptibility and gene-environment interplay. Lagged logistic models tested whether screen use predicted later ASB, adjusting for prior ASB. Linear mixed-effects models examined developmental patterns across age. Results Higher screen use was positively associated with ASB traits and CD across all ages, with dose-response patterns across screen-use modalities. Social media showed the strongest modality-specific association at adolescence. In lagged models, screen use did not predict later ASB after adjustment for prior ASB. Longitudinal models showed significant but attenuating associations across development. PRS ASB was independently and additively associated with ASB outcomes but did not interact with screen use. Conclusions We found that higher screen use was consistently associated with antisocial outcomes across childhood and adolescence. However, the absence of prospective associations after accounting for prior behaviour, together with independent genetic contributions, suggests that screen use may be better understood as a marker of underlying vulnerability rather than an independent driver of antisocial development. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.08.26352707v1",
+      "date": "2026-05-12",
+      "abstract": "Abstract Shigella sonnei is a human-adapted enteric pathogen with a very low infectious dose and increasing antimicrobial resistance. In high-income settings, transmission is multimodal including sporadic cases/outbreaks associated with food and travel, as well as sustained transmission among sexual networks of men who have sex with men (MSM). Whole-genome sequencing (WGS) now underpins national shigellosis surveillance in the United Kingdom. Hence, consistent, communicable genotyping is essential for case linkage and trend detection across heterogeneous transmission modes. Here, we evaluate the performance of WGS genotyping approaches for granulating outbreaks of S. sonnei shigellosis, particularly considering differential performance in dense sexual transmission where highly clonal MSM-associated sublineages pose distinct clustering challenges. Specifically, we compare performance of the current practice approach (10 SNP-distance clustering based on SNP address [t10]), allele-based methods (EnteroBase cgMLST/HierCC [HC5]), a pathogen-specific genotyping scheme (sonneityper), and two k-mer based approaches (PopPUNK and KPop), on a bona fide UK surveillance dataset (n = 3,639 isolates from between 2016 and 2022), and stratify analyses by demographics (i.e. presumptive MSM [pMSM] versus non-pMSM). Comparison metrics indicate that t10 clustering method groups data more broadly than HC5, and k-mer-based methods may capture genetic variation independent from SNP or allele-based approaches. Clusters derived from k-mer-based methods offer similar resolution to HC5 and reflect different demographics, but had unconvincing utility for this pathogen. These findings suggest a transmission context-aware surveillance workflow for shigellosis in high income settings: anchor routine communication on a portable allele-based backbone and augment with more granular, complementary methods (e.g., k-mer-based micro-partitioning or phylogenetic analysis) in comparatively low genomic-density regions of population structure (e.g., pMSM transmission lineages) to stabilise clusters and reduce artefactual chaining. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.10.26352710v1",
+      "date": "2026-05-13",
+      "abstract": "Abstract Background and Objective Glioblastoma outcome prediction remains difficult because clinically relevant signals are distributed across heterogeneous imaging and genomic modalities, cohorts are small, and conventional neural predictors do not quantify their own uncertainty. This study evaluates a hybrid neural–Bayesian belief network framework for uncertainty-aware multimodal glioblastoma prediction and examines how modality selection, model family, and structure-aware regularization affect predictive performance and confidence quality. Methods The framework was evaluated on the TCGA-GBM radiogenomic cohort using four input modalities (T1Gd, FLAIR, mRNA, and CNA), five model families, five structural-weight settings, and 15 view subsets. A secondary benchmark on the UCI Human Activity Recognition dataset was included to assess whether observed limitations were specific to the glioblastoma setting. Results CNA features consistently reduced performance in most multimodal settings, and selective fusion excluding CNA outperformed both the full four-view baseline and imaging-only alternatives. Model families showed clear differences in uncertainty behaviour: non-Bayesian families achieved the strongest predictive accuracy, whereas the Bayesian family achieved the lowest calibration error over a narrower confidence range. Bayesian belief network regularization produced consistent directional improvements without supporting reliable structure-discovery claims, as learned graph structures were not reproducible across folds. On the secondary bench-mark, the same framework achieved much higher predictive performance, indicating that the glioblastoma performance ceiling primarily reflects data limitations rather than an architectural constraint. Conclusions In small-sample radiogenomic prediction, modality choice is at least as important as model choice, and uncertainty quality differs substantially across uncertainty-aware model families. The proposed framework provides a practical basis for comparing accuracy, calibration, modality selection, and structure-aware regularization in multimodal biomedical prediction. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.08.26352648v1",
+      "date": "2026-05-12",
+      "abstract": "Abstract Inflammatory bowel disease (IBD) is a chronic immune-mediated disorder of the gastrointestinal tract whose genetic basis is only partly resolved because most risk variants identified by genome-wide association studies (GWAS) lie in non-coding regions, limiting direct gene assignment and biological interpretation 1 , 2 . Here we analysed whole-exome and whole-genome sequencing data from 86,213 cases and 478,363 controls to define the contribution of protein-altering variation to IBD susceptibility. We identify 68 genes directly implicated by coding variation, including genes supported by single-variant associations and ultra-rare mutational burden. 57 of these genes lie within regions previously highlighted by GWAS, indicating convergence of regulatory and protein-altering evidence in IBD. The implicated genes point to coherent biological themes, including post-transcriptional control of inflammatory programmes, epithelial restitution, and calibrated immune pathway signalling, and nominate targets with therapeutic relevance. These results show that large-scale sequencing can resolve disease genes and pathways that remain ambiguous from non-coding association alone, providing a more direct route from human genetics to biological insight and therapeutic hypotheses. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.02.06.26345763v3",
+      "date": "2026-05-12",
+      "abstract": "Abstract Importance Gabapentin and dihydropyridine calcium channel blockers (DHP CCBs) are commonly prescribed together in older adults: gabapentin reaches more than 15.5 million U.S. patients annually, and DHP CCBs such as amlodipine are a first-line antihypertensive class. Both classes act on neuronal calcium signaling, raising the question of whether their combined use is associated with greater cognitive risk than gabapentin alone. Objective To examine whether concurrent CCB use, and DHP CCB use in particular, modifies the association between gabapentin initiation and incident dementia in adults with hypertension. Design, Setting, and Participants Active-comparator new-user cohort study within the Rutgers Clinical Research Data Warehouse (2018–2024), encompassing 405 clinical sites in northern New Jersey. Participants were adults aged 40 years or older with hypertension who initiated gabapentin or pregabalin. Data were analyzed from January through December 2025. Exposures Gabapentin vs pregabalin initiation, with pre-specified stratification by baseline CCB exposure and CCB subtype (DHP vs non-DHP). Main Outcomes and Measures Incident dementia (ICD-10 F00–F03, G30). The pre-specified primary analysis used inverse probability of treatment weighting with time-varying CCB exposure; secondary analyses examined CCB subtype specificity, dementia subtypes, falsification outcomes, and competing risk of death. Results Among 33,791 patients (mean [SD] age, 69.9 [11.5] years; 57.1% female; 502 dementia events; median follow-up, 1.22 years), gabapentin initiation was associated with higher dementia incidence among patients also taking a CCB than among those not taking a CCB (time-varying HR, 1.52 [95% CI, 1.23–1.89]; baseline-stratified HR, 2.22 [95% CI, 1.42–3.47]). The signal was directionally larger with DHP CCBs. Median time to dementia diagnosis was 240 days; subtype estimates were hypothesis-generating. Conclusions and Relevance In this active-comparator cohort of older adults with hypertension, concurrent CCB use — particularly with DHP agents — was associated with substantially higher gabapentin-related dementia incidence than gabapentin without CCB exposure. The short event latency suggests the signal may partly reflect drug-induced cognitive impairment, which may improve with deprescribing — a clinically actionable possibility. CCB-subtype and dementia-subtype estimates are hypothesis-generating; confirmatory replication in Medicare fee-for-service claims and the NIH All of Us Research Program is underway. Question In older adults with hypertension, is concurrent calcium channel blocker (CCB) use associated with higher gabapentin-related dementia incidence than gabapentin alone? Findings In an active-comparator cohort of 33,791 adults, gabapentin initiation (vs pregabalin) was associated with higher dementia incidence among patients also taking a CCB than among those not taking a CCB (time-varying HR, 1.52 [95% CI, 1.23–1.89; P = .0003]; baseline-stratified HR, 2.22 [95% CI, 1.42–3.47]; interaction P = .004). The signal was directionally larger among DHP CCB users (HR, 3.20) and concentrated in Alzheimer disease (HR, 4.53) and unspecified dementia (HR, 2.29), with a null finding for vascular dementia (HR, 0.81). Meaning Concurrent gabapentin and DHP CCB use identifies a potentially modifiable cognitive safety signal in older adults; the short event latency raises the possibility that part of the affected cognition may be at least partially reversible after deprescribing. CCB-subtype and dementia-subtype findings are hypothesis-generating and require replication in larger cohorts; independent replication efforts in broader real-world populations are ongoing. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.08.26352653v1",
+      "date": "2026-05-13",
+      "abstract": "ABSTRACT Cancer frequently clusters in families due to shared environment and genetics. However, many familial cancer cases lack a clinically recognized pathogenic germline variant (PGV). We analyzed germline genomes and family history from 2,726 individuals without a PGV in the All of Us Research Program, including 1,496 cases across 18 cancer types with extensive family history and 1,230 family history-negative, cancer-free controls. We identified allelic series of rare structural variants inactivating MSH2 in individuals with phenotypes consistent with Lynch syndrome and BRCA1 in breast cancer. Cancer polygenic risk scores were enriched in cases and correlated with patterns of cancer diagnoses within families. Exome-wide rare variant analyses nominated six candidate predisposition genes, including TSTD2 and BRAT1 in thyroid and breast cancer, respectively. Overall, polygenic risk and rare variants impacting known genes explained a median of 5% of unexplained familial cancers, increasing to 11% when including newly nominated risk factors. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.13.26352926v1",
+      "date": "2026-05-18",
+      "abstract": "Abstract Inflammatory bowel diseases (IBD), principally Crohn's disease (CD) and ulcerative colitis (UC), are common chronic disorders involving inflammation and often progressive tissue damage. Genome-wide association studies have mapped many risk signals, but the causal variants, effector genes and relevant cellular contexts remain difficult to resolve, limiting mechanistic interpretation and therapeutic translation. Here we performed a multi-ancestry GWAS meta-analysis of 125,992 individuals with IBD and more than 1.2 million controls, identifying 619 independent association signals (374 novel) at 420 IBD regions that account for 77-80% of SNP-based heritability. Fine-mapping resolved 81 high-confidence variants, 41 not previously reported. Although most signals were shared between CD and UC, 39% showed subtype specificity, with UC signals showing stronger enrichment in functional annotations from intestinal epithelial, secretory and enteroendocrine cells, and CD showing stronger genetic correlations with circulating inflammatory biomarkers, including C-reactive protein and glycoprotein acetylation. Latent causal modelling supported a causal effect of decreased high-density lipoprotein on CD risk. By integrating bulk and single-cell eQTL and pQTL resources using colocalisation and Mendelian randomisation, together with coding-variant evidence from exome sequencing, we prioritised 664 candidate effector genes across 341 signals, including 390 newly implicated IBD genes, revealing new biological mechanisms and candidate therapeutic targets supported by human genetics. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.08.26352758v1",
+      "date": "2026-05-13",
+      "abstract": "ABSTRACT Molecular diagnostics to detect Vibrio cholerae ( Vc ) may be negatively impacted by pathogen-specific lytic bacteriophage (phage) predation. To address this problem, phage detection as a proxy for pathogen detection has been proposed. However, efforts to modernize cholera diagnostics with molecular tools require addressing knowledge gaps on best practices to detect Vc and associated bacteriophages. We conducted polymerase chain reaction (PCR), quantitative PCR (qPCR), and nano-liter (nl) qPCR targeting Vc and known phages (ICP1/2/3) on stool samples collected from patients admitted at hospitals across Bangladesh. Of 4,975 patients enrolled, 2,574 diarrheal samples were collected and over 65,000 reactions were conducted, including replicates. We analyzed the results for target-specific assay alignment and then used machine learning to determine the effect of phage predation on Vc -assay alignment. Standard curve analyses were used to set qPCR-positivity thresholds at 7.3×10 5 CFU/mL for Vc and 1.7×10 3 , 9.3×10 3 , and 3.0×10 5 PFU/mL for ICP1, ICP2, and ICP3, respectively. Among 2,462 samples assayed by qPCR, target detection was 25.3% (623), 7.8% (193), 0.5% (13), and 5.8% (144) for Vc , ICP1, ICP2, and ICP3, respectively. There was strong alignment between assays for Vc detection (κ=0.785) and moderate alignment for phage detection (κ=0.609, 0.593, and 0.533 for ICP1/2/3, respectively). Phages were ranked as the first (ICP1) and third (ICP3) effectors of Vc diagnostic alignment. These findings provide insights on how to prioritize molecular methods in the cholera field as well as related less tractable diseases facing similar diagnostic challenges. IMPORTANCE This paper presents a comprehensive comparison of molecular methods to detect Vibrio cholerae ( Vc ) and associated bacteriophage (phage) which can be used as a proxy for pathogen detection. This initiative is an important step towards modernizing cholera diagnostics with molecular tools. In this study, we found that quantitative polymerase chain reaction (qPCR) represents a reasonable approach to detect Vc and associated phages balancing assay performance, cost, and accessibility. A key additional finding was that phage predation was found to be a leading factor that impacts the alignment of molecular methods to detect Vc . While we recommend qPCR be added to the cholera diagnostic toolkit, the effects of phage predation need to be accounted for in the development and evaluation of cholera diagnostics. These findings have applicability to less tractable disease where diagnostics share similar vulnerabilities. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.07.26351853v1",
+      "date": "2026-05-18",
+      "abstract": "Abstract High-density electrophysiological recording using Neuropixels probes enables single-unit resolution of human neural activity. However, integrating these systems into clinical environments remains challenging. Reported human recordings have been limited to a few centres in the United States utilising variable regulatory, sterilisation and operative techniques. Here, we present human Neuropixels recordings under a nationally managed ethical and regulatory framework in the United Kingdom. We provide a reproducible roadmap to overcome regulatory and equipment constraints. Guided by the IDEAL Stage 2a (Development) framework, we established a frameless intraoperative workflow utilising manufacturer-sterilised probes and a commercially available, clinical-grade setup for Neuropixels insertion including micromanipulator and endoscope holder. We prospectively evaluated this workflow across six participants (mean age 62.5 years) undergoing elective ventriculoperitoneal shunt surgery. Iterative failure-mitigation cycles successfully resolved key technical barriers, including neuronavigation interference and hardware instability. Assessed across three predefined endpoints (clinical safety, procedural timing, and neural data yield), the workflow achieved zero research-related adverse events and maintained a strict 30-minute procedural extension. Progressive technical refinements increased single-unit yield from 25 units during early development to 146 manually curated units. This approach provides a scalable, clinically integrated workflow to safely perform high-density electrophysiology in routine neurosurgical environments. ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.13.26353128v1",
+      "date": "2026-05-17",
+      "abstract": "Abstract Complex human diseases exhibit substantial clinical heterogeneity driven by poorly understood molecular mechanisms, while many also lack sufficient molecular and omics data for mechanistic investigation, hindering therapeutic development. We introduce PiMInfer, a phenotype-to-mechanism framework that leveraged largely available real-world clinical data-based deep phenotypic characterizations with a biomedical knowledge graph approach to resolve disease clinical heterogeneity into phenotype-informed molecular modules, thereby accelerating therapeutic target discovery. We applied PiMInfer to investigate Hidradenitis Suppurativa (HS), an autoimmune skin disease with poorly understood pathogenesis and limited treatment options. PiMInfer identified a coherent, phenotype-informed HS gene module (PiHSM) and functional endotypes, which were validated using multimodal evidence. In silico drug repurposing using PiHSM prioritized Carfilzomib, targeting the immunoproteasome subunit PSMB9, essential for MHC Class I antigen presentation. Preclinical testing using human patient lesional skin explants confirmed its anti-inflammatory activity and demonstrated a significant downregulation of IFN-γ, IL-17, and mTOR signaling pathways within HS lesional microenvironment through single-cell RNA sequencing. PiHSM-based network predictions further suggest a potential enhanced efficacy of combining Carfilzomib with approved HS agents. Collectively, PiMInfer provides a scalable framework that bridges real-world phenome-wide comorbid associations to mechanism-anchored therapeutic discovery, enabling a paradigm shift in precision medicine approaches for complex diseases with limited molecular characterization and in need of better therapeutic strategies. ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.08.28.25334614v4",
+      "date": "2026-05-18",
+      "abstract": "Abstract Genome-wide association studies (GWAS) have been instrumental in uncovering the genetic basis of complex traits. When integrated with expression quantitative trait loci (eQTL) mapping, they can help identify effector genes within GWAS loci through gene regulatory mechanisms. Recent single-cell eQTL (sc-eQTL) studies suggest that genetic effects on gene expression are often cell type- and subtype-specific, providing opportunities to uncover context-specific roles of effector genes that may be obscured in traditional GWAS and eQTL studies in bulk tissues. Here, we leverage results from sc-eQTL mapping in the TenK10K phase 1 project to prioritise effector genes across 69 diseases and 31 biomarker traits, from a total of 12,266 eGenes identified in 28 peripheral immune cell types. Using Mendelian randomisation (MR) and colocalisation, we present a catalogue of predicted effector genes and their estimated directional effects on the trait at cell type resolution, spanning 54,245 associations across 5,270 genes and 28 cell types for disease traits, and 348,103 associations across 9,581 genes and 28 cell types for biomarker traits. By quantifying polygenic enrichment at both the single-cell and cell type levels, we identify distinct immune cell contributions to both immune-related and systemic conditions. We demonstrate differential polygenic enrichment of Crohn's disease and COVID-19 amongst dendritic cell subtypes. Integration with clinical drug development data reveals that therapeutic compounds targeting gene-trait associations identified in this study are twice as likely to have secured regulatory approval. Using Crohn's disease as a motivating example, we demonstrate how population-based sc-eQTL data can pinpoint risk loci, effector genes and cell types, complementing findings from disease-focused tissue samples. Our findings provide a foundational resource for understanding the cell-type-specific genetic architecture of disease and for guiding therapeutic discovery. ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.14.26352723v1",
+      "date": "2026-05-18",
+      "abstract": "Abstract Respiratory Syncytial Virus (RSV) is responsible for a substantial health burden worldwide, particularly among children and older adults. In 2023, novel immunoprophylactic interventions for RSV were approved, underscoring the need to monitor circulating RSV lineages and detect mutations that could compromise intervention effectiveness. Here, we implemented wastewater-based genomic RSV surveillance by integrating digital PCR and amplicon-based sequencing within Switzerland's national wastewater monitoring program. We tracked RSV subtypes and individual mutations across the 2024-2025 peak season in six Swiss cities. RSV-A and RSV-B co-circulated nationwide, and both exhibited similar epidemiological dynamics estimated from their subtype-specific effective reproduction numbers. No previously reported F protein mutations relevant to prophylaxis efficacy were identified. Genetic diversity analysis of wastewater-derived sequences reflected patterns previously reported in clinical data, with higher diversity in RSV-A than RSV-B and greater variability in the G compared to the F gene. These findings demonstrate the potential of wastewater-based RSV surveillance for monitoring RSV dynamics and diversity and establish a national baseline for RSV evolution during the first season following vaccine implementation in Switzerland. ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.18.26353148v1",
+      "date": "2026-05-18",
+      "abstract": "Abstract Systemic Lupus Erythematosus (SLE) is a chronic autoimmune disease driven by uncensored B and T cell autoreactivity. Understanding this pathogenic process has been hampered by lack of studies of secondary lymphoid organs in human SLE. Using minimally invasive lymph node fine needle aspirates (LN-FNAs), we profiled tissue-resident immune cells from 59 SLE patients and 34 healthy controls through high-dimensional 43-color flow cytometry, antigen-specific tetramer probing, and sc-RNA sequencing with paired VH/VL repertoire analysis. Our findings reveal hyperactive lymph node immunity in SLE characterized by spontaneous germinal center (GC) activation, plasma cell accumulation enriched in mature CD19- and CD138+ antibody-secreting cells, and increased frequencies of both GC-TFH and PD-1+CXCR5- T extra-follicular helper cells. SLE lymph nodes harbored large oligoclonal B cell families with altered isotype usage, dominated by IgG1 and IgG4. Critically, self-reactive 9G4+ and Ro60+ B cells showed defective tolerance checkpoint control, accumulating in activated naive, GC, and plasma cell compartments with distinctive PD-1+Tox+ expression absent in viral-specific responses. Single-cell repertoire analysis revealed VH4-34 clones in SLE BGC and BPC, that in contrast to HD, had not experienced clonal redemption. Instead, SLE VH4-34 clones displayed low somatic hypermutation and preserved the AVY hydrophobic patch associated with autoreactivity. Monoclonal antibody testing confirmed that unmutated AVY+ VH4-34 clones retained polyreactivity against naive B cells, apoptotic cells, and multiple self-antigens. Together, these results define \"clonal damnation\" as a key mechanism in SLE whereby autoreactive VH4-34 clones of pathogenic potential escape tolerance checkpoints, expand in germinal centers, and differentiate into tissue plasma cells while preserving germline-encoded self-reactivity. Combined, our study defines critical mechanisms of tolerance breakdown in lupus pathogenesis. ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-19",
+      "date_window_start": "2026-05-12",
+      "date_window_end": "2026-05-19",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.12.26353039v1",
+      "date": "2026-05-17",
+      "abstract": "Abstract Background: Congenital junctional ectopic tachycardia (cJET) is a rare, potentially life-threatening arrhythmia suspicious for a genetic basis, yet its molecular underpinnings remain incompletely defined. The POPDC2 gene, involved in cardiac pacemaking and membrane trafficking of interacting ion channels, has not previously been conclusively linked to human tachyarrhythmias. This study investigates a novel POPDC2 variant (p.Leu245Pro) identified in a family with autosomal dominant cJET. Methods: Exome sequencing was performed to identify co-segregating variants in the affected family. Functional analysis of the POPDC2 p.Leu245Pro variant was conducted by molecular dynamics (MD) simulations, a membrane targeting assay, and a bimolecular fluorescence complementation assay. Additionally, the impact of the variant on Nav1.5 and TREK-1 currents was characterized in Xenopus oocytes. Results: The p.Leu245Pro POPDC2 variant showed a destabilization of the POPDC1-POPDC2 dimer interface, resulting in impaired heterodimer formation and membrane localization. Electrophysiological studies in Xenopus oocytes demonstrated that the mutant protein significantly affected Nav1.5 and TREK-1 currents. These findings support a functional impact of the POPDC2 p.Leu245Pro variant relevant to cardiac conduction. Conclusions: Our results provide the first functional evidence implicating POPDC2 in cJET and support its role as a novel candidate gene in tachyarrhythmic disease. This study enhances the understanding of genetic contributions to cJET and suggests further investigation of POPDC2 in other forms of supraventricular tachyarrhythmias. ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
