@@ -1,0 +1,139 @@
+{
+  "bispecific_antibodies": [
+    {
+      "date_scraped": "2026-05-20",
+      "date_window_start": "2026-05-13",
+      "date_window_end": "2026-05-20",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.07.04.25330865v3",
+      "date": "2026-05-15",
+      "abstract": "Abstract Immune checkpoint inhibitors (ICIs) have transformed the therapeutic landscape of advanced malignancies. However, only a subset of patients respond to treatment. Recent efforts have focused on the identification of novel biomarkers that capture the dynamic and functional state of the tumour immune microenvironment, yet their clinical translation has remained challenging. To address these limitations, we applied amplified FRET-FLIM (QF-Pro®) technology to spatially resolve and quantitatively assess functional immune checkpoint interactions directly in cells and FFPE tissue and tumour samples. Using this approach, we demonstrated that PD-1/PD-L1, CTLA-4/CD80, TIGIT/CD155, and LAG-3/MHC-II interactions can be robustly quantified in routine patient samples from multiple tumour types. Co-analysis of all four immune checkpoints was performed within an ICI-treated melanoma patient cohort enabling the identification of patterns of concomitant engagement. Notably, patients with high PD-1/PD-L1 interaction levels typically also exhibited a significantly elevated CTLA-4/CD80 interaction status. Furthermore, the survival analysis of the patients treated with immune checkpoint blockade showed that the LAG-3/MHC-II interaction state discriminated responders from non-responders, independently of the specific ICI therapy administered, suggesting that the assessment of LAG-3 engagement may serve as a novel prognostic biomarker in immunotherapy treatment in melanoma. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-20",
+      "date_window_start": "2026-05-13",
+      "date_window_end": "2026-05-20",
+      "modality": "bispecific_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2605.17975",
+      "date": "2026-05-18",
+      "abstract": "Quantitative Biology > Populations and Evolution arXiv:2605.17975 (q-bio) [Submitted on 18 May 2026] Title: M-SDT: A modelling framework for dengue transmission, forecasting, and intervention strategies in Ahmedabad Municipal Corporation Authors: Sourav Roy , Rajendra Gadhavi , Bhavin Solanki , Chirag Shah , Raj C. Sharma , Indrajit Ghosh View a PDF of the paper titled M-SDT: A modelling framework for dengue transmission, forecasting, and intervention strategies in Ahmedabad Municipal Corporation, by Sourav Roy and 4 other authors View PDF HTML (experimental) Abstract: Dengue fever poses a persistent public health challenge in rapidly urbanizing Indian cities such as Ahmedabad, where spatial heterogeneity and seasonal variability complicate forecasting and control. In this study, we develop a data-driven compartmental framework to simulate transmission dynamics, generate forecasts, and evaluate intervention strategies across the Ahmedabad Municipal Corporation (AMC). We employ a Mechanistic Seasonal Dengue Transmission (M-SDT) model that incorporates symptomatic and asymptomatic infections. We calibrated the proposed model using zone-wise dengue case data during 2020--2024. Parameter uncertainty is rigorously quantified using a bootstrap sampling framework with negative binomial noise. The calibrated model reveals pronounced spatial heterogeneity across AMC zones, with persistent hotspots and distinct transmission regimes. Forecasts for 2026--2028 indicate continued endemic circulation with moderate inter-annual variability. Sensitivity analysis identifies the mosquito biting rate and vector mortality as dominant drivers of long-term disease burden, highlighting the central role of vector ecology in shaping epidemic outcomes. Evaluating seasonal vector control strategies shows a notable difference in operation; periodic fogging has a cumulative effect over the years, while sustained residual spraying can quickly curb outbreaks and decrease incidence by over 80%. The zone-wise analysis reveals that the mosquito-to-human ratio governs not only the baseline outbreak potential but also each zone's responsiveness to control strategies. Overall, the M-SDT modelling framework enables reconstruction of unobserved dynamics, rigorous uncertainty quantification, and evaluation of targeted, zone-specific interventions, underscoring the importance of integrating fine-scale surveillance data with mechanistic modelling for adaptive urban dengue control. Comments: 38 pages, 17 figures Subjects: Populations and Evolution (q-bio.PE) MSC classes: 92-10, Cite as: arXiv:2605.17975 [q-bio.PE] (or arXiv:2605.17975v1 [q-bio.PE] for this version) https://doi.org/10.48550/arXiv.2605.17975 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Indrajit Ghosh [ view email ] [v1] Mon, 18 May 2026 07:30:00 UTC (13,283 KB) Full-text links: Access Paper: View a PDF of the paper titled M-SDT: A modelling framework for dengue transmission, forecasting, and intervention strategies in Ahmedabad Municipal Corporation, by Sourav Roy and 4 other authors View PDF HTML (experimental) TeX Source view license Current browse context: q-bio.PE < prev | next > new | recent | 2026-05 Change to browse by: q-bio References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Got",
+      "searched_keywords_found_duplicates": [
+        "BiTE"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-20",
+      "date_window_start": "2026-05-13",
+      "date_window_end": "2026-05-20",
+      "modality": "bispecific_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2605.17049",
+      "date": "2026-05-16",
+      "abstract": "Physics > Optics arXiv:2605.17049 (physics) [Submitted on 16 May 2026] Title: Diptera vision and zebra stripes Authors: Krispin M. Dettlaff View a PDF of the paper titled Diptera vision and zebra stripes, by Krispin M. Dettlaff View PDF HTML (experimental) Abstract: The function of the zebra's striped coat has been debated since Darwin and Wallace. A growing body of comparative and experimental evidence supports the hypothesis that the stripes act primarily as a defence against visually orienting biting Diptera - in particular tabanids (horse flies), glossinids (tsetse flies) and culicids (mosquitoes). The mechanisms proposed for this protection range from polarotactic disruption and silhouette break-up to motion-based illusions arising in the Reichardt-type motion detectors of the insect visual system. In this work we focus on a complementary, purely optical mechanism: the Moiré interference that arises when a periodic striped stimulus is sampled by the periodic ommatidial lattice of an insect compound eye. We develop a linear, shift-invariant Fourier model of the diptera compound eye, parameterised from published optical data on diurnal Culicidae, and apply it to images of zebra coats observed at biologically relevant viewing. The model predicts that, in a band of approach distances of approximately 1-5 m, the interaction of the stripe pattern with ommatidial sampling generates parasitic spatial frequencies that are absent from the physical stimulus and that fall within the spatial-frequency window most relevant to host fixation and landing control. A post-retinal motion-detector stage demonstrates that these parasitic frequencies translate into spurious local motion vectors, consistent with the empirical observation that tabanid and glossinid flies fail to land cleanly on striped surfaces. Our results are therefore consistent with the biting-fly hypothesis of zebra striping. Comments: 40 pages, 10 figures Subjects: Optics (physics.optics) Cite as: arXiv:2605.17049 [physics.optics] (or arXiv:2605.17049v1 [physics.optics] for this version) https://doi.org/10.48550/arXiv.2605.17049 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Krispin Dettlaff [ view email ] [v1] Sat, 16 May 2026 15:44:16 UTC (4,144 KB) Full-text links: Access Paper: View a PDF of the paper titled Diptera vision and zebra stripes, by Krispin M. Dettlaff View PDF HTML (experimental) TeX Source view license Current browse context: physics.optics < prev | next > new | recent | 2026-05 Change to browse by: physics References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on o",
+      "searched_keywords_found_duplicates": [
+        "BiTE"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-20",
+      "date_window_start": "2026-05-13",
+      "date_window_end": "2026-05-20",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.12.26353001v1",
+      "date": "2026-05-15",
+      "abstract": "Abstract Despite the availability of effective vaccines, pneumococcal disease remains a major global health concern. Pneumococcal vaccines are multivalent vaccines that have progressively increased in valency, a change associated with lower antibody titers to individual polysaccharide antigens. Whether increasing vaccine valency influences B cell responses through antigenic competition remains incompletely understood. Here, we studied pneumococcal polysaccharide-specific B cell responses in peripheral blood and lymph nodes of healthy adults following vaccination with the 13-valent pneumococcal conjugate vaccine. Antigen-specific memory B cells in peripheral blood expanded 2 weeks post-vaccination, whereas germinal center formation was delayed and peaked after 4 weeks. Notably, germinal center B cell responses were dominated by a limited number of specificities, in contrast to the more evenly distributed expansion observed in peripheral blood. Together, these data highlight the importance of extrafollicular responses in adult anti-pneumococcal polysaccharide immunity and provide evidence for antigenic competition during lymph node germinal center formation, which may have important implications in the context of multivalent vaccines. Summary Using lymph node fine needle aspiration, the study characterizes germinal center responses to multivalent pneumococcal conjugate vaccines. Antigen-specific peripheral blood B cells expand before germinal center formation, and germinal center B cells display a restricted serotype-specific response. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-20",
+      "date_window_start": "2026-05-13",
+      "date_window_end": "2026-05-20",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.10.16.25338145v3",
+      "date": "2026-05-19",
+      "abstract": "Abstract Background: Non-specific live vaccine effects have been described in paediatric populations. We investigated whether non-specific effects are observed in older adults with live shingles (Zostavax) immunisation. Methods: A population-based cohort study was performed using health records from the Clinical Practice Research Datalink in England. Shingles vaccine eligible individuals aged 70 years and over who had received pneumococcal immunisation were included. All-cause death, all-cause hospitalisation, and infection-associated hospitalisation rates were compared between live shingles vaccinated and unvaccinated person-time using time-to-event and time-to-subsequent-event Cox regression with Andersen-Gill extension. Live shingles vaccine exposure was included as a time-varying exposure. The models were run on an overlap-weighted pseudo-population to minimise confounding. Results: Between September 2013 and June 2019 314,618 participants aged 70 years and over who had received pneumococcal immunisation prior to study entry were identified, of which 55% had live shingles vaccine exposure. The overlap-weighted pseudo-population consisted of 60021 lives shingles vaccine unexposed and 60245.6 exposed participants. Live shingles vaccine exposure in the overlap-weighted pseudo-population was associated with a reduction in all-cause death (hazard ratio 0.64; 95% confidence interval 0.62, 0.66), a reduction in subsequent all-cause hospitalisation (hazard ratio 0.84 (0.81, 0.88)), and a reduction in first and subsequent infection-associated hospitalisation (hazard ratio for first event 0.81 (0.79, 0.83), and for subsequent events 0.75 (0.73, 0.77)). Conclusions: Receipt of live shingles vaccine associates with lower mortality and morbidity in older adults in England. The potential for causal linkage should be validated in robust prospective studies, with major implications for national immunisation policies. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-20",
+      "date_window_start": "2026-05-13",
+      "date_window_end": "2026-05-20",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.18.26353148v1",
+      "date": "2026-05-18",
+      "abstract": "Abstract Systemic Lupus Erythematosus (SLE) is a chronic autoimmune disease driven by uncensored B and T cell autoreactivity. Understanding this pathogenic process has been hampered by lack of studies of secondary lymphoid organs in human SLE. Using minimally invasive lymph node fine needle aspirates (LN-FNAs), we profiled tissue-resident immune cells from 59 SLE patients and 34 healthy controls through high-dimensional 43-color flow cytometry, antigen-specific tetramer probing, and sc-RNA sequencing with paired VH/VL repertoire analysis. Our findings reveal hyperactive lymph node immunity in SLE characterized by spontaneous germinal center (GC) activation, plasma cell accumulation enriched in mature CD19- and CD138+ antibody-secreting cells, and increased frequencies of both GC-TFH and PD-1+CXCR5- T extra-follicular helper cells. SLE lymph nodes harbored large oligoclonal B cell families with altered isotype usage, dominated by IgG1 and IgG4. Critically, self-reactive 9G4+ and Ro60+ B cells showed defective tolerance checkpoint control, accumulating in activated naive, GC, and plasma cell compartments with distinctive PD-1+Tox+ expression absent in viral-specific responses. Single-cell repertoire analysis revealed VH4-34 clones in SLE BGC and BPC, that in contrast to HD, had not experienced clonal redemption. Instead, SLE VH4-34 clones displayed low somatic hypermutation and preserved the AVY hydrophobic patch associated with autoreactivity. Monoclonal antibody testing confirmed that unmutated AVY+ VH4-34 clones retained polyreactivity against naive B cells, apoptotic cells, and multiple self-antigens. Together, these results define \"clonal damnation\" as a key mechanism in SLE whereby autoreactive VH4-34 clones of pathogenic potential escape tolerance checkpoints, expand in germinal centers, and differentiate into tissue plasma cells while preserving germline-encoded self-reactivity. Combined, our study defines critical mechanisms of tolerance breakdown in lupus pathogenesis. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-20",
+      "date_window_start": "2026-05-13",
+      "date_window_end": "2026-05-20",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.02.05.26345714v3",
+      "date": "2026-05-15",
+      "abstract": "Abstract Background Malnutrition among children remains a significant public health concern in countries with stunting, wasting, and underweight as key indicators. Rotavirus accounts for approximately 40% of moderate to severe diarrhea cases in children under five, highlighting the potential role of rotavirus vaccination in mitigating diarrhea-associated malnutrition. This study investigated the association between the Rotavirus vaccine (RVV) and malnutrition among children in India. Methods The study examined data from the National Family Health Survey-5. The sample included 67,369 children aged 12 to 35 months. Outcomes included stunting, underweight, and wasting, along with their severe form of malnutrition. Adjusted regression, sensitivity analyses, and Inverse Probability Weighting Regression Adjustment assessed the association between receiving RVV and malnutrition. Results Children receiving all three RVV doses had a lower prevalence of stunting (37% vs 41%), underweight (28% vs 33%), and wasting (17% vs 20%) compared to the unvaccinated. Full RVV coverage was significantly associated with reduced odds of stunting (aOR: 0.88; 95% CI: 0.85–0.92), underweight (aOR: 0.86; 95% CI: 0.83–0.89), and wasting (aOR: 0.85; 95% CI: 0.82–0.89). Conclusion Receiving RVV is associated with a reduced risk of malnutrition in children, highlighting the indirect effect (Herd Immunity) and the role of the vaccine beyond preventing diarrheal disease. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
