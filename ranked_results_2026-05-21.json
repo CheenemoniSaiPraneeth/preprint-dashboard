@@ -1,0 +1,458 @@
+{
+  "monoclonal_antibodies": [
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.08.26352549v1",
+      "date": "2026-05-18",
+      "abstract": "Abstract Recently, the amyloid-beta (Aβ) targeting antibody lecanemab has demonstrated modest therapeutic efficacy in slowing cognitive decline in people with Alzheimer’s disease (AD). Lecanemab clears amyloid plaques from the brain; however, plaque load does not correlate strongly with cognitive function. The strongest neuropathological correlate of cognitive decline in AD is synapse loss, which is exacerbated in the halo surrounding neuritic amyloid plaques where Aβ accumulates in remaining synapses. Here, we hypothesised that, through clearing plaques and the associated halo of soluble Aβ that can directly damage synapses, lecanemab could temper plaque-associated synapse loss. High-resolution imaging of temporal cortex tissue from people who died with AD (N=20) and age-matched controls (N=19) reveals lecanemab staining within individual pre and post-synaptic excitatory terminals in addition to plaque staining. The percentage of pre-synapses containing lecanemab-positive Aβ was over 200% higher in AD and the percentage of post-synapses was over 150% higher in AD than control tissue, with highest levels of synaptic lecanemab staining observed near plaques. These data demonstrate that lecanemab antibody recognises Aβ within synapses, warranting future work to determine whether lecanemab treatment slows cognitive decline, at least in part, through both clearing plaques and facilitating clearance or neutralisation of synaptic Aβ. ",
+      "searched_keywords_found_duplicates": [
+        "mAb",
+        "monoclonal"
+      ],
+      "primary_abstract_matched_keywords": [
+        "mAb"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 8,
+      "secondary_keyword_hits": 0,
+      "score": 9
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.12.26353063v1",
+      "date": "2026-05-15",
+      "abstract": "Abstract Breast cancer was the leading cause of cancer-related mortality among women worldwide in 2022. In Kenya, more than a quarter of breast cancer patients have the aggressive Human Epidermal Growth Factor Receptor 2 positive subtype. Trastuzumab is recommended for its treatment, but high costs have limited access. This study evaluated the cost-effectiveness and affordability of trastuzumab-based regimens to inform their adoption and use in Kenya. A cost-utility analysis was conducted from the healthcare payer perspective over a lifetime horizon. Five trastuzumab-based regimens of varying durations (9-week, 6-month, 9-month, 12-month, and 24-month) were compared with chemotherapy alone. Direct medical costs were estimated using a bottom-up micro-ingredient approach. All costs were reported in 2022 USD. A cohort Markov state-transition model with a monthly cycle length was used to estimate the costs and outcomes for an open hypothetical cohort. Scenario, deterministic sensitivity and probabilistic sensitivity analyses were conducted. A budget impact analysis estimated the financial implications of each regimen. The 9-week regimen had the lowest incremental cost-effectiveness ratio (ICER) of USD 3,230 per QALY, while the remaining regimens had ICERs ranging from USD 4,046 to 9,846 per QALY. The findings were most sensitive to the price and quantity utilized per cycle of trastuzumab. A reimbursement cap of KES 40,000 per cycle reduced ICERs by up to 61%. Over five years, the 9-week regimen would account for 1.2% of the projected insurer’s budget, whereas the current recommended 12-month regimen would consume 2.82%. Although none of the regimens were cost-effective at Kenya’s WTP threshold (USD 1054.80), the 9-week regimen may still be considered by policymakers given its greater affordability. Further cost reductions can be achieved through negotiating lower drug prices, improving access to biosimilars, and implementing vial sharing. ",
+      "searched_keywords_found_duplicates": [
+        "monoclonal"
+      ],
+      "primary_abstract_matched_keywords": [
+        "mAb"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 4,
+      "secondary_keyword_hits": 0,
+      "score": 4
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.18.26353148v1",
+      "date": "2026-05-18",
+      "abstract": "Abstract Systemic Lupus Erythematosus (SLE) is a chronic autoimmune disease driven by uncensored B and T cell autoreactivity. Understanding this pathogenic process has been hampered by lack of studies of secondary lymphoid organs in human SLE. Using minimally invasive lymph node fine needle aspirates (LN-FNAs), we profiled tissue-resident immune cells from 59 SLE patients and 34 healthy controls through high-dimensional 43-color flow cytometry, antigen-specific tetramer probing, and sc-RNA sequencing with paired VH/VL repertoire analysis. Our findings reveal hyperactive lymph node immunity in SLE characterized by spontaneous germinal center (GC) activation, plasma cell accumulation enriched in mature CD19 - and CD138 + antibody-secreting cells, and increased frequencies of both GC-T FH and PD-1 + CXCR5 - T extra-follicular helper cells. SLE lymph nodes harbored large oligoclonal B cell families with altered isotype usage, dominated by IgG1 and IgG4. Critically, self-reactive 9G4 + and Ro60 + B cells showed defective tolerance checkpoint control, accumulating in activated naïve, GC, and plasma cell compartments with distinctive PD-1 + Tox + expression absent in viral-specific responses. Single-cell repertoire analysis revealed VH 4-34 clones in SLE B GC and B PC , that in contrast to HD, had not experienced clonal redemption. Instead, SLE VH 4-34 clones displayed low somatic hypermutation and preserved the AVY hydrophobic patch associated with autoreactivity. Monoclonal antibody testing confirmed that unmutated AVY + VH 4-34 clones retained polyreactivity against naïve B cells, apoptotic cells, and multiple self-antigens. Together, these results define “clonal damnation” as a key mechanism in SLE whereby autoreactive VH 4-34 clones of pathogenic potential escape tolerance checkpoints, expand in germinal centers, and differentiate into tissue plasma cells while preserving germline-encoded self-reactivity. Combined, our study defines critical mechanisms of tolerance breakdown in lupus pathogenesis. ",
+      "searched_keywords_found_duplicates": [
+        "mAb",
+        "monoclonal"
+      ],
+      "primary_abstract_matched_keywords": [
+        "monoclonal"
+      ],
+      "secondary_abstract_matched_keywords": [
+        "IgG1",
+        "IgG4"
+      ],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 2,
+      "score": 4
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2605.20615",
+      "date": "2026-05-20",
+      "abstract": "Statistics > Methodology arXiv:2605.20615 (stat) COVID-19 e-print Important: e-prints posted on arXiv are not peer-reviewed by arXiv; they should not be relied upon without context to guide clinical practice or health-related behavior and should not be reported in news media as established information without consulting multiple experts in the field. [Submitted on 20 May 2026] Title: Evaluating causal indirect effects when mediators are left-censored by assay limit of quantification Authors: Cong Jiang , Michael D. Hughes , Nima S. Hejazi View a PDF of the paper titled Evaluating causal indirect effects when mediators are left-censored by assay limit of quantification, by Cong Jiang and 2 other authors View PDF HTML (experimental) Abstract: Causal mediation analysis is essential for disentangling the mechanisms by which investigational therapeutic and preventive agents impact clinical outcomes. However, the measurement of biological mediators is often subject to left-censoring by technical measurement limitations, most commonly an assay's limit of quantification. This form of censoring can pose severe challenges for both identification and estimation of causal mediation estimands, particularly when the censoring mechanism is deterministic and the resulting missingness is missing not at random (MNAR) or nonignorable. Motivated by the question of assessing the role of viral RNA in the action mechanism of monoclonal antibody therapies for COVID-19 in the Accelerating COVID-19 Therapeutics and Vaccine (ACTIV)-2 platform trial, we develop a semi-parametric framework for estimation of the natural direct and indirect effects when the mediator of interest is partially subject to this form of left-censoring. Our proposed strategy combines fractional imputation with a semi-parametric EM algorithm to flexibly estimate key components of the factorized data likelihood. Applying the proposed strategy to circumvent the left-censoring, we discuss both traditional plug-in and asymptotically efficient estimators of the direct and indirect effect estimands, introducing a data-adaptive $m$-out-of-$n$ bootstrap for robust inference under the imputation procedure. We demonstrate in numerical experiments that our approach significantly reduces bias and allows for reliable inference. An application to data from the ACTIV-2 platform trial confirms that monoclonal antibody therapies reduce the risk of hospitalization and death due to COVID-19, while suggesting that changes in viral RNA mediate only a modest proportion of the overall treatment effect. Subjects: Methodology (stat.ME) Cite as: arXiv:2605.20615 [stat.ME] (or arXiv:2605.20615v1 [stat.ME] for this version) https://doi.org/10.48550/arXiv.2605.20615 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Cong Jiang [ view email ] [v1] Wed, 20 May 2026 02:02:48 UTC (2,989 KB) Full-text links: Access Paper: View a PDF of the paper titled Evaluating causal indirect effects when mediators are left-censored by assay limit of quantification, by Cong Jiang and 2 other authors View PDF HTML (experimental) TeX Source view license Current browse context: stat.ME < prev | next > new | recent | 2026-05 Change to browse by: stat References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is",
+      "searched_keywords_found_duplicates": [
+        "monoclonal",
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [
+        "monoclonal"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 2,
+      "secondary_keyword_hits": 0,
+      "score": 3
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.17.26353443v1",
+      "date": "2026-05-20",
+      "abstract": "Abstract Lipoprotein(a) (Lp(a)) is associated with atherothrombosis through several mechanisms, including putative antifibrinolytic properties. In the ASPREE randomized trial of daily low-dose aspirin for primary prevention in older adults, 72% of trial participants in Australia provided baseline blood samples from which Lp(a) and related oxidized phospholipids and plasminogen have been measured in a specialized laboratory at University of California San Diego. Recent findings from our group suggest that aspirin may benefit older individuals with genotypes associated with elevated lipoprotein(a). We present an analysis plan to address key hypotheses relating to whether the effects of aspirin on cardiovascular disease might vary based on a person's measured levels of lipoprotein(a), oxidized phospholipid levels present on protein carriers apoB-100 (OxPL-apoB), Lp(a) (OxPL-apo(a)) and plasminogen (OxPL-PLG), and plasminogen. The analysis plan also articulates safety analyses involving major hemorrhage. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody",
+        "monoclonal"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2605.16070",
+      "date": "2026-05-15",
+      "abstract": "Condensed Matter > Soft Condensed Matter arXiv:2605.16070 (cond-mat) [Submitted on 15 May 2026] Title: Biophysical Considerations for Rational Antibody and ADC Design Authors: Alberto Ocana , Jorge R. Espinosa View a PDF of the paper titled Biophysical Considerations for Rational Antibody and ADC Design, by Alberto Ocana and Jorge R. Espinosa View PDF Abstract: Antibody-based therapeutics-including antibody-drug conjugates (ADCs), bispecific antibodies, and novel formats-are reshaping oncology, yet key determinants of efficacy, safety, and manufacturability frequently emerge after conjugation and formulation. We argue that computational biophysics provides an underexploited framework to address this gap by connecting molecular interactions to biological outcomes. We highlight how molecular dynamics, coarse-grained simulations, and free energy calculations reveal how conjugation site, linker chemistry, and drug-antibody ratio reshape conformational landscapes. We emphasize structural coupling between antibody, linker, and payload, with implications for antigen binding, internalization, and developability. We propose that integrating physics-based modeling into development pipelines-alongside experimental validation-can reduce empirical iteration and de-risk translation. As force fields, and hybrid physics-machine-learning methods improve, this field is poised to become a central driver of next-generation ADC design. Comments: 16 pages, 2 figures Subjects: Soft Condensed Matter (cond-mat.soft) ; Biological Physics (physics.bio-ph) Cite as: arXiv:2605.16070 [cond-mat.soft] (or arXiv:2605.16070v1 [cond-mat.soft] for this version) https://doi.org/10.48550/arXiv.2605.16070 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Jorge Espinosa Rene [ view email ] [v1] Fri, 15 May 2026 15:32:54 UTC (300 KB) Full-text links: Access Paper: View a PDF of the paper titled Biophysical Considerations for Rational Antibody and ADC Design, by Alberto Ocana and Jorge R. Espinosa View PDF view license Current browse context: cond-mat.soft < prev | next > new | recent | 2026-05 Change to browse by: cond-mat physics physics.bio-ph References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) IArxiv recommender toggle IArxiv Recommender ( What is IArxiv? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv's commu",
+      "searched_keywords_found_duplicates": [
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [
+        "antigen binding"
+      ],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 1,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.08.28.25334614v4",
+      "date": "2026-05-18",
+      "abstract": "Abstract Genome-wide association studies (GWAS) have been instrumental in uncovering the genetic basis of complex traits. When integrated with expression quantitative trait loci (eQTL) mapping, they can help identify effector genes within GWAS loci through gene regulatory mechanisms. Recent single-cell eQTL (sc-eQTL) studies suggest that genetic effects on gene expression are often cell type- and subtype-specific, providing opportunities to uncover context-specific roles of effector genes that may be obscured in traditional GWAS and eQTL studies in bulk tissues. Here, we leverage results from sc-eQTL mapping in the TenK10K phase 1 project to prioritise effector genes across 69 diseases and 31 biomarker traits, from a total of 12,266 eGenes identified in 28 peripheral immune cell types. Using Mendelian randomisation (MR) and colocalisation, we present a catalogue of predicted effector genes and their estimated directional effects on the trait at cell type resolution, spanning 54,245 associations across 5,270 genes and 28 cell types for disease traits, and 348,103 associations across 9,581 genes and 28 cell types for biomarker traits. By quantifying polygenic enrichment at both the single-cell and cell type levels, we identify distinct immune cell contributions to both immune-related and systemic conditions. We demonstrate differential polygenic enrichment of Crohn’s disease and COVID-19 amongst dendritic cell subtypes. Integration with clinical drug development data reveals that therapeutic compounds targeting gene-trait associations identified in this study are twice as likely to have secured regulatory approval. Using Crohn’s disease as a motivating example, we demonstrate how population-based sc-eQTL data can pinpoint risk loci, effector genes and cell types, complementing findings from disease-focused tissue samples. Our findings provide a foundational resource for understanding the cell-type-specific genetic architecture of disease and for guiding therapeutic discovery. ",
+      "searched_keywords_found_duplicates": [
+        "monoclonal"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.14.26353263v1",
+      "date": "2026-05-19",
+      "abstract": "Abstract In July 2021, the California Code of Regulations Title 17 required all laboratories performing SARS-CoV-2 whole genome sequencing (WGS) to report their sequencing results to the California Department of Public Health (CDPH). These viral genomic data and patient metadata were compiled into the Integrated Genomic Epidemiology Database (IGED). Linking anonymized viral sequences with patient-level information enabled monitoring of infectiousness, pathogenicity, transmission dynamics, evolution, and vaccine evasion among emerging SARS-CoV-2 lineages. Laboratories performing SARS-CoV-2 WGS transmitted sequencing results to CDPH through Electronic Laboratory Reporting (ELR) and non-ELR pathways. CDPH applied uniform reporting requirements but allowed flexibility in specific data formats to accommodate diverse data systems. To preserve data quality and interoperability across heterogeneous sources, CDPH implemented standardization, validation, and deduplication protocols. Snowflake, a cloud-based data storage and analytics platform, and Posit Connect, a cloud deployment and automation platform, supported the management, processing, and integration of data within the IGED. The IGED established links between SARS-CoV-2 WGS data and epidemiologic metadata for 801,418 sequences, representing 81.7% of all sequences reported in California. Lineages reported to the IGED showed strong concordance with lineage proportions in GISAID. Sequences reported to the IGED had average turnaround times longer than one month, and the majority of sequencing was performed in Southern California and Los Angeles. The IGED enhanced genomic surveillance through predictive modeling and monitoring concerning evolutionary trends such as recombination and saltations in persistent infections. Development of the IGED highlighted the need for standardized data requirements, sustained ",
+      "searched_keywords_found_duplicates": [
+        "monoclonal"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.12.26352742v2",
+      "date": "2026-05-17",
+      "abstract": "ABSTRACT Backgroun The determinants of immunoglobulin E (IgE) remain poorly understood in older adults, a population with an increasing burden of chronic diseases. Identifying IgE’s determinants may improve its clinical interpretation in the evaluation of allergic and IgE-related conditions. Objective To investigate age, sex, smoking, alcohol, body mass index (BMI), corticosteroid use, and season as potential determinants of total IgE (tIgE) and inhaled allergen-specific IgE (sIgE). Methods Using Rotterdam Study data, we investigated the determinants of tIgE and sIgE using multivariable linear regression. Longitudinal changes and the effects of corticosteroids were assessed with linear mixed models. Results We included 8769 participants, of which 478 had repeated IgE measurements. Age showed a U-shaped relationship with tIgE and L-shaped relationship with sIgE (both p<0.001). Women had lower tIgE (OR [95%CI]: 0.69 [0.65-0.74]), whereas current smokers (1.34 [1.23-1.46]), higher BMI (1.01 [1.01-1.02]), topical corticosteroid users (1.27 [1.07-1.50]) and inhaled corticosteroid users (1.93 [1.64-2.26]) showed higher tIgE. Women (0.96 [0.92-1.00]), former smokers (0.87 [0.83-0.91]) and current smokers (0.72 [0.68-0.76]) had lower sIgE, whereas topical corticosteroid users (1.20 [1.07-1.35]) and inhaled corticosteroid users (1.20 [1.07-1.35]) showed higher sIgE. Over time, tIgE and sIgE decreased (p<0.001) but did not significantly change after corticosteroid use. Conclusion We identified age, sex, smoking, BMI, season and topical and inhaled corticosteroids as determinants of tIgE and sIgE. Incorporating these determinants may improve IgE’s clinical interpretation for the diagnosis and management of allergic and IgE-related conditions. Future research should investigate how these determinants shape IgE’s relationship with chronic diseases in aging populations. ",
+      "searched_keywords_found_duplicates": [
+        "monoclonal"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.12.26353033v1",
+      "date": "2026-05-15",
+      "abstract": "Abstract Hernias affect millions of individuals worldwide and represent a significant public health burden, yet the genetic mechanisms underlying hernia development and the extent to which they are shared across anatomical subtypes remains incompletely understood. We performed a multi-population genome-wide association meta-analysis of five hernia subtypes and identified 243 genome-wide significant loci, including 173 novel associations. Gene prioritization implicated genes involved in extracellular matrix organization, elastic fiber assembly, and embryologic development as key effectors of hernia susceptibility. Further analyses demonstrated substantial overlap in the genomic architecture of hernia, including 30 causal variants that were shared across different hernia subtypes. We employed genomic structural equation modeling to formally model this relationship, which identified two distinct latent genetic factors corresponding to putative midline fusion defects (ventral, umbilical, diaphragmatic) and inguinofemoral hernias (inguinal, femoral). Mendelian randomization analyses confirmed causal roles for body mass index, visceral adipose tissue, and abdominal subcutaneous adipose tissue in hernia development while also identifying candidate therapeutic targets. Together, these findings delineate the shared and distinct genetic architecture of hernia subtypes providing a mechanistic foundation to enable precision risk stratification and inform the development of novel preventative and therapeutic strategies. ",
+      "searched_keywords_found_duplicates": [
+        "monoclonal"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.07.26350887v1",
+      "date": "2026-05-18",
+      "abstract": "Abstract Respiratory syncytial virus (RSV) disproportionately causes severe infections among infants and older adults, yet the key age group responsible for viral spread to other age groups remains poorly defined. While current immunization approaches effectively reduce disease severity among the most vulnerable, identifying the core drivers of infection is essential to effectively disrupt population-level transmission. By generating 910 whole-genome viral sequences of RSV from all age groups (<1 to 65+ years) in Connecticut, we identified that children aged 12-35 months are the primary drivers of viral transmission to other age groups. This group significantly shapes the genetic diversity of circulating strains. Furthermore, we found that RSV is introduced into the community through frequent and independent entries from other US regions throughout the year, rather than through a single explosive seasonal introduction or long-term local persistence. Ultimately, our findings justify prevention strategies that expand beyond reducing disease burden to actively prioritizing the reduction of transmission and infection. ",
+      "searched_keywords_found_duplicates": [
+        "monoclonal"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.14.26352723v1",
+      "date": "2026-05-18",
+      "abstract": "Abstract Respiratory Syncytial Virus (RSV) is responsible for a substantial health burden worldwide, particularly among children and older adults. In 2023, novel immunoprophylactic interventions for RSV were approved, underscoring the need to monitor circulating RSV lineages and detect mutations that could compromise intervention effectiveness. Here, we implemented wastewater-based genomic RSV surveillance by integrating digital PCR and amplicon-based sequencing within Switzerland’s national wastewater monitoring program. We tracked RSV subtypes and individual mutations across the 2024-2025 peak season in six Swiss cities. RSV-A and RSV-B co-circulated nationwide, and both exhibited similar epidemiological dynamics estimated from their subtype-specific effective reproduction numbers. No previously reported F protein mutations relevant to prophylaxis efficacy were identified. Genetic diversity analysis of wastewater-derived sequences reflected patterns previously reported in clinical data, with higher diversity in RSV-A than RSV-B and greater variability in the G compared to the F gene. These findings demonstrate the potential of wastewater-based RSV surveillance for monitoring RSV dynamics and diversity and establish a national baseline for RSV evolution during the first season following vaccine implementation in Switzerland. ",
+      "searched_keywords_found_duplicates": [
+        "monoclonal"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.07.04.25330865v3",
+      "date": "2026-05-15",
+      "abstract": "Abstract Immune checkpoint inhibitors (ICIs) have transformed the therapeutic landscape of advanced malignancies. However, only a subset of patients respond to treatment. Recent efforts have focused on the identification of novel biomarkers that capture the dynamic and functional state of the tumour immune microenvironment, yet their clinical translation has remained challenging. To address these limitations, we applied amplified FRET-FLIM (QF-Pro®) technology to spatially resolve and quantitatively assess functional immune checkpoint interactions directly in cells and FFPE tissue and tumour samples. Using this approach, we demonstrated that PD-1/PD-L1, CTLA-4/CD80, TIGIT/CD155, and LAG-3/MHC-II interactions can be robustly quantified in routine patient samples from multiple tumour types. Co-analysis of all four immune checkpoints was performed within an ICI-treated melanoma patient cohort enabling the identification of patterns of concomitant engagement. Notably, patients with high PD-1/PD-L1 interaction levels typically also exhibited a significantly elevated CTLA-4/CD80 interaction status. Furthermore, the survival analysis of the patients treated with immune checkpoint blockade showed that the LAG-3/MHC-II interaction state discriminated responders from non-responders, independently of the specific ICI therapy administered, suggesting that the assessment of LAG-3 engagement may serve as a novel prognostic biomarker in immunotherapy treatment in melanoma. ",
+      "searched_keywords_found_duplicates": [
+        "monoclonal"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.12.26353015v1",
+      "date": "2026-05-15",
+      "abstract": "Abstract Background and Objectives Patients with peripheral neuropathies (PN) commonly exhibit balance impairment. In clinical practice, balance is typically assessed using the Romberg’s test and ataxia scales, which rely on examiner interpretation, while objective biomarkers for quantifying balance remain lacking. Wearable sensors are valuable tools for objectively quantifying gait abnormalities in PN patients and may capture clinically meaningful changes over time. By integrating these parameters, artificial intelligence (AI) can assist in generating a digital score that enables easy, objective, and reproducible monitoring of patients’ postural balance. This study aims to generate and assess an AI-generated digital Romberg’s test to quantify balance impairments in a cohort of PN patients. Methods PN patients were assessed in a longitudinal study using a wearable system composed of inertial sensors placed on the trunk and plantar pressure sensors integrated in insoles. Patients performed the Romberg’s test under both eyes-open and eyes-closed conditions and were classified according to ataxia severity (mild, moderate, or severe) following the score obtained in item 1 of MICARS and SARA scales. Results We included 97 patients with PN (including autoimmune and hereditary polyneuropathies), and 117 healthy controls (HC). Significant differences in trunk sway and center of pressure (COP) were observed between groups, particularly with eyes closed. Using wearable sensor parameters, we developed an AI digital Romberg’s test, which correlated with clinician-rated Romberg’s test performance and distinguished patients with and without ataxia (AUC=0.632) and across different PN pathologies. Longitudinally, digital Romberg’s test and iRODS showed concordant trajectories. Also, changes ≥25% in the score were associated with clinical changes in ataxia severity measured by an increase in MICARS-SARA score (+1.42 points), whereas improvement was associated with a decrease (−0.20 points) in the scale. Discussion This study demonstrates that wearable sensors are useful to detect and quantify balance impairment. The AI-generated Romberg’s test is an objective and reproducible tool for postural balance assessment, with robust discriminatory performance across clinical ataxia severity in PN. Score’s longitudinal changes aligned with clinical severity, supporting its potential for monitoring disease progression and treatment response. Its strong association with balance measures reinforces its role as a quantitative biomarker of postural control in ataxia patients. ",
+      "searched_keywords_found_duplicates": [
+        "monoclonal"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.17.26353391v1",
+      "date": "2026-05-20",
+      "abstract": "Abstract Clonal haematopoiesis (CH) becomes ubiquitous as humans age. The role of somatic driver mutations in its development has been studied widely, but little is known about CH without identified genetic drivers, also known as \"CH with unknown drivers\" (CH-UD). A fundamental unresolved question is whether CH-UD is driven by undiscovered somatic genetic drivers or by other cell-heritable traits. Here, to investigate this, we develop a new machine learning classifier to improve CH-UD detection from whole-genome sequencing data. After excluding 77,885 individuals with previously documented driver CH or mosaic chromosomal alterations (mCA), we applied our classifier to 407,512 UK Biobank participants and identified 26,963 (6.6%) with CH-UD. A genome-wide association study (GWAS) of common germline variants identified 31 polymorphic loci associated with predisposition to CH-UD. Of these, 25 were associated with other forms of CH at genome-wide significance. Linkage Disequilibrium Score Regression analyses revealed an unexpectedly high genetic correlation (rg=0.794) between CH-UD and non- DNMT3A driver CH, indicative of a remarkable overlap between the genetic aetiologies of the two phenomena. Analysis of 2,941 plasma protein measurements in 47,757 individuals revealed that TCL1A was the most significantly elevated plasma protein in CH-UD, mirroring the finding that the TCL1A locus was in the top two most significant associations of CH-UD GWAS and TET2 -CH and ASXL1 -CH GWAS, the two most common forms of non- DNMT3A -CH. Furthermore, TCL1A plasma levels rose steadily with age even in those without detectable CH, particularly among carriers of the common TCL1A risk variant (rs2887399-G), potentially via stochastic promoter demethylation as described in TET2 -CH and ASXL1 -CH. Phenome-wide association analysis of 13,225 binary and 1,682 quantitative traits revealed that, similarly to non- DNMT3A -CH, CH-UD was significantly associated with several malignant (haematological and solid organ) and non-malignant (including cardiovascular and renal) diseases. Our findings reveal striking genetic and phenotypic similarities between CH-UD and non- DNMT3A driver CH, including a strong dependence on TCL1A, a protein recently found to inhibit DNA methylation. Collectively, these observations propose that CH-UD develops through selection acting on ageing-associated epigenetic changes that mirror those of non- DNMT3A -CH, but without the need for somatic genetic drivers. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.11.26352584v1",
+      "date": "2026-05-20",
+      "abstract": "Abstract Richter transformation of Chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL) into classic Hodgkin lymphoma (CHL-RT) is rare and remains incompletely understood. Two histologic subtypes are recognized: type 1 (CLL/SLL with scattered Hodgkin/Reed-Sternberg (HRS) cells) and type 2 (HRS cells within a polymorphous inflammatory background). In this multi institutional study of 77 patients with CHL-RT (27 type 1 and 50 type 2), we characterized immune evasion markers, PD-L1/PD-L2 copy number alterations, tumor microenvironment, and performed targeted next-generation sequencing on 37 CLL/SLL samples. HRS cells in CHL-RT displayed immune evasion phenotypes similar to de novo CHL, though PD-L1 expression was lower in type 1 cases. PD-L1/PD-L2 gain/polysomy were frequent (83.3%). CLL/SLL with CHL-RT harbored increased mutations in XPO1, FBXW7, BIRC3, TRAF3, and HLA-A versus reference CLL/SLL. Similar mutational profiles, demographics, and survival outcomes support a biological continuum between type 1 and type 2 CHL-RT, with distinct genetic features in CLL/SLL predisposing to CHL transformation. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.18.26353463v1",
+      "date": "2026-05-20",
+      "abstract": "Abstract Background Insomnia symptoms are common in older adults. While observational studies suggest physical activity (PA) timing affects health outcomes, its effect on sleep remains unclear. We compared morning versus evening PA effects on insomnia severity and sleep quality in older adults with insomnia symptoms. Methods Eligible participants were aged 60 to 80 years with (sub)clinical insomnia (Insomnia Severity Index [ISI] score ≥10). In a randomized cross-over trial, participants engaged in coached PA in the morning (10:00 – 11:00) or evening (19:30 – 20:30) for 14 days each. ISI scores were assessed post-intervention. Objective sleep parameters; duration, latency, efficiency, and timing, were assessed with a Withings Sleep Analyzer under the mattress. Subjective sleep quality was reported daily via smartphone app. Salivary dim light melatonin onset (DLMO) was measured on the final day of each intervention. Results Of 37 participants (mean ISI 14.3 ± 3.3), 27 completed the study (mean age 69.8 ± 5; 63% women). ISI scores improved after both morning (Δ – 2.5; 95% CI: – 1.14, – 3.83) and evening (Δ – 2.0; 95% CI: – 0.63, – 3.38) activity relative to baseline, but were not different between interventions. Compared to evening activity, sleep midpoint occurred earlier with morning activity (03:40 vs 04:00; Δ – 20 min; 95% CI: – 31, – 8). No differences in subjective sleep quality or DLMO were found. Exploratory analyses suggested insomnia scores improved specifically in late chronotypes following morning activity. Conclusions While morning vs. evening PA timing did not impact most sleep quality measures, it influenced sleep timing. Larger studies are needed to define optimal and personalized PA timing for improving sleep. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.13.26352440v1",
+      "date": "2026-05-20",
+      "abstract": "Abstract High grade serous ovarian cancer patients initially respond to platinum-based chemotherapy, but usually relapse within two years and ultimately develop therapy resistance. Management of response and effective clinical decisions are currently based on unspecific biomarkers and limited imaging techniques, illustrating the clear clinical need for reliable predictors of response. In this work, we evaluated the performance of patient-derived organoids generated from ascitic fluid and functionally tested in parallel to the patients clinical course, in the prediction of treatment response, and guiding clinical decision-making in a patient-specific manner. Ascites derived organoids reliably recapitulated the histological and molecular features of a paradigmatic HGSOC patient with an apparent dissociated response, and demonstrated chemoresistance months before laparoscopy confirmed persistent inoperable disease with poor pathological response. Drug screening identified alternative therapeutic options, while multi-omics provided additional insights into the tumor-specific biological features, to assist in the personalized clinical management in ovarian cancer. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.18.26351595v1",
+      "date": "2026-05-20",
+      "abstract": "Abstract Background: Lipoprotein(a) (Lp[a]) is a genetically determined causal and independent cardiovascular risk factor and Lp(a) targeted therapies are being developed. However, evidence on the safety of substantial Lp(a) lowering during pregnancy is limited. We evaluated the impact of Lp(a) lowering on adverse pregnancy and perinatal outcomes (APPOs) using human genetic evidence. Material and Methods: We applied a drug-target Mendelian randomization (MR) approach using genetic variants associated with Lp(a) in the UK Biobank at the LPA locus to proxy pharmacological Lp(a) lowering. Summary-level APPO data were obtained from the MR-PREG collaboration, comprising up to 714,899 women across multiple studies. Twenty APPOs were included. Sensitivity analyses included adjustment for fetal genotype, alternative Lp(a) datasets, leave-one-study-out analyses, and exploration of Lp(a) genetic scores and individuals homozygous for LPA loss-of-function variants in the UK Biobank. Results: Across 20 APPOs, MR estimates showed no strong evidence of causal effects, with no associations surviving false discovery rate P-value correction. Most estimates were close to null, including gestational hypertension, gestational diabetes, preeclampsia, miscarriage and neonatal intensive care unit admission. Some associations were slightly larger in magnitude but with wide confidence intervals: gestational age (mean difference 0.04 weeks, 95% CI 0.02-0.06 per 210nmol/L reduction in Lp[a]) and congenital malformation (OR 0.82, 95% CI: 0.72-0.94) in the protective direction of effect, and higher odds of stillbirth (OR 1.09, 95% CI: 1.00-1.19) and low Apgar at 1 minute (OR 1.11, 95% CI: 0.99-1.24). Sensitivity analyses consistently supported the primary findings, with no evidence of increased maternal nor offspring risk in analyses adjusting for maternal-fetal genotype, across alternative exposure datasets, or in leave-one-study-out tests. Individual-level analyses of Lp(a) genetic score and LPA loss-of-function variants showed no associations, although power was limited. Conclusion: These findings suggest that substantial lowering of Lp(a) is unlikely to increase APPO risk, although modest effects, particularly for rare outcomes, cannot be excluded. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.11.26351978v1",
+      "date": "2026-05-20",
+      "abstract": "Abstract Cancer-related fatigue is the most common and persistent symptom in breast cancer, with fatigue reported up to 10 years post-diagnosis. Unlike many cancers, fatigue in breast cancer often arises during early-stage disease in the absence of cachexia. While many factors contribute to fatigue, the direct contribution of cancer-associated skeletal muscle pathology remains poorly understood. Here we analyzed pectoralis major muscle biopsies from individuals with non-metastatic breast cancer and non-cancer controls. Using single-fiber morphometry and spatial transcriptomics, we identified fiber-type-specific structural alterations and spatially localized transcriptional reprogramming within the muscle microenvironment. Single-fiber morphometry revealed selective atrophy of oxidative type I and type IIa muscle fibers, while glycolytic type IIx fibers were relatively preserved. Concordant spatial transcriptomic profiling revealed suppression of oxidative metabolic programs, evidence of mitochondrial dysfunction, and spatially localized catabolic signaling originating from intramuscular adipocytes. This study introduces an integrated framework for profiling skeletal muscle architecture and spatially localized gene expression in surgically obtained muscle biopsies and represents the first application of spatial transcriptomics to human skeletal muscle from individuals with cancer. These findings demonstrate structural and metabolic remodeling of skeletal muscle in non-metastatic breast cancer and suggest targeting muscle metabolism represents a promising therapeutic strategy for cancer-related fatigue. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.15.26353351v1",
+      "date": "2026-05-20",
+      "abstract": "Abstract Abstract: Objective This study aimed to systematically screen for potential candidate biomarkers and identify therapeutic targets associated with gouty arthritis (GA) through integrated analyses of single-cell and bulk RNA sequencing (RNA-seq) data. Methods The single-cell dataset GSE211783 and the bulk RNA-seq dataset GSE160170 were analyzed using a series of bioinformatic approaches, including cell clustering, differential expression analysis, immune cell infiltration assessment, protein-protein interaction network construction, gene set enrichment analysis, as well as drug sensitivity evaluation. To establish an animal model of GA, monosodium urate crystals were injected intra-articularly into experimental mice. Joint swelling was evaluated, and morphological changes in joint tissues were analyzed through hematoxylin–eosin staining. The presence of TREM1-positive cells was detected by immunohistochemistry and the level of TREM1 protein expression in joint tissues were assessed by Western blotting. Results We identified 102 differentially expressed genes (DEGs) and 14 signaling pathways associated with GA. The PPI network revealed 25 hub genes, of which 17 (including TREM1, TNF, PTGS2, and NLRP3) were highly expressed and 8 (including FCGR3B and CXCR6) showed low expression in the GA samples. These genes correlated significantly with the infiltration levels of macrophages. Among the hub genes, TREM1 was selected for further validation because it correlated significantly with all 14 differential pathways. In animal experiments, GA mice developed marked joint swelling and inflammatory tissue injury, along with a significant increase in TREM1-positive cells and TREM1 protein expression. Conclusion Integrative analysis of single-cell and bulk RNA-seq data identified 102 GA-related DEGs and 14 key pathways, from which 25 hub genes were screened. TREM1 is significantly upregulated in GA and may be linked to macrophage function, providing new insights into biomarker and therapeutic target discovery for GA. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.15.26353362v1",
+      "date": "2026-05-20",
+      "abstract": "Abstract Rheumatic heart disease (RHD) is a leading preventable cause of cardiac death in children in low and middle-income countries. Nepal’s epidemiological data come mainly from auscultation surveys that miss subclinical disease, and no echocardiographic screening study had been conducted in Dhanusha district, a densely populated, low-income region in southern Nepal. We aimed to determine the prevalence of borderline and definite RHD among school children (6–16 years) in Dhanusha using the 2012 World Heart Federation (WHF) echocardiographic criteria, identify independent predictors, and quantify school-level clustering via the intraclass correlation coefficient (ICC). In a cross-sectional study (January 2023–December 2024), we screened 4,536 children from 8 public schools selected by four-stage cluster sampling. RHD was classified by WHF 2012 criteria; predictors were identified using random-effects logistic regression with school as random intercept. Ethical approval was from the Nepal Health Research Council (Protocol No. 155/2023). Overall prevalence of borderline or definite RHD was 18.7 per 1,000 (95% CI 15.1–23.0); definite RHD was 6.8 per 1,000 (95% CI 4.7–9.7) and borderline RHD 11.9 per 1,000 (95% CI 9.0–15.5). Prevalence was higher in girls (23.3 per 1,000) than boys (13.6 per 1,000; P=0.02), with the peak in girls aged 10–14 years (26.0 per 1,000). Subclinical disease accounted for 64.7% of cases; auscultation sensitivity was 35.3%. Mitral valve involvement predominated. Female sex was the sole independent predictor (OR 1.60, 95% CI 1.02–2.53; P=0.043). The school-level ICC was 0.19 (95% CI 0.07–0.44; P<0.001), giving a design effect of ≈109. The echocardiographic RHD burden in Dhanusha (18.7 per 1,000) is the highest documented in Nepal. Two-thirds of cases are subclinical. Female sex and school attended explain a similar amount of variance in RHD risk, supporting school-targeted screening and informing sample size planning for future cluster-based surveillance. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-21",
+      "date_window_start": "2026-05-14",
+      "date_window_end": "2026-05-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.15.26353346v1",
+      "date": "2026-05-20",
+      "abstract": "Abstract Background: Dihydropyridine calcium channel blockers (DHP-CCB) are widely prescribed antihypertensives whose adverse effects may trigger unnecessary prescribing of additional medications, termed prescribing cascades (PC). We aimed to identify potential DHP-CCB-induced PCs using high-throughput sequence symmetry analysis (HTSSA). Methods: Using Medicare claims data (2011-2020), we identified new users aged ≥66 years with continuous enrollment ≥360 days before and ≥180 days after DHP-CCB initiation. We screened for initiation of 446 \"marker\" drug classes within ±90 days of DHP-CCB initiation. Sequence ratios compared marker drug initiation after versus before DHP-CCB initiation. Adjusted sequence ratios (aSR), accounting for prescribing trends over time, were calculated with 95% CIs >1 considered statistically significant. Clinical experts classified statistically significant signals as potential PCs through consensus. Results: Among 388,862 DHP-CCB initiators (mean age 76.6 ± 7.5 years; 62.5% women, 92.3% with hypertension), 82 of 446 marker drug classes had significantly elevated aSRs, of which 24 were classified as potential PCs. Strongest signals ranked by highest aSR included other systemic hemostatics (aSR 2.99; 95% CI, 1.10-8.16), other nasal preparations (aSR 1.99; 95% CI, 1.47-2.70), and drugs used in erectile dysfunction (aSR 1.85; 95% CI, 1.27-2.70). Other clinically relevant signals, ranked by number needed to harm (lowest to highest), included sulfonamides (NNTH 104; 95% CI, 98-111), electrolyte solutions (NNTH 216; 95% CI, 196-241), and osmotically acting laxatives (NNTH 710; 95% CI, 540-1056). Conclusion: Potential PCs identified in this Medicare cohort reflected known and underrecognized adverse effects of DHP-CCBs. Further studies are needed to evaluate the clinical consequences of these PCs. ",
+      "searched_keywords_found_duplicates": [
+        "humanized antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
