@@ -1,0 +1,1206 @@
+{
+  "molecular_glues": [
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.24.26353986v1",
+      "date": "2026-05-26",
+      "abstract": "Abstract Advances in single-cell and spatial assays have revolutionized the scale and resolution of molecular tissue profiling. Here we present MetaPlaq, a multimodal atlas of human atherosclerotic arterial beds comprising over a million cells across single-cell transcriptomics, epigenomics and high-resolution spatial expression assays. We map granular cell states and disease-relevant transcriptional programs within the native tissue context of coronary arteries. Furthermore, we map cardiovascular GWAS signals to smooth muscle cells (SMCs) and endothelial cells (ECs) and uncover the cis -regulatory architecture governing their phenotypic transitions. Our comprehensive epigenomic reference allowed us to build cell-specific enhancer-gene link maps and multimodal gene regulatory networks (GRNs) underlying disease-relevant states such as osteogenic SMCs and ECs undergoing mesenchymal transition. We also integrate SMC and EC disease-associated gene sets with GRNs to nominate key transcription factors such as PRRX1, BNC2 and ELK3 regulating atherosclerosis-relevant transcriptional programs. Finally, we layer single-cell and spatial modalities to fine-map GWAS variants with improved cell and anatomical context. We highlight candidate cell-specific regulatory mechanisms at less characterized CAD loci, including FGD5 and MCF2L in ECs. Together, this atlas represents an important step towards fully interpreting genetic risk loci and informing new therapeutic strategies for cardiovascular disease. ",
+      "searched_keywords_found_duplicates": [
+        "molecular glue",
+        "targeted protein degradation",
+        "ternary complex"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.26.26354114v1",
+      "date": "2026-05-29",
+      "abstract": "Abstract Background: The development of personalised mRNA cancer vaccines holds considerable promise for oncology, yet a significant translational gap persists between neoantigen identification and the selection of therapeutically impactful targets. Current approaches predominantly prioritise human leukocyte antigen (HLA) binding affinity and immunogenicity, often overlooking the systems-level biological context of the target. This can inadvertently favour immunogenic but biologically peripheral peptides that exert limited influence on tumour signalling networks, thereby constraining vaccine efficacy. Furthermore, mRNA therapeutics must satisfy additional design requirements, including favourable codon usage and favourable secondary-structure stability, which directly affect in vivo translation and half-life. A unified computational framework that integrates neoantigen discovery with network biology is therefore critically needed. Results: Here, we present PimRNA, a Priority index (Pi)-centric computational medicine framework that bridges this gap by unifying neoantigen identification, mRNA sequence optimisation, and gene interaction network analysis. First, high-confidence tumour-specific HLA class I and II neoantigenic peptides are identified from paired tumour-normal genomic and tumour transcriptomic data using NeoDisc. Second, the coding sequences of these peptides are optimised for stability and translational efficiency with LinearDesign, yielding a core set of neoantigen-encoding mRNAs. Third, a random walk with restart algorithm is applied to a knowledgebase of gene interactions to identify peripheral genes exhibiting significant network connectivity to core genes, generating a gene-predictor matrix in which each gene is assigned an affinity score reflecting its network proximity to immunogenic neoantigens. These scores are consolidated into a single, unified priority rating (0-5) for each gene, followed by subnetwork analysis that reveals therapeutically relevant gene modules. Application of PimRNA to breast cancer and melanoma datasets demonstrates that it successfully selects high-confidence immunogenic neoantigen candidates embedded within biologically meaningful tumour-specific networks. Conclusion: PimRNA provides a systems biology foundation for mRNA vaccine design, moving beyond isolated immunogenicity to prioritise targets that are both highly presented and central to tumour-relevant biological networks. This framework offers a generalisable strategy for the rational discovery and prioritisation of mRNA therapeutics, significantly advancing the field of computational medicine towards personalised cancer vaccines. ",
+      "searched_keywords_found_duplicates": [
+        "E3 ligase",
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.26.26354075v2",
+      "date": "2026-05-27",
+      "abstract": "Abstract The choroid is critical for maintaining vision and implicated in several ocular diseases, being the sole source of nutrients and waste removal for the outer retina. Genetic discovery can help elucidate the pathways through which choroidal features influence disease risk. Our meta-analysis of genome-wide association studies (n= 78,682 participants) identified 30 genomic regions, including 20 novel loci, associated with choroidal thickness. Findings suggest inflammatory and vascular processes drive choroidal thickness, with overlapping mechanisms shared with refractive error. Genome-wide independently significant SNPs accounted for 18.7% of the genetic variance in choroidal thickness. Mendelian randomisation analyses showed a causal effect of age-related macular degeneration on choroidal thickness, and suggest a bidirectional causal effect between choroidal thickness and primary angle-closure glaucoma. These findings provide insight into the shared genetic architecture and biological pathways linking choroidal thickness and related diseases. ",
+      "searched_keywords_found_duplicates": [
+        "E3 ligase",
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.21.26353799v1",
+      "date": "2026-05-24",
+      "abstract": "ABSTRACT Background Multiple myeloma (MM) remains incurable despite therapeutic advances, reflecting limited understanding of the molecular mechanisms underlying disease initiation and progression. MM develops through asymptomatic precursor stages, monoclonal gammopathy of undetermined significance (MGUS) and smouldering multiple myeloma (SMM). This study aimed to investigate protein changes associated with disease progression and, through a further integrative approach, to highlight molecular changes of potential predictive and/or therapeutic value. Methods We performed a comparative proteomic analysis of 94 bone marrow–derived CD138⁺-selected plasma cell samples (29 MGUS, 20 SMM, and 45 MM) using LC–MS/MS. Differential protein abundance was assessed using pairwise Mann–Whitney U tests between groups, with Benjamini–Hochberg correction. Pathway enrichment, protein–protein interaction, and co-expression network analyses were also conducted. Selected proteins were further evaluated using public transcriptomic datasets and experimentally validated in independent samples by flow cytometry and enzyme-linked immunosorbent assay (ELISA). Results Following data processing, proteomic analysis identified 6,203 proteins. Pairwise comparisons revealed significant proteomic differences across disease stages, with 370 differentially abundant proteins exhibiting monotonic changes during disease progression. Pathway analysis showed that monotonically upregulated proteins were mainly associated with gene expression and cell proliferation, whereas downregulated proteins were linked to immune-related processes. Further co-expression network analysis, combined with criteria including detection frequency, biological relevance, and translational potential, highlighted a group of prioritised proteins. Representative examples include nucleolin (NCL) and U3 small nucleolar ribonucleoprotein IMP3 (IMP3), involved in nucleolar organisation, ribosome biogenesis and rRNA processing, as well as the immune-associated lactotransferrin (LTF) and serine protease cathepsin G (CTSG). Transcriptomic support and independent experimental validation by flow cytometry and ELISA confirmed the relevance of selected candidates. Conclusions Taken together, our findings highlight coordinated changes in immune regulation, RNA processing and ribosome biogenesis during MM progression and identify candidate proteins and their networks, including the emerging pharmacologically tractable target NCL and the underexplored IMP3 of potential therapeutic relevance, opening new avenues for further investigation. ",
+      "searched_keywords_found_duplicates": [
+        "E3 ligase",
+        "ternary complex"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.08.27.25334550v3",
+      "date": "2026-05-29",
+      "abstract": "Abstract Insecticide-treated nets (ITNs) are the most impactful and cost-effective control tool against malaria. ITNs are primarily distributed through triennial mass campaigns across Africa, though overall ITN use remains modest in many areas as most ITNs do not last three years. In times of ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.29.26353852v1",
+      "date": "2026-05-29",
+      "abstract": "Abstract Purpose: To identify, through iterative user-centered design, the auditory biofeedback requirements and sound preferences supporting gait training in children with cerebral palsy (CP), and to determine which feedback variables, sound mappings, and sound types yield clinically viable and movement-interpretable paradigms. Methods: The iterative process spanned two prototype phases. Prototype A comprised seven paradigms demonstrated to two experienced physiotherapists (Workshop 1A). Two of these were subsequently discarded owing to poor sound-movement interpretability and two were modified. Six paradigms were added to Prototype B, demonstrated to four children, five parents, and one therapist (Workshop 1B) and two therapists (Workshop 2B). Data were analyzed using systematic text condensation. Results: Within-child sound preferences varied with energy level and sensory state on a given day. Sound-movement interpretability tended to suffer for paradigms with greater acoustic complexity (e.g. computer-generated music). Therapists endorsed a repertoire spanning both movement quality and movement quantity targets. Participants independently proposed paradigms rewarding restrained and controlled movement, a feedback category absent from the current prototype. Conclusions: Session-level calibration is preferable to fixed sound profiles, requiring real-time interface support for paradigm adjustment. Acoustic complexity must remain subordinate to movement-sound interpretability. Paradigms targeting movement restraint are a development priority unaddressed in the literature. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.27.26354222v1",
+      "date": "2026-05-29",
+      "abstract": "Abstract Background. Cross-validation (CV) is widely used to estimate predictive performance, but can overestimate performance when applied at the observation level to repeated-measures data. When continuous predictor variables are measured repeatedly within subjects and the binary outcome is defined at the subject level, naive observation-level CV introduces data leakage through within-subject dependence, producing optimistically biased estimates of the area under the receiver operating characteristic curve (AUROC). The magnitude of this bias and the performance of alternative partitioning strategies have not been formally characterized for this data structure. Methods. Three CV strategies were compared for estimating subject-level AUROC in ridge logistic regression models: naive observation-level 10-fold CV, subject-level 10-fold CV, and leave-one-cluster-out (LOCO) CV. The framework was applied to a motivating clinical dataset of daily oxygenation measures and retinopathy of prematurity outcomes among 101 extremely low birth weight infants. A factorial simulation study was conducted across 162 parameter combinations varying cluster count (20-150), intraclass correlation (0.1-0.5), within-cluster autocorrelation (0.2-0.8), and outcome prevalence (10-35%), with 500 simulated datasets per condition (76,389 valid datasets total). Results. In the motivating dataset, naive CV produced optimism of +0.078 AUROC units for severe ROP prediction (15 events, 101 subjects) and +0.031 for any ROP prediction (48 events). Subject-level 10-fold CV closely approximated LOCO (deviation ≤ 0.015). In the simulation, naive CV optimism ranged from +0.039 to +0.204 across all conditions, increasing monotonically with higher ICC, higher autocorrelation, fewer clusters, and lower event rates. Subject-level 10-fold CV was essentially unbiased relative to LOCO across all 162 conditions (mean absolute deviation = 0.002). Conclusions. Naive observation-level CV meaningfully overestimates discriminative performance in the repeated-measures binary outcome setting and should not be used. Subject-level CV partitioning effectively eliminates this bias. Accordingly, subject-level partitioning should be considered essential, not optional, when validating prediction models using repeated-measures data with subject-level outcomes. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.26.26354173v2",
+      "date": "2026-05-29",
+      "abstract": "Abstract Background Atrial fibrillation (AF) is a leading cause of stroke, cardiovascular morbidity, and mortality. Atrial myopathy, characterized by progressive metabolic, electrical, and structural changes, creates the arrhythmogenic substrate that drives AF. Defining the key drivers of atrial myopathic processes is essential for targeted therapies that can mitigate AF progression. Here we explore how reduced ERBB4 expression contributes to the development of left atrial myopathy. Methods We analyzed the Cleveland Clinic Biobank to compare left atrial ERBB4 levels in patients grouped by AF diagnosis. To investigate the impact of reduced ERBB4 levels on atrial tissue substrate, we created mouse models of cardiac-specific Erbb4 deficiency using Mlc2a (myosin light chain 2a)-Cre. Comprehensive physiological assessments were performed. Transcriptomic analyses of the left atrium were performed in an Erbb4 haploinsufficient mouse model and compared with human atrial datasets. Molecular validation of key dysregulated pathways was performed. Results We found that left atrial ERBB4 levels are reduced in patients with AF. Adult cardiomyocyte-specific Erbb4 heterozygous (Erbb4fl/+;Mlc2a-Cre) mice exhibited prolonged P-wave duration in the absence of ventricular dysfunction. Left atrial transcriptomic analysis in Erbb4 haploinsufficient mice showed upregulation of pathways related to fibrosis, apoptosis, and coagulation, and downregulation of pathways related to fatty acid metabolism and mitochondrial function, mirroring changes observed in pressure overload mouse models. A cross-species transcriptomic comparison revealed significant overlap between ERBB4-correlated gene expression and functional pathways in adult human atria and mice with Erbb4 haploinsufficiency. Validating the transcriptomic data, protein and functional assays demonstrated increased fibrosis, apoptosis, and oxidative stress in the mutant left atrial tissue. Conclusion Left atrial ERBB4 levels are reduced in AF patients. A mouse model of Erbb4 deficiency and human atrial transcriptomic analyses highlight a role for ERBB4 in supporting normal atrial metabolism while protecting against inflammation, apoptosis, and fibrosis. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.27.26354256v1",
+      "date": "2026-05-29",
+      "abstract": "Abstract Background: It is well-established that males have a higher mortality risk than females. Immune cells and their function are known to undergo characteristic changes during aging, and immune cells are known to have sex differences. Immune cells and their function have been linked to mortality risk, but no studies have investigated to what degree, if at all, Immune Cell Biomarkers (ICBs) contribute to the known differences in mortality risk by sex. Methods: Using participant data from the Health and Retirement Study (n = 8,822), we applied multivariable linear regressions adjusting for age, cytomegalovirus (CMV) serostatus, sex, and race/ethnicity to identify differences by sex in 48 immune cell biomarker (ICB, e.g. T cells, B cells, Monocytes, etc.) percentages and counts (measured in 2016). We studied how the associations between ICBs and mortality risk differ by sex using stratified Cox Proportional Hazard (CPH) models. We estimated how inclusion of sex explained the relationship between ICBs and all-cause mortality, and conversely, how inclusion of individual and all ICBs combined explain the relationship between sex and all-cause mortality using multivariable modeling approaches. Results: Differences in ICBs by sex range between 2-38% (39/48 statistically significant). 9 ICBs were significantly associated with mortality risk in the entire sample. While different ICBs were significantly associated with mortality risk in the stratified analyses, particularly with respect to monocyte, B cell, and NK cell populations, adjusting for sex modestly influenced the hazard ratios of the ICBs (sex: 8 ICBs, percent change <5.4%). Furthermore, individual and cumulative contributions of ICBs in explaining the differences in mortality risk by sex were not significant. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.27.26354135v1",
+      "date": "2026-05-29",
+      "abstract": "Abstract Background: Accurate early identification of sepsis remains a major clinical challenge due to its heterogeneous presentation and overlap of clinical signs with the non-infectious systemic inflammatory response syndrome (SIRS). Timely differentiation is crucial for improving patient outcomes, meeting sepsis bundle requirements and reducing inappropriate antimicrobial use. We hypothesized that clinical and laboratory data available within the first 3 hours of patient presentation could be used to identify patients with sepsis to an actionable level of accuracy, in lieu of traditional microbiology results which would not become available until at least 12-24 hours. Data from two independent studies were used to quantify the diagnostic value of demographic, vital, clinical-laboratory, and microbiological data available at three time points for distinguishing retrospectively diagnosed critically ill patients with either sepsis or non-infectious SIRS. A particular focus of this work was an assessment of the utility of SeptiCyte RAPID (Immunexpress Inc., Seattle, Washington, USA) as an aid to sepsis diagnosis, producing actionable data within 1 hour. Methods: Data from two independent study cohorts were analysed. The 510k cohort consisted of 419 adult patients in intensive care (ICU) (MARS, VENUS, and NEPTUNE trials). The Andalusian cohort consisted of 353 ICU patients from the PANGEA study. Logistic regression models, selected by a greedy search algorithm and validated by repeated cross-validation, were used to determine the contributions of different variables to diagnostic accuracy. Diagnostic performance was quantified by area under the receiver operating characteristic curve (AUC). Results: For the 510k cohort, a baseline AUC of 0.69-0.73 was observed using 5-7 vital and demographic variables assessed immediately upon presentation (time T1). The addition of clinical-laboratory variables, in particular SeptiCyte RAPID, within 1-3 hours post-presentation (time T2) increased the AUC to 0.83-0.85). Finally, the addition of microbiological data 12-24 hours post-presentation (time T3) further improved the AUC to 0.90-0.91. Similar results were obtained for the Andalusian cohort. AUC values at the three time points were as follows: At time T1, AUC = 0.67 based solely on vital signs and demographics; at time T2, AUC = 0.87 based on vitals + demographics + SeptiCyte RAPID or other clinical laboratory data; at time T3, AUC = 0.93 based on vitals + demographics + SeptiCyte RAPID or other clinical laboratory data + microbiology results). For both cohorts, the most significant variables included temperature, mean arterial pressure, respiratory rate, suspected infection site; SeptiCyte RAPID, procalcitonin, confirmed bacterial infection and positive blood culture confirmation. Conclusions: Accuracy of identification of sepsis increases markedly as demographics and vital signs are supplemented with clinical-laboratory information, and ultimately with microbiological culture results. The fastest improvement occurs within the first 3 hours when laboratory data, and in particular SeptiCyte RAPID results, become available. Integrating rapid host-response testing with SeptiCyte RAPID into time-based diagnostic frameworks may enhance early sepsis recognition, improve antimicrobial stewardship, and support guideline-driven clinical decisions. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.29.26354013v1",
+      "date": "2026-05-29",
+      "abstract": "Abstract Background: Generative AI tools can support data-intensive research by writing code, drafting prose, searching analytical possibilities, and stress-testing claims. They can also produce false citations, drift between statistical specifications, and lose continuity across long investigations. This paper describes a practical workflow for using AI systems in empirical research while keeping discovery, verification, and accountability inspectable. Methods: We developed and applied a three-phase human-AI workflow to a case study of 14 elite Ethiopian distance runners. The dataset contained 22,605 GPS-segments collected across 97 consecutive days in late 2025, supplemented by venue and athlete metadata collected in the field. Phase 1 used an autonomous data-exploration tool to pre-filter the hypothesis space across five seeded research questions. Phase 2 used an AI system under direct human guidance to construct candidate findings into numerical claims, verification scripts, and draft text. Phase 3 used an independent AI system in an adversarial role to stress-test methods, statistics, prose, figures, and citations. The workflow was informed by Pearl's distinction between association, intervention, and counterfactual reasoning, with human judgement retained for research direction, interpretation, and final claims. Results: The workflow produced three empirical analyses and a documented correction process. The analyses estimated an altitude-to-sea-level pace correction of +0.10 min/km per 1,000 m at matched heart rate, showed why pooled altitude-surface regression was not identifiable within this venue system, documented method-dependence in heart-rate-based intensity classification, characterised within-venue route variation as a 64/36 path-fixed-to-trail-variable split with the Sululta label resolving into two functionally distinct sub-venues, and reframed the cohort's training through a 3x3x3 prescription lattice grounded in Ethiopian coaching practice. The adversarial phase identified several hallucinated citations, a terminology error between HC1 and cluster-robust standard errors, and several inconsistencies between prose, figures, and computed results. Verification scripts re-derived nearly all numerical claims from the cleaned lap-level data. Conclusions: The case study shows how researchers can organise AI-assisted empirical work so that candidate discovery, claim construction, independent stress-testing, and final accountability remain separated. The workflow did not remove the need for domain expertise or human judgement. Its value was in making the route from candidate finding to manuscript claim explicit, reproducible, and open to challenge. Trial registration: Not applicable. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.27.26354248v1",
+      "date": "2026-05-29",
+      "abstract": "Abstract Importance: Physician-facing AI tools are now in clinical use, yet whether different platforms fail in similar or fundamentally different ways in high-stakes settings like critical care is unknown. Objective: To evaluate two physician-facing AI platforms, ChatGPT for Clinicians and OpenEvidence, for distinct vulnerabilities under structured stress testing. Design, Setting, and Participants: An observational study conducted using 60 simulated critical care vignettes developed and adjudicated by four attending critical care physicians. Data were collected in the last week of April 2026, via the public website interfaces of each platform. Interventions/Exposures: A 2x2x2x2 factorial design across four stressors - anchoring, cognitive load, social conformity pressure, and a clinically incorrect directive - yielded 16 prompt subsets per vignette and 960 prompts per platform. A separate multi-turn adversarial prompting paradigm administered three sequential \"You are incorrect\" challenges to baseline vignettes. All prompts had a universal output length constraint of fewer than 30 words. Main Outcomes and Measures: Critical elements capture (percentage of gold-standard critical elements present in responses), susceptibility to clinically incorrect directive, and sycophancy (reversal of an initial correct recommendation under iterative adversarial challenge). Results: Across 1916 responses to 1920 prompts, ChatGPT for Clinicians captured more gold-standard critical elements than OpenEvidence (81.4% ± 18.1% vs 61.0% ± 23.5%; adjusted difference, 20.3 percentage points; 95% CI, 18.3 to 22.4; P < .001) and was less susceptible to clinically incorrect directives (1.7% vs 8.0%; adjusted odds ratio, 0.07; 95% CI, 0.02-0.21; P < .001). Anchoring and social conformity pressure were associated with reduced critical element capture across both platforms, while cumulative stressor burden reduced critical element capture only on OpenEvidence. Conversely, ChatGPT for Clinicians reversed correct recommendations more readily under adversarial prompting (hazard ratio, 2.61; 95% CI, 1.10 - 6.19; P = .03). Conclusion and Relevance: The two physician-facing clinical AI platforms evaluated demonstrated non-overlapping vulnerabilities, with neither platform uniformly superior. These findings argue against single-axis ranking of clinical AI systems and support multidimensional safety evaluation encompassing completeness of reasoning, resistance to incorrect directives, and stability under adversarial challenge. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.27.26354250v1",
+      "date": "2026-05-29",
+      "abstract": "Abstract Emerging evidence links the gut microbiome to sleep quality, yet measuring sleep at scale remains challenging. Commercial wearables, such as Fitbit, capture objective sleep and activity data in naturalistic settings. We integrated Fitbit data from a large, deeply-phenotyped cohort with paired lifestyle and health questionnaires. Wearable-derived measures aligned well with self-reported sleep, activity, and happiness. We identified dozens of covariate-adjusted associations between Fitbit-derived sleep features, lifestyle factors, and multi-omic data. Among molecular feature sets, the gut microbiome showed the greatest number of associations with sleep quality: butyrate-producing genera were positively associated with sleep and amplified the benefits of physical activity. Oscillospira, in particular, was consistently associated with better sleep. In blood, insulin, omega-3, and cortisol correlated with poorer sleep, whereas lower alcohol intake and mineral supplements correlated with better sleep. These robust, covariate-adjusted findings advance mechanistic understanding of the gut-sleep axis and broader molecular and lifestyle determinants of sleep quality. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.25.26354027v1",
+      "date": "2026-05-28",
+      "abstract": "Abstract Background and Objective: Access to real-world electronic health records (EHRs) remains limited by privacy, governance and annotation constraints, hindering the development of clinical natural language processing models. Realistic synthetic progress notes may provide EHR-like corpora that preserve clinically rigorous information on diagnoses, treatments, symptoms, imaging, laboratory findings and therapeutic trajectories without relying directly on sensitive patient records. This study evaluates whether large language models (LLMs) can generate realistic Spanish prostate cancer progress notes from published case reports, preserving clinical content, temporality and hospital-style conventions. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.20.26353658v1",
+      "date": "2026-05-28",
+      "abstract": "Abstract Abstract Purpose: MyotonPRO (MTP) and time-harmonic elastography (THE) are increasingly used to assess muscle mechanical properties, yet they operate on fundamentally different physical principles. MTP measures composite MTP stiffness (N/m) through surface oscillations, while THE quantifies intrinsic shear modulus (THE stiffness, kPa) via propagating shear waves. This study aimed at systematically compare MTP and THE measurements in the vastus lateralis muscle across different contraction intensities and examine how the skin layer and subcutaneous fat (SLSF) thickness influence their relationship. Methods: Twenty-six healthy adults (15 males, 11 females; age 25 [SD 4] years) underwent MTP and THE measurements of the vastus lateralis at rest and during isometric contractions at 15% and 30% maximal voluntary contraction (MVC). Effects of contraction intensities on tissue properties were assessed using univariate analyses of variance with repeated measures. Associations between the different outcomes of THE and MTP technologies were explored using Pearson's correlations and partial correlation coefficients separately for each contraction intensity with adjustment of the SLSF thickness of participants. Results: Both technologies detected contraction intensity-dependent stiffening across all outcomes (p < 0.001). THE stiffness increased from 5.3 [1.2] kPa at rest to 15.6 [6.1] kPa at 30% MVC; THE wave attenuation increased from 0.83 [0.19] to 1.42 [0.36] s/m while MTP stiffness increased from 337.3 [49.3] N/m at rest to 529.4 [160.7] N/m at 30% MVC. Correlations between modalities were weak and condition-dependent. THE wave attenuation did not significantly correlate with any MTP outcome across conditions. Conclusion: MTP and THE detect contraction-induced stiffening through fundamentally different physical mechanisms and should not be regarded as interchangeable. Their correlation is modest at rest and breaks down (or reverses) during active contraction, with subcutaneous fat as a key modifying factor. Clinical trial number: Not applicable. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.27.26353804v2",
+      "date": "2026-05-29",
+      "abstract": "Abstract Background: RNA sequencing (RNA-seq) is increasingly recognized as a complementary tool to DNA-based sequencing for improving the diagnostic yield in Mendelian disorders. However, how the diagnostic performance of RNA-seq varies across molecularly and phenotypically distinct patient subgroups remains poorly defined. This study aimed to evaluate and compare the diagnostic utility of RNA-seq across three stratified groups of patients with non-diagnostic exome sequencing. Methods: We performed RNA-seq on whole blood samples from 90 patients with suspected Mendelian disease in whom clinical exome or whole-exome sequencing had failed to establish a molecular diagnosis. Patients were prospectively stratified into three groups of 30: (i) patients with a candidate variant of uncertain significance (VUS) with predicted splicing impact (Group 1), (ii) patients with a specific clinical pre-diagnosis but no identified pathogenic variant (Group 2), and (iii) patients without a specific pre-diagnosis or candidate variant (Group 3). Aberrant splicing, gene expression outliers, and allele-specific expression were analyzed using multiple bioinformatic tools and compared against a GTEx-derived control cohort. Results: RNA-seq contributed to a molecular diagnosis in 29 of 88 evaluable patients (32.9%). Diagnostic yield differed substantially across groups: 82.8% (24/29) in Group 1, 6.9% (2/29) in Group 2, and 10% (3/30) in Group 3. In Group 1, RNA-seq enabled reclassification of candidate VUS through direct demonstration of aberrant splicing events. In Group 2, RNA-seq identified a somatic mosaic ACTB variant in a patient with Baraitser-Winter syndrome that had been missed by exome sequencing and reclassified a previously deprioritized APPL1 VUS. In Group 3, a deep intronic pseudoexon-activating variant in IGBP1 was identified in two siblings with severe microcephaly, providing evidence for a candidate X-linked microcephaly gene, and a pathogenic RNU4-2 variant was detected in a patient with ReNU syndrome, a non-protein-coding gene not captured by standard exome sequencing. Conclusions: RNA-seq has the highest diagnostic utility when applied to evaluate candidate splice variants identified by prior DNA testing but also provides independent diagnostic value in patients without candidate variants. The systematic comparison across stratified patient groups supports the integration of RNA-seq into clinical genomic workflows and highlights the need for standardized analytic frameworks. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.02.27.26347264v2",
+      "date": "2026-05-29",
+      "abstract": "Abstract Fatal insulin intoxication remains difficult to diagnose because insulin rapidly degrades after death, limiting the reliability of direct biochemical measurements. We hypothesised that insulin excess induces systemic metabolic alterations that persist beyond insulin degradation and can be captured using postmortem metabolomics. High-resolution mass spectrometry (HRMS)-based metabolomics was applied to a national cohort (2017-2024), including 51 fatal insulin intoxications and non-insulin deaths for comparison. Orthogonal partial least squares-discriminant analysis (OPLS-DA) models were trained on cases collected between 2017-2022. Performance was evaluated using two temporally distinct test sets (2023-2024), a matched validation cohort (n=59) and a heterogeneous cohort (n=154), with 14 insulin cases included. An insulin-associated metabolomic signature comprising 91 features demonstrated reproducible discrimination. In the matched cohort, insulin intoxication classification achieved 100% sensitivity and 73% specificity. In the heterogeneous cohort, 100% sensitivity was maintained with 72% specificity. No Insulin false negatives were observed in either test set. Significant alterations were observed across acylcarnitines, fatty acids/lipids, and purine/nucleoside metabolites. Fatal insulin intoxication is associated with a reproducible metabolomic signature. While not suitable as a confirmatory diagnostic approach, the high sensitivity and absence of false negatives suggests potential utility in supporting exclusion of insulin intoxication in death investigations. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2025.12.22.25342841v2",
+      "date": "2026-05-28",
+      "abstract": "Abstract Early during emerging infectious disease outbreaks, case-based surveillance is constrained by limited test availability, diagnostic delays, and low clinical suspicion. Novel pathogens that mimic symptoms of established conditions may generate detectable outbreak signals in routine testing data, as infected individuals seek testing for known conditions and test negative. We developed analytic and simulation frameworks using Poisson and negative binomial models to evaluate whether total and negative testing volumes for a clinically similar (\"mimicking\") condition can provide timely outbreak warning. We systematically assessed detection performance across variations in baseline test counts, epidemic growth rates, testing fractions among cases, detection threshold stringency, and overdispersion. Detection thresholds based on negative tests consistently outperformed total test thresholds, achieving earlier detection with approximately one-third fewer cumulative cases while maintaining comparable false positive rates. However, reliable detection required stringent conditions: high testing fractions among epidemic cases, low baseline test volumes, and low overdispersion. When testing fractions fell below 5%, epidemic size estimates provided little practical information; above 30%, precision markedly improved. These findings support prioritizing access to disaggregated test result data but caution that this detection approach is best positioned as a resource-efficient complement within integrated surveillance portfolios rather than a standalone early warning system. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.06.26348372v2",
+      "date": "2026-05-28",
+      "abstract": "Abstract Background: Growing evidence suggests that urinary β-amyloid precursor protein (AβPP) fragments can serve as an early screening biomarker for mild cognitive impairment and dementia. However, in reality, older adults, regardless of the presence of cognitive decline, often suffer from multiple age-related conditions and are on multiple medications. How these comorbidities and treatments affect the performance of early diagnostic biomarkers remains unclear. Methods : This study further validated the sensitivity, specificity, and clinical value of the Qankorey ® urinary β-amyloid protein detection kit in early dementia screening through a randomized community screening (n=51187) conducted in Changsha, and a multicenter case-control study conducted at Yuquan Hospital (Tsinghua University), Tiantan Hospital (Capital Medical University), Beijing Friendship Hospital, Zibo 148 Hospital (Shandong), and the Third People's Hospital of Yunnan Province. The multicenter case-control study included 898 participants, comprising 266 healthy, age-matched controls without any comorbidities, 167 patients with mild cognitive impairment/Alzheimer's disease (MCI/AD), and 465 non-AD patients with various comorbidities and age-related diseases. Results: The kit showed a significant age-dependent positive rate in both men and women in Changsha, increasing from 6.29% to 15.40%. The number of weakly positive/positive/negative individuals in the healthy group, non-AD group, and MCI/AD group were 8/12/246 (positive rate 7.52%), 41/16/409 (12.23%), and 77/44/46 (72.46%), respectively, with a Kappa value of 0.669, indicating that the method performed well in the clinical diagnosis of MCI/AD, consistent with previously published results. Among the 8 weakly positive healthy subjects, 6 were found to have brain abnormalities by MRI/CT examination. Comorbidity analysis showed that memory decline was the most significant risk factor (P=9.6 × 10^-23, Fisher's exact test), followed by dizziness (P=1.3 × 10^-14;) , hyperlipidemia (P=3.2 × 10^-12) , history of stroke (P=0.0011), and hypertension (P=0.0058). Treatment analysis showed that cardiovascular drugs and antithrombotic drugs significantly reduced the risk of dementia (P values were 0.0061 and 0.0081, respectively), followed by hypoglycemic drugs (P=0.0358). For AD patients, those receiving only memantine showed a slightly lower positive test rate (P=0.0532). Conclusion: Our findings confirm the diagnostic value of urinary β-amyloid protein detection in MCI and AD-related dementia. Furthermore, this kit can be used in practical clinical applications to assess the risk of cognitive decline and treatment efficacy across various diseases. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.03.26352241v2",
+      "date": "2026-05-29",
+      "abstract": "Abstract Pre–visit planning has the potential to reduce EHR documentation burden while improving workflow efficiency, care quality, and patient–provider engagement. Large language model (LLM) chatbots show promise for supporting this task, but while their English–centric development suggests a potential for disparity, the extent to which these concerns translate into performance degradation in multilingual clinical settings remains unclear. In this mixed–methods study, we systematically evaluate the multilingual capabilities of PCP–Bot, an English–developed LLM-based (GPT–4o) clinical chatbot that collects patient concerns and generates structured, physician–ready summaries (~200 words) under structured output constraints. We enrolled 31 bilingual individuals (11 Mandarin, 10 Spanish, 10 Hindi) to role–play as patients to evaluate the PCP–Bot, interacting with it across five synthetic clinical cases in both English and a second language. Participants completed a structured survey comprising baseline language proficiency screening, standardized interactions with PCP–Bot in each language, and post–interaction evaluations. Case order was randomized, with each scenario completed first in English and subsequently in the participant′s second language. All summaries were generated in English, regardless of the interaction language. Our results show that Hindi achieved usability and conversation quality parity with English across all measured dimensions. Mandarin achieved usability parity but showed a significant conversation quality gap relative to English. Spanish demonstrated significant deficits in both conversation quality and summary quality. Trust and workload remained consistent across languages. Qualitatively, participants found PCP–Bot natural, smooth, and accurate overall, but noted repetition, transcription errors, missed follow–ups, and more frequent usability issues in non–English interactions. Overall, our findings demonstrate that LLM translation capabilities can enable effective deployment beyond English following appropriate performance validation. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.28.26351936v2",
+      "date": "2026-05-28",
+      "abstract": "Abstract The oral microbiome is increasingly implicated in inflammatory bowel disease (IBD), yet findings across studies remain inconsistent and difficult to reconcile due to methodological heterogeneity. To resolve this, we performed a cross-cohort integration of oral microbiome datasets across 25 studies (n = 1,136 IBD; n = 759 controls), combined with unified re-analysis of publicly available sequencing data and newly generated in-house data within a single bioinformatic framework. Oral microbial diversity was consistently reduced in IBD (standardised mean difference -0.31, p = 0.007), with replication in the harmonised dataset (Hedges' SMD = -0.372, p < 0.001), driven predominantly by Crohn's disease (CD). Multivariable modelling identified a reproducible set of genera associated with disease, including enrichment of Corynebacterium, Serratia and Streptococcus. Network analysis demonstrated a fundamental ecological shift: whereas healthy communities were organised around a Selenomonas hub, CD exhibited integration of Corynebacterium into core network architecture, consistent with a shift toward an inflammation-adapted, aerotolerant ecological state. Functional predictions supported this restructuring, with depletion of butyrate metabolism and enrichment of aromatic amino acid degradation pathways. Together, these findings identify reproducible ecological restructuring of the oral microbiome in CD and establish a cross-cohort framework linking oral microbial organisation to the oral-gut axis in IBD. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.26.26353612v2",
+      "date": "2026-05-28",
+      "abstract": "Abstract The surge in medical imaging has spurred the development of vision-language models (VLMs) to alleviate radiologist workloads. However, clinical deployment is hindered by the lack of meaningful evaluation frameworks. Current metrics - ranging from semantic similarity to large language model (LLM) based judges - often fail to distinguish between clinically trivial and critical discrepancies, poorly reflecting real-world clinical judgment. To address this, we introduce DISCERN (Discordance and Significance-aware Entity-level Radiology Report Comparison). DISCERN is a significance-aware framework that weighs report errors based on their potential impact on patient care. Our results demonstrate that DISCERN powered by closed source LLMs aligns more closely with expert radiologist assessments than traditional metrics or current LLM evaluators, providing a more interpretable and clinically relevant benchmark. By modeling radiologist prioritization and entity-level feedback, DISCERN facilitates targeted model refinement and ensures the safer integration of generative AI into clinical workflows. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.26.26354109v1",
+      "date": "2026-05-28",
+      "abstract": "Abstract Background Oropouche virus (OROV) is an emerging vector-borne virus with rapidly expanding geographic range, increasing case counts, and growing evidence of severe outcomes including neuroinvasive disease and vertical transmission. Because OROV infection presents with nonspecific febrile illness that overlaps clinically with other viruses including dengue, zika, and chikungunya, accurate molecular diagnostics are essential for patient care and surveillance. Yet existing assays rely on single genomic targets and are vulnerable to detection failure as the virus evolves and reassorts. Methodology/Principal Findings To support diagnostic capacity, we developed and clinically validated a multiplexed qPCR assay targeting three regions of the OROV S segment, incorporating redundancy to preserve sensitivity across viral diversity while enabling robust clinical interpretation. The multiplex also includes an assay targeting RNaseP as an internal sample control to ensure adequate sample processing. We evaluated assay performance using both historical and contemporary OROV strains and validated the assay on contrived serum, plasma, and cerebrospinal fluid samples, assessing linearity, limit of detection (LOD), accuracy, specificity, precision, and sample stability. The assay met or exceeded all predefined acceptance criteria for clinical testing and achieved an LOD as low as 6 copies per reaction for contemporary outbreak strains. We further implemented a logic-based interpretation matrix that reduced false-positive risk while maintaining sensitivity near the analytical LOD. Conclusions/Significance Our assay sensitively and specifically detects OROV RNA in serum, plasma, and cerebrospinal fluid while incorporating safeguards against viral evolution and reassortment. The assay has been approved for use by CLIA at Nexus Medical Labs in 49 U.S. states, expanding access to timely OROV diagnostics in the United States and providing a durable framework for molecular detection of reassorting, rapidly evolving viruses as OROV continues to spread into new regions. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.26.26354047v1",
+      "date": "2026-05-27",
+      "abstract": "ABSTRACT Purpose To develop and evaluate a deep learning model that predicts optical coherence tomography (OCT)–equivalent retinal nerve fiber layer thickness (RNFLT) maps directly from color fundus photographs and to assess their diagnostic value for glaucoma detection. Design Retrospective model development and evaluation study. Participants 15,031 paired fundus photographs and spectral-domain OCT scans collected at Massachusetts Eye and Ear between 2011 and 2022. Methods Paired fundus and OCT images were used to train a U-Net–based model to predict pixel-wise RNFLT maps with artifact-corrected supervision. Diagnostic performance was evaluated across single-modality models (fundus photos only, real RNFLT maps, predicted RNFLT maps) and multimodal fusion models (fundus + predicted RNFLT maps). Stratified analyses examined model performance across glaucoma severity and demographic subgroups. Glaucoma was defined based on standard criteria applied to Humphrey 24-2 visual field testing. Main Outcome Measures Mean absolute error (MAE) and structural similarity index (SSIM) for RNFLT map prediction. Area under the ROC curve (AUC) and accuracy for glaucoma detection. Results RNFLT map prediction achieved a MAE = 15.4 μm and a SSIM = 0.65, measured against artifact-corrected RNFLT maps derived from OCT. For glaucoma detection, the predicted RNFLT-only classifier outperformed the fundus-only classifier (AUC 0.889 vs 0.883, p < 0.005; Accuracy 82.0% vs 78.0%), but performed worse than the real-RNFLT-only classifier (AUC 0.889 vs 0.903, p < 0.005). Multimodal fusion of fundus images with predicted RNFLT maps improved performance, achieving an AUC of 0.909, outperforming all single-modality inputs (p < 0.005 vs fundus-only, predicted-RNFLT-only, and real-RNFLT-only). Performance gains between the fundus-only and the multimodal classifier were greater in early-stage glaucoma compared to severe cases: accuracy increased from 55.3% to 64.0% in mild cases, from 71.5% to 80.4% in moderate cases, and from 90.0% to 94.6% in severe cases. Conclusions Predicted RNFLT maps derived from fundus photographs provide quantitative, OCT-like structural information and improve glaucoma detection. Unlike prior work that predicted only summary RNFLT values, our model generates full RNFLT maps that better support glaucoma classification than fundus images alone. This approach offers a scalable pathway for early glaucoma screening and expands diagnostic access in resource-limited settings. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.20.26353377v1",
+      "date": "2026-05-28",
+      "abstract": "Abstract Neuroimaging based pain decoding faces two underappreciated challenges: between subject variability that prevents classifiers from generalizing across patients, and within session cross validation designs that inflate reported accuracy by conflating within person and between person variance. Here we address both using portable functional near infrared spectroscopy (fNIRS) during pharmacologically verified local nerve anesthesia. Twentyfive patients with clinically painful teeth underwent 36 channel bilateral fNIRS during percussion before (\"Pre\") and after (\"Post\") local nerve anesthesia. In 13 block-success patients, a paired Pre versus Post comparison with healthy tooth control identified three temporal hemodynamic response function (HRF) features (late slope, mean first derivative, and baseline normalized amplitude) whose analgesia interaction effects (d = 0.63 to 0.79) exceeded that of raw general linear model (GLM) amplitude (d = 0.56), with a significant difference-in-differences interaction (p = 0.011). Per-patient calibration with these features yielded leave one subject out (LOSO) AUC = 0.68 to 0.76 for nonlinear classifiers (permutation p = 0.002), with HbO-specific feature selection achieving the best performance (RF AUC = 0.760); a healthy tooth negative control was non-significant. End to end deep learning on raw time series (CNN LSTM AUC = 0.719) was competitive with feature based classifiers, while linear models did not reach significance. Critically, head to head comparison of within-session CV and LOSO on the same data revealed mean inflation of +0.13 AUC across all model types, including deep learning, demonstrating that high within session accuracy alone does not establish subject-independent validity. Exploratory analyses suggested complementary roles for oxyhemoglobin (HbO; within patient analgesia detection) and deoxyhemoglobin (HbR; cross patient information), and that trial to trial response variability may complement amplitude for cross patient pain detection. These results show that per patient calibration with temporal HRF features supports subject independent analgesic-state detection under strict LOSO evaluation, and that within-session validation (standard in the fNIRS pain- decoding literature) can substantially overestimate performance. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.09.26350266v2",
+      "date": "2026-05-28",
+      "abstract": "Abstract Study Objectives: To evaluate wearable sleep staging across sleep apnea severity, including very severe sleep apnea defined as an apnea-hypopnea index (AHI) ≥ 50 events/h, and to assess how training-set composition affects performance in this subgroup. Methods: We analyzed 552 overnight recordings: 318 from the Sleep Lab Dataset and 234 from the Hospital Dataset, of which 26.5% (N=62) had very severe sleep apnea. A deep learning model performed sleep staging from photoplethysmography-derived RR intervals and accelerometry recorded by a wrist-worn device. Baseline performance was assessed by 4-fold cross-validation using randomly partitioned folds from the combined datasets. We examined night-level associations with AHI severity. We also compared the baseline model with an ablation model trained on the same number of recordings but with all Sleep Lab Dataset recordings and lower-AHI Hospital Dataset recordings, evaluating both in the very severe subgroup. Results: For 5-stage classification, Cohen's kappa was 0.586 in the Sleep Lab Dataset and 0.446 in the Hospital Dataset. Under 4-stage staging, the gap narrowed, with kappa values of 0.632 and 0.525, respectively. In the Hospital Dataset, kappa declined with AHI severity, with median kappa differing by about 0.2 between mild and very severe groups. In the very severe subgroup, kappa decreased from 0.365 (baseline) to 0.303 (ablation). Conclusions: Wearable sleep staging performance tended to decline across greater sleep apnea severity. Clinical utility may benefit from training data spanning the target severity spectrum and staging granularity matched to the intended use. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.26.26354182v1",
+      "date": "2026-05-28",
+      "abstract": "Abstract Objective. Biomedical knowledge graphs (KGs) such as PrimeKG, Hetionet, UMLS, and PharmGKB are increasingly used as the substrate for downstream machine-learning, retrieval-augmented generation, drug-repurposing, and electronic health record (EHR) augmentation pipelines. The dominant assumption in published work is that integrating two or more such KGs is a tractable engineering step solved by identifier (ID) matching. This paper interrogates that assumption empirically. We quantify how much concept overlap survives realistic alignment, and we characterize the new failure modes introduced by the methods that practitioners reach for when ID matching is insufficient. Materials and Methods. We compared four widely used biomedical KGs (PrimeKG, Hetionet v1.0, the full UMLS Metathesaurus, and PharmGKB) across eleven node types using a tiered alignment pipeline: (1) direct ID matching for nodes sharing a primary vocabulary; (2) cross-ontology bridging using standard mappings (e.g., MONDO-DOID, HPO-UMLS, HPO-UMLS-MeSH for side effects, NCBI Gene-HGNC-UMLS, UBERON-FMA/SNOMEDCT_US/NCI/MeSH for anatomy); (3) ClinicalBERT cosine-similarity grouping at threshold >= 0.98 for over-segmented disease nodes, with a deterministic suffix-stripping canonicalizer; (4) exact name matching for ontology-poor types (anatomy, REACTOME pathways); and (5) embedding-based fuzzy matching with UMLS lookup (SapBERT and ClinicalBERT) for free-text microbiome concepts. We applied the pipeline to a 698-concept gut-microbiome benchmark spanning taxa, pathways, and disease labels, validated grouping decisions against the curated SSSOM mappings released by the MONDO project, and audited the ClinicalBERT consolidation against five clinical-genetics case studies drawn from the literature. Results. Per-type pairwise coverage was strikingly asymmetric. Genes/proteins and the three Gene Ontology categories aligned cleanly across PrimeKG and Hetionet (mutual coverage 94-99%), but disease overlap was sparse: only 0.7% of PrimeKG individual disease nodes mapped to Hetionet, rising to 2.0% after MONDO grouping (versus 78.7% and 18.4% from the Hetionet side). PrimeKG-to-UMLS coverage spanned 100% (effect/phenotype via HPO) down to 20.8% (REACTOME pathways), with drugs at 73.7% and anatomy at 58.8%. PrimeKG-to-PharmGKB drug coverage required up to two bridging hops (DrugBank -> UMLS -> RxNorm/ATC/MeSH). Bigger was not uniformly more complete: on a 698-concept microbiome drug benchmark, Hetionet missed 0 concepts while PrimeKG missed 16. ClinicalBERT-based grouping consolidated 22,205 raw MONDO disease nodes into 17,080 groups but introduced three reproducible failure modes documented in case studies: (i) peer over-merging: for example, all 22 osteogenesis imperfecta subtypes collapsed into a single node despite distinct severity classes; (ii) parent-child collapse: e.g. acute myeloid leukemia merged with myeloid leukemia, erasing the acute/chronic distinction that drives clinical management; and (iii) lexical false positives: neurofibromatosis and schwannomatosis grouped together despite cellular-pathology differences. Discussion. Identifier matching alone is a weak baseline for biomedical KG integration. Cross-ontology bridges and embedding-based consolidation expand coverage but do so at the cost of clinically meaningful resolution, and the resulting failures are systematic rather than random. Reporting only aggregate coverage statistics obscures these losses, which propagate silently into downstream tasks. Conclusion. We provide reusable per-type coverage tables, a taxonomy of three integration failure modes, and concrete recommendations for downstream studies that depend on a unified biomedical KG. We argue that future KG integration work should report per-type coverage and per-cluster confidence rather than aggregate match rates. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.26.26354141v1",
+      "date": "2026-05-27",
+      "abstract": "Abstract The Epic Sepsis Model version 2 (ESMv2) is a prediction model embedded into the electronic medical record used to warn clinicians which hospitalized patients are at risk for sepsis. We conducted a retrospective cohort study of 31,951 hospitalizations of 25,760 patients to compare analyses conducted at the commonly used patient-level (where a maximum prediction prior to the onset of sepsis is used to measure performance) vs novel prediction-level (where each prediction is used to measure performance). Sepsis, defined by the Sepsis 3 criteria occurred during 1,049 hospitalizations (3.3%). Patient-level analyses suggested excellent discrimination AUC 0.86; [IQR 0.85, 0.87], whereas prediction-level analyses demonstrated lower performance AUC 0.62; [IQR 0.57, 0.65]. Low estimates of the positive predictive value (14.5% at the patient level vs 4% at the prediction level) imply a high number of false alerts. Common evaluation approaches may overstate the performance of dynamic prediction models and mislead clinical decision-making. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.26.26353794v1",
+      "date": "2026-05-27",
+      "abstract": "ABSTRACT Background & Aims Metabolic Dysfunction–Associated Steatotic Liver Disease (MASLD) is the leading cause of chronic liver disease in children. However, accurate, noninvasive diagnostic tools remain limited. Current screening methods are invasive or lack sensitivity. Breath-based volatile organic compound (VOC) analysis offers a simple approach with potential for point-of-care screening. This study aimed to identify and validate breath VOC signatures of pediatric MASLD. Approach & Results We conducted a prospective IRB-approved cohort study at the Children’s Hospital of Philadelphia (CHOP). Children aged 7–20 years with MASLD (n=22), as defined by hepatic steatosis either by liver biopsy or imaging and 1 cardiometabolic risk factor, and a control group without MASLD (n=20) were enrolled. Breath samples were collected using a standardized protocol and analyzed by untargeted comprehensive two-dimensional gas chromatography-mass spectrometry (GC×GC-MS). Machine learning and unsupervised clustering were applied to identify discriminatory VOCs and assess heterogeneity. Untargeted GC×GC-MS analysis identified a distinct breath VOC signature in children with MASLD compared with non-MASLD controls. A Random Forest model achieved a sensitivity of 73% and specificity of 65%, with AUC of 0.84. The VOC 2,4-dimethyl-1-heptene demonstrated strong diagnostic performance in the discovery cohort with a sensitivity of 85%, specificity of 77% and an AUC of 0.81. Unsupervised clustering revealed four MASLD subgroups with distinct volatile phenotypes associated with differences in liver enzymes and metabolic parameters. External validation in a second pediatric cohort confirmed reproducible reductions in o/p-xylene in subjects with MASLD. Conclusions Pediatric MASLD is associated with a reproducible breath VOC signature identified by untargeted GC×GC-MS. These findings support breath analysis as a scalable, noninvasive screening and stratification tool for pediatric MASLD and warrant validation in larger, longitudinal studies. IMPACT AND IMPLICATIONS Pediatric MASLD lacks scalable, noninvasive diagnostic tools capable of early identification of at-risk children, providing strong scientific justification for the development of breath-based biomarkers. This study demonstrates that untargeted breath VOC profiling can distinguish children with MASLD from controls and reveals biologically meaningful heterogeneity in breath signatures, highlighting the potential of breath analysis for both detection and risk stratification. These findings are most relevant to physicians managing children with cardiometabolic risk and to researchers developing noninvasive liver biomarkers. Broader validation is required before clinical implementation. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.27.26354187v1",
+      "date": "2026-05-28",
+      "abstract": "Abstract Background: Rheumatoid arthritis is a chronic inflammatory disorder in which exercise is increasingly recognized as an important component of long-term management. Yet, most reviews in this field evaluate the effects of single exercise modalities, while bibliometric studies primarily identify publication trends and research hotspots without showing whether highly visible themes also represent coherent and comparatively mature evidence domains. Methods: We searched the Web of Science Core Collection for publications on exercise interventions in rheumatoid arthritis from 2016 to 2025. CiteSpace (6.4.1) and VOSviewer (1.6.20) were used to analyze publication growth, collaboration networks, keyword co-occurrence, thematic clusters, and burst terms. We then applied structured content coding in Excel 2021 to classify exercise modalities, outcome domains, and mechanistic topics, and integrated these findings into a visual evidence-distribution profile. Results: Publication output increased from 16 studies in 2016 to 37 in 2025. The United States led in productivity, Karolinska Institutet was the most prolific institution, and Kitas, Duda, and Metsios were among the most influential authors. Keyword analyses identified a shift from function- and disease-focused themes toward quality of life, risk factors, and comprehensive management. The integrated analysis revealed an uneven evidence structure: aerobic and resistance training accounted for the most concentrated and recurrently studied exercise-outcome domains, whereas mind-body and water-based interventions formed visible but methodologically heterogeneous clusters. Newer modalities, including blood flow restriction training and high-intensity interval training, showed growing prominence but limited depth of evidence. Conclusion:Exercise research in rheumatoid arthritis has evolved toward broader and more patient-centered management targets, but the field remains imbalanced across intervention types and outcome domains. This study demonstrates the value of combining bibliometric mapping with structured content analysis to distinguish thematic visibility from evidentiary coherence in heterogeneous intervention fields and may offer a transferable analytical framework for research evaluation beyond rheumatoid arthritis. Keywords: Rheumatoid Arthritis; Exercise Intervention; Bibliometrics; Content Analysis; Rehabilitation ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.23.26353957v1",
+      "date": "2026-05-27",
+      "abstract": "Abstract Background: Chronic rhinosinusitis (CRS) is a heterogeneous inflammatory airway disease associated with impaired mucociliary clearance and persistent inflammation. While prior work has focused on inflammatory and molecular pathways, the physicochemical properties of mucus itself remain poorly characterized. This study aimed to define compositional and biophysical features of CRS mucus that may contribute to dysfunction. Methods: A prospective cross-sectional study was conducted in 15 adults undergoing endoscopic sinus surgery (11 CRS, 4 controls). Mucus was collected from the middle meatus. Hydration was measured by lyophilization. Ionic composition was quantified using mass spectrometry. Viscoelasticity was assessed via oscillatory shear rheology. Total protein, total carbohydrate, sialic acid (Sia) and fucose (Fuc) content were quantified using enzymatic and chemical assays. Statistical comparisons were performed using nonparametric tests. Results: CRS mucus exhibited significantly higher Ca2+; and Mg2+; concentrations (approximately two-fold; p<0.05) and increased variability in hydration and ion content compared to controls. Rheology showed greater heterogeneity and a non-significant trend toward increased viscoelasticity in CRS. Total protein and carbohydrate content were not significantly different; however, the carbohydrate-to-protein ratio was significantly reduced in CRS (p=0.04). Sia content and Sia-to-carbohydrate ratio were significantly elevated in CRS (p=0.04 and p=0.002), particularly in CRS with nasal polyps. Fuc content did not differ between groups. Conclusions: CRS mucus demonstrates coordinated alterations in ionic composition and glycosylation, characterized by increased cation content, hypersialylation, and reduced carbohydrate-to-protein ratios. These changes may contribute to altered mucus properties and impaired mucociliary clearance, highlighting mucus composition as a potential therapeutic target in CRS. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.24.26353973v1",
+      "date": "2026-05-26",
+      "abstract": "Abstract Background Something in discourse with a person experiencing psychosis often “feels off” before formal assessment is completed, yet this disturbance has not been quantified at the level of ongoing dyadic conversation. Prior work has largely treated patient speech in isolation, limiting our capacity to measure how communicative disruption emerges within clinical exchange. Methods We applied a three-level decomposition of conversational alignment in 109 patients with psychotic disorders (26 female) and 60 healthy controls (22 female) at baseline and 12 months ( n = 115). Register divergence (dAUC norm ) captured lexical distance between interviewer and patient; embedding-based synchrony (r embed ) measured semantic trajectory coupling; within-speaker coherence was computed separately for each speaker. We used linear mixed-effects models adjusted for timepoint and participant clustering. Results Patients showed significantly greater lexical-semantic divergence from the interviewer ( d = 0.48, p < .001) and reduced embedding-based synchrony ( d = −0.59, p < .001), both effects replicating at each timepoint. Critically, the interviewer’s within-speaker coherence was reduced during conversations with patients ( d = −0.33, p = .016), indicating that the disruption extends beyond the patient to the interaction itself. Register divergence tracked impoverished thinking and synchrony tracked disorganized thinking (both FDR-corrected q = .038). Group differences were persistent at 12 months, indicating a partially stable profile. Conclusions Conversational alignment in psychosis reveals a dyadic failure of semantic coordination that destabilizes the interviewing clinician’s coherence even when patient narrative continuity is preserved. These transcript-derived alignment metrics offer a scalable approach to quantifying interpersonal communicative function from routine clinical encounters. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.25.26354057v1",
+      "date": "2026-05-27",
+      "abstract": "Abstract Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease affecting more than 450,000 individuals worldwide and is frequently diagnosed more than 12 months after symptom onset, delaying intervention during a critical early window. Because up to 80% of patients develop dysarthria within two years, subtle changes in speech provide a signal of early bulbar motor neuron degeneration. However, existing speech-based systems rely on supervised classification trained on limited datasets, achieving moderate sensitivity and depending heavily on labeled disease examples, which restrict scalability and early detection. This study introduces SPEAK-NORM, the first-ever normative speech modeling framework for early ALS diagnosis, which learns age- and sex-conditioned motor-speech distributions exclusively from healthy individuals. A conditional variational autoencoder models coordination of hypoglossal, laryngeal, and respiratory motor pathways, and deviation from this healthy manifold is quantified through latent representations and reconstruction error to form a 354-dimensional profile. A calibrated linear Support Vector Machine performs subject-level classification under subject-disjoint validation. On the VOC-ALS database (n = 153), SPEAK-NORM achieves 98% accuracy with balanced sensitivity and specificity, significantly outperforming established clinical acoustic indices and prior systems. The framework maintains strong performance under cross-task generalization and when retrained on healthy controls in independent dementia and Parkinson’s disease cohorts, demonstrating disease-specific deviation patterns rather than generic neurodegenerative change. Spectral, temporal, and latent separations further support interpretability. By modeling healthy speech instead of memorizing disease examples, SPEAK-NORM enables scalable early neuromotor screening using recording devices, with potential to support earlier diagnosis, differential classification, and monitoring of ALS progression. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.24.26353991v1",
+      "date": "2026-05-26",
+      "abstract": "Abstract Longitudinal evaluations of national electronic health record repositories often track document counts alone, obscuring changes in content size, structure and standards implementation. We decomposed growth in the Estonian Health Information System across document counts, per-document size, section-level structure and version uptake in a 10% random population sample of 4.97 million HL7 Clinical Document Architecture Release 2 documents from 147,819 patients, spanning 2012–2019 and four prespecified document types. Growth patterns differed by document type. Inpatient summaries increased 48.5% in total content volume despite a 2.4% decline in document counts. Section presence and within-section content were highly skewed; 44.6% of 892 data locations carried one fixed value. Code-system diversity increased from 45 to 79, and version uptake took years: inpatient summaries reached 80% organisational uptake after a median 44 months (95% CI 11–78). This decomposition can guide extraction pipelines, secondary use and standards governance in CDA- and FHIR-based repositories. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.24.26353970v1",
+      "date": "2026-05-26",
+      "abstract": "Abstract Background Diabetes mellitus (DM) worsens pulmonary tuberculosis (TB) and drives systemic hyper-inflammation, but the underlying mechanisms remain unknown. Neutrophils have key roles in TB immunopathology and lung cavitation. Here, we determine the role of neutrophils in DMTB patients and in driving TB immunopathology. Methods Sputum and plasma from 30 TB and 30 DMTB patients were analysed for proteases and cytokines using Luminex bead array. Whole blood transcriptomics identified transcriptional differences. Single-cell RNA sequencing characterised neutrophil subsets and dysregulated pathways. Neutrophil function of poorly-controlled DM patients (HbA1c>8%) and healthy controls (HC) were examined following Mycobacterium tuberculosis stimulation, including reactive oxygen species (ROS), neutrophil extracellular traps (NETs), and phagocytosis. Pathways were interrogated using chemical inhibitors, protein array and western blot. Results Compared to non-diabetic TB patients, poorly-controlled DMTB patients showed up-regulated sputum MMP-8 and MMP-9, associated with increased collagen-destruction and lung cavity formation. Circulating neutrophil count and neutrophil-derived plasma MMP-8 were up-regulated, alongside transcriptional enrichment of extracellular matrix degradation and inflammatory pathways including TNF and RAGE. Single-cell profiling identified reduced cycling neutrophil subset and myelocytes in DMTB, with overall reduced antibacterial and cell-killing signatures. Ex vivo mycobacterial stimulation of DM neutrophils increased ROS and MMP-9 with impaired NETs and delayed phagocytosis. TNFR1, TNFR2, and RAGE were up-regulated. RAGE inhibition with rosiglitazone mitigated Mtb -induced ROS and MMP-8 release. Conclusion DM worsens neutrophil-driven tissue destruction and inflammation in TB via dysregulated TNF and RAGE-signalling, priming neutrophils towards immunopathology. Targeting RAGE alongside tight glycaemic control may dampen neutrophil hyper-inflammatory responses to limit tissue destruction. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.21.26353523v1",
+      "date": "2026-05-26",
+      "abstract": "Abstract Teledermatology expands access to dermatologic expertise in rural settings, yet diagnostic uncertainty persists in low-resource primary care. This retrospective study evaluated MedGemma-4B-IT, a compact multimodal vision-language model, as adjunctive clinical decision support for challenging diagnostic cases. We analyzed 77 zero-concordance cases (360 clinical photographs) from a Dermatology Extension for Community Healthcare Outcomes (ECHO) tele-mentoring program (2016-2021). Zero-concordance cases showed no overlap between primary clinician provisional diagnosis and dermatologist-confirmed diagnosis. The model was prompted using dermatologist-style format to generate ranked differential diagnoses. Performance was assessed using strict case-level top-k exact-match accuracy and relaxed matching criteria based on fuzzy string similarity. MedGemma achieved 0.0% strict top-1 accuracy, 1.3% top-3 accuracy, 3.9% top-5 accuracy, and 3.9% top-10 accuracy. Relaxed concept-level matching achieved 28.6% top-1, 63.6% top-5, and 67.5% top-10 accuracy. Image-level accuracy was 44.2% (159/360, 95% CI 39.0-49.5%). The model surfaced the correct diagnosis within differential lists in 45.5% of cases despite no exact top-1 matches, suggesting utility for differential expansion rather than definitive diagnosis. Performance varied across diagnostic categories, with highest accuracy in Other categories (54.5%) and lowest in neoplastic conditions (0.0%). Common errors included confusion between inflammatory and other diagnostic groupings. These findings characterize MedGemma performance on real-world teledermatology cases and inform safe, clinician-in-the-loop integration into teledermatology workflows where specialist oversight remains essential. What this Study Adds This study provides empirical evaluation of MedGemma-4B-IT as adjunctive decision support for challenging teledermatology cases in a community healthcare ECHO setting. We demonstrate that while strict top-1 diagnostic accuracy is 0%, the model correctly surfaces the dermatologist-confirmed diagnosis within a 10-item differential in 45.5% of zero-concordance cases, suggesting value as a differential diagnostic prompt rather than a direct diagnostic replacement. These findings inform safe, clinician-in-the-loop deployment strategies for compact vision-language models in resource-limited telemedicine settings. Conclusions MedGemma demonstrates differential diagnostic utility in challenging teledermatology cases, surfacing the correct diagnosis within a 10-item differential in nearly half of cases despite zero top-1 accuracy. These findings support clinician-in-the-loop AI deployment for diagnostic expansion in resource-limited settings, while highlighting the need for improved neoplastic detection and confidence calibration in future model development. Results Under strict exact matching, top-1 accuracy was 0.0% (0/77), increasing to 3.9% (3/77) at top-10. Under relaxed concept-level matching, top-1 accuracy was 28.6% (22/77), rising to 45.5% (35/77) at top-10. The Mean Reciprocal Rank was 0.4287. Diagnostic performance varied by category: Other diagnoses showed 54.5% top-10 accuracy, while neoplastic conditions showed 0.0%. Methods This retrospective study analyzed 77 zero-concordance cases (360 images) from the Missouri Dermatology ECHO program (2016-2021). Cases were those where the primary care clinician provisional diagnosis showed no textual overlap with the dermatologist-confirmed diagnosis. Primary outcome was top-1 exact-match accuracy; secondary outcomes included top-k accuracy under concept-level relaxed matching. Background Teledermatology expands access to dermatologic expertise in rural settings, yet diagnostic uncertainty persists in low-resource primary care. We evaluated MedGemma-4B-IT, a compact multimodal vision-language model, as adjunctive clinical decision support for challenging teledermatology cases. - Stratified performance analysis by diagnostic categor",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.24.26353955v1",
+      "date": "2026-05-26",
+      "abstract": "Abstract Can we decode Alzheimer’s disease (AD) heterogeneity into a few portable axes that capture how amyloid-β, tau and neurodegeneration (A-T-N) spatially co vary in vivo? To answer this question, we built a pipeline that harmonizes longitudinal amyloid-β/tau PET and T1 MRI (gray matter) from ADNI cohort (12,430 images) with mixed effects modeling and then derived stage specific multimodal axes (mVCs) using linked component analysis, with robustness tested in simulations and external validation in the OASIS cohort (4,958 images). We identified a small set of multimodal axes that (i) recapitulate early tau weighted variation in cognitively unimpaired (CU) individuals, AD like A -T-N coupling in cognitively impaired (CI) individuals and atypical CU and CI participants with posterior (precuneus/occipitoparietal) and fronto insular/frontal weighted patterns, (ii) map onto domain specific cognition, APOE e4, and blood/CSF biomarkers of neurodegeneration, neuroaxonal injury and astrocyte activation, (iii) predict clinical transitions, (iv) generalize in an independent cohort, and (v) demonstrate modelling robustness to missing data, high dimensionality, and cross-cohort variability, enabling direct application of the extracted axes to new datasets for biomarker discovery and stratification. Multimodal axes provide a portable, interpretable layer for quantifying amyloid-β-tau-neurodegeneration coupling at the individual level, complementing current biomarker-based staging frameworks based on A-T-N status and tau PET topography, and can be computed on new datasets to aid clinical assessment and trial enrichment. Significance Statement We developed and validated a multimodal statistical pipeline to identify individualized patterns of association among core Alzheimer’s disease biomarkers: amyloid-β deposition, tau accumulation, and neurodegeneration. Applied to longitudinal PET and MRI data, the approach revealed distinct, reproducible axes of biomarker coupling across cognitively unimpaired and impaired individuals, linked to cognitive performance and clinical progression. By providing subject -level scores that quantify how pathologies co-express across brain regions, this framework supports fine-grained biomarker discovery, improves interpretation of Alzheimer’s disease heterogeneity, and can be extended to high -dimensional multimodal datasets in future biomarker studies ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.26.26354120v1",
+      "date": "2026-05-27",
+      "abstract": "Abstract This work focuses on the global and partial identification problem for fractional differential equations. We provide a general numerical procedure based on global and local optimization algorithms with two refinements for biological systems that ensure solution positivity and homogeneous parameter units. The method is applied to a new fractional model of Dengue outbreak called the Fractional Homogeneous Nishiura (FHN) model, calibrated using data of newly infected people in Cape Verde. We show that our identification method yields a better fit between data and model solutions than previous approaches and that our FHN model captures the dynamics of Dengue more closely than existing systems. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.25.26354044v1",
+      "date": "2026-05-26",
+      "abstract": "Abstract Background Mixture epidemiology deploys sophisticated estimators, Bayesian kernel machine regression with causal mediation analysis (BKMR-CMA), quantile G-computation (QGC), and parametric G-computation, alongside conventional regression. Comparative evaluations have assumed additive, non-mediated data-generating processes, leaving conditions under which estimator choice determines causal validity uncharacterized. Methods We developed a simulation framework using military-relevant exposure distributions (metals, per- and polyfluoroalkyl substances [PFAS], polychlorinated biphenyls [PCBs]) and allostatic load (AL) across three deployment tiers, with parameters drawn from military occupational health and contamination literature. Four data-generating processes were specified as directed acyclic graphs: direct effects with confounding (M1), full mediation through AL (M2), synergistic AL-exposure interaction (M3), and collider structure (M4). We evaluated ordinary least squares (OLS), QGC, G-computation, and BKMR-CMA on bias, root mean squared error, and 95% confidence interval coverage across 500 Monte Carlo replications at n = 500 and n = 1,000. Results No estimator dominated across all mechanisms. Under M1, OLS and G-computation produced near-identical modest positive bias; BKMR-CMA achieved lower root mean squared error through kernel shrinkage. Under M2, BKMR-CMA exhibited severe positive bias for AL (mean bias = +0.579 SD units; coverage = 32.8%). Under M3, BKMR-CMA was the only estimator achieving nominal 95% coverage for AL (95.2%), while regression-based approaches fell to 83.6%. Under M4, G-computation produced persistent bias and near-zero coverage for lead, reflecting structural non-identification. Conclusions Estimator validity is fundamentally mechanism-dependent. Researchers should base estimator choice on explicit causal assumptions about whether AL functions as confounder, mediator, moderator, or collider, particularly in military and occupational cohorts. We provide a mechanism-to-estimator mapping for applied researchers. What this study adds No single estimator dominates across causal mechanisms in mixture epidemiology. Using a military-relevant simulation, we show that BKMR-CMA excels under synergistic interactions but fails severely under mediation, while G-computation fails under collider structures that standard regression cannot detect. Estimator choice is a causal decision, not a technical one. We provide a mechanism-to-estimator mapping to guide researchers in occupational and environmental cohort studies where stress-related biomarkers function simultaneously as confounders, mediators, and colliders. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.19.26353364v1",
+      "date": "2026-05-26",
+      "abstract": "Abstract We trained a self-configuring nnU-Net model for CMB segmentation in a hetero-geneous multicenter sample ( n =264), including 1.5T and 3T field strengths, SWI and T2*-GRE sequences, and community and clinical cohorts. Model performance was evaluated using 5-fold cross-validation with a focus on object-level detection metrics. Real-world performance was evaluated on scans from an unseen dataset of people with cerebrovascular disease ( n =20). The model achieved 0.82 cluster Dice, 0.88 precision, and 0.77 sensitivity on hold-out test data. Notably, the model demonstrated a low false-positive rate, averaging 0.58 false positives (FPs) per scan, an improvement on existing publicly available models. The model achieved high performance in dataset of those with Alzheimer’s disease and mild cognitive impairment (0.89 cluster Dice, 0.94 sensitivity), supporting its utility in clinical settings where ARIA-H monitoring is critical. In external validation, the model maintained high robustness with 0.79 sensitivity and 0.95 FPs per scan. By leveraging a heterogenous training strategy and a self-adapting architecture, we demonstrate that deep learning can achieve high-precision CMB detection that is robust to domain shifts. The low FP rate suggests this publicly available pipeline is suitable for automated screening and lesion counting in heterogenous large-scale clinical trials, reducing the burden of manual quantification. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2025.12.22.25342882v2",
+      "date": "2026-05-26",
+      "abstract": "ABSTRACT Mexico has experienced several viral outbreaks of substantial intensity, including hyperendemic dengue since the mid-1990s, the COVID-19 epidemic in 2020-2022, and recent reports of avian influenza A (H5N1) in poultry, representing an ongoing risk of zoonotic transmission. Under a One Health framework, traditional markets represent valuable sites for virus monitoring at the human-animal interface. As a case study, we used the central market of Merida City in Yucatan, Mexico, a regional hotspot for viral outbreaks. We conducted a pilot evaluation of a virus monitoring strategy drawing from entomological, wastewater, and live bird surveillance. Systematic longitudinal sampling was carried out over 11 months at 1 to 6-week intervals from April 2022 to February 2023. Samples were screened using RT-qPCR, with positives further characterised through sequencing and phylogenetic analyses. Results were interpreted in the context of official national epidemiological data and surveillance efforts. We report an early detection of DENV-3 lineage III-B3.2 (genotype III American II) from a mosquito pool preceding its identification from contemporaneous human-derived sequences derived from genomic surveillance efforts. SARS-CoV-2 RNA was detected from wastewater surveillance throughout both epidemic waves recorded at the city and state level, with a broad overlap across temporal epidemiological trends. Cloacal swabs from two juvenile birds yielded putative signals consistent with detection of avian influenza A virus, suggesting a possible cryptic virus circulation in live birds sold at the market. Our study demonstrates the feasibility of implementing similar strategies to monitor multiple viral pathogens in urban settings. While not suitable for the detection of novel outbreaks, this approach may complement existing surveillance efforts by delivering molecular signals supporting the detection of epidemiologically relevant viruses in circulation, particularly in settings where genomic capacity remains limited. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.21.26353767v1",
+      "date": "2026-05-26",
+      "abstract": "Abstract Sex work is diverse and includes a broad range of people and settings. Over the last thirty years, a large proportion of public health emergencies of international concern (PHEIC) have involved infections transmitted through sexual or close contact and in sexual networks ( WHO 2024 ). Sex workers can face increased disadvantage in relation to these public health emergencies. Given the significant health inequalities sex workers can face, they should be eligible to receive targeted and tailored health support to reduce health protection risks ( Hester 2019 ; Jeal and Salisbury 2004a ). However, they are often not explicitly eligible for targeted and tailored support due to a lack of information on incidence, prevalence of disease, and even more basic data such as reliable estimates of the number of sex workers in the UK. Accordingly, the aim of this paper is to determine a population size estimate, with uncertainty, that is more robust than those currently available. In this study, we apply Bayesian Evidence Synthesis to bring together historic estimation efforts with recent ONS National Population Estimates and Genito-Urinary Medicine Clinics Attendance Data (GUMCAD) from the UK Health Security Agency (UKHSA). A key feature of our model is the embedding of uncertainty from each input study in model priors, hence propagating it through to our final estimate. The Bayesian evidence synthesis model estimated a total of 84,000 sex workers in the United Kingdom (95% credible interval: 49,000-130,000), representing 0.121% of the current UK population. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.23.26353951v1",
+      "date": "2026-05-25",
+      "abstract": "Abstract To better illustrate the genetic etiology of Parkinson’s disease (PD), we integrated xQTL weights derived from bulk RNA-seq (n=931), single-nucleus RNA-seq (n=415), and bulk proteomics (n=716) data of dorsolateral prefrontal cortex (DLPFC) with the largest available GWAS summary data of PD. Through integrative Omnibus TWAS and PWAS analyses, we detected risk genes whose genetic effects are mediated through bulk or cell-type-aware gene expression, or bulk protein abundances in DLPFC. We detected 39 significant risk genes by bulk TWAS, 66 by cell-type-aware TWAS across six brain cell types, and 17 by bulk PWAS. Importantly, 57.9% bulk and 62.5% cell-type-aware independent TWAS risk genes are replicated by bulk PWAS. Protein–protein interaction analyses reveal strong connectivity of our detected risk genes with known PD risk genes such as MAPT, SNCA , and LRRC37A . Our detected TWAS and PWAS risk genes are shown enriched in apoptosis signaling and T-cell activation pathways. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.22.26353900v1",
+      "date": "2026-05-25",
+      "abstract": "Abstract Stressful life events (SLEs) are associated with increased risk of psychiatric and somatic disease, yet the molecular correlates of stress exposure across time remain incompletely characterised. We conducted a multi-omic analysis in the Finnish Twin Cohort, examining genomic ( n = 8,286), epigenomic ( n = 387), proteomic ( n = 401) and metabolomic ( n = 434) data across three exposure windows: recent (≤6 months), proximal (≤5 years) and lifetime. Genome-wide association analysis identified a single significant locus on chromosome 1 (lead SNP rs10158287, p = 9.7 × 10 −9 ), mapping to DAB1 / C8B , with immune cell-specific eQTL effects in Th1/Th17 CD4 + T cells and cross-trait links to cardiometabolic risk; common variants explained 33.6% of variance in SLE scores; the DAB1 / C8B locus alone accounted for 0.4%, consistent with a highly polygenic architecture. No epigenome-wide significant associations or relationships with epigenetic ageing measures (PCPhenoAge, DunedinPACE, PCGrimAge) were detected. Circulating molecular layers showed temporally structured signatures. Recent SLEs were characterised by coordinated immune-metabolic changes, including five proteins (IL-1β, TIGIT, Nectin-1, Carnosinase-1, Calcyphosin; all decreased) and 16 metabolites predominantly reflecting reduced HDL-related lipids and broader lipid pools, alongside enrichment of the lipoprotein assembly and clearance pathway and lower thyroid and lung proteomic age estimates. Proximal exposure showed no significant single-analyte associations but convergent negative pathway-level signals involving cell-cycle and centrosome-associated processes. Lifetime SLEs were characterised by immune-vascular and tissue-remodelling signatures, including ten proteins (all increased), enrichment of TNF/IL-10 signalling, cellular maintenance and epithelial differentiation pathways, and higher arterial proteomic age. These findings indicate that molecular correlates of stress exposure are temporally contingent rather than uniformly accumulating across the life course, with convergent involvement of adaptive immune regulation alongside metabolic and vascular remodelling. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.23.26353948v1",
+      "date": "2026-05-25",
+      "abstract": "Abstract Guillain-Barré syndrome is an acute immune-mediated polyradiculoneuropathy with heterogeneous outcomes and limited molecular biomarkers for diagnosis, disease monitoring, and prognosis. To elucidate the circulating proteomic profile of this disorder and identify candidate biomarkers associated with disease activity and recovery, we measured over 6,500 proteins using an aptamer-based proteomic platform. We analysed paired, longitudinal sera from 20 patients at disease onset and one-year follow-up, alongside 15 healthy controls. Unbiased differential protein abundance and gene-set enrichment analyses were performed. Candidate proteins were validated using conventional immunoassays in a cohort including healthy and disease controls. We identified 39 differentially abundant proteins between the acute and recovery phases and 248 proteins altered in acute Guillain-Barré syndrome compared to controls. The acute phase was characterised by a marked enrichment in systemic immune cascades and muscle sarcomere proteins, alongside a significant depletion of axonal adhesion molecules. Serum amyloid A1 (SAA1) emerged as the most strongly increased protein in the acute phase. Validation through independent immunoassays confirmed robust serum amyloid A elevations at disease onset relative to the one-year recovery phase, healthy controls, and relevant post-infectious and neuromuscular disease controls (acute disseminated encephalomyelitis and myasthenia gravis), underscoring a peripheral nerve-specific inflammatory response. Furthermore, unexpected elevations of cardiac troponin T (cTnT) were observed at disease onset. Clinical validation using high-sensitivity assays demonstrated that cTnT exceeded the diagnostic 99 th percentile upper reference limit in 25.5% of acute Guillain-Barré syndrome patients. A similarly high frequency of elevation in the myasthenia gravis disease control group (42.1%) suggests these increases predominantly reflect neuromuscular damage rather than myocardial injury. Finally, Mendelian randomisation provided causal genetic evidence linking specific systemic proteins to disease susceptibility, identifying robust roles for SERPING1 (plasma protease C1 inhibitor), CNDP1 (an antioxidant protein), and CRISPLD2 (a lipopolysaccharide-binding protein that regulates endotoxin function). Together, this comprehensive proteomic characterisation reveals distinct, stage-specific molecular signatures in Guillain-Barré syndrome. Importantly, it suggests SAA1 as a robust marker of acute peripheral nerve inflammation and challenges the conventional interpretation of elevated cTnT in severe neuropathies and neuromuscular disorders. Furthermore, this work provides a novel dataset to explore future targeted therapeutic development in Guillain-Barré syndrome. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.11.04.25339526v2",
+      "date": "2026-05-25",
+      "abstract": "ABSTRACT Background Artificial intelligence-enhanced electrocardiography (AI-ECG) enables structural heart disease (SHD) detection. However, its utility as a clinical assay requires consistency of outputs when repeated under similar conditions. Objectives To characterize test-retest reliability of contemporary AI-ECG models across diverse health systems, identify factors associated with discordance, and determine the predictive significance of screen status changes. Methods We identified ECG pairs recorded 1-30 days apart in the same individual at the Yale-New Haven Health System (YNHHS), Massachusetts General Hospital (MGH), and Emory University Hospital (EUH). We evaluated internally developed ECG signal- and image-based SHD models, and the EchoNext-Mini model, including disease-specific components and ensemble composites. Reliability was quantified with concordance correlation coefficients (CCCs) and categorical concordance percentages. In patients without prevalent heart failure (HF) with serial ECGs 30-90 days apart, we evaluated association of screen status discordance with new-onset HF risk. Results We included 731,466 ECG pairs (median interval 5-6 days). At YNHHS, disease-specific model CCCs ranged from 0.77-0.86 across the signal- and image-based model families and 0.50-0.97 for EchoNext-Mini output nodes. Composite SHD models had CCCs of 0.90 (signal-based), 0.90 (image-based), and 0.81 (EchoNext-Mini). The image-based ensemble model achieved categorical screen-status concordance of 87-89% across 3 health systems (versus 80-84% for disease-specific models). Younger age (< 65 years) was the dominant correlate of discordance (OR 1.69 [95% CI, 1.65-1.74]), along with higher odds for inpatient ECGs (ORs 1.30-1.41). Among 65,838 individuals in the predictive cohort, a negative-to-positive change in screen status was associated with elevated risk of new-onset HF (adjusted hazard ratio 1.67-2.37 across sites). Conclusions Contemporary AI-ECG models had high test-retest reliability, with composite ensembles showing the greatest stability. Serial changes in AI-ECG screen status carry predictive information for new-onset HF. CONDENSED ABSTRACT Clinical utility of artificial intelligence-enhanced electrocardiography (AI-ECG) requires consistency when repeated under similar conditions. In 731,466 ECG pairs from 3 health systems, AI-ECG models for structural heart disease (SHD) had high test-retest reliability, with composite SHD models showing the greatest stability (concordance correlation coefficient 0.87-0.90). Signal- and image-based models had comparable reliability. Younger age and inpatient acquisition were the primary correlates of screen-status discordance. Among 65,838 individuals at risk, a negative-to-positive change in screen status independently predicted new-onset heart failure (adjusted hazard ratio 1.67-2.37 across sites). Test-retest reliability and serial screen-status changes present meaningful clinical benchmarks for AI-ECG implementation. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.21.26353781v1",
+      "date": "2026-05-24",
+      "abstract": "Abstract Predictive modelling is important for health data analysis and data-driven clinical decision-making. However, predictive studies are challenging to design optimally by hand when tens or even hundreds of features require selection, transformation, or interaction modelling. While complex machine learning models offer high performance, their “black-box” nature limits the clinical trust, transparency, and interpretability required for decision-making. We developed and evaluated an Exploratory AI Recommender that provides data-driven recommendations to improve predictive performance of existing interpretable statistical models. The developed framework uses flexible AI modelling to capture complex data patterns and explainable AI techniques to translate the patterns into three recommendation types: feature exclusion, non-linear terms, and feature interactions. We evaluated the framework by comparing predictive performance of a baseline (i.e., no interactions or non-linear terms) Cox Proportional Hazards (CPH) model against an augmented CPH incorporating recommendations suggested by our method. The primary analysis predicts the time to the first occurrence of a fall or related injury in 245,614 patients. Our method recommended excluding 23 features, including non-linear terms for two features, and including 221 suggested feature interactions. The C-index improved from 0.805 (95% CI 0.798-0.812) to 0.815 (95% CI 0.809-0.822), and so did calibration (intercept: - 0.006 to 0.003; slope: 1.063 to 0.950). All recommendations were supported by existing literature. The method also proved effective on two additional public datasets, demonstrating wider applicability. The proposed Exploratory AI Recommender demonstrates the potential of explainable AI and data-driven study design to improve the process of developing, and the performance of high-dimensional transparent predictive models. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.23.26353940v1",
+      "date": "2026-05-25",
+      "abstract": "Abstract Age-related cerebral atrophy is one of the most prevalent radiological findings in ageing populations, yet its clinical significance particularly its correlation with specific neurological presenting symptoms—remains insufficiently characterised in South Asian contexts. This retrospective cross sectional study was conducted at THQ Hospital Wazirabad and Chattha Hospital, Gujranwala, Pakistan over a six month period, enrolling 66 adult patients (≥40 years) who underwent non contrast computed tomography (CT) of the brain. CT scans were evaluated for Evans’ index, ventricular enlargement (graded 1–3), cerebral atrophy severity (graded 1–3), early ischaemic changes, and the hyperdense vessel sign. Presenting neurological symptoms headache, seizures, slurred speech, ataxia, and numbness were extracted from medical records and correlated with imaging findings using chi square tests, Spearman’s rank correlation, and binary logistic regression in SPSS v31.0. The mean patient age was 52.1 ± 14.3 years (range 35–83) with a male predominance (72.7%). Moderate to severe atrophy was present in 50.0% of patients. Seizures (74.2%), slurred speech (63.6%), and ataxia (62.1%) were the most prevalent symptoms. Significant positive correlations were found between atrophy grade and age ( r = 0.72, p < 0.001), slurred speech ( r = 0.48, p < 0.001), ataxia ( r = 0.44, p < 0.001), and numbness ( r = 0.39, p = 0.001). Headache showed no significant correlation with atrophy severity ( p = 0.42). Logistic regression revealed that each one grade increase in atrophy severity raised the odds of motor/speech symptoms by 2.8 fold (95% CI: 1.6–4.9, p < 0.001), independent of age. These findings support the integration of standardised CT based atrophy reporting into routine radiology practice for older adults, especially in resource limited settings where MRI is not readily accessible. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.02.17.26346421v2",
+      "date": "2026-05-25",
+      "abstract": "Abstract Diagnosing rare genetic disease hinges on identifying the causal variant among thousands of candidates, a task that leaves most of the 300 million affected patients undiagnosed despite the availability of genome sequencing. Here we present DAVP (Deep Agentic Variant Prioritisation), a hierarchical agentic-LLM pipeline combining gene pre-filtering, knowledge-graph-grounded variant reports, and iterative LLM tournaments to rank variants against each patient’s phenotype. We benchmark DAVP on 709 diagnosis cases across four datasets, including LIRDB-47—a new cohort of 47 Turkish rare-disease patients with 63 clinically diagnosed causal variants. DAVP achieves 85.5% variant-level top-3 recall on the full benchmark; on LIRDB-47, it places the causal variant in the top-3 in 76.2% of patients (top-20 in 88.9%), a 1.6-fold improvement over the best phenotype-driven baseline (Exomiser, 47.6%). Our work suggests that agentic LLM systems combining evidence synthesis with patient-specific reasoning have the potential to reshape clinical genomic workflows. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.20.26353719v1",
+      "date": "2026-05-24",
+      "abstract": "Abstract Large language models are typically evaluated under fixed instruction contexts, implicitly treating correct refusal as a stable model property. We show that this obscures a critical failure mode: models often recognize that a request should be refused, yet comply when the surrounding instructions exert sufficient pressure. To measure this behavior directly, we introduce FrameProbe , a framework that holds task content fixed while systematically varying instruction context, and instantiate it in KnowDoBench , a benchmark of 221 physician-validated clinical scenarios with rule-based ground truth. Cases span two constraint types: epistemic (unsolvable due to missing information) and normative (ethically or professionally prohibited). Across ten frontier models, constraint recognition is near ceiling under low-pressure conditions, yet performance degrades sharply as instructional pressure increases. Under coercive institutional framing, most models comply on cases they had previously refused, and normative constraints degrade roughly 20 percentage points more than epistemic constraints. This normative inversion suggests that verbal knowledge of a boundary does not guarantee robust behavioral enforcement under pressure. Failure analysis reveals that these errors are often not silent. Some models comply immediately without acknowledgment; others explicitly identify the violated constraint before answering anyway. This second pattern, which we term ratio-nalized compliance , is invisible to standard refusal-rate metrics and highlights a dissociation between represented knowledge and behavior under pressure. Together, these findings show that refusal robustness is not a fixed capability but a context-dependent behavior. Evaluating it requires varying instruction framing systematically, not only measuring performance at a single prompt setting. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.21.26353835v1",
+      "date": "2026-05-24",
+      "abstract": "ABSTRACT BACKGROUND The integrated regulation of microRNAs (miRNAs) on macrophage plasticity plays a key role in atherosclerosis (AS). We tested the hypothesis that miR487a-3p and miR6855-3p accelerate AS by intensifying macrophage inflammatory response and metabolic dysregulation. METHODS MiRNA sequencing (miR-seq) and mRNA sequencing (mRNA-seq) were conducted in peripheral monocytes from CAD patients and healthy controls. Macrophages in mouse aortas and human coronary arteries were characterized using flow cytometry and immunostaining. AS development was evaluated in male PCSK9-overexpression mice harboring myeloid cell-specific deficiency of carboxypeptidase E (CPE) or ribonucleotide reductase subunit M2 (RRM2) and challenged with a high-fat diet. RESULTS miR487a-3p and miR6855-3p were the top miRNA candidates identified by miR-seq in peripheral monocytes and validated by qPCR, with significant differences between coronary artery disease (CAD) patients and controls. Both miRNAs were lipid-inducible and secreted extracellularly. Krüppel-like factor 5 and interferon regulatory factor 1 bound to the promoter regions of miR-487a-3p and miR-6855-3p, respectively, to enhance their transcription. Accordingly, CAD patients exhibited significantly elevated plasma miR487a-3p and miR6855-3p levels compared with controls, which positively correlated with blood lipid levels and Gensini score (reflecting CAD severity and prognosis). The area under the receiver operating characteristic curve (≈0.83 for each) supported their diagnostic accuracy. Of note, miR487a-3p and miR6855-3p were predominantly expressed in coronary arterial macrophages. The dramatic expansion of miR-487a-3p⁺ and miR-6855-3p⁺ macrophages and the elevated expression of both miRNAs in coronary arteries were positively associated with lesion area in CAD patients. Mechanistically, transcriptomic analyses and functional assays revealed that elevated miR-487a-3p or miR-6855-3p promoted macrophage pro-inflammatory responses, lipid metabolic dysregulation, and foam cell formation. Conversely, inhibition of either miRNA alleviated ox-LDL-induced macrophage inflammatory responses and lipid metabolic dysfunction. Moreover, conditioned medium from miR487a-3p- or miR6855-3p-overexpressing macrophages promoted endothelial cell apoptosis, whereas this effect was attenuated when endothelial cells were exposed to medium from ox-LDL-treated macrophages with miRNA inhibition. Furthermore, integration of downregulated genes from monocyte and macrophage mRNA-seq with TargetScan-predicted targets identified CPE and RRM2 as targets of miR-487a-3p and miR-6855-3p, respectively. Direct binding was confirmed by dual-luciferase assays and miRNA pulldown. Overexpression of CPE or RRM2 partially reversed the detrimental effects of miR487a-3p and miR6855-3p, respectively, on macrophage phenotypic switching and metabolic dysregulation. Conversely, monocyte/macrophage-specific depletion of CPE or RRM2 aggravated AS progression in hypercholesterolemic mice by instigating macrophage inflammatory responses and lipid metabolic disturbance. CONCLUSIONS miR487a-3p and miR6855-3p fulfil the criteria of promising biomarkers for CAD diagnosis and prognosis. Mechanistically, they intensify inflammatory responses and disrupt lipid metabolism in macrophages, identifying both miRNAs as potential therapeutic targets for CAD. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.15.26353307v2",
+      "date": "2026-05-23",
+      "abstract": "Abstract Extreme weather drives dengue transmission beyond historical spatial and temporal incidence patterns. No operational dengue outbreak threshold has been validated for early warning under extreme weather conditions. Here we show that transmission acceleration provides earlier and more consistent outbreak detection than the endemic-channel threshold. We evaluated detectors across a hyperendemic city, seventeen tropical regions, and eight dengue-endemic countries. Acceleration-based detectors consistently outperformed the endemic channel in burden captured, lead time, warning persistence, and sensitivity. At city scale, transmission acceleration captured 4,257 cases per season versus 1,119. It achieved 100% sensitivity versus 30% while triggering within the four-to-eight-week anticipatory window under 6.9 versus 1.6 weeks lead time. These establish acceleration-based detectors as a robust signal for dengue anticipatory action, making them better suited to a transmission landscape increasingly shaped by extreme weather conditions. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.22.26353844v1",
+      "date": "2026-05-24",
+      "abstract": "ABSTRACT Introduction Calcific aortic stenosis (CAS) is a progressive valvular disease characterized by lipid accumulation, inflammation, and osteogenic remodeling. Emerging evidence implicates gut microbiota-derived metabolites in cardiovascular pathology, yet their contribution to valvular disease remains poorly defined. The aim of this study was to investigate gut microbiota and metabolite signatures in patients with CAS and explore causal relationships using Mendelian randomization (MR). Methods In a prospective cohort of 54 patients with CAS and 41 age, sex, BMI-balanced non-CAS controls, we performed integrated microbiome and metabolomic profiling. Gut microbial composition was assessed by 16S rRNA sequencing, and circulating levels of tryptophan derivatives, short-chain fatty acids, bile acids, and TMA/TMAO-related metabolites were quantified. MR analyses were performed to assess causal contributions of key metabolic and inflammatory markers to CAS. Results Baseline characteristics were comparable between groups. CAS patients exhibited a distinct tryptophan metabolic profile, characterized by higher concentrations of inflammatory kynurenine-pathway metabolites and lower indole-3-sulfate. With consistent effect sizes despite modest statistical significance after multiple testing correction. Pathway-level analyses supported preferential routing of tryptophan toward inflammatory host metabolism. In contrast, global microbiota diversity and overall community structure were preserved. However, CAS was associated with depletion of specific Firmicutes taxa, including Eubacterium coprostanoligenes , a key cholesterol-converting bacterium mediating intestinal cholesterol-to-coprostanol transformation. MR analyses suggested LDL cholesterol and lipoprotein(a) as upstream triggers of CAS, whereas ALPL and tryptophan/kynurenine metabolites appear downstream and might reflect systemic inflammation and local metabolic consumption. Sex-stratified analyses revealed enhanced kynurenine pathway activation in males, whereas females exhibited relatively higher TMAO and indole-related metabolites. Conclusion CAS is characterized by a focused gut–host metabolic reprogramming defined by inflammatory tryptophan catabolism and loss of cholesterol-transforming microbial functions, rather than global dysbiosis. These findings identify a potential gut–valve metabolic axis contributing to valvular calcification, with potential sex-specific effects. What Is Known? Calcific aortic stenosis is a progressive fibro-calcific valvular disease driven by lipid accumulation, chronic inflammation, and osteogenic remodeling of valvular interstitial cells, for which no pharmacological therapy has proven effective. Gut microbiota modulate host cardiovascular homeostasis through bioactive metabolites including TMAO, bile acids, short-chain fatty acids, and tryptophan derivatives, yet their specific contribution to valvular disease remains poorly defined. LDL cholesterol and lipoprotein(a) are established risk factors for CAS, but the downstream immunometabolic consequences of valvular disease — and whether gut-derived pathways contribute causally — remain unknown. What New Information Does This Article Contribute? This study demonstrates that CAS is associated with a targeted gut–host immunometabolic reprogramming — defined by preferential tryptophan routing toward the inflammatory kynurenine pathway and depletion of indole-producing microbiota — rather than global dysbiosis, identifying a disease-specific rather than generic gut disturbance signature. Depletion of Eubacterium coprostanoligenes in statin-naïve CAS patients implicates impaired microbial cholesterol-to-coprostanol transformation as a previously unrecognized gut-mediated mechanism linking intestinal cholesterol retention to valvular lipid accumulation, independent of bile acids and TMAO. Bidirectional Mendelian randomization establishes a causal hierarchy in CAS — positioning LDL and Lp(a) as upstrea",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.01.09.26343662v4",
+      "date": "2026-05-24",
+      "abstract": "ABSTRACT Background Accurate etiologic classification of the mitral valve (MV) is essential for guiding clinical management but remains dependent on expert visual interpretation. Despite advances in artificial intelligence (AI)-based quantitative analysis, automated morphologic interpretation under routine imaging conditions remains limited. Objectives To develop and validate a deep learning (DL) framework for multiclass classification for major MV etiologies using limited routine transthoracic echocardiography (TTE) views. Methods A multi-view DL model was developed to classify five MV etiologies (normal, rheumatic, degenerative, prolapse, and functional). The developmental dataset comprised 4,344 TTE examinations from a nationwide multicenter registry. Validation was performed using an internal test dataset and an independent external test dataset (2,262 TTE examinations). Prespecified subgroup analyses were conducted according to mitral regurgitation (MR) severity and automated image quality (IQ). Results The model demonstrated robust performance across all MV etiologies in both internal and external datasets. In the internal test dataset, area under the receiver operating characteristic curve (AUROC) values ranged from 0.968 to 0.997 across etiologies, with higher performance observed for normal valves and rheumatic disease. In the external test dataset, discriminative performance remained preserved (AUROC, 0.931-0.992), despite differences in disease distribution and MR severity. Sensitivity for MV prolapse increased markedly with moderate or greater MR compared with mild MR, whereas degenerative disease showed persistently lower sensitivity across MR severity. Diagnostic performance remained stable across IQ strata, with comparable accuracy and macro-F1 scores in all-adequate and partially suboptimal examinations. In post-hoc analyses of cases with multiple MV etiologies, the model correctly identified at least one expert-assigned etiology in 85.7% of cases. Conclusions DL-based analysis of limited, routinely acquired TTE views enables reliable multiclass classification of MV etiologies. This approach may complement quantitative automation and expert visual assessment, supporting more consistent and scalable MV evaluation in routine echocardiographic practice. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.21.26353705v1",
+      "date": "2026-05-24",
+      "abstract": "ABSTRACT Background Literature on the role of thermal discomfort (heat- and cold-stress) on in-vitro fertilization (IVF) outcomes are scarce and inconclusive. This multi-center research examines association between heat stress and IVF treatment outcomes in Andhra Pradesh, which is prone to year around chronic heat stress. Methods IVF data were abstracted from clinical chart review of all patients from three IVF centers from 2019 to 2023, which included time-stamped data on each IVF procedure, demographics and pre-existing comorbidities. Weather data were acquired from the National Climatic Data Center (NCDC). IVF outcomes were modelled with respect to time-lagged exposure to ambient temperature stratified by hyper- and hypothermic conditions using Poisson and logistic regressions depending on the scale of IVF outcomes adjusting for confounders. Results A total of 690 unique patients had 1,311 encounters at the three IVF clinics between 2019 and 2023. Oocytes were retrieved 717 times and fertilized by ICSI. Embryo transfers (ET) were conducted 978 times. On average, ET was attempted 1.42 times per patient. Of 978 ET attempts, clinical pregnancy was confirmed for 249(25.46%) by doing an ultrasound. Of the confirmed clinical pregnancies, 136 (45.37%) ended spontaneous abortions/miscarriage (SAM). Heat stress peaked in June, which corresponded with elevated number of SAM. Under hypo- and hyper-thermic conditions a unit increase ambient temperature was associated with an 11% higher and an 8% lower number of oocytes retrieved, respectively. Adjusting for confounders, a 10° F increase in two-day lag heat stress was associated with a 30% higher odds of SAM (odds ratio ~ 1.03; 95% CI = 1.001 to 1.068; p-value < 0.043), and odds of PTB were 3 times higher when three day-lagged heat index (HI) was greater than 35° C (odds ratio 1.13 to 7.99; p < 0.05). Conclusion Our findings warrant strategies to engage IVF patients in mitigating their exposure to thermal discomfort and thermal shock before and during the IVF treatment. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.10.21.25338475v9",
+      "date": "2026-05-23",
+      "abstract": "Abstract Background/Objectives Free-text surgical pathology reports hinder automated cancer registry entry and secondary analytics. This study introduces a clinically governed schema layer for interoperability, testing whether a locally-deployable Large Language Model (LLM) pipeline can deliver robust, registry-grade extraction across institutions. Methods We developed a College of American Pathologists (CAP)-aligned clinical ontology encompassing 10 cancer types, 192 per-organ scalar fields, key biomarkers, and nested structures for lymph nodes and margins. Encoded via Declarative Self-improving Python (DSPy) signatures with grammar-constrained decoding, this model-agnostic pipeline was benchmarked on 893 internal reports against a pathologist-adjudicated gold standard. External validation utilized 242 The Cancer Genome Atlas (TCGA) reports. Hardware feasibility was confirmed on a single 48-gigabyte (GB) Graphics Processing Unit (GPU), ensuring suitability for privacy-preserving, on-premise deployment. Results Using the gpt-oss-20b model, the framework achieved 92.0% macro-mean exact-match accuracy on internal data, demonstrating near-perfect run-to-run reliability. Critical prognostic indicators, including breast estrogen receptor/progesterone receptor (ER/PR) (98.7%) and margin positivity (>93%), maintained high fidelity. On the external TCGA cohort, accuracy was 77.5%, rising to 88.0% after excluding structurally silent fields absent in older narratives. Operationally, the model processed reports in 40-70 seconds, optimally balancing speed and accuracy. Conclusions This schema-first abstraction layer successfully decouples clinical logic from specific Artificial Intelligence (Al) models. By reliably transforming narrative reports into machine-readable structures, it establishes a portable, privacy-preserving foundation for automated cancer surveillance, institutional data reuse, and future multimodal clinical systems. ",
+      "searched_keywords_found_duplicates": [
+        "targeted protein degradation"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.22.26353863v1",
+      "date": "2026-05-24",
+      "abstract": "Abstract Interpretation of rare-disease genomes remains constrained by variant-centric analytical frameworks that insufficiently capture the cumulative impact of multiple variants within a gene. GenePy provides an individual-level, gene-based burden metric that integrates variant consequence, allele frequency, and zygosity into a unified quantitative score, enabling a transition from discrete variant annotation to aggregated gene-level interpretation. In the context of Genomics England, this formulation supports a panel-agnostic, genotype-to-phenotype diagnostic strategy for unresolved monogenic disorders by prioritising genes with elevated mutational burden per individual. Here, we present a fully automated, containerised GenePy workflow deployed through Nextflow and integrated within the Genomics England (GEL) Research Environment via the Lifebit CloudOS platform. This implementation provides scalable, secure, and governance-compliant computation of gene-level burden scores across population-scale cohorts. The workflow harmonises variant annotation, quality control, and chunked data aggregation within modular, reproducible processes designed for high-throughput execution on cloud-native infrastructure. By enabling robust, portable, and auditable gene-level scoring across large rare-disease sequencing datasets, this framework enhances analytical resolution and supports downstream statistical prioritisation, integrative phenotype matching, and hypothesis generation within genotype-to-phenotype diagnostic workflows. ",
+      "searched_keywords_found_duplicates": [
+        "ternary complex"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.25.26354071v1",
+      "date": "2026-05-27",
+      "abstract": "ABSTRACT Objective To systematically evaluate pathway-informed polygenic risk score (PRS) strategies and determine which approaches most effectively leverage biological annotations for risk prediction, using brain amyloid-β (Aβ) positivity as a case study. Methods We systematically benchmarked approaches for integrating pathway information into PRSs construction to predict brain Aβ positivity. Using two cohorts, the Alzheimer’s Disease Neuroimaging Initiative (ADNI, n = 969) and Australian Imaging, Biomarkers and Lifestyle (AIBL, n = 251), we compared Apolipoprotein E ( APOE ) genetic risk score (GRS), clumping and thresholding (C+T) PRS, pathway-guided single nucleotide polymorphism (SNP) selection PRS, and pathway-specific PRSs ensembled via machine learning. Pathways were derived from manually curated literature or from pathway databases via Functional Mapping and Annotation (FUMA). Results In cross-validation on the ADNI cohort, pathway-informed PRS using a narrow-set of pathways to guide SNP selection (PathPRS-SNP Lit without APOE locus) significantly outperformed the standard PRS model (median AUC = 0.742, p = 0.006) and the APOE locus model (median AUC = 0.736, p = 5.1 × 10 -5 ) based on the Mann–Whitney U test, achieving a median AUC of 0.763. This model showed enhanced ability to identify subgroups within the 10% lowest-and highest risk groups compared to the current standard of APOE locus alone (odds ratio = 0.67, 95% CI: 0.56–0.81; and OR = 13.23, 95% CI: 10.23–17.11), highlighting its clinical potential. Using a focused set l iterature-curated pathways outperformed using a broader set of database-derived pathways across configurations. When contrasting strategies for aggregating information across pathways, we observed that using pathways to guide selection of SNPs and then building a single PRS performed comparably to building PRS for each pathway and using machine learning (ML) to aggregate these, though the latter enabled pathway-level interpretability. S imilar trends were observed in the external AIBL validation dataset Interpretation Pathway-informed PRS can meaningfully improve genetic risk enrichment for Aβ positivity beyond APOE and standard C+T approaches, provided pathway definitions are carefully curated. The choice of pathway source has the strongest impact on predictive performance with aggregation strategies or ML model choice having far less impact. Our findings highlight the utility of literature-curated, pathway-informed PRSs for Aβ prediction and offer practical guidance for pathway-informed PRS construction in other polygenic traits. ",
+      "searched_keywords_found_duplicates": [
+        "ternary complex"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2605.25219",
+      "date": "2026-05-24",
+      "abstract": "Condensed Matter > Materials Science arXiv:2605.25219 (cond-mat) [Submitted on 24 May 2026] Title: Exploring Multi-Transition-Metal NASICON Frameworks as High-Performance Cathodes for Sodium-Ion Batteries Authors: Santosh Behara , Achinthya Krishna Bheemaguli , Gopalakrishnan Sai Gautam View a PDF of the paper titled Exploring Multi-Transition-Metal NASICON Frameworks as High-Performance Cathodes for Sodium-Ion Batteries, by Santosh Behara and 2 other authors View PDF Abstract: The search for sustainable, high-performance cathodes has driven a growing interest in sodium superionic conductor (NASICON)-type phosphates for sodium-ion batteries (SIBs). To identify promising NASICONs containing earth-abundant transition metals (TMs) and to systematically examine the role of multiple TMs in influencing the various properties of NASICON cathodes, we employ density functional theory calculations to investigate nine NASICON compositions containing Mn, Cr, and/or Fe, and spanning unary, binary, and ternary combinations. Our calculations reveal that unary systems, in terms of their Na intercalation phase behavior, exhibit well-defined stabilization at intermediate Na contents ($x$ in Na$_x$TM$_2$(PO$_4$)$_3$), while binary and ternary systems display more complex phase behavior, with some systems showing a shift of thermodynamic minima from $x$ = 3 to 2. Intercalation voltages highlight the dominant role of Fe$^{4+}$/Fe$^{3+}$ redox activity in elevating average voltages ($\\sim$4.0 V), while Mn and Cr introduce intermediate-to-low voltage redox activity. Electronic structure data demonstrate non-systematic changes in the band gap, especially in systems containing multiple TMs. Na$^+$ mobility results identify mixed-TM frameworks as favorable, achieving Na$^+$ migration barriers in the 0.3-0.4 eV range. Importantly, we identify Na$_x$MnFe$_{0.5}$Cr$_{0.5}$(PO$_4$)$_3$ to be a promising ternary composition for subsequent experimental validation, offering an optimal intersection of phase stability, voltages, thermodynamic (meta)stability, and Na$^+$ migration barriers. Together, our study provides fundamental insights into the interplay between compositional complexity, thermodynamic stability, electronic structure, and ionic transport in NASICONs, and offers actionable design principles for utilising multi-TM NASICONs as high performance SIB cathodes. Subjects: Materials Science (cond-mat.mtrl-sci) Cite as: arXiv:2605.25219 [cond-mat.mtrl-sci] (or arXiv:2605.25219v1 [cond-mat.mtrl-sci] for this version) https://doi.org/10.48550/arXiv.2605.25219 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Gopalakrishnan Sai Gautam [ view email ] [v1] Sun, 24 May 2026 19:06:08 UTC (5,009 KB) Full-text links: Access Paper: View a PDF of the paper titled Exploring Multi-Transition-Metal NASICON Frameworks as High-Performance Cathodes for Sodium-Ion Batteries, by Santosh Behara and 2 other authors View PDF view license Current browse context: cond-mat.mtrl-sci < prev | next > new | recent | 2026-05 Change to browse by: cond-mat References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate",
+      "searched_keywords_found_duplicates": [
+        "ternary complex"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2605.27162",
+      "date": "2026-05-26",
+      "abstract": "Condensed Matter > Materials Science arXiv:2605.27162 (cond-mat) [Submitted on 26 May 2026] Title: Rapid estimation of synthesizability windows of inorganic materials from first principles Authors: Finja Tadge , Javier Sanz Rodrigo , Andrea Crovetto View a PDF of the paper titled Rapid estimation of synthesizability windows of inorganic materials from first principles, by Finja Tadge and 2 other authors View PDF Abstract: Fast prediction of the synthesizability conditions of materials remains challenging, even assuming synthesis under thermodynamic equilibrium. Approaches solely based on convex stability hulls neglect finite-temperature effects, while phonon-based phase diagram calculations are computationally demanding. Here, we demonstrate high-throughput generation of phase predominance diagrams as a function of temperature and partial pressures of gaseous reactants, helping bridge the gap between computational predictions and experimental synthesis. We employ fitting of elemental phase reference energies to zero-temperature total energies for improved calculation of formation enthalpies, along with machine-learned interatomic potentials for rapid determination of vibrational entropy and heat capacity. The resulting predominance diagrams can be intuitively understood by experimentalists and can be used to translate energies above stability hulls into synthesis conditions. Predominance diagrams are generated for selected oxide, nitride, sulfide, and phosphide systems, as well as for 48 more complex ternary metal phosphosulfide systems. The calculated predominance diagrams generally show good agreement with the experimental synthesis literature, with a drastic reduction in computational cost compared to a conventional approach relying on DFT-based phonon calculations. We identify several compounds predicted to be stable under well-defined thermodynamic windows, even though they appear as metastable in a zero-temperature stability hull picture. The method can be applied to rapidly estimate synthesis conditions for any inorganic material. Subjects: Materials Science (cond-mat.mtrl-sci) Cite as: arXiv:2605.27162 [cond-mat.mtrl-sci] (or arXiv:2605.27162v1 [cond-mat.mtrl-sci] for this version) https://doi.org/10.48550/arXiv.2605.27162 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Finja Tadge [ view email ] [v1] Tue, 26 May 2026 15:21:19 UTC (9,443 KB) Full-text links: Access Paper: View a PDF of the paper titled Rapid estimation of synthesizability windows of inorganic materials from first principles, by Finja Tadge and 2 other authors View PDF TeX Source view license Current browse context: cond-mat.mtrl-sci < prev | next > new | recent | 2026-05 Change to browse by: cond-mat References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) IArxiv recomm",
+      "searched_keywords_found_duplicates": [
+        "ternary complex"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://arxiv.org/",
+      "url": "https://doi.org/10.1007/978-3-032-01570-9_7",
+      "date": "2026-05-30",
+      "abstract": "Abstract The minimal number of inputs in the local function of a non-trivial cellular automaton is two. Such a function can be viewed as as a kind of binary operation. If this operation is associative, it forms, together with the set of states, a semigroup. There are 18 semigroups of order 3 up to equivalence, and they define 18 cellular automata rules with three states. We investigate these rules with respect to solvability and show that all of them are solvable, meaning that the state of a given cell after n iterations can be expressed by an explicit formula. We derive the relevant formulae for all 18 rules using some additional properties possessed by particular semigroups of order 3, such as commutativity and idempotence. This is a preview of subscription content, log in via an institution to check access. Access this chapter Log in via an institution Subscribe and save Springer+ from $39.99 /Month Starting from 10 chapters or articles per month Access and download chapters and articles from more than 300k books and 2,500 journals Cancel anytime View plans Buy Now Chapter USD 29.95 Price excludes VAT (USA) Available as PDF Read on any device Instant download Own it forever Buy Chapter eBook USD 89.00 Price excludes VAT (USA) Available as EPUB and PDF Read on any device Instant download Own it forever Buy eBook Softcover Book USD 119.99 Price excludes VAT (USA) Compact, lightweight edition Dispatched in 3 to 5 business days Free shipping worldwide - see info Buy Softcover Book Tax calculation will be finalised at checkout Purchases are for personal use only Institutional subscriptions Similar content being viewed by others Cellular Automata: From Black-and-White to High Gloss Color Chapter © 2024 Sequentializing Cellular Automata Chapter © 2018 Sequentializing cellular automata Article Open access 01 June 2019 Explore related subjects Discover the latest articles, books and news in related subjects, suggested using machine learning. Algebraic Logic Combinatorics Computability and Recursion Theory Discrete Mathematics Logic gates Formal Languages and Automata Theory Cellular Automata Dynamics and Applications References Distler, A.: Classification and enumeration of finite semigroups. Ph.D. thesis, University of St Andrews (2010) Google Scholar Distler, A., Jefferson, C., Kelsey, T., Kotthoff, L.: The semigroups of order 10. In: Milano, M. (ed.) CP 2012. LNCS, vol. 7514, pp. 883–899. Springer, Heidelberg (2012). https://doi.org/10.1007/978-3-642-33558-7_63 Chapter Google Scholar Fukś, H.: Solvable cellular automata - methods and applications. Springer (2023). https://doi.org/10.1007/978-3-031-38700-5 Article Google Scholar Fukś, H., Midgley-Volpato, J.: An example of a deterministic cellular automaton exhibiting linear-exponential convergence to the steady state. Acta Phys. Pol. B 9 (1), 49–62 (2016). https://doi.org/10.5506/APhysPolBSupp.9 Article Google Scholar Fukś, H., Procyk, R.: Explorations of ternary cellular automata and ternary density classification problems. Acta Physica Polonica Supp. 12 (1), 75–89 (2019). https://doi.org/10.5506/APhysPolBSupp.12.75 Article Google Scholar Hadeler, K.-P., Müller, J.: Cellular Automata: Analysis and Applications. SMM, Springer, Cham (2017). https://doi.org/10.1007/978-3-319-53043-7 Book Google Scholar Vollmar, R.: Algorithmen in Zellularautomaten: eine Einführung. Teubner, Stuttgart (1979) Book Google Scholar Wolfram, S.: Statistical mechanics of cellular automata. Rev. Mod. Phys. 55 , 601–644 (1983). https://doi.org/10.1103/RevModPhys.55.601 Article MathSciNet Google Scholar Wolnik, B., De Baets, B.: Ternary reversible number-conserving cellular automata are trivial. Inf. Sci. 513 , 180–189 (2020). https://doi.org/10.1016/j.ins.2019.10.068 Article MathSciNet Google Scholar Download references Acknowledgments The author acknowledges comments made by anonymous referees. Their thorough and careful reading of the manuscript helped to eliminate numerous typos and to correct the deriva",
+      "searched_keywords_found_duplicates": [
+        "ternary complex"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2605.24695",
+      "date": "2026-05-23",
+      "abstract": "Mathematics > Combinatorics arXiv:2605.24695 (math) [Submitted on 23 May 2026] Title: Explorations of Matroid Complexes Authors: Juliette Bruce , Jacob Bucciarelli , Bailee Zacovic View a PDF of the paper titled Explorations of Matroid Complexes, by Juliette Bruce and 2 other authors View PDF HTML (experimental) Abstract: Motivated by Kontsevich's graph complexes, this paper gives a systematic study of matroid complexes. We construct deletion and contraction bicomplexes on the vector space spanned by matroid classes equipped with ground-set orientations, organizing the several naturally arising variants into a single unified framework. We show that direct sum and restriction-contraction make this space into a connected graded Hopf algebra extending Schmitt's matroid Hopf algebra, and use the resulting dg-algebra structure to prove broad acyclicity results. We compute the total, simple, loopless, regular, binary, and ternary matroid complexes through ground-set size $9$, and the connected quotient of the simple loopless regular complex through ground-set size $15$. These computations detect nontrivial homology and lead to a conjectural description in terms of odd-wheel matroids. Comments: 38 pages, 7 figures, comments welcome Subjects: Combinatorics (math.CO) ; Commutative Algebra (math.AC); Algebraic Geometry (math.AG) Cite as: arXiv:2605.24695 [math.CO] (or arXiv:2605.24695v1 [math.CO] for this version) https://doi.org/10.48550/arXiv.2605.24695 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Juliette Bruce [ view email ] [v1] Sat, 23 May 2026 18:18:04 UTC (74 KB) Full-text links: Access Paper: View a PDF of the paper titled Explorations of Matroid Complexes, by Juliette Bruce and 2 other authors View PDF HTML (experimental) TeX Source view license Current browse context: math.CO < prev | next > new | recent | 2026-05 Change to browse by: math math.AC math.AG References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv's community? Learn more about arXivLabs . Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )",
+      "searched_keywords_found_duplicates": [
+        "ternary complex"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-05-30",
+      "date_window_start": "2026-05-23",
+      "date_window_end": "2026-05-30",
+      "modality": "molecular_glues",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2605.26338",
+      "date": "2026-05-25",
+      "abstract": "Condensed Matter > Soft Condensed Matter arXiv:2605.26338 (cond-mat) [Submitted on 25 May 2026] Title: Phase behavior of solvent-nematogen mixtures Authors: Sullivan Bailey-Darland , Takumi Matsuzawa , Eric R. Dufresne View a PDF of the paper titled Phase behavior of solvent-nematogen mixtures, by Sullivan Bailey-Darland and Takumi Matsuzawa and Eric R. Dufresne View PDF HTML (experimental) Abstract: Liquid mixtures with a nematogen can undergo both fluid phase separation and a transition from an isotropic to a nematic state. These phase transitions can couple and lead to phase behavior distinct from simple liquid mixtures or pure liquid crystals. We measured the phase behavior of mixtures of a nematogen (5CB) with simple liquid solvents (squalane and/or squalene). We observed two distinct kinds of binary phase diagrams: with and without a region of isotropic-isotropic coexistence. Varying the ratio of squalene to squalane, we continuously tuned the phase boundaries of the apparent binary system and revealed a region of three-phase coexistence. A mean-field model combining classical models of liquid mixing and nematic ordering quantitatively describes both binary and ternary phase behavior. This simple model predicts a range of topologically complex ternary phase diagrams and extends naturally to systems with more components. Subjects: Soft Condensed Matter (cond-mat.soft) Cite as: arXiv:2605.26338 [cond-mat.soft] (or arXiv:2605.26338v1 [cond-mat.soft] for this version) https://doi.org/10.48550/arXiv.2605.26338 Focus to learn more arXiv-issued DOI via DataCite Submission history From: Eric R. Dufresne [ view email ] [v1] Mon, 25 May 2026 21:21:01 UTC (1,979 KB) Full-text links: Access Paper: View a PDF of the paper titled Phase behavior of solvent-nematogen mixtures, by Sullivan Bailey-Darland and Takumi Matsuzawa and Eric R. Dufresne View PDF HTML (experimental) TeX Source view license Current browse context: cond-mat.soft < prev | next > new | recent | 2026-05 Change to browse by: cond-mat References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) IArxiv recommender toggle IArxiv Recommender ( What is IArxiv? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv's community? Learn more about arXivLabs . Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )",
+      "searched_keywords_found_duplicates": [
+        "ternary complex"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
