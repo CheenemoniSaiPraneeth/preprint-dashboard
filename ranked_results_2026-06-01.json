@@ -1,0 +1,255 @@
+{
+  "bispecific_antibodies": [
+    {
+      "date_scraped": "2026-06-01",
+      "date_window_start": "2026-05-25",
+      "date_window_end": "2026-06-01",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.27.26354201v1",
+      "date": "2026-05-30",
+      "abstract": "Abstract Purpose: To characterize peripheral immune alterations in treated birdshot uveitis (BU) patients using high-dimensional mass cytometry and multiplex serology. Design: Cohort study. Subjects: 36 BU patients on immunomodulatory treatment (IMT) and 31 healthy controls (HCs). Methods: Detailed ophthalmologic examinations were performed, and peripheral blood and serum samples were collected for immune profiling using mass cytometry and multiplex cytokine analysis. Main Outcome Measures: Imaging-based indicators of ocular inflammation; peripheral immune cell frequencies; serum cytokine levels. Results: Compared to HCs, BU patients showed increased frequencies of Th17, CD146+ T cells, intermediate effector/central memory T cells co-expressing CXCR3 and CCR4, CD56dim NK cells and elevated IL-18 levels. Patients were clinically stratified by an expert ophthalmologist into three disease activity groups: Inactive, Active (comprising combinations of surface retina, deep retina and choroid activity) and Burned-out. Inactive patients harbored more quiescent effector T cells, e.g. Tim-3+ Tc17-Tc22 intermediates and more CD8+ TSCM, potentially representing a resting pool of autoimmune T cells. Active patients exhibited increased in vivo activation of relevant T cells, with stronger HLA-DR, CD38 or PD-1 expression, and highest levels of CD56dim NK cells. Immune profiles were also linked to treatment subgroups: csDMARDs (conventional synthetic disease-modifying antirheumatic drugs) were associated with higher CD56bright NK frequencies, and absence of therapy showed elevated PD-1⁺/SLAMF7⁺ Tc17+1 and PD-1⁺CD57⁺ CD8⁺ TEMRA cells. IL-6R blockade (tocilizumab) resulted in loss of IL-6R⁺ T-cells accompanied by increased SLAMF7⁺ T cells, due to epitope masking. Conclusions: Peripheral CyTOF profiling anchored to thorough clinical stratification revealed disease activity-associated immune signatures and therapy-associated imprints in BU. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-06-01",
+      "date_window_start": "2026-05-25",
+      "date_window_end": "2026-06-01",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.19.26352997v1",
+      "date": "2026-05-26",
+      "abstract": "ABSTRACT PRV-101 is a multivalent formalin-inactivated Coxsackievirus B (CVB) vaccine developed to prevent CVB infections, which are associated with increased risk of islet autoimmunity. While PRV-101 induces robust neutralizing antibody responses, its T-cell immunogenicity is unknown. We analyzed peripheral blood mononuclear cells from 25 healthy adults receiving three high or low PRV-101 doses or placebo in a Phase I randomized, placebo-controlled trial. CVB-reactive CD8⁺ T-cell responses were assessed using HLA Class I multimers, and CD4⁺ and T follicular helper (Tfh) responses were measured by activation-induced marker assays following stimulation with a CVB peptide library. PRV-101 elicited minimal CVB-reactive CD8⁺ T-cell responses but robust CD4⁺ and Tfh responses, peaking at week 12 and persisting through week 32. Responses were observed in both seronegative and seropositive individuals, consistent with effective immune priming and boosting. Tfh frequencies correlated with neutralizing antibody titers. Female participants exhibited higher peak Tfh responses than males. We conclude that PRV-101 elicits a CVB-protective immune profile, dominated by Tfh responses supporting durable humoral immunity and devoid of potentially diabetogenic cytotoxic T-cell responses. This profile invites further investigations in vaccine trials for type 1 diabetes prevention. Article Highlights PRV-101 induces robust neutralizing antibody responses, but its cellular immunogenicity remains undefined. Given the role of CD4⁺ T follicular helper (Tfh) cells in sustaining humoral immunity, we asked whether PRV-101 induces protective T-cell responses. We found that PRV-101 elicited minimal CD8⁺ T-cell responses but robust Tfh responses in both CVB-seronegative and seropositive individuals, which correlated with neutralizing antibody titers. These findings indicate a coordinated humoral and Tfh response deviated away from potentially diabetogenic cytotoxic CD8⁺ T-cell activation, supporting further evaluation of PRV-101 for type 1 diabetes prevention. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-06-01",
+      "date_window_start": "2026-05-25",
+      "date_window_end": "2026-06-01",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.02.13.26346286v2",
+      "date": "2026-05-27",
+      "abstract": "ABSTRACT Somatic mutations and the tumor immune microenvironment (TIME) in breast tumors are important predictors of treatment response and survival, yet data for Hispanic/Latina (H/L) women are limited. Here we analyzed whole exome sequencing data from tumor/normal pairs and RNAseq data from 748 H/L women and 388 non-Hispanic White (NHW) women. Despite very similar somatic mutational and copy number profiles, we found significant differences in TIME ecotypes. TIME ecotypes CE9 and CE10, characterized by increased lymphocyte infiltration and more favorable prognosis, were more common among women with higher Indigenous American (IA) ancestry. A germline APOBEC3A/B copy-number deletion, significantly more common in H/L than NHW women, was associated with APOBEC mutational signatures and with CE10 ecotype. The APOBEC3A/B copy-number deletion was associated with overexpression of transposable elements (TEs) and TEs were strong predictors of CE10 ecotype. This suggests that the APOBEC3A/B and CE10 association may be driven via the disinhibition of these TEs. Overall, these results demonstrate the utility of characterizing previously understudied populations to infer new mechanisms of cancer immune responses. ",
+      "searched_keywords_found_duplicates": [
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-01",
+      "date_window_start": "2026-05-25",
+      "date_window_end": "2026-06-01",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.29.26353426v1",
+      "date": "2026-05-30",
+      "abstract": "Abstract Curative-intent immunochemotherapy fails in ~30% of patients with large B-cell lymphoma (LBCL), yet no validated molecular tool enables early identification of high-risk individuals to guide treatment intensification. Using shallow whole genome sequencing (sWGS) of plasma cell-free DNA from 190 LBCL patients, we developed and validated the ACT score (Aberrations, fragment Composition, Terminal motifs), a composite classifier integrating genomic and fragmentomic features from a single post-cycle-1 sample. ACT-positive patients had worse 2-year outcomes versus ACT-negative patients: time-to-progression 29% vs. 83% (HR 4.4, 95% CI 1.9 − 10.0; P = 1.5 × 10 − 4) and overall survival 47% vs. 93% (HR 8.7, 95% CI 3.0 − 25.4; P = 1.8 × 10−6). ACT score was independently prognostic of the International Prognostic Index, and their combination identified the highest-risk patients. Unlike mutation-based approaches, this assay requires neither tumor tissue, germline control nor a baseline plasma sample. Built on open-source tools and sWGS, the ACT score offers a feasible scalable strategy for early risk stratification in aggressive LBCL. ",
+      "searched_keywords_found_duplicates": [
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-01",
+      "date_window_start": "2026-05-25",
+      "date_window_end": "2026-06-01",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.26.26353896v1",
+      "date": "2026-05-27",
+      "abstract": "ABSTRACT Background The isolation of many HIV broadly neutralizing antibodies (bnAbs) from people living with HIV (PLWH) and rigorous characterization of their ontogeny has promoted the goal of reverse engineering their natural development as a strategy for achieving an effective preventive HIV vaccine. We previously described the developmental process of CH103, a CD4-binding site (CD4bs)-specific monoclonal antibody, and the associated evolution of HIV Envelopes (Envs) within the person (CH505) from whom it was isolated. A series of monomeric gp120 protein subunit immunogens representing the transmitted founder (TF) and Envs that evolved during infection and optimally reacted with lineage members at each step of the CH103 clone maturation path were evaluated in this placebo controlled randomized vaccine trial to test--for the first time in humans--the concept of whether sequential immunization with gp120 monomeric proteins can recapitulate the development of CD4bs B-cell clonal lineages, including CH103. Methods HIV Vaccine Trials Network 115 (HVTN 115) was a randomized placebo-controlled vaccine trial at US clinical research sites. We tested the safety and immunogenicity of CH505TF gp120 + GLA-SE (Part A), and then the ability of sequential CH505 gp120 proteins (corresponding to CH505’s weeks 53 and 78 Envs) + GLA-SE immunizations to induce CD4bs-specific neutralizing antibodies (Part B). We assessed binding and neutralizing antibody responses, antibody dependent cellular cytotoxicity, antibody dependent cellular phagocytosis, T-cell responses and B-cell phenotyping. Results We enrolled 42 participants between October 2017 and May 2018 for Part A, and 65 participants from December 2020 to October 2022 for Part B. Immunization with the CH505 gp120 proteins adjuvanted with GLA-SE was well tolerated and induced CD4bs-specific B cells and Env-specific plasma antibodies. The plasma neutralizing antibody response was limited to primarily tier 1 autologous and heterologous HIV-1 strains. Blood-derived B-cell repertoire analyses identified CD4bs antibodies that preferentially bound to open-occluded trimeric Envs that exist in an intermediate state between prefusion-closed to CD4-bound open confirmations, consistent with tier 1 HIV neutralizing activity. Conclusions Together, these results suggest that the low-affinity CH505TF gp120 monomer elicited CD4bs antibodies in the sera and B-cell repertoires of humans. However, our findings also indicate that gp120 monomers are insufficient to induce detectable bnAb precursors to epitopes on native Env trimers. Nonetheless, our data provide a benchmark for comparison with ongoing clinical trials testing high-affinity CH505 Env trimers for induction of CD4bs bnAb precursors. ",
+      "searched_keywords_found_duplicates": [
+        "bsAb"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-01",
+      "date_window_start": "2026-05-25",
+      "date_window_end": "2026-06-01",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.23.26353951v1",
+      "date": "2026-05-25",
+      "abstract": "Abstract To better illustrate the genetic etiology of Parkinson’s disease (PD), we integrated xQTL weights derived from bulk RNA-seq (n=931), single-nucleus RNA-seq (n=415), and bulk proteomics (n=716) data of dorsolateral prefrontal cortex (DLPFC) with the largest available GWAS summary data of PD. Through integrative Omnibus TWAS and PWAS analyses, we detected risk genes whose genetic effects are mediated through bulk or cell-type-aware gene expression, or bulk protein abundances in DLPFC. We detected 39 significant risk genes by bulk TWAS, 66 by cell-type-aware TWAS across six brain cell types, and 17 by bulk PWAS. Importantly, 57.9% bulk and 62.5% cell-type-aware independent TWAS risk genes are replicated by bulk PWAS. Protein–protein interaction analyses reveal strong connectivity of our detected risk genes with known PD risk genes such as MAPT, SNCA , and LRRC37A . Our detected TWAS and PWAS risk genes are shown enriched in apoptosis signaling and T-cell activation pathways. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-01",
+      "date_window_start": "2026-05-25",
+      "date_window_end": "2026-06-01",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.25.26354038v1",
+      "date": "2026-05-30",
+      "abstract": "Abstract While prostate cancer (PC) is defined as immunologically cold, limiting the efficacy of immune checkpoint inhibitors, therapeutic vaccination targeting tumor-associated antigens represents an attractive strategy to promote disease control in low volume metastatic patients. The UV1 cancer vaccine is based on immunization with tripeptide fragments from human telomerase reverse transcriptase (hTERT) and a phase II clinical trial demonstrated induction of robust T cell response in men with de novo metastatic castration-sensitive prostate cancer (mCSPC). Comparison with long-term survival data of non-metastatic CSPC patients as reference showed that despite metastatic disease at diagnosis, UV1-treated patients who mounted an early vaccine-induced immune response achieved progression-free and overall survival comparable to non-metastatic patients. We examined biological determinants of clinical benefit following UV1 vaccination including tumor transcriptome and T cell receptor (TCR) profiling from circulating and tissue resident T-cells of the 22 men enrolled. Analysis of diagnostic and post-UV1 treatment biopsies revealed that low baseline exhaustion of T cells and higher CD8+ T cell abundance are associated with early immune response to the vaccine and longer survival. Moreover, we identified specific TCR motifs relative to early responders, that can indicate potential benefit from UV1 vaccination. These findings indicate that baseline intratumoral T cell exhaustion state and repertoire shape responsiveness to hTERT vaccination and long-term outcome. Overall, our study underlines how baseline immune profiling may be used as a companion biomarker to predict mCSPC patients most likely to benefit from therapeutic vaccination. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-01",
+      "date_window_start": "2026-05-25",
+      "date_window_end": "2026-06-01",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.05.26352450v2",
+      "date": "2026-05-28",
+      "abstract": "ABSTRACT Background Hypertension and preeclampsia are clinically distinct, yet biologically related conditions characterized by vascular dysfunction and elevated cardiovascular risk. Although genome-wide association studies (GWAS) have identified loci associated with blood pressure traits and preeclampsia, the functional mechanisms linking shared variants to gene regulation and clinical phenotypes remain unclear. Methods We integrated GWAS summary statistics for hypertension, systolic blood pressure (SBP), diastolic blood pressure (DBP), and preeclampsia to identify shared variants (p ≤ 1×10⁻⁴). Cis-expression quantitative trait loci (eQTL) analyses were performed in whole blood using RNA-seq data from 180 African American women. Significant associations (FDR ≤ 0.05) were evaluated for replication across vascular, metabolic, and endocrine tissues in the Genotype-Tissue Expression (GTEx) project. Associations between gene expression and blood pressure traits were also assessed. Results We identified 4,792 shared GWAS variants, of which 4,663 were tested in eQTL analyses, yielding 1,837 significant variant-gene associations across 78 genes. Replication in GTEx confirmed 645 associations involving 24 genes, many showing cross-tissue regulatory effects. Three genes (C4B, HLA-C, and HLA-DQB1) demonstrated convergent evidence across GWAS, gene regulation, and expression-trait analyses. C4B expression was positively associated with hypertension and SBP, while HLA-C showed consistent negative associations with hypertension, SBP, and DBP. HLA-DQB1 expression was specifically associated with DBP, suggesting trait-specific effects. Conclusions These findings highlight immune-related pathways as key mediators linking hypertension and preeclampsia. Integrating genetic, transcriptomic, and phenotypic data provides a framework for identifying functionally relevant loci and advancing mechanistic insights into cardiometabolic and pregnancy-related disorders. Download figure Open in new tab GRAPHICAL ABSTRACT Shared genetic variants across hypertension, blood pressure traits, and preeclampsia converge on immune regulatory genes linking gene regulation to clinical phenotypes. GWAS summary statistics for hypertension, SBP, DBP, and preeclampsia were intersected to identify 4,792 shared variants, of which 4,663 were tested in cis-eQTL analyses in whole blood from 180 African American women ( left ). Shared variants regulate immune-related genes through cis-eQTL effects, yielding 1,837 associations involving 78 genes (FDR ≤ 0.05). Three convergent genes emerged: C4B (upregulated), HLA-C (downregulated), and HLA-DQB1 (upregulated), with 645 associations involving 24 genes replicated across eight tissues in GTEx ( center ). Expression-trait analyses confirmed that C4B expression was positively associated with hypertension and SBP, HLA-C expression was negatively associated with hypertension, SBP, and DBP, and HLA-DQB1 expression was specifically associated with DBP. These genes implicate complement activation, antigen presentation, and adaptive immunity as shared mechanisms contributing to vascular dysfunction in both hypertension and preeclampsia. eQTL indicates expression quantitative trait locus; FDR, false discovery rate; GTEx, Genotype-Tissue Expression project; SBP, systolic blood pressure; DBP, diastolic blood pressure; APC, antigen-presenting cell; TCR, T-cell receptor; MHC, major histocompatibility complex. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-01",
+      "date_window_start": "2026-05-25",
+      "date_window_end": "2026-06-01",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.26.26354114v1",
+      "date": "2026-05-29",
+      "abstract": "Abstract Background: The development of personalised mRNA cancer vaccines holds considerable promise for oncology, yet a significant translational gap persists between neoantigen identification and the selection of therapeutically impactful targets. Current approaches predominantly prioritise human leukocyte antigen (HLA) binding affinity and immunogenicity, often overlooking the systems-level biological context of the target. This can inadvertently favour immunogenic but biologically peripheral peptides that exert limited influence on tumour signalling networks, thereby constraining vaccine efficacy. Furthermore, mRNA therapeutics must satisfy additional design requirements, including favourable codon usage and favourable secondary-structure stability, which directly affect in vivo translation and half-life. A unified computational framework that integrates neoantigen discovery with network biology is therefore critically needed. Results: Here, we present PimRNA, a Priority index (Pi)-centric computational medicine framework that bridges this gap by unifying neoantigen identification, mRNA sequence optimisation, and gene interaction network analysis. First, high-confidence tumour-specific HLA class I and II neoantigenic peptides are identified from paired tumour-normal genomic and tumour transcriptomic data using NeoDisc. Second, the coding sequences of these peptides are optimised for stability and translational efficiency with LinearDesign, yielding a core set of neoantigen-encoding mRNAs. Third, a random walk with restart algorithm is applied to a knowledgebase of gene interactions to identify peripheral genes exhibiting significant network connectivity to core genes, generating a gene-predictor matrix in which each gene is assigned an affinity score reflecting its network proximity to immunogenic neoantigens. These scores are consolidated into a single, unified priority rating (0-5) for each gene, followed by subnetwork analysis that reveals therapeutically relevant gene modules. Application of PimRNA to breast cancer and melanoma datasets demonstrates that it successfully selects high-confidence immunogenic neoantigen candidates embedded within biologically meaningful tumour-specific networks. Conclusion: PimRNA provides a systems biology foundation for mRNA vaccine design, moving beyond isolated immunogenicity to prioritise targets that are both highly presented and central to tumour-relevant biological networks. This framework offers a generalisable strategy for the rational discovery and prioritisation of mRNA therapeutics, significantly advancing the field of computational medicine towards personalised cancer vaccines. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-01",
+      "date_window_start": "2026-05-25",
+      "date_window_end": "2026-06-01",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.25.26354042v1",
+      "date": "2026-05-26",
+      "abstract": "ABSTRACT Background Immune-oncology has revolutionized cancer treatment, but some patients fail to benefit due to primary resistance and tumour-immune evasion. Extracellular vesicles (EVs) are secreted by both tumour and immune cells and mediate communication between cancer cells and the immune system. Our study used proteomic profiling of circulating EVs collected from NSCLC patients treated with immune checkpoint inhibitors (ICI) to identify predictive biomarkers of response as well as immune evasion mechanisms related to treatment resistance. Methods EVs were isolated from plasma collected prior to ICI treatment using peptide-affinity purification and high-throughput proteomics was performed using Proximal Extension Assay. Differentially expressed EV proteins between durable (DR) and non-durable responders (NDR) were identified and evaluated using Cox proportional hazards regression, survival analysis, sex-stratified analysis, as well as pathway and network analysis. Results Proteomics analysis identified 116 differentially expressed EV proteins between DR and NDR. NDR was characterized by enrichment of inflammatory, angiogenic, and immune-suppressive EV proteins, such as IL1RL1, TFRC, IL6ST, galectins, TNF superfamily death receptors, chemokines, and PCSK9. Pathway analysis revealed enrichment of angiogenesis, chemotaxis, ECM remodeling, and neutrophil degranulation associated with poor progression-free survival (PFS). In contrast, DR to ICI treatment was associated with EV proteins related to T- and B-cell activation and adaptive immunity. Sex-related differences in abundance and association with PFS was observed for certain EV proteins, including IL1RL1 and TFRC. A six protein EV model (IL1RL1, TFRC, ERI1, CCN5, IGFBPL1, and TNFRSF13C) demonstrated good prognostic performance for identifying NDR (AUC = 0.907) and stratified patients into three discrete risk groups. Conclusions High-plex EV proteomics revealed biologically coherent tumour-immune signaling programs that are associated with ICI treatment resistance. Profiling circulating EVs may improve our understanding of EV-mediated immune evasion mechanisms and identify protein signatures that reflect the tumour immune microenvironment and predict response to immune checkpoint blockade. What is already known on this topic – Immune checkpoint inhibitors (ICIs) have improved outcomes in NSCLC, but many patients exhibit primary resistance due to tumour–immune evasion. Extracellular vesicles (EVs) mediate tumour–immune communication and are a promising source of circulating biomarkers, though their proteomic role in predicting ICI response remains poorly defined What this study adds – Our findings suggest that EVs provide a minimally invasive, systems-level readout of tumour–immune dynamics and can simultaneously serve as a source of predictive biomarkers and mechanistic insight into treatment resistance. How this study might affect research, practice or policy – This work may inform biomarker-driven patient stratification, guide future therapeutic strategies, and encourage incorporation of EV proteomics and sex-specific analyses in clinical research. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-01",
+      "date_window_start": "2026-05-25",
+      "date_window_end": "2026-06-01",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.22.26353900v1",
+      "date": "2026-05-25",
+      "abstract": "Abstract Stressful life events (SLEs) are associated with increased risk of psychiatric and somatic disease, yet the molecular correlates of stress exposure across time remain incompletely characterised. We conducted a multi-omic analysis in the Finnish Twin Cohort, examining genomic ( n = 8,286), epigenomic ( n = 387), proteomic ( n = 401) and metabolomic ( n = 434) data across three exposure windows: recent (≤6 months), proximal (≤5 years) and lifetime. Genome-wide association analysis identified a single significant locus on chromosome 1 (lead SNP rs10158287, p = 9.7 × 10 −9 ), mapping to DAB1 / C8B , with immune cell-specific eQTL effects in Th1/Th17 CD4 + T cells and cross-trait links to cardiometabolic risk; common variants explained 33.6% of variance in SLE scores; the DAB1 / C8B locus alone accounted for 0.4%, consistent with a highly polygenic architecture. No epigenome-wide significant associations or relationships with epigenetic ageing measures (PCPhenoAge, DunedinPACE, PCGrimAge) were detected. Circulating molecular layers showed temporally structured signatures. Recent SLEs were characterised by coordinated immune-metabolic changes, including five proteins (IL-1β, TIGIT, Nectin-1, Carnosinase-1, Calcyphosin; all decreased) and 16 metabolites predominantly reflecting reduced HDL-related lipids and broader lipid pools, alongside enrichment of the lipoprotein assembly and clearance pathway and lower thyroid and lung proteomic age estimates. Proximal exposure showed no significant single-analyte associations but convergent negative pathway-level signals involving cell-cycle and centrosome-associated processes. Lifetime SLEs were characterised by immune-vascular and tissue-remodelling signatures, including ten proteins (all increased), enrichment of TNF/IL-10 signalling, cellular maintenance and epithelial differentiation pathways, and higher arterial proteomic age. These findings indicate that molecular correlates of stress exposure are temporally contingent rather than uniformly accumulating across the life course, with convergent involvement of adaptive immune regulation alongside metabolic and vascular remodelling. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-01",
+      "date_window_start": "2026-05-25",
+      "date_window_end": "2026-06-01",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.08.26352776v2",
+      "date": "2026-05-29",
+      "abstract": "Abstract Long COVID Postural Orthostatic Tachycardia Syndrome (LCPOTS) is characterized by persistent orthostatic tachycardia and systemic symptoms following SARS-CoV-2 infection. Many features of LCPOTS suggest ongoing immune activation, but the mechanisms driving this response remain unclear. In this study, we show that patients with LCPOTS, compared with individuals who recovered from SARS-CoV-2 without POTS, exhibit increased monocyte mitochondrial content and superoxide production, along with downregulation of NRF2-dependent antioxidant enzymes. This is accompanied by a marked increase in the formation of isolevuglandins (IsoLGs) in monocytes, which modify self-proteins and act as neoantigens capable of activating T cells. Consistent with this, LCPOTS patients exhibit a 3-fold increase in circulating T cell-monocyte doublets with immunological synapse formation. T cells in these complexes display a proinflammatory effector-memory and TEMRA phenotype, producing IFN-γ and IL-17A, which correlated with symptom severity. Circulating cytokines, including IL-17A, IFN-γ, and TNF-α, are elevated in patients with LCPOTS by 1.5 to 3-fold. This immune response likely drives systemic inflammation and impaired cardiovagal regulation, hallmarks of LCPOTS. Our findings suggest that monocyte oxidative stress and IsoLG neoantigen formation sustain T cell activation, linking immune dysregulation to cardiovagal dysfunction. Targeting these pathways may offer novel therapeutic opportunities. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-01",
+      "date_window_start": "2026-05-25",
+      "date_window_end": "2026-06-01",
+      "modality": "bispecific_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2605.30287",
+      "date": "2026-05-28",
+      "abstract": "Statistics > Methodology arXiv:2605.30287 (stat) [Submitted on 28 May 2026] Title: MoSAIC: Multi-Resolution Spatial Regression Analysis of Cellular Colocalizations in Cancer Imaging Authors: Jessica Aldous , Michele Peruzzi , Maria Masotti , Aaron Udager , Allison May , Evan Keller , Veerabhadran Baladandayuthapani View a PDF of the paper titled MoSAIC: Multi-Resolution Spatial Regression Analysis of Cellular Colocalizations in Cancer Imaging, by Jessica Aldous and 6 other authors View PDF HTML (experimental) Abstract: Hierarchical multiplex imaging approaches generate spatially resolved single-cell measurements across multiple, spatially organized fields of view (FOVs) within patient tumor specimens, thereby enabling systematic investigation of how the organization of the tumor microenvironment varies along biologically meaningful intratumoral gradients. Existing approaches fail to jointly address this multi-resolution data structure needed to recover true biological signals. We propose MoSAIC: multi-resolution spatial regression analysis of cell colocalizations, a hierarchical Bayesian spatial regression model designed for multi-resolution spatial data. MoSAIC decomposes the joint variation into three model components: (i) global tumor-gradient effects, (ii) patient-specific effects to capture inter-patient variability, and (iii) Gaussian process models to account for spatial dependence between FOVs within each patient tumor tissue. Simulations demonstrate MoSAIC has improved prediction and model fit compared to existing spatial and non-spatial model alternatives. Our method is motivated by and applied to a renal cell carcinoma multiplex imaging cohort to investigate immune-tumor colocalization patterns across the epithelial-to-mesenchymal transition (EMT) gradient. MoSAIC identifies increased macrophage-tumor colocalization and decreased cytotoxic T-tumor colocalization progressing across the increasing EMT gradient, consistent with EMT-associated immune suppression and spatially varying immune engagement. Overall, MoSAIC provides an interpretable, multi-resolution framework for quantifying spatial tumor-gradient effects in cancer imaging studies. Software is available on GitHub at jcaldous/MoSAIC. Comments: 45 pages (30 before supplement), 6 figures, submitted to ISBA and JSM Subjects: Methodology (stat.ME) Cite as: arXiv:2605.30287 [stat.ME] (or arXiv:2605.30287v1 [stat.ME] for this version) https://doi.org/10.48550/arXiv.2605.30287 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Jessica Aldous [ view email ] [v1] Thu, 28 May 2026 17:40:35 UTC (5,056 KB) Full-text links: Access Paper: View a PDF of the paper titled MoSAIC: Multi-Resolution Spatial Regression Analysis of Cellular Colocalizations in Cancer Imaging, by Jessica Aldous and 6 other authors View PDF HTML (experimental) TeX Source view license Current browse context: stat.ME < prev | next > new | recent | 2026-05 Change to browse by: stat References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Sp",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
