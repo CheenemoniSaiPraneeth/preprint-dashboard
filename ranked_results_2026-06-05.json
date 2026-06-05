@@ -1,0 +1,281 @@
+{
+  "bispecific_antibodies": [
+    {
+      "date_scraped": "2026-06-05",
+      "date_window_start": "2026-05-29",
+      "date_window_end": "2026-06-05",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.29.26354408v1",
+      "date": "2026-06-01",
+      "abstract": "ABSTRACT Background Rabies is a zoonotic neglected public health problem associated with animal bites, especially domestic carnivores claiming 59,000 deaths annually predominantly in developing countries of Africa and Asia. There is a high risk of exposure among rural communities endemic with animal rabies where adoption of prevention strategies is minimal. This study determined the prevalence of suspected rabies exposure, associated factors, and delayed post-exposure care-seeking among animal-bite human cases in Busia district, Uganda. Methods This was a cross-sectional study that involved 332 consecutively sampled animal bite human cases that occurred within the period 2023 to 2024. Data for the bite cases from records were collected using a data abstraction tool. In addition, interviewer-administered semi-structured questionnaires were used to collect data on sociodemographic, animal-related and environmental characteristics. Approximate bite locations were collected using Global Positioning System (GPS) coordinates via Kobo collect. Analysis was carried out in STATA 17 using mixed effects modified Poisson regression for factors associated with suspected rabies exposure. Results The median age of the bite cases was 18 (IQR: 9-36) with the male gender predominantly affected. The prevalence of suspected rabies exposure was 53.6% (95% Confidence interval - CI: 46.8-60.3). Factors associated were urban versus (vs) rural residence (adjusted prevalence ratio-aPR: 1.04, 95%CI: 1.00-1.08), being bitten by a stray animal (aPR: 1.28, 95% CI: 1.22-1.35) and wild animal (aPR: 1.22, 95% CI: 1.14-1.30) vs domestic animal, vaccination status of the biting animal i.e. vaccinated vs unvaccinated (aPR: 0.76, 95% CI: 0.69-0.85), provoked vs unprovoked bites (aPR: 0.82, 95% CI: 0.79-0.86), and distance to nearest river (≥5km) vs <5km (aPR: 0.93, 95% CI: 0.87-0.99). The prevalence of delayed post-exposure seeking was 23.0% (95% CI: 16.5-31.1) among the suspected rabies exposures. Conclusion The study reveals a high prevalence of suspected rabies exposure. Factors associated are multidimensional i.e. are of human, animal and environmental origin. The one health paradigm should be emphasized during routine surveillance of rabies-related cases. The study observed that 1 in 5 bite cases delayed to seek care post bite exposure. We recommend collaborations between sectors, routine vaccination and awareness campaigns, and monitoring of wild carnivore populations and environmental dynamics in rabies-related surveillance. Author Summary Rabies continues to be a neglected public health problem in sub-Saharan Africa. Vaccination and treatment following an animal bite is important to prevent clinical disease. Such treatment is costly in developing countries necessitating the use of risk assessment to identify potential suspected cases. We investigated the occurrence of suspected rabies exposures, associated factors and delayed care seeking around bite incidents in a district in Uganda with the highest animal rabies reports. Our study revealed that more than half of the bite cases were suspected to be exposed. Factors associated were of human, animal and environmental related origin. These were urban residence, stray and wild animal bites, provocation status of the bite, type of animal and distance to the nearest river. At least 1 in 5 individuals with suspected rabies exposures delayed to seek for care following the bite incident. Our findings highlight the need for collaboration between stakeholders in the human, animal and environmental sectors to contribute to the eradication of rabies and related instances by 2030. ",
+      "searched_keywords_found_duplicates": [
+        "BiTE"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 15,
+      "secondary_keyword_hits": 0,
+      "score": 15
+    },
+    {
+      "date_scraped": "2026-06-05",
+      "date_window_start": "2026-05-29",
+      "date_window_end": "2026-06-05",
+      "modality": "bispecific_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2606.02021",
+      "date": "2026-06-01",
+      "abstract": "Computer Science > Computer Vision and Pattern Recognition arXiv:2606.02021 (cs) [Submitted on 1 Jun 2026] Title: PerBite: A Curated Diagnostic Workflow for Bite-Aware Food Volume Estimation Authors: Ahmad AlMughrabi , Farid Al-Areqi , David Fernández Gómez , Umair Haroon , Marc Bolaños , Ricardo Marques , Petia Radeva View a PDF of the paper titled PerBite: A Curated Diagnostic Workflow for Bite-Aware Food Volume Estimation, by Ahmad AlMughrabi and 6 other authors View PDF HTML (experimental) Abstract: Can a visually plausible food mesh be trusted to estimate the volume of consumed food? \\method investigates this question using selected paired before- and after-consumption states from the MetaFood CVPR 2026 Continuous 3D Reconstruction While Eating Challenge. The submitted workflow follows a curated reconstruction protocol: SAM~3 segments the food and plate regions; Hunyuan3D/SAM~3D generates a dimensionless food mesh; the plate diameter provides the metric scale; the plate geometry is removed in Blender; and the remaining mesh is hole-filled, made watertight, and integrated to estimate volume. MoGe-2 is used only as an auxiliary cue for initial dish-diameter estimation when direct plate measurement is uncertain; it is not the primary scale source for the reported challenge result. \\method ranks first, with an average Chamfer distance of 8.31 across 34 meshes using rigid ICP without scale correction. On 17 before- and after-pairs, it achieves 33.87\\% state-level volume MAPE and zero monotonicity violations, while consumed-volume MAPE remains 53.74\\%. The results show that surface reconstruction, metric scale, controlled mesh cleanup, watertight volume integration, and physical depletion consistency should be evaluated separately for dietary assessment. Source code and evaluation scripts will be available at \\href{ this https URL }{ this http URL }. Subjects: Computer Vision and Pattern Recognition (cs.CV) Cite as: arXiv:2606.02021 [cs.CV] (or arXiv:2606.02021v1 [cs.CV] for this version) https://doi.org/10.48550/arXiv.2606.02021 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Ahmad AlMughrabi [ view email ] [v1] Mon, 1 Jun 2026 10:11:15 UTC (5,144 KB) Full-text links: Access Paper: View a PDF of the paper titled PerBite: A Curated Diagnostic Workflow for Bite-Aware Food Volume Estimation, by Ahmad AlMughrabi and 6 other authors View PDF HTML (experimental) TeX Source view license Current browse context: cs.CV < prev | next > new | recent | 2026-06 Change to browse by: cs References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our websi",
+      "searched_keywords_found_duplicates": [
+        "BiTE"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 6,
+      "secondary_keyword_hits": 0,
+      "score": 6
+    },
+    {
+      "date_scraped": "2026-06-05",
+      "date_window_start": "2026-05-29",
+      "date_window_end": "2026-06-05",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.02.26354717v1",
+      "date": "2026-06-03",
+      "abstract": "Abstract Background Classical pharmacokinetic-pharmacodynamic (PK/PD) theory models exposure-effect in two dimensions: magnitude and time. Rate-dependent toxicity has been documented across therapeutic domains but never formalised as a conserved biological constraint. Methods We developed the Human Adaptive Rate Limit (HARL) framework, formalising the maximum tolerable velocity as |dS/dt|_max = sigma_max / tau. We validated HARL across five domains using published trial data and a reanalysis of the longitudinal biomarker data from the 202-patient CAR-T cohort of Wei et al (2023). An 8-ODE quantitative systems pharmacology model guided biomarker selection. Early biomarker velocities (maximum positive slope within days 0-5) were computed for ferritin and D-dimer. Patients were classified as high-risk only if both velocities exceeded their thresholds (dual-velocity classifier). Thresholds were identified by grid-search optimisation of the Youden index and assessed by leave-one-out cross-validation. Findings A prospective crossover study (Kleinbloesem 1987, n=8) demonstrated that matched steady-state nifedipine concentrations produce divergent haemodynamic responses depending solely on rate of rise, anticipating the dose-related mortality signal subsequently reported across ~8350 patients with coronary heart disease (Furberg 1995), a meta-analysis that was itself debated. Convergent evidence spans haematology (CHOIR, 1432 patients, hazard ratio [HR] 1.34 [1.03-1.74] for aggressive Hb correction), radiation (dose-rate effectiveness factor [DDREF] 1.5-2.0), and infusion pharmacology. In the CAR-T cohort, high-risk classification (ferritin >232 ng/mL per day AND D-dimer >1.21 mg/L per day) predicted severe CRS with 100% sensitivity (~78% specificity) in safety rule-out mode and 91.1% sensitivity (93.6% specificity, AUC 0.95 [95% CI 0.91-0.98]) in Youden-optimised mode. Median kinetic lead time was 4 days (range 3-7) before clinical decompensation. Interpretation Biological tolerability is three-dimensional. HARL unifies rate-dependent toxicity across domains spanning minutes to weeks. MTDyn--specifying target level and allowable rate of change--should supplement conventional dose-response assessment. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager",
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-06-05",
+      "date_window_start": "2026-05-29",
+      "date_window_end": "2026-06-05",
+      "modality": "bispecific_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2606.03763",
+      "date": "2026-06-02",
+      "abstract": "Economics > General Economics arXiv:2606.03763 (econ) [Submitted on 2 Jun 2026] Title: Merit or networks? What decides where research is published Authors: Ning Li View a PDF of the paper titled Merit or networks? What decides where research is published, by Ning Li View PDF Abstract: Does scientific publishing reward the quality of ideas or the advantage of connections? The question is universal to prestige-driven science, yet it has resisted decades of study because a paper's quality could not be gauged ahead of its publication fate without using that fate as the yardstick. We break this constraint by measuring a paper's idea quality directly from its text, before publication, using a discipline-trained LLM evaluator that scores the idea without seeing author names or outcomes. Using economics as a case study, we combine this text-legible idea-quality score with an execution-quality rubric, a connection index, an author-ability index, and an off-the-shelf language-model text score to estimate a five-input production function for journal placement across 6,208 economics working papers. The inputs are not rivals but a sequence along the ladder of prestige. Execution sets a meritocratic floor and is the largest input overall. Text-legible idea quality grades the rungs in between. Connections set a favoritism ceiling that bites mainly near the apex, the most selective journals. Connections work through two additive channels: connected authors write papers that score higher, and at equal scores their papers are still more likely to place better. Yet this advantage is bounded. Connections raise the odds of every rung without making the apex the typical outcome for ordinary ideas, and even the highest-scoring papers face real friction reaching the visible journal ladder. The result nests, rather than chooses between, the meritocracy and network accounts of how science is published. Subjects: General Economics (econ.GN) ; Artificial Intelligence (cs.AI) Cite as: arXiv:2606.03763 [econ.GN] (or arXiv:2606.03763v1 [econ.GN] for this version) https://doi.org/10.48550/arXiv.2606.03763 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Ning Li [ view email ] [v1] Tue, 2 Jun 2026 15:18:03 UTC (858 KB) Full-text links: Access Paper: View a PDF of the paper titled Merit or networks? What decides where research is published, by Ning Li View PDF view license Current browse context: econ.GN < prev | next > new | recent | 2026-06 Change to browse by: cs cs.AI econ q-fin q-fin.EC References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both indiv",
+      "searched_keywords_found_duplicates": [
+        "BiTE"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-06-05",
+      "date_window_start": "2026-05-29",
+      "date_window_end": "2026-06-05",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.02.26354763v1",
+      "date": "2026-06-04",
+      "abstract": "Abstract Acute respiratory distress syndrome (ARDS) is a devastating complication of respiratory infections; however, the biological mechanisms that initiate its onset are poorly defined. Here we show that TNFRSF13B polymorphisms increase the risk of ARDS following SARS-CoV-2 infection up to 7.4-fold compared to the WT genotype. The increased risk was not due to immune-deficiency or impaired virus neutralization. On the contrary, TNFRSF13B mutant subjects mounted better antibody neutralization compared to subjects with WT TNFRSF13B. However, IgG from subjects expressing TNFRSF13B variants had less sialic acid, terminal galactose, and fucose than IgG from subjects with a WT genotype. Moreover, IgG from TNFRSF13B mutant subjects exhibited increased recruitment of complement factors. Thus, besides well-known actions governing plasma cell differentiation, TNFRSF13B impacts both affinity maturation and effector functions of IgG in ways that independently govern complement activation controlling inflammatory responses known to trigger ARDS. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-06-05",
+      "date_window_start": "2026-05-29",
+      "date_window_end": "2026-06-05",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.27.26354201v1",
+      "date": "2026-05-30",
+      "abstract": "Abstract Purpose To characterize peripheral immune alterations in treated birdshot uveitis (BU) patients using high-dimensional mass cytometry and multiplex serology. Design Cohort study. Subjects 36 BU patients on immunomodulatory treatment (IMT) and 31 healthy controls (HCs). Methods Detailed ophthalmologic examinations were performed, and peripheral blood and serum samples were collected for immune profiling using mass cytometry and multiplex cytokine analysis. Main Outcome Measures Imaging-based indicators of ocular inflammation; peripheral immune cell frequencies; serum cytokine levels. Results Compared to HCs, BU patients showed increased frequencies of Th17, CD146 + T cells, intermediate effector/central memory T cells co-expressing CXCR3 and CCR4, CD56 dim NK cells and elevated IL-18 levels. Patients were clinically stratified by an expert ophthalmologist into three disease activity groups: Inactive, Active (comprising combinations of surface retina, deep retina and choroid activity) and Burned-out. Inactive patients harbored more quiescent effector T cells, e.g. Tim-3 + Tc17-Tc22 intermediates and more CD8 + T SCM , potentially representing a resting pool of autoimmune T cells. Active patients exhibited increased in vivo activation of relevant T cells, with stronger HLA-DR, CD38 or PD-1 expression, and highest levels of CD56 dim NK cells. Immune profiles were also linked to treatment subgroups: csDMARDs (conventional synthetic disease-modifying antirheumatic drugs) were associated with higher CD56 bright NK frequencies, and absence of therapy showed elevated PD-1⁺/SLAMF7⁺ Tc17+1 and PD- 1⁺CD57⁺ CD8⁺ T EMRA cells. IL-6R blockade (tocilizumab) resulted in loss of IL-6R⁺ T-cells accompanied by increased SLAMF7⁺ T cells, due to epitope masking. Conclusions Peripheral CyTOF profiling anchored to thorough clinical stratification revealed disease activity-associated immune signatures and therapy-associated imprints in BU. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-06-05",
+      "date_window_start": "2026-05-29",
+      "date_window_end": "2026-06-05",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.29.26353426v1",
+      "date": "2026-05-30",
+      "abstract": "Summary Curative-intent immunochemotherapy fails in ∼30% of patients with large B-cell lymphoma (LBCL), yet no validated molecular tool enables early identification of high-risk individuals to guide treatment intensification. Using shallow whole genome sequencing (sWGS) of plasma cell-free DNA from 190 LBCL patients, we developed and validated the ACT score (Aberrations, fragment Composition, Terminal motifs), a composite classifier integrating genomic and fragmentomic features from a single post-cycle-1 sample. ACT-positive patients had worse 2-year outcomes versus ACT-negative patients: time-to-progression 29% vs. 83% (HR 4.4, 95% CI 1.9–10.0; P = 1.5 × 10 - 4 ) and overall survival 47% vs. 93% (HR 8.7, 95% CI 3.0–25.4; P = 1.8 × 10 - 6 ). ACT score was independently prognostic of the International Prognostic Index, and their combination identified the highest-risk patients. Unlike mutation-based approaches, this assay requires neither tumor tissue, germline control nor a baseline plasma sample. Built on open-source tools and sWGS, the ACT score offers a feasible scalable strategy for early risk stratification in aggressive LBCL. Highlights Early identification of DLBCL patients likely to fail first-line treatment remains challenging ACT score (Aberrations, Composition of fragments, Terminal motif analyses) integrates cell-free DNA genomic and fragmentomic features from a single plasma sample at cycle 2 day 1 Tumor-naive, open-source, WGS approach without needing tissue or germline control ACT score in combination with International Prognostic Index enables early risk stratification ",
+      "searched_keywords_found_duplicates": [
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-05",
+      "date_window_start": "2026-05-29",
+      "date_window_end": "2026-06-05",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.28.26354356v1",
+      "date": "2026-06-01",
+      "abstract": "Abstract Background Sexual and gender minorities (SGM), including men who have sex with men (MSM) and transgender women, often face stigma, legal constraints, and limited access to sexual and reproductive health services. These conditions restrict prevention and care, increasing vulnerability to HIV and human papillomavirus (HPV) infections. While strong HIV–HPV interaction is documented in high-income settings, evidence from low- and middle-income countries remains limited. This study examines the burden, co-infection dynamics, and progression of HPV infection and anal dysplasia among MSM and transgender women in Pakistan. Methods A cross-sectional study was conducted between 15/09/2015 and 25/10/2016 among MSM and transgender women recruited from sexual health and antiretroviral therapy centers in Karachi. Eligible participants were aged ≥18 years and self-reported anal sex within the past 6 months (N=298). Two anal specimens were collected for HPV DNA detection and genotyping using PCR, and anal squamous intraepithelial lesions (ASIL) were assessed cytologically using the Bethesda classification. Associations were estimated using Cox proportional hazards regression algorithms to derive prevalence ratios (PRs). Results Among participants, 44% (n=133) were living with HIV. Overall HPV prevalence was 65.1%, rising to 87% among HIV-positive individuals compared to 48% among those without HIV (χ²p≤0.001). Likewise 28.9% of participants living with HIV were infected with two or more than two types of HPV as compared with 18.8% participants without HIV (χ²p≤0.001). HIV infection was strongly associated with HPV acquisition (adjusted PR 2.81, 95% CI 2.16–3.82). Among HPV-positive participants (n=194), 58.8% were co-infected with HIV. High-risk HPV was highly prevalent among those living with HIV (83.2% vs. 35.3% (χ²p≤0.001)), with HPV16 as the dominant oncogenic type. Multiple HPV infections were more common among HIV-positive individuals (χ²p≤0.001), and HIV seropositivity was 3.43 (95% CI: 2.55–3.51) times higher among those with high-risk HPV. Co-infected participants demonstrated prolonged smoking, longer duration of sex work, high-intensity sex work with limited condom negotiation, and higher prevalence of anal warts (all p<0.05). Anal dysplasia (ASIL) was present in 35% of participants and was higher among HIV-positive individuals (42.4% vs. 28.1%, p<0.001). HIV–HPV co-infection was independently associated with ASIL (adjusted PR 1.75, 95% CI 1.07–2.88), while high-risk HPV further amplified this risk (PR 3.04, 95% CI 1.75–5.26). Conclusion These findings demonstrate a biological continuum in HIV-positive MSM and transgender women, where HIV increases HPV acquisition, persistence, and multiplicity, accelerating progression to anal dysplasia. This reflects a syndemic shaped by biological interaction and structural vulnerability. Integrating HPV screening and vaccination within HIV services is essential to interrupt progression to cancer in this high-risk population. What this study adds This study provides context-specific evidence from Pakistan, a country experiencing a rapidly expanding HIV epidemic with low diagnosis and treatment coverage. It demonstrates a higher burden of high-risk and multiple HPV infections among individuals living with HIV and shows that HIV seropositivity was more than threefold higher among participants with high-risk HPV infection. These findings highlight a biological continuum linking HIV infection, HPV multiplicity, and anal dysplasia, and underscore the urgent need for integrated HIV–HPV prevention strategies in high-risk populations. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-05",
+      "date_window_start": "2026-05-29",
+      "date_window_end": "2026-06-05",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.25.26354038v1",
+      "date": "2026-05-30",
+      "abstract": "Abstract While prostate cancer (PC) is defined as immunologically cold, limiting the efficacy of immune checkpoint inhibitors, therapeutic vaccination targeting tumor-associated antigens represents an attractive strategy to promote disease control in low volume metastatic patients. The UV1 cancer vaccine is based on immunization with tripeptide fragments from human telomerase reverse transcriptase (hTERT) and a phase II clinical trial demonstrated induction of robust T cell response in men with de novo metastatic castration-sensitive prostate cancer (mCSPC). Comparison with long-term survival data of non-metastatic CSPC patients as reference showed that despite metastatic disease at diagnosis, UV1-treated patients who mounted an early vaccine-induced immune response achieved progression-free and overall survival comparable to non-metastatic patients. We examined biological determinants of clinical benefit following UV1 vaccination including tumor transcriptome and T cell receptor (TCR) profiling from circulating and tissue resident T-cells of the 22 men enrolled. Analysis of diagnostic and post-UV1 treatment biopsies revealed that low baseline exhaustion of T cells and higher CD8 + T cell abundance are associated with early immune response to the vaccine and longer survival. Moreover, we identified specific TCR motifs relative to early responders, that can indicate potential benefit from UV1 vaccination. These findings indicate that baseline intratumoral T cell exhaustion state and repertoire shape responsiveness to hTERT vaccination and long-term outcome. Overall, our study underlines how baseline immune profiling may be used as a companion biomarker to predict mCSPC patients most likely to benefit from therapeutic vaccination. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-05",
+      "date_window_start": "2026-05-29",
+      "date_window_end": "2026-06-05",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.22.26353552v1",
+      "date": "2026-06-01",
+      "abstract": "Abstract Objective Astrocyte activation is increasingly recognized as an important component of multiple sclerosis (MS) pathology. Natalizumab (NTZ), a highly effective therapy for relapsing-remitting MS (RRMS), primarily blocks leukocyte trafficking into the central nervous system. However, its effects on astrocytic metabolism remain unclear. We investigated astrocyte-associated metabolic changes after NTZ treatment using quantitative 1- 11 C-acetate positron emission tomography (PET). Methods Seven patients with RRMS underwent quantitative 1- 11 C-acetate PET before and after NTZ treatment. PET-derived k2, an index of oxidative acetate metabolism, was analyzed voxel-wise and within GM and white-matter volumes of interest. Clinical status and brain magnetic resonance imaging (MRI) findings were assessed, and cognitive performance was evaluated using Rao’s Brief Repeatable Battery of Neuropsychological Tests. Results After NTZ treatment, k2 decreased in all patients compared with pretreatment levels. Both gray and white matter showed significant reductions, and voxel-based analysis demonstrated widespread decreases across cortical and subcortical regions of the cerebrum and cerebellum, with no regions showing significant posttreatment increases. MRI showed no worsening; Expanded Disability Status Scale scores were stable or improved, and cognitive performance was generally stable, with improvements in selected subtests. Interpretation Quantitative 1- 11 C-acetate PET demonstrated a whole-brain reduction in astrocyte-associated metabolism after NTZ treatment in RRMS, most prominently in gray matter. NTZ may modulate astrocyte activity, in addition to its established effects on peripheral immune cell trafficking. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-05",
+      "date_window_start": "2026-05-29",
+      "date_window_end": "2026-06-05",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.26.26354114v1",
+      "date": "2026-05-29",
+      "abstract": "Abstract Background The development of personalised mRNA cancer vaccines holds considerable promise for oncology, yet a significant translational gap persists between neoantigen identification and the selection of therapeutically impactful targets. Current approaches predominantly prioritise human leukocyte antigen (HLA) binding affinity and immunogenicity, often overlooking the systems-level biological context of the target. This can inadvertently favour immunogenic but biologically peripheral peptides that exert limited influence on tumour signalling networks, thereby constraining vaccine efficacy. Furthermore, mRNA therapeutics must satisfy additional design requirements, including favourable codon usage and favourable secondary-structure stability, which directly affect in vivo translation and half-life. A unified computational framework that integrates neoantigen discovery with network biology is therefore critically needed. Results Here, we present PimRNA, a Priority index (Pi)-centric computational medicine framework that bridges this gap by unifying neoantigen identification, mRNA sequence optimisation, and gene interaction network analysis. First, high-confidence tumour-specific HLA class I and II neoantigenic peptides are identified from paired tumour-normal genomic and tumour transcriptomic data using NeoDisc. Second, the coding sequences of these peptides are optimised for stability and translational efficiency with LinearDesign, yielding a core set of neoantigen-encoding mRNAs. Third, a random walk with restart algorithm is applied to a knowledgebase of gene interactions to identify peripheral genes exhibiting significant network connectivity to core genes, generating a gene-predictor matrix in which each gene is assigned an affinity score reflecting its network proximity to immunogenic neoantigens. These scores are consolidated into a single, unified priority rating (0-5) for each gene, followed by subnetwork analysis that reveals therapeutically relevant gene modules. Application of PimRNA to breast cancer and melanoma datasets demonstrates that it successfully selects high-confidence immunogenic neoantigen candidates embedded within biologically meaningful tumour-specific networks. Conclusion PimRNA provides a systems biology foundation for mRNA vaccine design, moving beyond isolated immunogenicity to prioritise targets that are both highly presented and central to tumour-relevant biological networks. This framework offers a generalisable strategy for the rational discovery and prioritisation of mRNA therapeutics, significantly advancing the field of computational medicine towards personalised cancer vaccines. Key Points PimRNA integrates neoantigen discovery, mRNA sequence optimisation, and gene interaction network analysis into a single computational medicine framework. A random walk with restart algorithm identifies peripheral genes with strong network connectivity to core genes defined by optimised neoantigen-encoding mRNAs, and Fisher’s combined meta-analysis consolidates network-based affinity scores into a unified priority rating (0–5) for each gene, enabling rational target prioritisation. Application to breast cancer and melanoma demonstrates that PimRNA selects immunogenic neoantigens that are also central to tumour-relevant signalling networks, moving beyond isolated binding predictions. The framework provides a generalisable, systems biology-driven strategy for the design and prioritisation of mRNA cancer vaccines. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-05",
+      "date_window_start": "2026-05-29",
+      "date_window_end": "2026-06-05",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.22.26353817v1",
+      "date": "2026-06-01",
+      "abstract": "Abstract Antibody-dependent enhancement (ADE) is a major concern across orthoflavivirus infections, yet how multiple viral exposures shape enhancement risk remains incompletely understood. Here, we integrated serosurveillance from Saúde, Brazil with functional immunologic analyses to define how yellow fever virus (YFV)-associated orthoflavivirus immune histories influence ADE phenotypes. Using serocomplex-specific anti-premembrane antibody profiling validated by microneutralization assays, plasma samples were stratified into YFV-only, YFV+DENV, and YFV+DENV+ZIKV exposure groups. In Fcγ receptor-bearing U937 cells, YFV-only plasma demonstrated minimal enhancement activity, whereas cumulative orthoflavivirus exposure generated broader ADE phenotypes across heterologous viruses. In IFNAR1 −/− passive-transfer models, YFV-only plasma did not enhance ZIKV or DENV2 infection in vivo. In contrast, YFV+DENV plasma increased ZIKV viremia and accelerated mortality kinetics, while YFV+DENV+ZIKV plasma demonstrated concentration-dependent enhancement phenotypes. Collectively, these findings indicate that isolated YFV immunity does not predispose to ADE, whereas cumulative orthoflavivirus exposure generates antibody repertoires capable of producing concentration-dependent enhancement in vivo. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-05",
+      "date_window_start": "2026-05-29",
+      "date_window_end": "2026-06-05",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.01.26354320v1",
+      "date": "2026-06-04",
+      "abstract": "Abstract Background: Major depressive disorder (MDD) is clinically heterogeneous, hindering identification of reproducible biomarkers. Using a semi-supervised machine learning approach, HYDRA, we previously identified two neuroanatomical dimensions from structural MRI in medication-free MDD from COORDINATE-MDD consortium. These dimensions (D1, D2) showed differential responses to selective serotonin reuptake inhibitor (SSRI) antidepressants and placebo. External replication in UK Biobank linked D2, characterized by widespread subtle neuroanatomical reductions, to an immuno-metabolic profile. Here, we examined whether these dimensions are detectable early in the course of illness. Methods: We applied the pre-trained model to structural MRI data from the multisite PRONIA cohort, comprising individuals with recent-onset depression (ROD; n = 377; mean age 25.8 years, SD 6.0; 51.3% female) and healthy controls (n = 267; mean age 25.5 years, SD 6.4; 61.0% female). Participants were assigned to clusters (C1, C2) corresponding to the previously identified dimensions (D1, D2). Clusters were compared on clinical symptom profiles, peripheral inflammatory markers, and in a subset (n = 107), proteomic ageing indices. Results: Two neuroanatomical clusters were identified in PRONIA. C1 (n = 265) showed higher negative symptom severity and elevated interleukin-2 levels. C2 (n = 140) was associated with higher residual proteomic age. Overall depressive symptom severity did not differ significantly between clusters. Conclusions: Neuroanatomical dimensions of MDD are reproducible and detectable at illness onset. Associations with negative symptom severity, inflammatory signalling, and proteomic ageing suggest these dimensions capture biologically meaningful heterogeneity early in depression. These findings support a biologically informed framework for stratified treatment approaches in MDD. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-05",
+      "date_window_start": "2026-05-29",
+      "date_window_end": "2026-06-05",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.08.26352776v2",
+      "date": "2026-05-29",
+      "abstract": "Abstract Long COVID Postural Orthostatic Tachycardia Syndrome (LCPOTS) is characterized by persistent orthostatic tachycardia and systemic symptoms following SARS-CoV-2 infection. Many features of LCPOTS suggest ongoing immune activation, but the mechanisms driving this response remain unclear. In this study, we show that patients with LCPOTS, compared with individuals who recovered from SARS-CoV-2 without POTS, exhibit increased monocyte mitochondrial content and superoxide production, along with downregulation of NRF2-dependent antioxidant enzymes. This is accompanied by a marked increase in the formation of isolevuglandins (IsoLGs) in monocytes, which modify self-proteins and act as neoantigens capable of activating T cells. Consistent with this, LCPOTS patients exhibit a 3-fold increase in circulating T cell-monocyte doublets with immunological synapse formation. T cells in these complexes display a proinflammatory effector-memory and TEMRA phenotype, producing IFN-γ and IL-17A, which correlated with symptom severity. Circulating cytokines, including IL-17A, IFN-γ, and TNF-α, are elevated in patients with LCPOTS by 1.5 to 3-fold. This immune response likely drives systemic inflammation and impaired cardiovagal regulation, hallmarks of LCPOTS. Our findings suggest that monocyte oxidative stress and IsoLG neoantigen formation sustain T cell activation, linking immune dysregulation to cardiovagal dysfunction. Targeting these pathways may offer novel therapeutic opportunities. Download figure Open in new tab ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
