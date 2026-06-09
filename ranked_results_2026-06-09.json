@@ -1,0 +1,163 @@
+{
+  "bispecific_antibodies": [
+    {
+      "date_scraped": "2026-06-09",
+      "date_window_start": "2026-06-02",
+      "date_window_end": "2026-06-09",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.02.26354717v1",
+      "date": "2026-06-03",
+      "abstract": "Abstract Pharmacokinetic–pharmacodynamic theory describes drug action in two dimensions, magnitude and time, yet rate-dependent toxicity recurs across unrelated therapies without a unifying principle. We propose the Human Adaptive Rate Limit (HARL): every physiological system tolerates a maximum velocity of state change, |dS/dt|max = σmax/τ, set by its reserve σ and adaptation time τ. We show that nifedipine, erythropoiesis-stimulating agents, radiation, vancomycin and CAR T-cell therapy obey one velocity boundary spanning minutes to weeks. Reanalysing the 202-patient CAR-T cohort of Wei et al., a dual-velocity classifier (ferritin and D-dimer rate of rise) predicted severe cytokine release syndrome with 100% sensitivity and a median 4-day lead time before clinical onset. Velocity is a third, governable dimension of tolerability; a dynamic maximum tolerated rate should complement the maximum tolerated dose in drug development. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager",
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-06-09",
+      "date_window_start": "2026-06-02",
+      "date_window_end": "2026-06-09",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.05.26354816v1",
+      "date": "2026-06-08",
+      "abstract": "Abstract Background and Aims: Fatigue is a prevalent and disabling symptom in inflammatory bowel disease (IBD), yet its underlying biological mechanisms remain poorly understood. We aimed to characterize fatigue-associated molecular signatures in IBD patients by integrating DNA methylation and mRNA expression analyses. Methods: Peripheral blood was collected from 40 patients with Crohn's disease (CD), 29 with ulcerative colitis (UC), and 10 healthy controls. Fatigue severity was assessed continuously using the Multidimensional Fatigue Inventory (MFI). Epigenome-wide DNA methylation profiling and mRNA sequencing were performed, identifying differentially methylated regions (DMRs) and differentially expressed genes (DEGs) for active and quiescent CD and UC, adjusting for age, sex, and smoking status. Pathway enrichment analysis was performed on genes with differential methylation and expression. Results: In active CD, more severe fatigue was associated with transcriptional suppression of immune and metabolic pathways (246 DMRs; 1,090 DEGs), versus upregulation of mitochondrial and metabolic processes in quiescent CD (200 DMRs; 1,619 DEGs). In active UC, fatigue was associated with anabolic pathway upregulation and epigenetic silencing of neuroactive pathways (6,927 DMRs; 343 DEGs; 56 concordant genes). Quiescent UC showed transcriptional changes without significant epigenetic pathway enrichment (1,710 DMRs; 3,224 DEGs). Healthy controls exhibited a distinct profile spanning metabolic, immune, and neuronal pathways (8,621 DMRs; 395 DEGs). Fatigue-associated signatures were largely non-overlapping across all five groups. Conclusions: Fatigue-associated molecular profiles differed substantially by disease subtype and activity state, highlighting the biological heterogeneity of IBD-related fatigue and laying the foundation for multi-omics approaches to identify biomarkers and potential therapeutic targets. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-06-09",
+      "date_window_start": "2026-06-02",
+      "date_window_end": "2026-06-09",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.02.26354763v1",
+      "date": "2026-06-04",
+      "abstract": "Abstract Acute respiratory distress syndrome (ARDS) is a devastating complication of respiratory infections; however, the biological mechanisms that initiate its onset are poorly defined. Here we show that TNFRSF13B polymorphisms increase the risk of ARDS following SARS-CoV-2 infection up to 7.4-fold compared to the WT genotype. The increased risk was not due to immune-deficiency or impaired virus neutralization. On the contrary, TNFRSF13B mutant subjects mounted better antibody neutralization compared to subjects with WT TNFRSF13B. However, IgG from subjects expressing TNFRSF13B variants had less sialic acid, terminal galactose, and fucose than IgG from subjects with a WT genotype. Moreover, IgG from TNFRSF13B mutant subjects exhibited increased recruitment of complement factors. Thus, besides well-known actions governing plasma cell differentiation, TNFRSF13B impacts both affinity maturation and effector functions of IgG in ways that independently govern complement activation controlling inflammatory responses known to trigger ARDS. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-06-09",
+      "date_window_start": "2026-06-02",
+      "date_window_end": "2026-06-09",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.04.26354575v1",
+      "date": "2026-06-05",
+      "abstract": "Abstract Background Parkinson’s disease (PD) is a second most common progressive neurological disorder that is pathologically characterized by the loss of dopaminergic neurons within the substantia nigra (SN). However, disease progression probably involves coordinated changes across both neuronal and glial cell populations. Although single-nucleus RNA-seq resolved cell-type-specific transcriptional profiling, differential expression and regulatory interpretation are commonly reported separately, however, they may limit the mechanistic prioritization to uncover novel therapeutic targets. Methods Here, we performed sample-aware pseudobulk framework analysis on single-nucleus transcriptomes obtained SN of PD and control donors. Cell-type-specific differential expression for PD vs. control was identified using edgeR quasi-likelihood modeling (FDR < 0.05; |log2FC| > 0.5). Further, to quantify disease-specific remodelling, we computed one-vs-rest cell-type specificity scores in each condition and defined delta-specificity as the PD–control shift. We further prioritized the gene-set for dopaminergic neurons and microglia based on edge R significance and delta-specificity shifts, followed by upstream regulatory assessment using transcription factor enrichment and subnetwork visualization using ChEA-KG. Moreover, we used Cellchat to identify altered cell-cell communication networks to infer differences between both conditions. Results Dopaminergic neurons demonstrated upregulation of neuronal-state remodeling transcriptional programs related gene sets in PD group, including receptor signaling and contact/guidance pathways (e.g., CHRM3, ROBO1, PLXNA4, UNC5D, EFNA5), neuronal excitability homeostatsis, RNA components, cellular traffickings and proteostasis, suggesting coordinated remodeling in surviving neuronal population. Microglia exhibited a compact PD-associated signature enriched for regulatory and activation state-related genes. TF networks analysis revealed distinct regulatory subnetwork in each population,including BNC2-centered network in microglia and an NPAS3-centered network in dopaminergic neurons with embedded ZNF804A and chromatin-associated components. Conclusions In summary, integrating pseudobulk, delta-specificity scoring and TF-network enrichment analysis provides coherent dopaminergic and microglial programs in PD substantia nigra. This framework prioritizes cell-type-specific potential candidate mechanisms for downstream validation. The inferred regulatory networks and interactions are hypothesis generating and need orthogonal validation, such as spatial or proteomics approaches and independent cohorts. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-06-09",
+      "date_window_start": "2026-06-02",
+      "date_window_end": "2026-06-09",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.05.26354983v1",
+      "date": "2026-06-08",
+      "abstract": "Abstract Introduction: Myalgic Encephalomyelitis (ME)/Chronic Fatigue Syndrome (CFS) is a debilitating condition characterised by severe fatigue and post-exertional malaise (PEM). Reported neuropsychophysiological abnormalities suggest ME/CFS is multifactorial, but current knowledge remains fragmented. This study protocol outlines a multimodal investigation designed to (1) compare neuropsychophysiological mechanisms between ME/CFS patients and healthy participants, (2) test an integrative model of ME/CFS, (3) identify neuropsychophysiological subgroups within the patient population, and (4) identify predictors of symptom response during rehabilitation. Methods and analysis: This study will enroll 115 ME/CFS patients and 55 healthy participants. Groups will be comparable in age, sex, and education level, with a larger patient sample enabling subgroup and longitudinal analyses. A cross-sectional assessment at baseline will be carried out in both groups. Patients will then be evaluated longitudinally throughout a standardized cognitive-behavioral therapy rehabilitation program delivered as routine care. Baseline measures include systemic inflammation and general health biomarkers, measures of autonomic and central nervous system function, neuroinflammation (magnetic resonance spectroscopy, [18F]DPA714 PET in a subsample), serum short-chain fatty acid levels, gut microbiota composition and function, and neuroendocrine and self-reported responses to psychosocial stress. Fatigue severity (physical and cognitive) and PEM will be assessed through validated questionnaires, ecological momentary assessment, and laboratory tasks. These will be re-evaluated during therapy, and all non-neuroimaging measures will be repeated after the rehabilitation program. Statistical analyses will comprise multivariate analysis of variance, general linear models, classification algorithms, structural equation models, least absolute shrinkage selection operator principal component regression (LASSO-PCR), cluster analysis and latent class growth analysis (LCGA). ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-09",
+      "date_window_start": "2026-06-02",
+      "date_window_end": "2026-06-09",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.29.26354050v1",
+      "date": "2026-06-08",
+      "abstract": "Abstract Background: The World Health Organization has expanded its recommendations for prophylactic Ebola vaccination for at-risk populations. Durable vaccine-induced immunity is important for sustaining outbreak preparedness in regions with recurrent Ebola virus disease (EVD). We assessed five–year persistence of vaccine-induced immune responses in adults and children from the PREVAC trial. Methods: Two large randomised phase 2 trials ( NCT02876328 ), in adults and children aged ≥1 year, were conducted in four west African countries. Participants were randomly assigned to placebo or to one of three Ebola vaccine strategies: Ad26.ZEBOV followed by MVA–BN–Filo at 56 days; rVSVΔG–ZEBOV–GP followed by placebo; or rVSVΔG–ZEBOV–GP followed by a homologous booster dose at 56 days. After 12 months of follow-up, the primary results were published, participants unblinded to their vaccine assignment, and follow–up continued for 60 months. After Month 24, placebo group recipients were offered active vaccination. Anti Ebola virus glycoprotein Immunoglobulin G (IgG) concentrations were measured for 5 years. Findings: 1401 adults and 1401 children were initially randomized, and 1315 (93.9%) adults and 1322 (94.4%) children attended at least one long-term visit. Retention was high, with 95% followed beyond 1 year and 83% completion at 5-year follow-up. For the three vaccine strategies, antibody geometric mean concentrations (GMC) declined modestly between Months 12 and 24, followed by a stable plateau from Months 24 to 60. At Month 60, antibody GMC were higher in the rVSV-based groups (1099 and 1216 EU/ml for adults; 1982 and 2347 EU/ml for children) than in the Ad26.ZEBOV, MVA–BN–Filo group (252 adults and 645 EU/ml children). Antibody persistence at Month 60 was heterogeneous, varying by age, sex, country, and baseline IgG concentration. Interpretation: Licensed Ebola vaccines induced sustained antibody responses in adults and children for up to 5 years. While the protective antibody level is unknown, these data demonstrate long–lasting immune responses from currently employed vaccine strategies. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-09",
+      "date_window_start": "2026-06-02",
+      "date_window_end": "2026-06-09",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.01.26354320v1",
+      "date": "2026-06-04",
+      "abstract": "Abstract Background Major depressive disorder (MDD) is clinically heterogeneous, hindering identification of reproducible biomarkers. Using a semi-supervised machine learning approach, HYDRA, we previously identified two neuroanatomical dimensions from structural MRI in medication-free MDD from COORDINATE-MDD consortium. These dimensions (D1, D2) showed differential responses to selective serotonin reuptake inhibitor (SSRI) antidepressants and placebo. External replication in UK Biobank linked D2, characterized by widespread subtle neuroanatomical reductions, to an immuno-metabolic profile. Here, we examined whether these dimensions are detectable early in the course of illness. Methods We applied the pre-trained model to structural MRI data from the multisite PRONIA cohort, comprising individuals with recent-onset depression (ROD; n = 377; mean age 25.8 years, SD 6.0; 51.3% female) and healthy controls (n = 267; mean age 25.5 years, SD 6.4; 61.0% female). Participants were assigned to clusters (C1, C2) corresponding to the previously identified dimensions (D1, D2). Clusters were compared on clinical symptom profiles, peripheral inflammatory markers, and in a subset (n = 107), proteomic ageing indices. Results Two neuroanatomical clusters were identified in PRONIA. C1 (n = 265) showed higher negative symptom severity and elevated interleukin-2 levels. C2 (n = 140) was associated with higher residual proteomic age. Overall depressive symptom severity did not differ significantly between clusters. Conclusions Neuroanatomical dimensions of MDD are reproducible and detectable at illness onset. Associations with negative symptom severity, inflammatory signalling, and proteomic ageing suggest these dimensions capture biologically meaningful heterogeneity early in depression. These findings support a biologically informed framework for stratified treatment approaches in MDD. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-09",
+      "date_window_start": "2026-06-02",
+      "date_window_end": "2026-06-09",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.05.26353587v1",
+      "date": "2026-06-08",
+      "abstract": "Abstract Introduction: Synthetic oligopeptides provide a rapid and cost-efficient approach to developing antibodies and diagnostics for emerging viral variants. Methods: This study computationally and experimentally characterized a synthetic peptide analog of the SARS-CoV-2 spike subdomain 2 major disulfide loop (SD2MDL), designated S621 (CPVAIHADQLTPTWRVYSTC). Binding affinity was computationally estimated using the Heuristic Affinity Prediction Tool for Immune Complexes (HAPTIC), while experimental validation was performed using enzyme-linked immunosorbent assay (ELISA) with rabbit-derived antipeptide antibodies. Clinical diagnostic accuracy testing was done using plasma samples from RT-PCR-confirmed COVID-19 patients and pre-COVID-19 controls. Results: S621 demonstrated nanomolar binding affinity (Kdapp = 1.14 nM) and high avidity (3.67 nM), closely matching HAPTIC predictions (3.54 nM). Diagnostic evaluation yielded a sensitivity of 89.92% and specificity of 27.79%, corresponding to an overall accuracy of 71.79%. Discussion: These findings demonstrate that a single synthetic peptide derived from a conserved spike subdomain can function as a high-affinity surrogate for full-length antigens, supporting its potential application in rapid peptide-based immunodiagnostics. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
