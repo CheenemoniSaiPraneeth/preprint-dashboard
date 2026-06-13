@@ -1,0 +1,178 @@
+{
+  "bispecific_antibodies": [
+    {
+      "date_scraped": "2026-06-13",
+      "date_window_start": "2026-06-06",
+      "date_window_end": "2026-06-13",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.05.26354635v1",
+      "date": "2026-06-10",
+      "abstract": "Summary Functional ex vivo assays using live tumor tissues have demonstrated strong predictive accuracy for response to immune checkpoint inhibitors (ICIs) but are not scalable, requiring manual processing of large resections collected at academic centers. Here, an ex vivo live tumor fragment (LTF) platform was developed using standard-of-care biopsies from 228 patients with suspected malignancy collected across prospective, multicenter observational trials and biobanks. Hierarchical clustering of ICI-mediated changes in cytokine production identified two groups: responders and nonresponders. A binary classifier (elive index) using 8 cytokines achieved an AUC of 0.99 for cluster prediction. elive index correctly predicted clinical benefit in 93% (26/28) of patients ( P = 3.2x10 -5 ) and accurately identified 83% (10/12) of objective responders. Critically, elive responders were identified among biomarker-negative patients, highlighting the platform as a scalable approach that complements existing companion diagnostics and expands the population of patients identified to benefit from ICI therapy. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager",
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-06-13",
+      "date_window_start": "2026-06-06",
+      "date_window_end": "2026-06-13",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.05.26354816v1",
+      "date": "2026-06-08",
+      "abstract": "Abstract Background and Aims Fatigue is a prevalent and disabling symptom in inflammatory bowel disease (IBD), yet its underlying biological mechanisms remain poorly understood. We aimed to characterize fatigue-associated molecular signatures in IBD patients by integrating DNA methylation and mRNA expression analyses. Methods Peripheral blood was collected from 40 patients with Crohn’s disease (CD), 29 with ulcerative colitis (UC), and 10 healthy controls. Fatigue severity was assessed continuously using the Multidimensional Fatigue Inventory (MFI). Epigenome-wide DNA methylation profiling and mRNA sequencing were performed, identifying differentially methylated regions (DMRs) and differentially expressed genes (DEGs) for active and quiescent CD and UC, adjusting for age, sex, and smoking status. Pathway enrichment analysis was performed on genes with differential methylation and expression. Results In active CD, more severe fatigue was associated with transcriptional suppression of immune and metabolic pathways (246 DMRs; 1,090 DEGs), versus upregulation of mitochondrial and metabolic processes in quiescent CD (200 DMRs; 1,619 DEGs). In active UC, fatigue was associated with anabolic pathway upregulation and epigenetic silencing of neuroactive pathways (6,927 DMRs; 343 DEGs; 56 concordant genes). Quiescent UC showed transcriptional changes without significant epigenetic pathway enrichment (1,710 DMRs; 3,224 DEGs). Healthy controls exhibited a distinct profile spanning metabolic, immune, and neuronal pathways (8,621 DMRs; 395 DEGs). Fatigue-associated signatures were largely non-overlapping across all five groups. Conclusions Fatigue-associated molecular profiles differed substantially by disease subtype and activity state, highlighting the biological heterogeneity of IBD-related fatigue and laying the foundation for multi-omics approaches to identify biomarkers and potential therapeutic targets. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-06-13",
+      "date_window_start": "2026-06-06",
+      "date_window_end": "2026-06-13",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.08.26355191v1",
+      "date": "2026-06-10",
+      "abstract": "Abstract Background Endometrial cancer exhibits marked molecular and immune heterogeneity that is only partially explained by established genomic biomarkers. We investigated whether T-cell receptor (TCR) repertoire architecture captures complementary dimensions of antitumor immunity beyond conventional molecular classification. Methods Paired tumor and peripheral blood samples from eight patients with molecularly characterized endometrial cancer underwent TCR repertoire profiling. Diversity, clonality, and tumor–blood overlap metrics were integrated with genomic variables, including tumor mutational burden (TMB), genomic instability metric (GIM), and POLE status. Principal component analysis and correlation analyses were used to identify major dimensions of repertoire organization. Composite Immune Focusing and Immune Sharing Scores were derived to summarize dominant repertoire patterns. Results The first two principal components explained 70.1% of total repertoire variance and revealed substantial heterogeneity independent of histological subtype. TMB was strongly associated with reduced repertoire diversity and increased clonal dominance, resulting in a robust association with the Immune Focusing Score (ρ = 0.88, p = 0.004). POLE-mutated tumors occupied the extreme end of this focusing continuum. In contrast, genomic instability was associated with increased tumor–blood repertoire overlap and preserved diversity, reflected by a strong correlation between GIM and the Immune Sharing Score (ρ = 0.76, p = 0.027). The two immune scores showed minimal correlation with each other (ρ = −0.24, p = 0.57), indicating that they capture largely independent aspects of immune organization. Conclusion Integrative analysis of TCR repertoire architecture and tumor genomics identifies distinct immunogenomic states in endometrial cancer that are not fully captured by conventional molecular classification. If validated in larger cohorts, immune focusing and immune sharing metrics may provide complementary biomarkers for patient stratification and immunotherapy-oriented precision oncology. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-13",
+      "date_window_start": "2026-06-06",
+      "date_window_end": "2026-06-13",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.29.26354050v1",
+      "date": "2026-06-08",
+      "abstract": "Abstract Background The World Health Organization has expanded its recommendations for prophylactic Ebola vaccination for at-risk populations. Durable vaccine-induced immunity is important for sustaining outbreak preparedness in regions with recurrent Ebola virus disease (EVD). We assessed five-year persistence of vaccine-induced immune responses in adults and children from the PREVAC trial. Methods Two large randomised phase 2 trials ( NCT02876328 ), in adults and children aged ≥ 1 year, were conducted in four west African countries. Participants were randomly assigned to placebo or to one of three Ebola vaccine strategies: Ad26.ZEBOV followed by MVA-BN-Filo at 56 days; rVSVΔG-ZEBOV-GP followed by placebo; or rVSVΔG-ZEBOV-GP followed by a homologous booster dose at 56 days. After 12 months of follow-up, the primary results were published, participants unblinded to their vaccine assignment, and follow-up continued for 60 months. After Month 24, placebo group recipients were offered active vaccination. Anti–Ebola virus glycoprotein Immunoglobulin G (IgG) concentrations were measured for 5 years. Findings 1401 adults and 1401 children were initially randomized, and 1315 (93.9%) adults and 1322 (94.4%) children attended at least one long-term visit. Retention was high, with 95% followed beyond 1 year and 83% completion at 5-year follow-up. For the three vaccine strategies, antibody geometric mean concentrations (GMC) declined modestly between Months 12 and 24, followed by a stable plateau from Months 24 to 60. At Month 60, antibody GMC were higher in the rVSV-based groups (1099 and 1216 EU/ml for adults; 1982 and 2347 EU/ml for children) than in the Ad26.ZEBOV, MVA-BN-Filo group (252 adults and 645 EUml children). Antibody persistence at Month 60 was heterogeneous, varying by age, sex, country, and baseline IgG concentration. Interpretation Licensed Ebola vaccines induced sustained antibody responses in adults and children for up to 5 years. While the protective antibody level is unknown, these data demonstrate long-lasting immune responses from currently employed vaccine strategies. Trial registration numbers ClinicalTrials.gov number, NCT02876328 ; EudraCT number 2017-001798-18; and Pan African Clinical Trials Registry number, PACTR201712002760250. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-13",
+      "date_window_start": "2026-06-06",
+      "date_window_end": "2026-06-13",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.01.26354267v1",
+      "date": "2026-06-09",
+      "abstract": "ABSTRACT Use of fungal mycelia, which has antiviral properties, constitutes a novel strategy for addressing existing and newly emerging viral diseases. We evaluated safety and feasibility of fungal mycelia ( Fomitopsis officinalis and Trametes versicolor , FoTv) for treatment of COVID-19 and assessed its antiviral effects and potential to reduce symptoms. In a randomized, double-blind, placebo-controlled, dual site (UCSD/UCLA medical centers) clinical trial we examined non-hospitalized patients who contracted mild-to-moderate COVID-19 ≤ 96 hours, and experienced symptom onset ≤ nine days, before enrollment. FoTv was safe, well-tolerated, and feasible for COVID-19 treatment. Minor differences in biochemical markers were observed between groups (26 FoTv, 24 Placebo). FoTv significantly reduced the number and severity of symptoms, particularly sore throat/cough, and in vitro SARS-CoV-2 (pseudovirus) cellular infection. In conclusion, FoTv was safe and reduced COVID-19 symptoms and cellular viral infection. Future studies should investigate therapeutic benefits of fungal mycelia for SARS-CoV-2 and other viruses. Clinicaltrials.gov registration: NCT04667247 . ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-13",
+      "date_window_start": "2026-06-06",
+      "date_window_end": "2026-06-13",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.05.26354983v1",
+      "date": "2026-06-08",
+      "abstract": "Abstract Introduction Myalgic Encephalomyelitis (ME)/Chronic Fatigue Syndrome (CFS) is a debilitating condition characterised by severe fatigue and post-exertional malaise (PEM). Reported neuropsychophysiological abnormalities suggest ME/CFS is multifactorial, but current knowledge remains fragmented. This study protocol outlines a multimodal investigation designed to (1) compare neuropsychophysiological mechanisms between ME/CFS patients and healthy participants, (2) test an integrative model of ME/CFS, (3) identify neuropsychophysiological subgroups within the patient population, and (4) identify predictors of symptom response during rehabilitation. Methods and analysis This study will enroll 115 ME/CFS patients and 55 healthy participants. Groups will be comparable in age, sex, and education level, with a larger patient sample enabling subgroup and longitudinal analyses. A cross-sectional assessment at baseline will be carried out in both groups. Patients will then be evaluated longitudinally throughout a standardized cognitive-behavioral therapy rehabilitation program delivered as routine care. Baseline measures include systemic inflammation and general health biomarkers, measures of autonomic and central nervous system function, neuroinflammation (magnetic resonance spectroscopy, [ 18 F]DPA714 PET in a subsample), serum short-chain fatty acid levels, gut microbiota composition and function, and neuroendocrine and self-reported responses to psychosocial stress. Fatigue severity (physical and cognitive) and PEM will be assessed through validated questionnaires, ecological momentary assessment, and laboratory tasks. These will be re-evaluated during therapy, and all non-neuroimaging measures will be repeated after the rehabilitation program. Statistical analyses will comprise multivariate analysis of variance, general linear models, classification algorithms, structural equation models, least absolute shrinkage selection operator principal component regression (LASSO-PCR), cluster analysis and latent class growth analysis (LCGA). ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-13",
+      "date_window_start": "2026-06-06",
+      "date_window_end": "2026-06-13",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.10.26354144v1",
+      "date": "2026-06-12",
+      "abstract": "Abstract High-risk neuroblastoma (HRNB) is a leading cause of pediatric cancer death. Current therapies center on intensive multimodal treatment including anti-GD2 therapy, with growing interest in harnessing T cell-mediated immunity. How T cells and their receptors (T-cell receptors, TCRs) are spatially organized and function within tumors remains poorly defined. To assess whether intratumoral location influences clonotype-specific T cell states, we profiled TCR repertoires across blood and tumor samples from 37 patients with HRNB using longitudinal bulk TCR sequencing. In a nested subset of 5 patients with paired pre- and post-therapy tumors, we integrated spatial transcriptomics with in situ TCR profiling. Across all tumors, T and B cells preferentially co-localized in immune-rich regions and showed reduced proximity to neuroblast cells. Despite this compartmentalized architecture, γδT cells were more evenly distributed across tumor sections and showed greater proximity to neuroblast-rich regions than other T cell subsets. Within TCR clonotypes, spatial location was associated with distinct transcriptional states, with immune-rich regions supporting more progenitor-like programs. These findings identify spatial context as a key determinant of phenotype clonotype-specific T cell phenotype and highlight γδT cells cells as a spatially distinct population with potential roles in neuroblastoma tumor-immune interactions. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-13",
+      "date_window_start": "2026-06-06",
+      "date_window_end": "2026-06-13",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.08.26355189v1",
+      "date": "2026-06-10",
+      "abstract": "Abstract Postoperative resilience varies widely among older adults, yet the biological drivers of recovery remain unclear. We evaluated whether preoperative immune profiles—measured in plasma and through ex vivo whole-blood stimulation—predict resilience to the acute stress of total knee arthroplasty. A total of 152 adults (≥60 years) in the PRIME-KNEE cohort underwent elective total knee arthroplasty and had available blood samples for measurement of 45 immune biomarkers, quantified in plasma and in whole blood stimulated ex vivo for 24 hours with lipopolysaccharide (LPS) or influenza antigen (FLU). Resilience was assessed using Expected Recovery Differential (ERD) and Resilience Trajectory (RT) across pain severity, pain interference, lower-extremity physical activities of daily living (LE-PADLs), and step counts. An exploratory stability-selection framework using LASSO identified biomarker predictors of postoperative outcomes. Plasma and stimulated biomarkers showed broadly similar predictive performance. A shared set of biomarkers—including LBP, leptin, TNFR1, CD30, and LIF—was consistently selected across models. Immune predictors explained ∼12-24% of the variance in resilience outcomes. Distinct immune signatures emerged for pain versus functional recovery: pain-related predictors mapped to local inflammatory and neuroimmune pathways, whereas function-related predictors reflected systemic inflammatory load and cytokine signaling. Preoperative immune biomarkers, whether measured in plasma or after ex vivo stimulation, capture meaningful variance in postoperative resilience. The divergence between pain-related and function-related immune signatures highlights biologically distinct pathways underlying different dimensions of recovery and supports further development of immune-based perioperative risk assessment. Author Summary In this study, we explored why recovery after knee replacement surgery varies so widely among older adults. While many people regain mobility and experience pain relief, others continue to struggle with discomfort and limited function. We asked whether differences in the immune system before surgery might help explain these outcomes. To do this, we measured a wide range of immune signals in blood samples collected before surgery and then followed participants over several months, tracking their pain, daily activities, and physical movement. We found that patterns in these immune signals were linked to how well people recovered. Importantly, some of the signals that predicted pain recovery were different from those linked to improvements in physical function, suggesting that these aspects of recovery are driven by distinct biological processes. Our findings place the immune system at the center of recovery from major surgery and highlight its potential as a tool for identifying who may need more support. In the future, this knowledge could help guide more personalized approaches to care and improve recovery for older adults undergoing surgery. Download figure Open in new tab Overview of the PRIME-KNEE Study Workflow and Immune Signatures Predicting Postoperative Resilience. Pre-operative blood was collected from older adults undergoing elective total knee arthroplasty. Whole blood was incubated under three conditions—unstimulated (NULL), lipopolysaccharide (LPS), or influenza antigen (FLU)—using the TruCulture® system to assess dynamic immune responsiveness. Forty-five pro- and anti-inflammatory biomarkers were quantified in plasma and stimulated culture supernatants. Postoperative pain, pain interference, lower-extremity physical activities of daily living (LE-PADLs), and step counts were used to derive two resilience metrics: Expected Recovery Differential (ERD) and Resilience Trajectory (RT). Stability-selection LASSO models identified pre-operative immune predictors of postoperative resilience. Panels A and B illustrate distinct immune signatures associated with pain versus functional outcomes. Pan",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-13",
+      "date_window_start": "2026-06-06",
+      "date_window_end": "2026-06-13",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.05.26353587v1",
+      "date": "2026-06-08",
+      "abstract": "Abstract Introduction Synthetic oligopeptides provide a rapid and cost-efficient approach to developing antibodies and diagnostics for emerging viral variants. Methods This study computationally and experimentally characterized a synthetic peptide analog of the SARS-CoV-2 spike subdomain 2 major disulfide loop (SD2MDL), designated S621 (CPVAIHADQLTPTWRVYSTC). Binding affinity was computationally estimated using the Heuristic Affinity Prediction Tool for Immune Complexes (HAPTIC), while experimental validation was performed using enzyme-linked immunosorbent assay (ELISA) with rabbit-derived antipeptide antibodies. Clinical diagnostic accuracy testing was done using plasma samples from RT-PCR– confirmed COVID-19 patients and pre-COVID-19 controls. Results S621 demonstrated nanomolar binding affinity and high avidity (3.67 nM), closely matching HAPTIC predictions (3.54 nM). Diagnostic evaluation yielded a sensitivity of 89.92% and specificity of 27.79%, corresponding to an overall accuracy of 71.79%. Discussion These findings demonstrate that a single synthetic peptide derived from a conserved spike subdomain can function as a high-affinity surrogate for full-length antigens, supporting its potential application in rapid peptide-based immunodiagnostics. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
