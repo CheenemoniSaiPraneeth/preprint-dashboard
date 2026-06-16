@@ -1,0 +1,220 @@
+{
+  "gene_editing": [
+    {
+      "date_scraped": "2026-06-16",
+      "date_window_start": "2026-06-09",
+      "date_window_end": "2026-06-16",
+      "modality": "gene_editing",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2606.12286",
+      "date": "2026-06-10",
+      "abstract": "Computer Science > Computer Vision and Pattern Recognition arXiv:2606.12286 (cs) [Submitted on 10 Jun 2026] Title: CellNet -- Localizing Cells using Sparse and Noisy Point Annotations Authors: Benjamin Eckhardt , Dmytro Fishman , Stuart Fawke , Andrew Curtis , Bo Fussing , Constantin Pape View a PDF of the paper titled CellNet -- Localizing Cells using Sparse and Noisy Point Annotations, by Benjamin Eckhardt and 5 other authors View PDF HTML (experimental) Abstract: Counting living cells is an important step in many biological research workflows. Our collaborators at the Wellcome Sanger Institute study vital genes in humans via large scale saturation genome editing screening, which requires repeatedly counting cells a great number of times. Computer Vision based automation is crucial for high throughput and resource efficiency. In this work, we develop a regression-based deep learning computer vision algorithm to detect and count cells in phase-contrast microscopy images. To reduce annotation effort, which in practice often becomes a bottleneck, we focus on counting cells only using sparse point annotations, which are fast and easy to acquire. By comparison to state-of-the-art 0-shot methods, we show that regression-based counting is a promising alternative in low data regimes. Through developing methods to automatically count living cells in microscopy images, we contribute to valuable research on the human genome. The code is available at this https URL . Comments: Conference poster at Biology at Scale: From Variants to Cellular Programs and Functions Subjects: Computer Vision and Pattern Recognition (cs.CV) Cite as: arXiv:2606.12286 [cs.CV] (or arXiv:2606.12286v1 [cs.CV] for this version) https://doi.org/10.48550/arXiv.2606.12286 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Benjamin Eckhardt [ view email ] [v1] Wed, 10 Jun 2026 16:22:32 UTC (595 KB) Full-text links: Access Paper: View a PDF of the paper titled CellNet -- Localizing Cells using Sparse and Noisy Point Annotations, by Benjamin Eckhardt and 5 other authors View PDF HTML (experimental) TeX Source view license Current browse context: cs.CV < prev | next > new | recent | 2026-06 Change to browse by: cs References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv's comm",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [
+        "genome editing"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-06-16",
+      "date_window_start": "2026-06-09",
+      "date_window_end": "2026-06-16",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.11.26355452v1",
+      "date": "2026-06-12",
+      "abstract": "Abstract Foveal hypoplasia causes visual impairment across congenital eye disorders, yet the genetic programmes governing foveal development remain poorly characterised and no tractable model exists for foveal disease. In the first genome-wide association study of foveal hypoplasia, we identified 42 sentinel variants mapping to 54 effector genes supported by ≥ 2 criteria from a variant-to-gene framework incorporating developmental multi-omics. Disruption of six effector genes using mutant lines and CRISPR knockouts in the zebrafish high acuity zone recapitulates structural, functional, and ultrastructural hallmarks of foveal hypoplasia, establishing the first vertebrate disease model. Integration with human foetal single-cell and spatial transcriptomics reveals two temporal waves of effector gene expression and identifies Müller glia as critical mediators of foveal patterning. Phenome-wide analyses reveal foveal variants are pleiotropic with refractive, lenticular, and metabolic traits, connecting foveal development to anterior segment and systemic disease biology. These findings should inform mechanistic studies of macular disease. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR-Cas9"
+      ],
+      "primary_abstract_matched_keywords": [
+        "CRISPR"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-06-16",
+      "date_window_start": "2026-06-09",
+      "date_window_end": "2026-06-16",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.11.26355460v1",
+      "date": "2026-06-12",
+      "abstract": "ABSTRACT Bulk tissue-based DNA methylation-wide (MWAS) and transcriptome-wide association studies (TWAS) have identified CpG sites and genes associated with colorectal cancer (CRC) risk, but do not account for cellular heterogeneity. To address this, we developed a deconvolution-informed framework to infer cell-type specific DNA methylation and gene expression profiles from bulk normal colon tissues using reference single-cell epigenomic and transcriptomic datasets. We performed cell-type specific MWAS (ctMWAS) using deconvoluted DNA methylation data from 293 normal colon samples and conducted cell-type specific TWAS (ctTWAS) using deconvoluted gene expression data from 707 normal colon samples. Genetically predicted methylation and expression models were integrated with CRC GWAS summary statistics (78,473 cases and 107,143 controls) to identify risk-associated CpG sites and genes. Through ctMWAS, ctTWAS, and colocalization analyses, we identified 178 high-confidence cell-type-specific CpG sites and 68 genes associated with CRC across 26 previously unreported GWAS loci. Through additional integrative methylation-gene analysis, we prioritized 132 candidate risk genes, the majority of which were supported by multi-omics evidence and stage-specific dysregulation across the adenoma-carcinoma and serrated-carcinoma progression pathways. Pathway enrichment analyses implicated pathways involved in DNA double-strand break repair, TP53 regulation, TGF-β signaling, and innate immune responses. Among prioritized genes, 14 were identified as putative druggable targets linked to 90 FDA-approved or clinical-stage drugs. Experimental validation supports an oncogenic role for SF3A3 . These findings demonstrate that deconvolution-informed integrative analyses enable cell-type-resolved identification of epigenetic and transcriptional mechanisms underlying CRC susceptibility and provide insights into disease biology, prevention, and therapeutic target discovery. Significance We developed a deconvolution-informed, cell-type specific multi-omics framework that identified CRC risk-associated CpG sites and susceptibility genes, revealing cell-type specific regulatory mechanisms, key biological pathways, and druggable targets relevant to CRC prevention, therapeutic development, and drug repurposing. Functional validation further supports SF3A3 as a potential oncogenic driver in colorectal carcinogenesis. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR-Cas9"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [
+        "double-strand break"
+      ],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 1,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-06-16",
+      "date_window_start": "2026-06-09",
+      "date_window_end": "2026-06-16",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.01.13.26344011v2",
+      "date": "2026-06-15",
+      "abstract": "Abstract Sex differences significantly influence the pathophysiology of Parkinson's disease (PD). However, it remains unclear whether sex differences affect blood metabolome profiles in patients with PD-related gene mutations compared to healthy controls (HCs). Here, we conducted a 1H-Nuclear Magnetic Resonance (NMR) metabolomic analysis of serum samples from a defined cohort of patients carrying variants in LRRK2 (n=17), GBA1 (n=30), PARK2/PINK1/PARK7 (n=40), and TMEM175 (n=32) genes. Their serum metabolomic profiles were compared with those of 48 age- and sex-matched HCs. Additionally, 48 patients with idiopathic PD were included to assess the extent to which metabolomic alterations overlapped between genetically defined and idiopathic PD. Notably, Partial Least Squares Discriminant Analysis indicated significant sexual dimorphism in serum metabolomic profiles between cases and controls across all PD-linked genetic groups. Conversely, multivariate analysis of NMR data did not show clear separation of metabolomic features among patients carrying different pathogenic mutations, nor between genetically defined and idiopathic PD patients. These findings suggest that, despite genetic heterogeneity, PD patients share a common pattern of systemic metabolic alterations. Furthermore, our findings indicate that sex differences significantly influence the blood metabolic profiles of distinct PD-related gene mutations, resulting in unique serum metabolic profiles in mutation carriers compared with matched controls. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-16",
+      "date_window_start": "2026-06-09",
+      "date_window_end": "2026-06-16",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.11.26355258v1",
+      "date": "2026-06-15",
+      "abstract": "Abstract Background: Low-frequency heteroplasmic mitochondrial DNA (mtDNA) variants are associated with aging and neurological diseases, including Parkinson's disease (PD). Targeted deep mtDNA sequencing using PacBio HiFi long reads has the potential to resolve heteroplasmy across the full mitochondrial genome with high accuracy. Methods: To validate Vega PacBio sequencing for detecting mtDNA heteroplasmy, we analyzed four predefined mixtures of two mtDNA haplotypes. We generated a single long-range PCR amplicon covering the entire mitochondrial genome. These amplicons were mixed at predefined ratios (minor mixture haplotype component: 5%, 2%, 1%, and 0.1%). Variant calling was performed using Mutserve2, and accuracy was assessed by calculating the F1 score from comparisons between expected and detected variants. Full-length mtDNA PacBio sequencing was applied to investigate heteroplasmy across fibroblast passages derived from five LRRK2 p.Gly2019Ser variant carriers (n=3 affected with PD and n=2 unaffected carriers). Changes in mtDNA heteroplasmy level and variant load were assessed longitudinally using a linear mixed model. Results: The single-amplicon approach enabled full-length haplotype resolution without amplification bias associated with overlapping PCR strategies. The F1 score of the predefined mixtures was 1.0 for heteroplasmy levels between 5% and 1% and remained high (0.91) at 0.1%. We detected n=10/62 variants discordant with the Illumina reference at the 0.1% mixture, but sensitivity remained very high at 1.00 in that mixture. Detected minor variants closely matched expected heteroplasmy levels, with average variant levels of 0.057 (5%), 0.022 (2%), 0.011 (1%), and 0.001 (0.1%). Across twelve fibroblast passages, we observed fewer mtDNA heteroplasmic variants (β=-3.2, p=0.026). Increased heteroplasmic variant load over time was also associated with older age (β=1.50, p=0.001) and PD affection status (β=5.0, p=1.0 × 10 -4 ) in LRRK2 variant carriers. Notably, we observed distinct patterns of heteroplasmic variants that either increased or decreased in heteroplasmy level across passages. Conclusion: PacBio HiFi sequencing, combined with a single-amplicon strategy, enables accurate full-length mtDNA heteroplasmy detection and longitudinal analysis, providing a valuable tool for studying mitochondrial variation and dynamics in disease. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-16",
+      "date_window_start": "2026-06-09",
+      "date_window_end": "2026-06-16",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.07.26355080v1",
+      "date": "2026-06-15",
+      "abstract": "Abstract Modern polygenic risk scores (PRS) exhibit shifts correlated with ancestry, leading to erroneous predictions for non-European individuals when models are trained on predominantly European cohorts. Such shifts arise from, among other factors, (1) algorithmic limitations in the ability of PRS model training to detect causal variants, rather than nearby variants with ancestry-dependent correlations to the causal one, (2) under-representation of alleles with higher prevalence in non-European populations in the association study training, and (3) gene-by-environment interactions where the environment is correlated with genetic ancestry. Current ancestry-adjustment methodologies often discretize individuals into population categories and apply a simple affine mapping to reduce these genetic ancestry biases. However, such approaches provide suboptimal adjustments, particularly for admixed individuals. In this work, we introduce a detailed theoretical characterization of ancestry-dependent biases and propose novel methods based on non-parametric neighborhood techniques that provide more accurate empirical results and admit statistical consistency guarantees. Extensive experiments using the UK Biobank demonstrate the effectiveness of the proposed methods. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-16",
+      "date_window_start": "2026-06-09",
+      "date_window_end": "2026-06-16",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.14.26355466v1",
+      "date": "2026-06-15",
+      "abstract": "Abstract Background: Khat (Catha edulis) is a widely consumed natural amphetamine-analog used across East Africa and the Arabian Peninsula. Accurate field-feasible measurement of recent khat use is a prerequisite for large-scale epidemiological research; yet no validated alternatives to laboratory reference methods have been identified in the scientific literature. This nested validation study evaluated the diagnostic accuracy of two point-of-care measures, a commercial amphetamine immunoassay and a Timeline Followback (TLFB) Assisted Self-Report (ASR), against high-performance liquid chromatography (HPLC) quantification of urinary norephedrine (NE), while additionally assessing agreement between the two field measures. Methods: A prospective, random sub-sample of 119 male participants aged 18-40 years from the Gilgel Gibe Field Research Center (GGFRC) longitudinal cohort, Ethiopia (validation timepoint T2, 2015), was used. Three index-reference comparisons were conducted: (1) amphetamine immunoassay (nal von minden, Drug-Screen AMP test, 300 ng/mL cutoff) vs. HPLC; (2) binary ASR (past-week use) vs. HPLC; and (3) binary ASR vs. immunoassay. Sensitivity (positive percent agreement, PPA), specificity (negative percent agreement, NPA), positive predictive value (PPV), negative predictive value (NPV), overall accuracy (overall percent agreement, OPA), and Cohen's kappa were calculated with 95% confidence intervals. Pre-specified secondary analyses applied three pharmacokinetically-informed recall windows (0-2, 3-5, and 6-7 days prior to interview) to ASR. Results: Against HPLC (77 positive, 42 negative), the immunoassay showed perfect specificity (1.0 [0.916-1.0]) and PPV (1.0 [0.91-1.0]) but low sensitivity (0.52 [0.40-0.64]), NPV (0.53 [0.42-0.65]), overall accuracy (0.69 [0.60-0.77]), and weak kappa (0.43 [0.34-0.52]). Binary ASR showed high sensitivity (0.96 [0.89-0.99]), specificity of 0.60 [0.433-0.74], PPV (0.81 [0.72-0.89]), NPV (0.89 [0.72-0.98]), with overall accuracy 0.83 [0.75-0.89] and moderate kappa (0.60 [0.51,0.69]). Restricting ASR to use within 0-2 days improved specificity to 0.69 [0.52-0.84], PPV to 0.86 [0.77-0.93], overall accuracy to 0.87 [0.79-0.93], and kappa to 0.69 [0.61-0.78] (moderate), while sensitivity (0.96 [0.89-0.99]) and NPV (0.89 [0.72-0.98]) remained stable. Against the immunoassay, ASR achieved high PPA of (1.0 [0.91-1.0]), NPA of 0.35 [0.25-0.47], OPA of 0.57 [0.48-0.66], and minimal kappa (0.27 [0.19-0.35]). Conclusions: Time-stratified ASR (0-2 days) is a valid, scalable alternative to biological testing for recent khat use in resource-limited settings. The immunoassay's 300 ng/mL cutoff functions as a marker of heavy or recent high-dose khat use rather than any-use detection. Its perfect specificity and PPV make it valuable as a confirmatory test for substantial exposure, while its lower sensitivity reflects calibration to amphetamine rather than to khat-derived cathinone metabolite. Keywords: khat; Catha edulis; diagnostic accuracy; STARD; self-report; immunoassay; HPLC; Ethiopia; substance use measurement ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-16",
+      "date_window_start": "2026-06-09",
+      "date_window_end": "2026-06-16",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.09.26355227v1",
+      "date": "2026-06-15",
+      "abstract": "Abstract Background Despite widespread vaccination, pertussis remains a poorly controlled disease globally and results in substantial annual morbidity and mortality, particularly in young children. Controlled human infection models (CHIMs) using the causative agent Bordetella pertussis are promising systems to enable the study of pertussis disease pathogenesis and immunology and to rapidly assess vaccines and therapeutics. While a pertussis CHIM that produces asymptomatic infection has been established in Europe, the development of a CHIM that leads to symptomatic illness would be advantageous for evaluating vaccine efficacy against both infection and disease. Methods Healthy participants 18-40 years of age were inoculated intranasally with one of eight doses (ranging from 10 4 to 10 8 colony forming units (CFU)) of the pertactin-producing B. pertussis isolate D420 at the challenge facility within the Canadian Center for Vaccinology (Nova Scotia, Canada). The study occurred in two stages. In stage one, the B. pertussis dose was escalated in cohort groups of five to six participants until reaching an endpoint where 70-90% of participants exhibited mild (non-severe, Grade 1 or 2) symptomatic infection, defined as the Human Infectious Dose 70-90 (HID70-90). In stage two, additional challenges were conducted for doses below, at, and above the identified HID70-90 to characterize the emerging pertussis model. For all challenge doses, participants were closely monitored during an inpatient stay of up to 24 days and post-discharge for laboratory-confirmed infection, pertussis symptoms, safety, and IgG antibody responses to four B. pertussis antigens including pertussis toxin, filamentous hemagglutinin, fimbriae, and pertactin. All participants received a five-day course of azithromycin, where timing of initiation depended on B. pertussis testing and symptoms. The study was conducted between July 4, 2022 and March 19, 2025. Findings Seventy-five participants were inoculated with one of the eight B. pertussis D420 challenge doses and completed the inpatient stay. From the stage-one dose escalation, we found that 10 7 CFU of B. pertussis D420 was the lowest dose that achieved the HID70-90, where 9 of 12 participants (75.0%) exhibited mild symptomatic infection. Following stage-two challenges, 16 of 22 total participants at 10 7 CFU (72.7%) developed mild symptomatic infection, thus verifying the HID70-90. The symptomatic infection rate below the HID70-90 at 5x10 6 CFU of D420 was 20.0% and above the HID70-90 at 5x10 7 and 10 8 CFU were 58.3% and 55.6%, respectively. Symptoms with elevated frequency for symptomatic infection (relative to background symptoms in non-infected) included nasal congestion, runny nose, fatigue, malaise, and cough. At the HID70-90, 50% of symptomatic infections included cough. Serological analyses of the four highest (stage-two) challenge doses (5x10 6 , 10 7 , 5x10 7 , 10 8 CFU) revealed that antibody titres increased over time post-challenge. Seroconversion for at least one of the four studied antibodies was nearly twice as common for symptomatic (70.0%) than asymptomatic (35.7%) infection and was absent (0%) for non-infected. All infections were cleared following azithromycin treatment (100%) and there were no study-related serious adverse events. Interpretation A safe and reproducible symptomatic pertussis CHIM was achieved, providing a model for research on pertussis disease pathogenesis and immunology and for assessing vaccines and therapeutics. (Clinicaltrials.gov, NCT05136599 ). ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-16",
+      "date_window_start": "2026-06-09",
+      "date_window_end": "2026-06-16",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.13.26355581v1",
+      "date": "2026-06-15",
+      "abstract": "Abstract Importance: Cardiac conduction disorders have traditionally been regarded as a secondary manifestation of underlying structural heart diseases. However, isolated conduction disorders may precede the onset of heart failure (HF) suggesting shared mechanisms. Objective: To evaluate the prevalence and clinical significance of pathogenic/likely pathogenic (P/LP) rare variants in cardiomyopathy genes among individuals with conduction disorders. Design, Setting, and Participants: Biobank analysis of 192,834 participants with whole genome sequence data from Vanderbilt's BioVU and 353,092 participants from the All of Us Research Program (AoU). Participants with primary conduction disorder (left bundle branch block [LBBB], right bundle branch block [RBBB], high-grade atrioventricular block [AVB]) were identified after excluding secondary causes. Exposures: P/LP variants in cardiomyopathy genes. Main Outcomes and Measures: Primary outcome was P/LP carrier status by age and HF status. Secondary outcomes included incident HF and composite ventricular arrhythmias/sudden cardiac death/mortality (VA/SCD/mortality). Results: Among 16,959 participants with conduction disorders in BioVU and 13,442 in AoU, 432 (2.6%) and 206 (1.5%) were P/LP carriers, respectively. Conduction disorder was independently associated with carrier status (BioVU p<0.001; AoU p=0.005). Carrier probability varied by age at conduction disorder onset and HF status. Among participants with HF at age 30 years, predicted carrier probability for LBBB was 7.5% in BioVU and 20.2% in AoU; for high-grade AVB, 7.7% and 8.5%, respectively, compared with 3.7% and 2.9% among those with HF without conduction disorder. P/LP carrier status among participants with conduction disorders was associated with increased risk of incident HF (BioVU p<0.001; AoU p<0.001) and ventricular arrhythmia/sudden death/mortality (BioVU p<0.001; AoU p<0.001). Carriers also demonstrated increased susceptibility to conduction disorder following HF diagnosis, including more than two-fold higher risk of third-degree AVB (BioVU aOR 2.48, 95% CI 1.85-3.32; AoU aOR 2.26, 95% CI 1.35-3.80). Conclusions: Adults with primary conduction disorders have an increased prevalence of P/LP variants in cardiomyopathy genes, which is most pronounced with diagnoses at early ages of adulthood. Furthermore, there is evidence of an interaction between P/LP carrier status and conduction disorder to increase HF risk and composite cardiovascular outcomes, underscoring the potential role of genetic evaluation in patients with primary conduction disorders to inform long-term outcomes. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-16",
+      "date_window_start": "2026-06-09",
+      "date_window_end": "2026-06-16",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.12.26355539v1",
+      "date": "2026-06-15",
+      "abstract": "Abstract Background: Peru lacks an integrated information system for patients with Inborn Errors of Immunity (IEI). Although disease registries are essential tools for data management and health planning, their success depends on implementation science approaches that account for local contextual factors. This study reports Phase I of a three-phase mixed-methods implementation project to design and develop a national IEI registry. Methods: Phase I consisted of a phenomenological qualitative study exploring stakeholder perspectives. Semi-structured focus groups and in-depth interviews were conducted with 29 key stakeholders across four groups: policy-makers, clinical experts, end-users (immunologists, residents, allied health personnel), and patient organization representatives. Interviews followed a guide structured around four a priori domains (structure, navigation, feasibility, and perception of existing systems). Discussions were conducted in Spanish, audio-recorded, transcribed verbatim, and coded using ATLAS.ti. A hybrid thematic analysis combining deductive and inductive coding was performed. Data elements proposed for the registry were triangulated with qualitative findings. Results: Thirty-six initial codes were consolidated into 15 categories, which were further integrated into four overarching themes conceptualized as pathways toward intention to use: (1) Environment, where governance, regulatory backing, and sustainable financing were identified as key enablers, while limited interoperability emerged as a structural barrier; (2) Technical Dimension, emphasizing usability, alignment with clinical workflow, and a hierarchical data architecture (demographic, clinical, therapeutic); (3) Users, highlighting clinical leadership, protected time, digital readiness, and perceived usefulness as stronger motivators than financial incentives; and (4) Patients, underscoring data protection, transparency, trust, and advocacy as essential for legitimacy and sustainability. Conclusions: A national IEI registry in Peru is perceived as necessary and feasible if implemented with strong regulatory foundations, interoperable design, robust data security, and user-centered architecture. These findings informed the development of an initial functional prototype and the operational plan for Phase II, focused on usability evaluation. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-16",
+      "date_window_start": "2026-06-09",
+      "date_window_end": "2026-06-16",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.11.26355476v1",
+      "date": "2026-06-15",
+      "abstract": "Abstract The plasma proteome is a valuable resource for assessment of the physiological state of the donor. Containing hundreds of different proteins of variable concentrations, it displays substantial inter-donor differences in individual protein levels, making each plasma proteome highly donor-specific. Less is known about intra-donor variability in the plasma proteome over time, although such variations may even be more indicative of a changing physiological state. Here we assessed data obtained from the TIMES cohort, comprising 51 apparently healthy participants monitored monthly over 12 months, focusing especially on temporal variations in blood protein levels. Most strikingly, we observed that several women in this cohort revealed strongly correlated temporal variations in their plasma proteome, including most notably PZP, SHBG, FETUB, AGT, SERPINA6, SERPINA7, CP, APOL1 and KNG1, with levels sometimes fluctuating by more than 20-fold. In contrast, such variations were absent in men. Some of the fluctuating proteins have been known to be hormone-regulated (e.g., PZP, SHBG), but for others this was not yet fully clear. Through the tight co-variation observed for these proteins in the plasma proteome of women, we can conclude that all these proteins are similarly hormone regulated. The findings reported here not only corroborate previous studies showing estrogen-dependent regulation of several plasma proteins, but also extend this category to include also CP, APOL1, and KNG1. As these latter have been often proposed as candidate biomarkers, they should be validated in sex-balanced cohorts and interpreted with caution, especially in large-scale plasma proteomics studies wherein often only one or a few sampling time points are measured per donor. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
