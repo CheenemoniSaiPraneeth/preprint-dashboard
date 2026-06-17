@@ -1,0 +1,23 @@
+{
+  "bispecific_antibodies": [
+    {
+      "date_scraped": "2026-06-17",
+      "date_window_start": "2026-06-10",
+      "date_window_end": "2026-06-17",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.05.26354635v1",
+      "date": "2026-06-10",
+      "abstract": "Summary Functional ex vivo assays using live tumor tissues have demonstrated strong predictive accuracy for response to immune checkpoint inhibitors (ICIs) but are not scalable, requiring manual processing of large resections collected at academic centers. Here, an ex vivo live tumor fragment (LTF) platform was developed using standard-of-care biopsies from 228 patients with suspected malignancy collected across prospective, multicenter observational trials and biobanks. Hierarchical clustering of ICI-mediated changes in cytokine production identified two groups: responders and nonresponders. A binary classifier (elive index) using 8 cytokines achieved an AUC of 0.99 for cluster prediction. elive index correctly predicted clinical benefit in 93% (26/28) of patients ( P = 3.2x10 -5 ) and accurately identified 83% (10/12) of objective responders. Critically, elive responders were identified among biomarker-negative patients, highlighting the platform as a scalable approach that complements existing companion diagnostics and expands the population of patients identified to benefit from ICI therapy. ",
+      "searched_keywords_found_duplicates": [
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
