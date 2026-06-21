@@ -1,0 +1,120 @@
+{
+  "bispecific_antibodies": [
+    {
+      "date_scraped": "2026-06-21",
+      "date_window_start": "2026-06-14",
+      "date_window_end": "2026-06-21",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.05.26354839v1",
+      "date": "2026-06-17",
+      "abstract": "Abstract Glucocorticoids (GCs) remain the fastest-acting anti-inflammatory agents but are constrained by systemic exposure that suppresses the hypothalamic–pituitary–adrenal (HPA) axis, silences adaptive immunity, and drives chronic toxicities. Chronic inflammatory diseases are sustained by long-lived CD206⁺ macrophages containing immune-resistant pathogenic material not cleared physiologically. We developed 101-PGC-005 (’005), a macrophage-targeted type 1a dexamethasone prodrug engineered for low-affinity, recycling-compatible uptake via CD206, with intracellular release triggered by acidic endosomes. We evaluated ’005 in mechanistic assays, pathogen-diverse preclinical models, three human pharmacokinetic (PK) studies, and an adaptive-design randomized Phase II/III trial in 309 hospitalized patients with moderate COVID-19. In two completed Phase I human studies — a first-in-human dose-escalation and repeated-dose study and a dedicated single-/multiple-dose PK and safety study — ’005 circulated as intact prodrug with rapid systemic clearance (Tmax ∼0.5 h; terminal half-life ∼1.9 h), with no measurable free dexamethasone after single dosing and only low, clinically non-significant free dexamethasone after repeated dosing, and intact prodrug recovered unchanged in urine. Morning cortisol and ACTH were preserved after 30 mg once daily for three consecutive days (1.5× the intended therapeutic dose). A cerebrospinal fluid PK study is evaluating central-compartment penetration. In the Phase II/III trial — powered for non-inferiority, conducted across six sites in India under GCP with Ministry of Health approval and independent DSMB oversight — ’005 (20 mg IV daily × 3 days) was superior to dexamethasone (6 mg IV daily × 3–10 days) on the primary endpoint of time to ≥2-point improvement on the WHO ordinal scale (HR 2.31; 95% CI 1.83–2.93; p < 0.0001; median 3 vs. 4 days). ’005 was also superior on viral clearance (HR 1.47; 95% CI 1.17–1.84; p = 0.0001), hospital discharge rate, SpO₂ recovery, and fever resolution. Zero patients in the ’005 arm received investigator-initiated corticosteroid supplementation despite protocol allowance. All 309 randomized patients completed the study (ITT = per-protocol). Safety profiles were equivalent (TEAEs 54.8% vs 54.5%; p = 0.958), with no Grade 3+ events, SAEs, deaths, or discontinuations in either arm. Mechanistically, ’005 delivered dual benefit: acute debulking of inflammatory macrophages and selective depletion of chronically activated pathology-sustaining macrophages, while preserving CXCL10 antiviral signaling and physiologic HPA control. Critically, HPA preservation is not merely a safety feature — it is a core efficacy mechanism: by clearing the pathogenic macrophage burden that was overriding HPA regulation, ’005 restores the conditions for endogenous cortisol to resume its pulsatile, demand-responsive anti-inflammatory role across all GR-expressing cells — lymphocytes, endothelial cells, neurons, and newly differentiated macrophages — that ’005 itself cannot reach. These findings support regulatory-grade evidence for macrophage-targeted corticosteroid therapy and provide the foundation for further development across acute inflammatory indications (sepsis, viral pneumonia, cytokine-release syndromes) and chronic macrophage-driven diseases (atherosclerosis, metabolic steatohepatitis, neurodegeneration, tumor-associated macrophages). One Sentence Summary A macrophage-targeted dexamethasone prodrug achieves superiority over standard-of-care dexamethasone across two replicate randomized controlled trials totaling 309 patients, without suppressing the hypothalamic–pituitary–adrenal axis. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager",
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-06-21",
+      "date_window_start": "2026-06-14",
+      "date_window_end": "2026-06-21",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.16.26355813v1",
+      "date": "2026-06-19",
+      "abstract": "Abstract The success of Chimeric Antigen Receptor (CAR) T cell therapy is heavily dependent on the quality of the final cellular product. Current expansion protocols often rely on reagents that require removal from cell culture media, posing logistical challenges in manufacturing, and can also lead to terminal differentiation. Here, we evaluate the use of a soluble, bead-free T cell activator, T cell expansion protein (T-CEP), as a streamlined alternative for generating potent CAR-T cells. Human T cells were activated with T-CEP or known T cell activators (Dynabeads and TransAct) and transduced with either CD19 or interleukin-13 (IL-13) mutein (tetravariant-13; TV-13)-based CAR lentiviral vectors. Our results demonstrate that T-CEP supports robust CAR-T cell expansion and achieves transduction efficiencies comparable to commercial reagents for both types of CAR-T cells. Notably, T-CEP significantly favored the expansion of CD8+ T cells, yielding an enhanced CD27+ phenotype and a lower CD4:CD8 ratio compared to TransAct. Cytotoxicity assays confirmed that T-CEP-expanded CAR-T cells possess cytolytic function equivalent to commercial reagents for both CARs, while exhibiting lower levels of inflammatory cytokine secretion. In summary, T-CEP represents a competitive alternative to existing expansion agents, as it does not require its removal during CAR-T manufacturing and generates a CD8+ dominant, less-differentiated phenotype without compromising efficacy. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager",
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-06-21",
+      "date_window_start": "2026-06-14",
+      "date_window_end": "2026-06-21",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.15.26355676v1",
+      "date": "2026-06-17",
+      "abstract": "Abstract Hantaviruses can cause haemorrhagic fever with renal syndrome (HFRS). This is a clinically variable disease in which severe outcomes are hypothesized to arise from dysregulated host responses. To characterise this, longitudinal, label-free plasma proteomics was used to compare disease progression in a unique well-defined cohort of patients infected with either Dobrava virus (DOBV) or Puumala virus (PUUV) hantaviruses. Patients were stratified by clinical severity. The average viral load in the first available sample from hospitalized patients was higher in those who went on to have severe infection, and higher in patients infected with DOBV. There was marked separation of infected patients from controls across early, mid and late disease, including after viral RNA clearance, suggesting a sustained systemic host-response signature. Proteomic signatures were consistent with a strong acute-phase response in both mild and severe disease. There was evidence of activation of the adaptive humoral response at later stages. Hierarchical clustering identified severity-associated pathways linked to endothelial dysfunction, thrombocytopenia, vascular leakage and renal injury. These findings define a durable plasma proteomic signature of hantavirus disease and support a model in which severe HFRS is driven by persistent inflammatory, complement and platelet/coagulation pathway activation rather than viral burden alone. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-21",
+      "date_window_start": "2026-06-14",
+      "date_window_end": "2026-06-21",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.15.26355245v1",
+      "date": "2026-06-16",
+      "abstract": "ABSTRACT Introduction Current treatments for multiple sclerosis (MS) do not address the pathological processes of neurodegeneration and chronic demyelination. This, coupled with the significant challenges of translating promising phase 2 results to phase 3 trial success, highlights the need for more efficient trial designs, such as platform multi-arm multi-stage (MAMS) trial approaches. MAMS trials have demonstrated success in areas such as oncology and infectious diseases. They are typified by a statistically robust core trial design that allows the addition of further treatment arms and utilisation of interim outcome analyses at pre-defined timepoints, to determine whether to terminate a treatment arm early or proceed to the final outcome analysis. To address the challenges in progressive multiple sclerosis (PMS) treatment discovery, the Optimal Clinical Trials Platform for PMS (OCTOPUS) trial was developed. It currently utilises MRI whole-brain atrophy as its interim outcome measure and the clinically relevant composite Expanded Disability Status Scale Plus (EDSS-Plus) as its final outcome measure. A rigorous and systematic drug selection process that assessed preclinical in vitro and animal model evidence, along with additional human data, led to the prioritisation of R/S-alpha lipoic acid (R/S-ALA) and metformin for testing against placebo, targeting pathobiological mechanisms relevant to PMS. All participants will be eligible to receive the current standard of care, including disease-modifying treatments (DMTs). Method and analysis OCTOPUS will be a multi-centre, randomised, placebo-controlled, double-blind, phase 3, MAMS trial of participants aged 25 to 70 years (inclusive) with PMS and an EDSS score of 4.0 to 8.0 (inclusive). Steady progression must be the major cause of increasing disability rather than relapse in the preceding 2 years. In the trial’s first candidate drug cycle, participants will be allocated to R/S-ALA, metformin, or placebo in a 1:1:1 ratio. Cycle 1 active treatments will start as R/S-ALA 600 mg once daily, increased after 4 weeks to 600 mg twice daily, or metformin 1 g once daily, increased after 4 weeks to 1 g twice daily. The trial will be multinational, with participation from 28 hospitals across the UK and 10 hospitals in Australia. Clinician-reported measures will include: the EDSS-Plus and the individual components: EDSS, Timed 25 Foot Walk (T25FW); 9 Hole Peg Test (9HPT); Symbol Digit Modalities Test (SDMT); Sloan Low Contrast Visual Acuity (SLCVA); and Relapse assessment. Patient-reported outcomes include MS specific walking, fatigue, pain, and impact scales. We will include a health economic analysis. Analysis stage 1 will require randomisation of 125 participants per arm and utilise MRI percentage brain volume change (PBVC) with the Structural Image Evaluation using Normalisation of Atrophy (SIENA) technique from baseline to 78 weeks. A positive outcome in analysis stage 1 will detect a 0.15% per year whole brain atrophy difference with a one-sided alpha of 0.35 and power of 95%, ensuring a low probability of erroneously rejecting a treatment arm at this stage. Any arms that show a positive effect will proceed to final analysis stage 2. Analysis stage 2 will require 600 participants per arm. Participants included in stage 1 will also be included in the stage 2. Analysis stage 2 will evaluate time to 6-month confirmed disability progression in the EDSS-Plus, in order to detect a 25% hazard ratio reduction with 90% power and an alpha of 0.05. Assuming one treatment arm proceeds to analysis stage 2, the trial will recruit approximately 1,200 participants and last about 6 years. This is approximately two-thirds the size and half the duration of separately conducted two-arm phase 2 and 3 trials. Ethics and dissemination The protocol was approved by the London Hampstead REC (22/LO/0622). This manuscript is based on protocol version 8.0 , 28 th August 2025. The findings of this trial will be dis",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-21",
+      "date_window_start": "2026-06-14",
+      "date_window_end": "2026-06-21",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.09.26355168v1",
+      "date": "2026-06-17",
+      "abstract": "Abstract Heterosexual genital HIV transmission is a major driver of new infections, particularly in women, making them disproportionately vulnerable to HIV acquisition. Previous studies have associated injectable hormonal contraceptives (HC) with increasing susceptibility to HIV. Yet, the underlying molecular mechanism remains incompletely understood. Given the structural and signaling role of lipids in the female genital tract, cervicovaginal lipidomic profiling has the potential to reveal the mechanistic interplay among HC, lipidome, and HIV susceptibility in the female genital tract. We conducted untargeted cervicovaginal lipidomics study in a cohort of high-risk, HIV-negative, Kenyan sex workers who were using injectable depot medroxyprogesterone acetate (DMPA), oral contraceptive pill (OCP), or no hormonal contraception (NH). Genital lipids were quantitatively analyzed using liquid chromatography-mass spectrometry (LC-MS) and bioinformatics platforms. A total of 1045 lipid species were identified in the cervicovaginal lavage samples. Injectable DMPA significantly downregulated major structural and signaling membrane lipids, including phospholipids, ceramides, sphingomyelins, and glycosphingolipids (p<0.001, FDR<0.05), and markedly upregulated storage lipids (triglycerides) and sterols when compared with OCP or NH groups. Interestingly, microbial communities contributed significantly to the DMPA-driven genital lipidomic shifting, suggesting the intricate interplay among sex hormones, microbiome, and lipidome. In contrast, OCP, which contains estrogen, consistently lowered genital triglycerides and increased the fatty acid and diacylglycerol substrates compared with the NH group, implying that estrogen affects genital lipid metabolism by contrasting the lipogenesis effect of DMPA. Differential lipidomic pathway analysis further confirmed that DMPA suppressed the de novo phospholipid and sphingolipid biosynthesis, but enhanced salvaging of various lipids from reaction intermediates and from cell membrane lipid pool, shifting them towards TG accumulation. Our findings of dysregulated depletion of several membrane and signaling phospholipids, ceramides, sphingomyelins, glycosphingolipids, along with upregulation of triglycerides in the DMPA users provides insights into the underlying molecular mechanism by which DMPA may increase in susceptibility to HIV infection by weakening the epithelial barrier and increasing chronic inflammation. These findings underscore the need to address cervicovaginal lipidomic dysregulation associated with HCs while designing interventions to improve women’s reproductive health. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-21",
+      "date_window_start": "2026-06-14",
+      "date_window_end": "2026-06-21",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.22.26353817v2",
+      "date": "2026-06-16",
+      "abstract": "Abstract Antibody-dependent enhancement (ADE) is a major concern across orthoflavivirus infections, yet how multiple viral exposures shape enhancement risk remains incompletely understood. Here, we integrated serosurveillance from Saúde, Brazil with functional immunologic analyses to define how yellow fever virus (YFV)-associated orthoflavivirus immune histories influence ADE phenotypes. Using serocomplex-specific anti-premembrane antibody profiling validated by microneutralization assays, plasma samples were stratified into YFV-only, YFV+DENV, and YFV+DENV+ZIKV exposure groups. In Fcγ receptor-bearing U937 cells, YFV-only plasma demonstrated minimal enhancement activity, whereas cumulative orthoflavivirus exposure generated broader ADE phenotypes across heterologous viruses. In IFNAR1 −/− passive-transfer models, YFV-only plasma did not enhance ZIKV or DENV2 infection in vivo. In contrast, YFV+DENV plasma increased ZIKV viremia and accelerated mortality kinetics, while YFV+DENV+ZIKV plasma demonstrated concentration-dependent enhancement phenotypes. Collectively, these findings indicate that isolated YFV immunity does not predispose to ADE, whereas cumulative orthoflavivirus exposure generates antibody repertoires capable of producing concentration-dependent enhancement in vivo. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
