@@ -1,0 +1,23 @@
+{
+  "gene_editing": [
+    {
+      "date_scraped": "2026-06-24",
+      "date_window_start": "2026-06-17",
+      "date_window_end": "2026-06-24",
+      "modality": "gene_editing",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2606.18672",
+      "date": "2026-06-17",
+      "abstract": "Computer Science > Machine Learning arXiv:2606.18672 (cs) [Submitted on 17 Jun 2026] Title: scGTN: Deep Siamese Graph Transformer Network for Single-cell RNA Sequencing Clustering Authors: Jinke Wu , Yifan Wang , Siyu Yi , Caiyang Yu , Ziyue Qiao , Nan Yin , Jiancheng Lv , Wei Ju View a PDF of the paper titled scGTN: Deep Siamese Graph Transformer Network for Single-cell RNA Sequencing Clustering, by Jinke Wu and 7 other authors View PDF HTML (experimental) Abstract: Single-cell RNA sequencing (scRNA-seq) serves a pivotal role in characterizing gene expression at the cellular level, enabling the identification of cell types and advancing the understanding of cellular heterogeneity. Despite the significant progress in scRNA-seq data clustering, we argue that current methods always ignore the sparsity and noise, as well as the complex intercellular structural information inherent in scRNA-seq data. Toward this end, in this paper, we propose a novel single-cell RNA-seq clustering framework via deep Siamese Graph Transformer Network (termed scGTN), which explicitly integrates gene expression profile and intercellular structural dependencies for cell clustering. In particular, we formulate scRNA-seq data as a graph and construct two augmented graph views that serve as dual views to capture complementary intercellular information. Then, a Siamese graph transformer network is employed to explicitly incorporate shortest-path information and node-wise distances for capturing richer structural relationships between cells. Finally, we employ an optimal transport strategy to guide the cell clustering in a self-supervised manner. Extensive experiments on multiple benchmark scRNA-seq datasets demonstrate that our scGTN consistently outperforms existing methods. Our code is available at this https URL . Comments: Accepted by Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence (IJCAI 2026) Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI); Genomics (q-bio.GN) ACM classes: I.2.6; I.5.3; J.3 Cite as: arXiv:2606.18672 [cs.LG] (or arXiv:2606.18672v1 [cs.LG] for this version) https://doi.org/10.48550/arXiv.2606.18672 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Jinke Wu [ view email ] [v1] Wed, 17 Jun 2026 04:17:49 UTC (2,618 KB) Full-text links: Access Paper: View a PDF of the paper titled scGTN: Deep Siamese Graph Transformer Network for Single-cell RNA Sequencing Clustering, by Jinke Wu and 7 other authors View PDF HTML (experimental) TeX Source view license Current browse context: cs.LG < prev | next > new | recent | 2026-06 Change to browse by: cs cs.AI q-bio q-bio.GN References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) IArxiv recommender toggle IArxiv Recommender ( What is IArxiv? ) Author Venue ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
