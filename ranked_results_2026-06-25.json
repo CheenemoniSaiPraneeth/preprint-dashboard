@@ -1,0 +1,158 @@
+{
+  "bispecific_antibodies": [
+    {
+      "date_scraped": "2026-06-25",
+      "date_window_start": "2026-06-18",
+      "date_window_end": "2026-06-25",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.17.26355844v1",
+      "date": "2026-06-22",
+      "abstract": "Abstract The circulating blood proteome provides a systemic readout of disease biology and holds promise for advancing diagnostics and disease monitoring in pediatric leukemia. Here, we profiled 3072 proteins in diagnostic serum from 54 children with acute lymphoblastic leukemia (ALL), 21 with acute myeloid leukemia (AML), and 12 healthy controls using the Olink Proximity Extension Assay. We observed profound alterations in circulating protein levels in leukemia patients compared with controls and identified immunophenotype-specific proteins, including SIGLEC15 in B-cell precursor ALL (BCP-ALL), NOTCH1 in T-ALL, and CEBPA in AML, all which remained high even in patients with low (<20%) or no peripheral blood blasts. Within BCP-ALL, molecular subtypes were reflected in the circulating proteome; for example, DSC2 and PTPRK were elevated in ETV6 :: RUNX1 -positive cases, while IL-6R and ADAM8 were higher in High Hyperdiploid cases. Angiogenic growth factors decreased across all leukemia patients compared with controls, suggesting a fragile peripheral vasculature at diagnosis. Integration with external datasets revealed the likely cellular source of abundant proteins and examination of an external cohort validated our subtype-specific findings. Together, these results define shared and distinct proteomic signatures across pediatric acute leukemias and highlight candidate biomarkers for diagnostics and disease monitoring. Download figure Open in new tab ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager",
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-06-25",
+      "date_window_start": "2026-06-18",
+      "date_window_end": "2026-06-25",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.16.26355813v1",
+      "date": "2026-06-19",
+      "abstract": "Abstract The success of Chimeric Antigen Receptor (CAR) T cell therapy is heavily dependent on the quality of the final cellular product. Current expansion protocols often rely on reagents that require removal from cell culture media, posing logistical challenges in manufacturing, and can also lead to terminal differentiation. Here, we evaluate the use of a soluble, bead-free T cell activator, T cell expansion protein (T-CEP), as a streamlined alternative for generating potent CAR-T cells. Human T cells were activated with T-CEP or known T cell activators (Dynabeads and TransAct) and transduced with either CD19 or interleukin-13 (IL-13) mutein (tetravariant-13; TV-13)-based CAR lentiviral vectors. Our results demonstrate that T-CEP supports robust CAR-T cell expansion and achieves transduction efficiencies comparable to commercial reagents for both types of CAR-T cells. Notably, T-CEP significantly favored the expansion of CD8 + T cells, yielding an enhanced CD27 + phenotype and a lower CD4:CD8 ratio compared to TransAct. Cytotoxicity assays confirmed that T-CEP-expanded CAR-T cells possess cytolytic function equivalent to commercial reagents for both CARs, while exhibiting lower levels of inflammatory cytokine secretion. In summary, T-CEP represents a competitive alternative to existing expansion agents, as it does not require its removal during CAR-T manufacturing and generates a CD8 + dominant, less-differentiated phenotype without compromising efficacy. Key Points T-CEP is a soluble, bead-free activator that streamlines CAR-T manufacturing by eliminating the need for reagent removal from cultures. T-CEP consistently yields a desirable CD27 + CD8 + phenotype with a moderate inflammatory profile compared to industry-standard expanders. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager",
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-06-25",
+      "date_window_start": "2026-06-18",
+      "date_window_end": "2026-06-25",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.13.26355596v1",
+      "date": "2026-06-23",
+      "abstract": "Abstract Study Objectives: Onsets of Narcolepsy type-1 (NT1) increased following A/H1N1 vaccination with PandemrixTM in Europe and with A/H1N1pdm2009 infections in China and other countries. To test if other strains could trigger narcolepsy, we measured strain-specific antibodies in patients with recent onset NT1 compared to controls. Methods: Antibodies against hemagglutinin (HA) and neuraminidase (NA) were tested in 62 patients with very recent onset (onset and blood collection following a single flu season, mean +/- SEM: 0.44 +/- 0.06 years since onset) and 100 controls matched by age, sex, season and year of collection (2000-2025). Results were next extended to 181 recent onset patients (mean +/- SEM: 1.00 +/- 0.05 years) versus 260 controls, matched by sex, season and year, but having a slightly higher mean age. HA inhibition (HAI) and NA inhibition (NAI) assays were conducted using flu strains known to circulate during the corresponding flu seasons. HAI results are shown as % positive (titers >= 40) and NAI results as geometric mean titers. Odds ratio (OR) and coefficient were used to compare antibody titers in NT1 versus controls. The contribution of each assay to prediction was finally quantified in the larger sample set using Shapley decomposition. Results: NT1 patients had increased anti-HA and anti-NA antibodies against A/H1N1pdm2009 (anti-HA OR = 3.86, anti-NA coefficient = 0.35) and B/Victoria (anti-HA OR =1.90, anti-NA coefficient = 0.22), but not A/H1N1pre2009, A/H3N2, or B/Yamagata, independent of HLA-DQB1*06:02 status, age, sex, and flu season. Correlations between anti-HA and anti-NA antibodies titers were weak to moderate but significant (r2=-0.10 to 0.34). Multivariable model outperformed age-only baseline (McFadden R2 = 0.19 vs. 0.03; AUC = 0.79 vs. 0.64; likelihood-ratio test X2 = 51, p<0.001), with anti-HA against A/H1N1pdm2009 (coefficient = 0.78, p < 0.001) and anti-NA against B/Victoria (coefficient = 0.69, p < 0.001) emerging as the strongest independent predictors. Conclusions: A/H1N1pdm2009 and B/Victoria, but not other strains can trigger the autoimmune process leading to orexin cell loss in narcolepsy. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-25",
+      "date_window_start": "2026-06-18",
+      "date_window_end": "2026-06-25",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.22.26356281v1",
+      "date": "2026-06-24",
+      "abstract": "Abstract IgA nephropathy (IgAN), IgA vasculitis (IgAV), focal segmental glomerulosclerosis (FSGS), membranous nephropathy (MN), and minimal change disease (MCD) account for the majority of idiopathic glomerulo-nephropathies (GN). These disorders involve immune system dysregulation and have a complex genetic architecture. Currently, there are no adequately powered blood transcriptomic datasets coupled to genetic data from patients with GN that can delineate disease-context specific genetic effects on blood immune cell transcriptome. We performed whole genome sequencing coupled with bulk blood transcriptome sequencing on 1,822 participants from the CureGN study, a prospective cohort of participants with a kidney biopsy diagnosis of primary GN. We generated disease-context specific transcriptome-wide maps of gene expression QTL (eQTL), splicing QTL (sQTL), and double strand RNA-editing QTL (edQTL) for FSGS (N=447), IgAN (N=403), IgAV (N=123), MCD (N=408), and MN (N=441), as well as cross-disease maps for all 1,822 participants. Our QTL mapping identified 16,068 eGenes, 4,644 sGenes and 4,611 edQTLs with an FDR<0.05 in at least one GN type. Approximately 5-10% of the QTL signals were unique to a specific GN type, while ~90% were shared between at least two conditions. Colocalization analysis demonstrated that ~80% of shared eGenes between traits also shared the same causal variants, whereas ~2% had distinct causal variants, suggesting context-specific regulatory effects. Cross-phenotype QTL mapping uncovered 6,466 eGenes, 2,705 sGenes and 5,321 edQTLs not previously detected in GTEx. Age, eGFR, and proteinuria-interaction QTL analyses identified hundreds of loci modified by age and disease severity. Lastly, integrative analyses with GWAS nominated new candidate genes for each of the five GN types under study. In summary, we generated comprehensive maps of GN-context-specific genetic effects on blood transcriptome, providing a powerful resource for integrative gene discovery studies of primary GN. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-25",
+      "date_window_start": "2026-06-18",
+      "date_window_end": "2026-06-25",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.02.05.26345662v2",
+      "date": "2026-06-24",
+      "abstract": "Abstract Background Influenza vaccination and bacterial colonization both shape immunity in the respiratory tract, yet their combined impact on the human lung mucosa remains poorly understood. Secondary bacterial pneumonia following influenza infection is a leading cause of mortality, underscoring the need to define how vaccines and microbes intersect at the airway interface. Methods Using the Experimental Human Pneumococcal Challenge (EHPC) model, we examined how intramuscular inactivated (TIV) and nasal live attenuated (LAIV) influenza vaccines, with or without Streptococcus pneumoniae colonization, modulate lower airway immunity. Bronchoalveolar lavage samples from 22 adults were profiled by single-cell RNA-seq (>40,000 cells), flow cytometry, cytokine multiplexing, and macrophage functional assays. Findings LAIV recipients who became colonized with S. pneumoniae displayed heightened influenza-specific CD4+ T cell responses and enhanced alveolar macrophage (AM) opsonophagocytic activity, showing that nasal bacterial colonization can act as natural mucosal adjuvant. Single-cell transcriptomics revealed four AM gene modules; among them, an interferon-driven \"anti-microbial\" program correlated with enhanced phagocytosis, whereas a complement- and antigen-presentation module associated with IFNy-iNOS/ROS signaling was attenuated in colonized vaccinees. Given that AMs are poor antigen-presenting cells, this shift likely reflects reprogramming toward cytokine-mediated immune modulation rather than direct T cell activation. The elevated influenza-specific CD4+ T cell responses may instead represent feedback from enhanced local activation. Together, these data indicate that vaccination and colonization synergize to rewire AM-T cell communication, fine-tuning antiviral and antibacterial defenses. Similar transcriptional perturbations in public COVID-19 and lung cancer datasets underscore the broader relevance of these macrophage modules across lung disease contexts. Conclusions Our findings define how influenza vaccination and pneumococcal colonization converge in the human lung to reprogram AM-T cell crosstalk, enhancing local immune responses and protective immunity. By uncovering conserved macrophage modules and mechanisms that shape mucosal defense, this study provides a framework for designing next-generation respiratory vaccines and strategies to mitigate post-viral bacterial pneumonia. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-25",
+      "date_window_start": "2026-06-18",
+      "date_window_end": "2026-06-25",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.22.26354817v1",
+      "date": "2026-06-24",
+      "abstract": "Abstract Background: GBM is one of the most common and most aggressive brain tumors in adults, and upfront standard of care treatment has limited efficacy. Immune checkpoint inhibitor strategies have significantly improved outcomes in various solid tumors but have not proven effective in GBM, suggesting other strategies may be needed to realize their full potential. Methods: GBM patients were treated with upfront standard of care chemoradiation with temozolomide and pembrolizumab, followed by adjuvant temozolomide and pembrolizumab for six nine-week cycles. Depending on production of sufficient vaccine, patients were randomized into HSPPC-96 vaccine or placebo group (q4 weeks) while those with failed vaccine production continued on study unblinded as an ancillary group. The primary objective was overall survival at one year, and secondary endpoints were progression-free survival at six months, overall and progression-free survival, radiographic response, and tolerability by patient-reported outcomes and adverse event documentation. Results: 90 patients were screened, 32 were treated (8 vaccine, 9 placebo, 15 ancillary), and 26 were evaluable for radiographic responses prior to accrual termination. The study did not meet its primary endpoint of overall survival at one year (65.5% in vaccine group, 75% in placebo). Progression-free endpoints were mildly improved in the vaccine group but were not significant, and response rates were not significantly different. The regimen was well-tolerated and safe. Conclusions: Though limited by early discontinuation, these findings do not support the combination of pembrolizumab and HSPPC-96 vaccine with standard of care therapy. Trials Registration: ClinicalTrials.gov identifier: NCT03018288 ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-25",
+      "date_window_start": "2026-06-18",
+      "date_window_end": "2026-06-25",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.18.26355881v1",
+      "date": "2026-06-23",
+      "abstract": "Abstract Background Despite high vaccination coverage, pertussis has resurged globally. Whole-cell (wP) and acellular (aP) pertussis vaccines induce distinct immune profiles, yet immune correlates of protection against infection and symptomatic disease remain incompletely defined. We leveraged a controlled human infection model (CHIM) to identify systemic and mucosal humoral signatures associated with resistance to Bordetella pertussis . Methods Adults with documented history of vaccination had previously been enrolled in a CHIM study and challenged intranasally with B. pertussis D420. For the present work, longitudinal serum and nasal wash samples were analyzed using systems serology to comprehensively profile antibody features. Multivariate modeling and network analyses were performed to define discriminatory immune features. Findings Baseline aP vaccine antigen–specific antibodies did not distinguish infection outcomes. In wP-primed individuals, protection from B. pertussis infection was associated with broad, high-magnitude, polyfunctional antibody responses targeting non–canonical antigens, including BrkA, TcfA, OmpP, OmlA, FauA, and Pal. Protective signatures associated with resistance to symptomatic disease in both vaccine groups were characterized by enhanced Fc-receptor-engaging antibody profiles with distinct antigenic patterns shaped by vaccine history. Importantly, while conventional aP vaccine antigens failed to reliably distinguish individuals susceptible to infection or symptom development, correlates generated by integrated serum and mucosal models based on select non-canonical antigens achieved near-perfect discrimination of infection and symptom outcomes, outperforming models restricted to aP-vaccine. antigens only. Interpretation Resistance to infection was largely restricted to wP-primed individuals and was associated with integrated systemic and mucosal antibody responses directed against antigens beyond those included in acellular vaccines. Protection from symptomatic disease in both vaccine groups was linked to distinct antibody response signatures, shaped by prior vaccination history. These findings indicate that immune mechanisms preventing infection differ from those limiting clinical disease and provide a framework for redesign of next-generation pertussis vaccines aimed at blocking infection and symptomatic disease. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-06-25",
+      "date_window_start": "2026-06-18",
+      "date_window_end": "2026-06-25",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2025.12.26.25343061v4",
+      "date": "2026-06-24",
+      "abstract": "Abstract Physical activity is among the most robust epidemiological correlates of reduced mortality and multi-morbidity, yet the molecular mechanisms through which exercise exerts these effects in humans remain incompletely resolved. This study combines causally-anchored multi-omic Mendelian Randomisation (MR) with graph-based deep learning for gene prioritisation in human exercise-ageing biology, using accelerometer-derived vigorous physical activity (VPA) in the UK Biobank as exposure. Combining multi-omic MR across five molecular layers, it asks whether causal inference and deep learning can recover exercise-responsive and potentially ageing-causal genes that were independently identified in prior studies. Enrichment for experimentally exercise-responsive genes was undetectable in the raw MR signal (p = 0.97) yet was recovered by the graph model (p = 0.007, reproducible across all initialisations); and the convergence between VPA MR-anchored and ageing-causal genes (significant on its own at 1.6-fold; p = 0.023) was likewise recovered by the graph model where p-value and effect-size ranking could not. The model further reproduced established acute exercise-responsive immune and lipid-metabolic programmes, supporting its recovery of genuine signal. Extending the prioritised genes to formal causal testing, systematic cis-MR with colocalisation across the eight convergent genes and four ageing outcomes identified cathepsin F (CTSF) as causally associated with exceptional longevity, with concordant positive estimates in the protein and LD-clumped expression arms and colocalisation support at the protein level. The contribution is therefore twofold: a model-free, like-for-like convergence between exercise-anchored and ageing-causal genes; and a graph-based method that recovers this convergence, together with exercise-responsive biology, beyond the reach of per-gene MR ranking. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
