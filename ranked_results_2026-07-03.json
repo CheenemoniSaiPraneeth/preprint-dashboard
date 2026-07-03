@@ -1,0 +1,179 @@
+{
+  "bispecific_antibodies": [
+    {
+      "date_scraped": "2026-07-03",
+      "date_window_start": "2026-06-26",
+      "date_window_end": "2026-07-03",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.24.26356444v1",
+      "date": "2026-06-26",
+      "abstract": "ABSTRACT Background Despite widespread vaccination, Bordetella pertussis ( B. pertussis ) continues to re-emerge globally, highlighting critical gaps in our understanding of vaccine-induced protective immunity. Controlled human infection models (CHIMs) offer a powerful platform to interrogate host-pathogen interactions in vivo , define correlates and mechanisms of protection, and inform next-generation pertussis vaccine design. Methods This open-label, phase 1, dose-escalation CHIM trial ( NCT05136599 ) was conducted at the Canadian Center for Vaccinology (Nova Scotia, Canada). Healthy adults aged 18-40 years with distinct infant vaccination histories (whole cell [wP] vs acellular [aP]) and low pre-existing antibody levels (anti-pertussis toxin ≤20 U/mL) were intranasally inoculated with B. pertussis isolate D420. Blood, serum, plasma, peripheral blood mononuclear cells (PBMCs), nasopharyngeal aspirates (NPA), and nasal washes (NW) were collected at baseline and multiple time points post-challenge. Multicolor flow cytometry assay was used to profile innate cellular immune responses, while Luminex-based assays were employed to quantify cytokines, chemokines and cytolytic molecules in NW samples and complement proteins in plasma samples. PBMC samples collected at selected timepoints were stimulated with heat-killed (HK) B. pertussis in vitro for assessing natural killer (NK) cell activation, effector function and maturation. Data from 59 participants receiving 10⁶ - 10 8 colony-forming units (CFU) were analysed according to clinical outcome (non-infected, asymptomatic, symptomatic), sex, and vaccination history. Findings Although infection and symptom development followed a dose-dependent pattern, 20.34% (12/59) of participants remained non-infected and had no evidence of seroconversion across all challenge doses, suggesting the existence of intrinsic resistance enabling spontaneous clearance of infection. Notably, 91.7% (11/12) of non-infected participants were wP-immunized whereas 69.5% (16/23) of aP-immunized participants developed clinical symptoms. Innate immune profiling revealed distinct immune signatures emerging within 1–3 days after challenge among CHIM participants with different clinical outcomes. Non-infected participants exhibited sustained expansion of circulating NK cells together with early mucosal production of granzyme A, granzyme B, IL-29 (type III interferon lambda 1), and MCP-2, connecting rapid cytotoxic and antiviral-like effector programming with spontaneous clearance. In contrast, symptomatic participants displayed robust early complement activation and mucosal production of eotaxin-2 and MIP-1δ, accompanied by broad expansion of monocytes, eosinophils, and NK cells as well as depletion of circulating neutrophils in peripheral blood. Asymptomatic individuals exhibited an intermediate phenotype characterized by early I-TAC and TRAIL production with concurrent depletion of circulating neutrophils. In vitro assays further demonstrated that B. pertussis directly induced NK cell activation and degranulation, promoting production of granzymes, perforin, and IFN-γ together with CD16 upregulation. Importantly, NK-cell subset mapping revealed a hierarchical pattern linking NK-cell maturation states to clinical outcomes. Non-infected participants were enriched for adaptive/memory-like NK cells and highly cytotoxic NK1C subsets, whereas symptomatic participants exhibited marked attenuation of NK-cell maturation and expansion of immature NK2 subset. Interpretation Our results demonstrate that distinct early innate immune programs are associated with divergent clinical trajectories following B. pertussis challenge. Robust type 1 memory-like NK-cell responses likely serve as an effective first line of defense, promoting spontaneous bacterial clearance through direct cytotoxicity and antibody-dependent cellular cytotoxicity (ADCC) in non-infected participants. In contrast, increased production of type 2 inflammatory m",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 3,
+      "secondary_keyword_hits": 0,
+      "score": 3
+    },
+    {
+      "date_scraped": "2026-07-03",
+      "date_window_start": "2026-06-26",
+      "date_window_end": "2026-07-03",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.23.26356089v1",
+      "date": "2026-07-01",
+      "abstract": "Abstract Background CD19-directed CAR-T cell therapy can induce durable remissions in chronic lymphocytic leukemia (CLL), but response rates are lower than in other B-cell malignancies, in part because CLL is characterized by T-cell dysfunction, defective immune synapse formation, and impaired target-cell co-stimulation. Lenalidomide is an immunomodulatory drug with the potential to act on both sides of the CAR-T/CLL interface by improving T-cell fitness and modifying malignant B-cell susceptibility to immune engagement. Methods We are conducting an open-label, non-randomized phase I/II clinical trial VTB-CLL002 (ClinicalTrials.gov identifier: NCT06762431 ) evaluating the safety and efficacy of CD19 CAR-T cell therapy combined with concomitant lenalidomide in patients with relapsed or refractory CLL and small lymphocytic lymphoma followed by lenalidomide maintenance. The primary endpoint was safety. The secondary endpoint included overall response rate (ORR), complete response (CR), progression-free survival (PFS) and overall survival (OS). Results Twelve patients were treated. The median age was 60 years and the median number of prior lines of therapy was 2. All patients were BTK inhibitor-naive, and all had measurable disease at the time of infusion. CAR-T manufacturing was successful in all patients. All treated patients achieved complete remission, with a median time to response of 1 month. CAR T-cells expansion was observed in all patients, with a median peak expansion of 137 cells/μL and a median time to peak expansion of 14 days. CAR T-cells remained detectable at the last follow-up in all patients, with persistence documented up to 24 months. At dose levels 2-3, eight of nine patients had ongoing MRD-negative responses at the time of analysis. Toxicity was clinically meaningful. Cytokine release syndrome (CRS) occurred in all patients, with severe CRS observed in 2 of 12 patients. ICANS occurred in 5 of 12 patients, including severe ICANS in 4 of 12 patients. One patient developed late grade 4 ICANS temporally associated with lenalidomide reintroduction and secondary CAR-T expansion. Early and late immune effector cell-associated hematotoxicity were common. In mechanistic studies, lenalidomide enhanced CAR-T proliferation and cytotoxicity, shifted CAR-T cells toward effector-associated phenotypes, reduced selected exhaustion markers during repeated antigen challenge, and increased IL-2 and IFN-γ secretion. Lenalidomide also increased CAR-T/CLL conjugate formation and upregulated CD54/ICAM-1 on CLL target cells without broad induction of CD80, CD86, or CD40, consistent with improved adhesive target-cell engagement rather than classical co-stimulation. Transcriptomic profiling supported enhanced Th1/cytotoxic and T-cell activation-associated programs with lower T reg -associated genes in lenalidomide-treated CAR-T cells. Conclusions Lenalidomide-augmented CD19 CAR-T therapy demonstrated strong early clinical activity in relapsed/refractory CLL, characterized by deep responses, durable CAR-T persistence, and substantial incidence of immune effector-associated toxicities. These findings support further evaluation of lenalidomide as a rational CAR-T partner in CLL and suggest that its activity may involve both improved CAR-T fitness and enhanced target-cell engagement. Future studies should optimize lenalidomide timing and dosing to preserve response depth while reducing delayed immune-effector toxicity. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [
+        "immune synapse"
+      ],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 1,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-07-03",
+      "date_window_start": "2026-06-26",
+      "date_window_end": "2026-07-03",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.02.02.26345340v2",
+      "date": "2026-06-30",
+      "abstract": "Abstract Background How frailty limits initial therapy in non-small-cell lung cancer (NSCLC) remains poorly understood and was the focus of this study. Methods 2592 consecutive patients with metastatic NSCLC between 2018-2023 in Heidelberg were retrospectively analyzed. Results Systemic therapy was initiated in 74% of patients with PD-L1 0-49% (n=1306) vs. 79% with PD-L1 ≥50% (n=507, p=0.014), in whom the availability of monoimmunotherapy reduced best supportive care by own choice (1.8% vs. 4.5%, p=0.005), or for medical reasons (mBSC 14.6% vs. 17.8%, p=0.11), while early death remained unchanged ( ca. 4%). 70% of patients receiving mBSC were initially treatable but suffered deterioration associated with comorbidities, metastatic burden, or protracted workup (p<0.001). The atezolizumab Summary of Medicinal Product Characteristics (SmPC) criteria, i.e. >80 years, or ECOG performance status (PS) ≥3, or comorbidities with PS ≥2 or age ≥70, were fulfilled by 38% (n=501) and associated with >3x higher risk of death without therapy (230/501), as well as higher toxicity and shorter survival under platinum, which for a platinum dose ratio ≤60% across 4 cycles (9% of 1306) resembled that with single-agent chemotherapy (median 5.1 months, p<0.001). SmPC criteria correlated better with platinum use than comorbidity scores, but predictability for individual patients remained modest (AUC 0.71, p<0.001). Conclusions The high initial attrition of 26% in NSCLC improved with availability of monoimmunotherapy, but also requires better patient workflows for further mitigation. Adoption of the SmPC criteria could support identification of patients at risk for mBSC or platinum overtreatment to enhance utilization of novel platinum-free first-line options. Highlights ⍰ A high initial attrition of 25% is caused by deterioration after diagnosis in NSCLC ⍰ Monoimmunotherapy and optimized workflows could cut pretherapeutic attrition to 10% ⍰ SmPC criteria indicate higher risk for BSC (>3x) and platinum overtreatment ⍰ Higher toxicity and shorter survival for SmPC vs. non-SmPC patients with platinum ⍰ Better therapeutic allocation is key for upfront use of novel platinum-free options ",
+      "searched_keywords_found_duplicates": [
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-03",
+      "date_window_start": "2026-06-26",
+      "date_window_end": "2026-07-03",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.26.26356649v1",
+      "date": "2026-06-29",
+      "abstract": "Abstract The innate immune system controls bacterial growth and modulates inflammation during wound healing. TCP-25 is a synthetic thrombin-derived host-defense peptide that combines direct antibacterial activity with neutralization of microbial products and modulation of CD14-dependent inflammatory signaling. We investigated whether this dual mechanism translates to human wounds using longitudinal samples from 24 healthy volunteers enrolled in a randomized, double-blind, within-participant, placebo-controlled phase I dose-escalation study of topical TCP-25 gel in matched epidermal suction blister wounds. We assessed inflammatory cytokines, neutrophil-derived proteins, wound exudation, cultivable bacterial burden, spatial bacterial distribution, and microbiome composition. TCP-25 reduced multiple cytokines, myeloperoxidase, and heparin-binding protein, with the strongest effects observed during the peak inflammatory phase. These changes were accompanied by reduced wound exudation and significant reductions in cultivable bacterial burden. Despite this antibacterial effect, microbiome composition and diversity remained largely unchanged, and participant-specific microbial profiles were preserved. TCP-25 therefore coordinated bacterial control, modulation of the physiological inflammatory response, and reduced wound leakage without major disruption of the resident microbiota composition. These findings provide clinical support for translating nature’s endogenous host-defense principles into new therapies for complex wounds. Trial registration ClinicalTrials.gov NCT05378997 ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-03",
+      "date_window_start": "2026-06-26",
+      "date_window_end": "2026-07-03",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.16.26354238v1",
+      "date": "2026-06-26",
+      "abstract": "Abstract Inflammatory bowel disease (IBD) burden is rising globally, yet only subsets of patients benefit from available therapies, underscoring the need for more precise molecular and cellular stratification. In the PREDICT study, we enrolled treatment-naïve pediatric patients with IBD, alongside disorders of gut–brain interaction (DGBI) controls and healthy donors, and profiled their intestinal and blood-derived T cells using single-cell RNA sequencing (scRNA-seq). Across 107 participants, we identify a unique population of cytotoxic CD4⁺ T cells (CD4 CTL) enriched in the inflamed gut of patients with Crohn’s disease (CD) and ulcerative colitis. CD4 CTLs are clonally expanded and express cytotoxic effector molecules and IFNG , consistent with antigen-driven activation. Cell–cell interaction analyses implicate macrophage-derived IL-27 as the top candidate for CD4 CTL differentiation, and IL-27 blockade in a mouse model limits CD4 CTL formation. Notably, elevated CD4 CTL frequencies in gut and peripheral blood at diagnosis are associated with subsequent poor outcome of anti-TNF therapy in pediatric CD. Findings in our identification cohort are validated in an independent cohort and through reanalysis of published datasets. Importantly, we designed a simple flow cytometry panel to isolate blood CD4 + CXCR6 + CD27 - T cells, which displayed a CD4 CTL transcriptional phenotype. Together, our results link CD4 CTLs to anti–TNF nonresponse and support their potential as an early, blood-accessible biomarker for treatment stratification in pediatric CD. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-03",
+      "date_window_start": "2026-06-26",
+      "date_window_end": "2026-07-03",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.02.26352058v2",
+      "date": "2026-06-30",
+      "abstract": "SUMMARY Induction of HIV broadly neutralizing antibodies (bnAbs) is a major vaccine goal. We evaluated in a Phase I trial the immunogenicity of a transmitted/founder (TF) envelope trimer designed to prime the heavy chain third complementarity determining region (CDRH3)-dominant class of CD4-binding site (CD4bs) HIV bnAb precursors. B cells producing neutralizing antibodies were isolated from all participants. CD4bs-directed, CDRH3-dominant candidate bnAb precursors were identified in 73% of vaccinees, including one lineage with heterologous neutralization of global HIV isolates. Structural studies elucidated the epitopes of CD4bs CDRH3-dominant, non-CD4bs V1/V3-directed, and gp120/gp41 interface-targeting neutralizing antibodies. Thus, a TF Env trimer can prime a diverse, polyclonal neutralizing B cell repertoire in humans, providing multiple B cell lineages for advancement by sequential boosting toward HIV bnAb breadth. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-03",
+      "date_window_start": "2026-06-26",
+      "date_window_end": "2026-07-03",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.15.26355542v1",
+      "date": "2026-06-26",
+      "abstract": "Summary Dengue remains a major global health threat, with over 390 million annual infections. The development of safe, effective, and broadly protective vaccines has been hindered by the need for tetravalent coverage and the risk of antibody-dependent enhancement (ADE). Qdenga (TAK-003) is the only dengue vaccine currently widely available globally, yet its immunological profile remains incompletely defined. Here, we characterized humoral and cellular responses, assessing the impact of the vaccine backbone and immune imprinting on vaccine-induced immunity. We conducted a longitudinal immunological study in 110 adults from a dengue-endemic region, stratified by baseline DENV serostatus, sex, and age, including older adults (≥65 years), a population excluded from efficacy trials. Plasma and PBMCs were collected before and up to five months after Qdenga vaccination to assess neutralizing antibody titers, B cell dynamics, and virus-specific T cell responses. Although Qdenga elicited B and T cell activation and memory formation across groups, our findings revealed serostatus-dependent and serotype-skewed humoral immunity. Only 8% of DENV-naïve individuals developed tetravalent responses, while one-third responded to a single serotype, almost exclusively DENV-2, the vaccine backbone. In contrast, DENV-previously exposed individuals mounted broader responses shaped by baseline serotype-specific immunity, yet neutralization against DENV-4 remained uniformly poor. Neutralizing antibody titers plateaued after the first vaccination, with no substantial increase following the second dose. These findings clarify why balanced tetravalent immunity is rarely achieved with Qdenga and demonstrate that both immune imprinting and vaccine backbone skewing limit the breadth and magnitude of the responses. This has important implications for deployment strategies, long-term protection in DENV-naïve populations, and the need for booster strategies focusing on tetravalent coverage, especially for DENV-4. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-03",
+      "date_window_start": "2026-06-26",
+      "date_window_end": "2026-07-03",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.24.26356484v1",
+      "date": "2026-06-29",
+      "abstract": "Abstract Background Open defecation remains a major public health challenge in Ghana and across sub-Saharan Africa, with persistent rural–urban inequalities undermining progress toward Sustainable Development Goal 6.2 (SDG 6.2). Despite two decades of national sanitation programming, structural and equity barriers continue to constrain progress. A repeated cross-sectional analyses combining WHO-standardised inequality measures, temporal trend modelling, and projections remain absent from the literature for Ghana. Methods National, rural, and urban open defecation prevalence (2000–2024) was analysed using WHO Health Equity Assessment Toolkit (HEAT) data. Four inequality measures: Difference, Ratio, Population Attributable Risk (PAR), and Population Attributable Fraction (PAF), quantified rural–urban disparities. Joinpoint regression identified statistically significant trend inflection points across MDG and SDG eras. ARIMA models projected prevalence to 2030 under status quo, accelerated, and decelerated scenarios; hold-out validation confirmed high forecast accuracy across all series (MAPE <1%). Results National prevalence declined from 20.31% to 17.79% (AAPC: −0.55%, p<0.001), with a joinpoint at 2016 (95% CI: 2015–2017) after which decline slowed during the SDG era. Rural prevalence rose marginally (AAPC: +0.07%) with no significant joinpoints across the 25-year period; urban prevalence also increased (AAPC: +0.76%). Rural prevalence exceeded urban more than threefold by 2024 (R=3.38); PAF improved from −62.62% to −48.85%, indicating a substantial national burden attributable to rural disadvantage. Under the status quo scenario, national and rural prevalence are projected at 17.24% and 30.88% by 2030, far exceeding the SDG 6.2 threshold. Conclusion Despite modest national progress, substantial rural–urban inequalities remain entrenched, and Ghana is unlikely to achieve SDG 6.2 under current trajectories. Accelerated, equity-focused interventions targeting structurally disadvantaged rural populations are urgently required to reduce sanitation inequalities and improve health outcomes. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-03",
+      "date_window_start": "2026-06-26",
+      "date_window_end": "2026-07-03",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.16.26351017v2",
+      "date": "2026-06-26",
+      "abstract": "ABSTRACT Intermuscular adipose tissue expansion is closely associated with cardiometabolic disease, yet its cellular organization and regulatory mechanisms remain poorly defined. Using bulk transcriptomics on human intermuscular adipose tissue, we identified a distinct gene signature and functional regulators including adipogenic transcription factor early B-cell factor 2 (EBF2). By mapping this human signature to the spatial transcriptome of intermuscular adipose tissue from mice with cardiometabolic disease, we unraveled discrete stromal niches surrounding muscle fibers, characterized by intermuscular adipose tissue expansion and the coordinated activation of adipogenic, extracellular matrix, inflammatory, and metabolic pathways. Spatial analyses showed that fibro-adipogenic progenitor abundance does not predict adipocyte formation, supporting a model of localized and context-dependent lineage transitions. Cross-species comparison revealed partial conservation of human intermuscular adipose tissue gene programs, validating the mouse model and highlighting species-specific features. Functional experiments in human primary myoblasts showed that EBF2 is sufficient to induce adipogenic reprogramming. Our findings establish intermuscular adipose tissue as an active, spatially organized remodeling niche and identify lineage plasticity as a central mechanism driving its expansion in metabolic disease. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
