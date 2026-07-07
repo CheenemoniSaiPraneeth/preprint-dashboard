@@ -1,0 +1,206 @@
+{
+  "bispecific_antibodies": [
+    {
+      "date_scraped": "2026-07-07",
+      "date_window_start": "2026-06-30",
+      "date_window_end": "2026-07-07",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.02.26357107v1",
+      "date": "2026-07-06",
+      "abstract": "Abstract Immunotherapies have become a transformative therapeutic strategy for many cancer types in recent years. Bispecific T-cell engagers (BiTEs) are one promising immunotherapy that enhances cellular antitumour immunity by redirecting T cells towards cancer cells. Recent evidence suggests that BiTE efficacy can be augmented by encoding BiTEs in oncolytic measles virus vectors (MV-BiTE). Infection of cancer cells with MV-BiTE causes the local production of BiTEs and has shown safety and efficacy in murine tumour models. However, whether the observed efficacy of this treatment will translate to a heterogeneous human population is unknown. In this work, we generate an in silico clinical trial of MV-BiTE therapy using a system of ordinary differential equations. We capture potential heterogeneity of individual patients using variability in in vivo tumour volume and change in baseline (%) measurements from a Phase II clinical trial. In lieu of human MV-BiTE data, we use the oncolytic virus talimogene laherparepvec (T-VEC) as a surrogate oncolytic virus carrying an immunostimulatory payload. Our predictions imply that the main drivers of heterogeneity are the underlying effector T cell killing rate and BiTE pharmacokinetics. Furthermore, we find that if individuals are classified as non-responders to the Phase II T-VEC clinical protocol, they may respond to more frequent administration of lower dosages. This work highlights how in silico clinical trials can provide predictions for novel therapeutics to generate hypotheses and guide the design of treatment schedules for clinical translation. ",
+      "searched_keywords_found_duplicates": [
+        "BiTE",
+        "T-cell engager",
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [
+        "bispecific",
+        "BiTE",
+        "T-cell engager"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 11,
+      "secondary_keyword_hits": 0,
+      "score": 13
+    },
+    {
+      "date_scraped": "2026-07-07",
+      "date_window_start": "2026-06-30",
+      "date_window_end": "2026-07-07",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.03.26357002v1",
+      "date": "2026-07-04",
+      "abstract": "Abstract Background Growing evidence suggests that the gut microbiome influences nasal and ocular allergic inflammation through gut-mucosal immune interactions. Yet, its association with Allergic rhinitis (AR) and allergic eye symptoms (AES) remains incompletely understood in large population-based cohorts. Objective To examine associations between the gut microbiome and self-reported AR and AES in Finnish adults. Methods Shallow metagenomic sequencing was performed on stool samples from a population-based cohort (FINRISK02; n = 7,231). Microbial taxonomic and functional profiles were compared between individuals with AR (n = 1,950), AES (n = 1,554), combined allergies (AR and/or AES; n = 2,305), and controls without reported symptoms (n = 3,175). Results Allergic groups exhibited lower microbial richness and phylogenetic diversity than controls. Shared microbial and functional signatures were observed across AR and AES, consistent with their high co-occurrence (N = 1,199). Compared with controls, allergic groups showed enrichment of 17 bacterial species, predominantly from the Clostridia class, including taxa previously associated with asthma, chronic obstructive pulmonary disease, and atopic dermatitis. Allergic individuals also exhibited enrichment of pathways related to mucosal carbohydrate processing, shikimate metabolism, histidine turnover, and broader amino acid metabolism. Concurrent enrichment of histidine biosynthesis and degradation suggested altered microbial histidine metabolism. Conclusions Adult allergic symptoms are associated with gut microbiome taxonomic and functional alterations linked to mucosal barrier function and immune-related metabolism, supporting a shared gut-mucosal immune axis across allergic phenotypes. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 2,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-07-07",
+      "date_window_start": "2026-06-30",
+      "date_window_end": "2026-07-07",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.23.26356089v1",
+      "date": "2026-07-01",
+      "abstract": "Abstract Background CD19-directed CAR-T cell therapy can induce durable remissions in chronic lymphocytic leukemia (CLL), but response rates are lower than in other B-cell malignancies, in part because CLL is characterized by T-cell dysfunction, defective immune synapse formation, and impaired target-cell co-stimulation. Lenalidomide is an immunomodulatory drug with the potential to act on both sides of the CAR-T/CLL interface by improving T-cell fitness and modifying malignant B-cell susceptibility to immune engagement. Methods We are conducting an open-label, non-randomized phase I/II clinical trial VTB-CLL002 ( ClinicalTrials.gov identifier: NCT06762431 ) evaluating the safety and efficacy of CD19 CAR-T cell therapy combined with concomitant lenalidomide in patients with relapsed or refractory CLL and small lymphocytic lymphoma followed by lenalidomide maintenance. The primary endpoint was safety. The secondary endpoint included overall response rate (ORR), complete response (CR), progression-free survival (PFS) and overall survival (OS). Results Twelve patients were treated. The median age was 60 years and the median number of prior lines of therapy was 2. All patients were BTK inhibitor-naive, and all had measurable disease at the time of infusion. CAR-T manufacturing was successful in all patients. All treated patients achieved complete remission, with a median time to response of 1 month. CAR T-cells expansion was observed in all patients, with a median peak expansion of 137 cells/µL and a median time to peak expansion of 14 days. CAR T-cells remained detectable at the last follow-up in all patients, with persistence documented up to 24 months. At dose levels 2–3, eight of nine patients had ongoing MRD-negative responses at the time of analysis. Toxicity was clinically meaningful. Cytokine release syndrome (CRS) occurred in all patients, with severe CRS observed in 2 of 12 patients. ICANS occurred in 5 of 12 patients, including severe ICANS in 4 of 12 patients. One patient developed late grade 4 ICANS temporally associated with lenalidomide reintroduction and secondary CAR-T expansion. Early and late immune effector cell-associated hematotoxicity were common. In mechanistic studies, lenalidomide enhanced CAR-T proliferation and cytotoxicity, shifted CAR-T cells toward effector-associated phenotypes, reduced selected exhaustion markers during repeated antigen challenge, and increased IL-2 and IFN-γ secretion. Lenalidomide also increased CAR-T/CLL conjugate formation and upregulated CD54/ICAM-1 on CLL target cells without broad induction of CD80, CD86, or CD40, consistent with improved adhesive target-cell engagement rather than classical co-stimulation. Transcriptomic profiling supported enhanced Th1/cytotoxic and T-cell activation-associated programs with lower T reg-associated genes in lenalidomide-treated CAR-T cells. Conclusions Lenalidomide-augmented CD19 CAR-T therapy demonstrated strong early clinical activity in relapsed/refractory CLL, characterized by deep responses, durable CAR-T persistence, and substantial incidence of immune effector-associated toxicities. These findings support further evaluation of lenalidomide as a rational CAR-T partner in CLL and suggest that its activity may involve both improved CAR-T fitness and enhanced target-cell engagement. Future studies should optimize lenalidomide timing and dosing to preserve response depth while reducing delayed immune-effector toxicity. Key points Key point 1 Lenalidomide may improve CD19 CAR-T activity in CLL by acting on both CAR-T cells and CLL cancer cells, enhancing immune synapse formation and effector function. Key point 2 In 12 R/R CLL patients, combination therapy with lenalidomide and CD19 CAR-T cells demonstrated a high complete remission rate, frequent MRD negativity, and durable persistence, despite a high but manageable incidence of ICANS. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [
+        "immune synapse"
+      ],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 2,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-07-07",
+      "date_window_start": "2026-06-30",
+      "date_window_end": "2026-07-07",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.02.26357118v1",
+      "date": "2026-07-06",
+      "abstract": "Abstract Despite the superior efficacy of high-dose influenza vaccines, over one-third of older adults fail to respond. Yet, the mechanisms underlying this impaired vaccine responsiveness remain poorly understood. Here, we performed longitudinal profiling of older adults (n=60) receiving high-dose influenza vaccination to identify immune programs associated with vaccine responsiveness. Strong responders exhibited a primed baseline immune state characterized by elevated plasma cytokines and chemokines, followed by enhanced IFN-γ responses and coordinated transcriptional and epigenetic activation of cDC2 cells at day 1. By day 7, CD4 + T-cell trajectories diverged: strong responders preferentially expanded influenza-specific activated cTfh1 (CXCR5+ CXCR3+ ICOS+ CD38+) and influenza-specific Th10 (CXCR5 − CXCR3+ PD1+ IL10 + ) cells, whereas weak responders expanded regulatory cTfr (CXCR5 + FOXP3 + ) cells. Th10 expansion correlated with plasmablast and antibody responses and was independently validated in a larger influenza vaccination cohort, including younger adults. Functionally, Th10 cells promoted memory B-cell differentiation into plasmablasts and production of influenza-specific IgGs. TCR analyses revealed minimal clonal overlap between Th10 and cTfh1 cells. Together, these findings identify divergent helper and regulatory CD4 + T cell programs associated with vaccine responsiveness and establish Th10 cells as a previously unrecognized component of vaccine-induced humoral immunity. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-07-07",
+      "date_window_start": "2026-06-30",
+      "date_window_end": "2026-07-07",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.02.02.26345340v2",
+      "date": "2026-06-30",
+      "abstract": "Abstract Background How frailty limits initial therapy in non-small-cell lung cancer (NSCLC) remains poorly understood and was the focus of this study. Methods 2592 consecutive patients with metastatic NSCLC between 2018-2023 in Heidelberg were retrospectively analyzed. Results Systemic therapy was initiated in 74% of patients with PD-L1 0-49% (n=1306) vs. 79% with PD-L1 ≥50% (n=507, p=0.014), in whom the availability of monoimmunotherapy reduced best supportive care by own choice (1.8% vs. 4.5%, p=0.005), or for medical reasons (mBSC 14.6% vs. 17.8%, p=0.11), while early death remained unchanged ( ca. 4%). 70% of patients receiving mBSC were initially treatable but suffered deterioration associated with comorbidities, metastatic burden, or protracted workup (p<0.001). The atezolizumab Summary of Medicinal Product Characteristics (SmPC) criteria, i.e. >80 years, or ECOG performance status (PS) ≥3, or comorbidities with PS ≥2 or age ≥70, were fulfilled by 38% (n=501) and associated with >3x higher risk of death without therapy (230/501), as well as higher toxicity and shorter survival under platinum, which for a platinum dose ratio ≤60% across 4 cycles (9% of 1306) resembled that with single-agent chemotherapy (median 5.1 months, p<0.001). SmPC criteria correlated better with platinum use than comorbidity scores, but predictability for individual patients remained modest (AUC 0.71, p<0.001). Conclusions The high initial attrition of 26% in NSCLC improved with availability of monoimmunotherapy, but also requires better patient workflows for further mitigation. Adoption of the SmPC criteria could support identification of patients at risk for mBSC or platinum overtreatment to enhance utilization of novel platinum-free first-line options. Highlights ⍰ A high initial attrition of 25% is caused by deterioration after diagnosis in NSCLC ⍰ Monoimmunotherapy and optimized workflows could cut pretherapeutic attrition to 10% ⍰ SmPC criteria indicate higher risk for BSC (>3x) and platinum overtreatment ⍰ Higher toxicity and shorter survival for SmPC vs. non-SmPC patients with platinum ⍰ Better therapeutic allocation is key for upfront use of novel platinum-free options ",
+      "searched_keywords_found_duplicates": [
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-07",
+      "date_window_start": "2026-06-30",
+      "date_window_end": "2026-07-07",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.03.26357226v1",
+      "date": "2026-07-06",
+      "abstract": "Abstract Chronic infection with hepatitis B virus (HBV) is characterized by persistent expression of hepatitis B surface antigen (HBsAg), which is associated with profound immune tolerance. Although nucleos(t)ide analogue therapy effectively suppresses viral replication, it neither eliminates HBV nor reverses virus-specific immune dysfunction. Here, we report the results of two parallel first-in-human, dose-escalation studies evaluating a single infusion of mAb19-LS, a long-acting IgG1 monoclonal antibody targeting HBsAg, in individuals with chronic HBV infection receiving nucleos(t)ide analogue therapy. mAb19-LS was generally safe and well tolerated and induced a mean 11-fold increase in antigen clearance. The magnitude and duration of HBsAg suppression were dependent on both baseline antigen levels and mAb19-LS dose, with suppression maintained for more than 36 weeks in individuals receiving the highest dose. Reduction of circulating HBsAg was associated with uptake of HBsAg-IgG immune complexes by monocytes and dendritic cells and inflammatory reprogramming of these antigen-presenting cells. Notably, proliferation of both CD4+ and CD8+ T cells, as well as interferon-γ; and TNF-α; production in response to HBV antigens, were significantly increased 24 weeks after infusion. Together, these findings demonstrate that mAb19-LS is generally safe and effectively accelerates HBsAg clearance while activating antigen presenting cells and enhancing antiviral T cell responses. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-07",
+      "date_window_start": "2026-06-30",
+      "date_window_end": "2026-07-07",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.01.26357053v1",
+      "date": "2026-07-04",
+      "abstract": "Abstract Background: Pediatric chronic pancreatitis (CP) carries an elevated lifetime risk of pancreatic ductal adenocarcinoma (PDAC), yet the cellular and molecular mechanisms driving disease progression and early neoplastic transformation remain undefined. Methods: We performed single-nucleus RNA sequencing (snRNA-seq) on pancreatic tissue from 15 pediatric CP individuals and 6 healthy controls (HC). Findings were integrated with peripheral blood flow cytometry immunophenotyping of 8 CP and 7 HC individuals and validated by histopathological assessment. Findings: We identified 15 distinct cell populations and profound cellular remodeling in CP, including a 46% reduction in acinar cells and emergence of inflammatory fibroblasts as the dominant stromal population. Acinar-to-ductal metaplasia (ADM) and pancreatic intraepithelial neoplasia (PanIN) populations bearing early PDAC-associated transcriptional signatures were detected in most CP samples. Cell-cell interaction analysis revealed that 68% of CP-specific ligand-receptor interactions converged on ADM and PanIN populations via ECM-integrin and inflammatory pathways. Peripheral blood flow cytometry demonstrated concordant systemic immune activation, including elevated monocyte CCR2 and CD80, increased CD69 on T cells, and upregulated RORγt in regulatory T cells. Interpretation: This atlas defines the cellular landscape and intercellular signaling networks underlying pediatric CP, identifying inflammatory fibroblasts and early neoplastic cell states as central features. These findings provide a molecular foundation for understanding cancer risk in pediatric CP and provide a resource to prioritize studies into potential therapeutic targets and biomarkers. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-07",
+      "date_window_start": "2026-06-30",
+      "date_window_end": "2026-07-07",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.02.26352058v2",
+      "date": "2026-06-30",
+      "abstract": "SUMMARY Induction of HIV broadly neutralizing antibodies (bnAbs) is a major vaccine goal. We evaluated in a Phase I trial the immunogenicity of a transmitted/founder (TF) envelope trimer designed to prime the heavy chain third complementarity determining region (CDRH3)-dominant class of CD4-binding site (CD4bs) HIV bnAb precursors. B cells producing neutralizing antibodies were isolated from all participants. CD4bs-directed, CDRH3-dominant candidate bnAb precursors were identified in 73% of vaccinees, including one lineage with heterologous neutralization of global HIV isolates. Structural studies elucidated the epitopes of CD4bs CDRH3-dominant, non-CD4bs V1/V3-directed, and gp120/gp41 interface-targeting neutralizing antibodies. Thus, a TF Env trimer can prime a diverse, polyclonal neutralizing B cell repertoire in humans, providing multiple B cell lineages for advancement by sequential boosting toward HIV bnAb breadth. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-07",
+      "date_window_start": "2026-06-30",
+      "date_window_end": "2026-07-07",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.02.26357196v1",
+      "date": "2026-07-06",
+      "abstract": "Abstract Multiple myeloma causes devastating osteolytic bone disease. Current antiresorptive therapies slow bone loss but fail to rebuild the skeleton. Consequently, patients continue to fracture and suffer the associated morbidity and mortality. Targeting the Wnt inhibitor sclerostin, with romosozumab, increases bone mass in osteoporosis but has not been leveraged in cancer. We hypothesised that romosozumab would safely restore bone mass in multiple myeloma. In a murine model of myeloma, romosozumab was safe, demonstrating no impact on tumour progression while significantly increasing bone density. We subsequently conducted a Phase IIa proof-of-concept study in 12 multiple myeloma patients refractory to bisphosphonate therapy. Romosozumab was safe, it was well-tolerated and did not promote clinical or clonal myeloma progression. Treatment induced an early, significant rise in serum bone formation markers whilst resorption remained unchanged. This was coupled with significant gains in bone mineral density throughout the skeleton. Additionally, we observed radiological evidence of repair to pre-existing osteolytic lesions and, critically, a reduction in the skeletal morbidity rate from 2.5 to 0.11 events per patient-year. Longitudinal single-cell transcriptomics revealed that romosozumab transiently reprograms the osteoblast lineage to upregulate matrix synthesis and mineralisation programmes. These findings demonstrate that sclerostin inhibition safely rebuilds bone, providing clinical and mechanistic rationale for further randomised studies to restore bone health in myeloma patients. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-07",
+      "date_window_start": "2026-06-30",
+      "date_window_end": "2026-07-07",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.02.26357123v1",
+      "date": "2026-07-04",
+      "abstract": "Abstract EBV-positive diffuse large B-cell lymphoma (DLBCL) is an aggressive lymphoma enriched in elderly patients, in which PD-L1 genomic gains cooperate with viral signalling to promote immune escape. However, the spatial mechanisms by which PD-L1 reshapes the tumour microenvironment remain unresolved. Here, we integrate genomic profiling with spatial transcriptomics, spatial proteomics, and single-cell RNA sequencing to resolve the tumour-immune architecture of EBV-positive DLBCL. PD-L1 gain tumours exhibit a striking decoupling of immune proximity and immune engagement: T cells accumulate in close proximity to tumour cells yet direct tumour-immune contact is largely absent. Tumour boundaries are enriched for cancer-associated fibroblasts and display transcriptional signatures of metabolic immune suppression, while tumour-proximal T cells exhibit pronounced exhaustion. Together, these findings reveal a PD-L1 driven spatial immune evasion architecture that permits immune infiltration while enforcing multilayered suppression through fibroblast-mediated exclusion, metabolic constraint, and T-cell dysfunction, ultimately preventing effective anti-tumour immunity in EBV-positive DLBCL. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
