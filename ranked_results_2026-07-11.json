@@ -1,0 +1,205 @@
+{
+  "bispecific_antibodies": [
+    {
+      "date_scraped": "2026-07-11",
+      "date_window_start": "2026-07-04",
+      "date_window_end": "2026-07-11",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.02.26357107v1",
+      "date": "2026-07-06",
+      "abstract": "Abstract Immunotherapies have become a transformative therapeutic strategy for many cancer types in recent years. Bispecific T-cell engagers (BiTEs) are one promising immunotherapy that enhances cellular antitumour immunity by redirecting T cells towards cancer cells. Recent evidence suggests that BiTE efficacy can be augmented by encoding BiTEs in oncolytic measles virus vectors (MV-BiTE). Infection of cancer cells with MV-BiTE causes the local production of BiTEs and has shown safety and efficacy in murine tumour models. However, whether the observed efficacy of this treatment will translate to a heterogeneous human population is unknown. In this work, we generate an in silico clinical trial of MV-BiTE therapy using a system of ordinary differential equations. We capture potential heterogeneity of individual patients using variability in in vivo tumour volume and change in baseline (%) measurements from a Phase II clinical trial. In lieu of human MV-BiTE data, we use the oncolytic virus talimogene laherparepvec (T-VEC) as a surrogate oncolytic virus carrying an immunostimulatory payload. Our predictions imply that the main drivers of heterogeneity are the underlying effector T cell killing rate and BiTE pharmacokinetics. Furthermore, we find that if individuals are classified as non-responders to the Phase II T-VEC clinical protocol, they may respond to more frequent administration of lower dosages. This work highlights how in silico clinical trials can provide predictions for novel therapeutics to generate hypotheses and guide the design of treatment schedules for clinical translation. Author summary The immune system has the ability to kill cancer cells; however, cancer cells are able to resist immune cell-mediated killing. A new therapy uses modified measles viruses to activate the immune system against cancer. These viruses are modified with bispecific T-cell engagers (BiTEs) which assist immune cells in targeting and removing cancer cells. While the potential success of this treatment has been demonstrated in mouse models, it is yet to be verified in a human cohort. In this work, we use mathematical and computational simulations to examine how patient-to-patient variability might affect the success of this treatment. We compare our model predictions to data from a clinical trial and find that virtual individuals in the simulation that are classified as non-responders to the standard protocol would likely respond better to more frequent administrations of lower dosages. The work presented here generates hypotheses for how individuals in a human cohort may respond, however, more work is required to verify these results in humans. ",
+      "searched_keywords_found_duplicates": [
+        "BiTE",
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [
+        "bispecific",
+        "BiTE",
+        "T-cell engager"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 14,
+      "secondary_keyword_hits": 0,
+      "score": 15
+    },
+    {
+      "date_scraped": "2026-07-11",
+      "date_window_start": "2026-07-04",
+      "date_window_end": "2026-07-11",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.26.26356067v1",
+      "date": "2026-07-09",
+      "abstract": "Abstract Despite decades of widespread vaccination, whooping cough caused by Bordetella pertussis (Bp) continues to circulate globally. To define correlates of protection and mechanisms underlying symptom development, we characterized systemic and mucosal immune responses in a controlled human infection model of Bp ( NCT05136599 ). Healthy vaccinated adults were intranasally challenged with escalating Bp doses and classified as symptomatic, asymptomatic, or non-infected. Longitudinal sampling of blood and nasal mucosa allowed mapping of antibody titers, immune cell subset frequencies, cytokine concentrations, gene expression, and T cell activation and polarization. Non-infected participants exhibited significantly higher pre-challenge serum antigen-specific IgG titers. Post-challenge, only symptomatic participants developed robust antigen-specific IgG responses. Notably, infection-induced IgG responses displayed slower kinetics and a lower overall magnitude compared to the rapid day 7 peak observed following tetanus, diphtheria, and acellular pertussis (Tdap) booster vaccination. Furthermore, symptomatic infection was driven by pronounced nasal inflammation characterized by increased HLA-DR⁺ myeloid cells and upregulated mucosal NF-κB signaling on day 7. Systemic immune responses were comparatively modest post-challenge: plasma cytokine concentrations decreased independently of clinical outcome, peripheral blood mononuclear cell transcriptomes and antigen-specific T cell activation and polarization remained largely unchanged. These findings identify pre-existing serum antibodies as potential correlates of protection from Bp infection and suggest that symptom development is associated with localized mucosal inflammation dominated by a myeloid cell response. The predominance of nasal over systemic immune activation highlights the importance of mucosal immunity in controlling Bp and provides critical insights to guide the design of next-generation vaccines aimed at preventing both disease and transmission. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-07-11",
+      "date_window_start": "2026-07-04",
+      "date_window_end": "2026-07-11",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.09.26357637v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract Objective: Clonal hyperexpansion of CD4⁺ T cells is a characteristic feature of rheumatoid arthritis (RA). Equally large T cell clones also arise in physiological ageing or latent viral infection and adopt a replicative senescence programme - a tolerance mechanism that limits immune activation by innate-like reprogramming and proliferative arrest. We aimed to characterise the senescence programme of hyperexpanded CD4⁺ T cell clones in RA and to define their clinical associations. Methods: Hyperexpanded T cell clones were characterised by single-cell RNA and T cell receptor profiling of peripheral T cells from RA patients and healthy donors. Flow cytometric validation was performed in two cross-sectional cohorts (n=15, n=45), paired blood and synovial fluid (n=20) or synovial tissue (n=18) sampling, and a non-interventional study of co-stimulatory blockade with abatacept (n=6). Results: Hyperexpanded CD4⁺ T cell clones exhibited a CCR7⁻CD27⁻ phenotype and accumulated in RA joints. Their frequency correlated with disease activity and their surface profile was modulated by abatacept, suggesting susceptibility to therapeutic intervention. At the molecular level, hyperexpanded clones converged on a phenotype consistent with replicative senescence, characterised by natural killer (NK) cell-reminiscent cytotoxic reprogramming, loss of co-stimulatory molecules, and reduced translational activity. However, compared with healthy donor counterparts, hyperexpanded RA CD4⁺ T cell clones showed reduced senescence-associated cytotoxic and NK cell markers, and increased IL-7 receptor signalling, indicating attenuated senescence and preserved capacity for homeostatic proliferation. Conclusion: We propose that replicative senescence insufficiently constrains hyperexpanded clones in RA, resulting in sustained antigen reactivity in autoreactive clones and perpetuation of chronic inflammation. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-07-11",
+      "date_window_start": "2026-07-04",
+      "date_window_end": "2026-07-11",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.02.26357118v1",
+      "date": "2026-07-06",
+      "abstract": "ABSTRACT Despite the superior efficacy of high-dose influenza vaccines, over one-third of older adults fail to respond. Yet, the mechanisms underlying this impaired vaccine responsiveness remain poorly understood. Here, we performed longitudinal profiling of older adults (n=60) receiving high-dose influenza vaccination to identify immune programs associated with vaccine responsiveness. Strong responders exhibited a primed baseline immune state characterized by elevated plasma cytokines and chemokines, followed by enhanced IFN-γ responses and coordinated transcriptional and epigenetic activation of cDC2 cells at day 1. By day 7, CD4⁺ T-cell trajectories diverged: strong responders preferentially expanded influenza-specific activated cTfh1 ( CXCR5 + CXCR3 + ICOS + CD38 + ) and influenza-specific Th10 ( CXCR5⁻ CXCR3 + PD1 + IL10⁺ ) cells, whereas weak responders expanded regulatory cTfr ( CXCR5⁺ FOXP3⁺ ) cells. Th10 expansion correlated with plasmablast and antibody responses and was independently validated in a larger influenza vaccination cohort, including younger adults. Functionally, Th10 cells promoted memory B-cell differentiation into plasmablasts and production of influenza-specific IgGs. TCR analyses revealed minimal clonal overlap between Th10 and cTfh1 cells. Together, these findings identify divergent helper and regulatory CD4⁺ T cell programs associated with vaccine responsiveness and establish Th10 cells as a previously unrecognized component of vaccine-induced humoral immunity. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-07-11",
+      "date_window_start": "2026-07-04",
+      "date_window_end": "2026-07-11",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.01.26356778v1",
+      "date": "2026-07-09",
+      "abstract": "Abstract Background: Juvenile nasopharyngeal angiofibroma (JNA) is a rare locally aggressive vascular sinonasal tumor that primarily affects adolescent males. Despite advances in endoscopic surgery and preoperative embolization, JNA can be associated with major operative bleeding risk and clinically meaningful recurrence, while non-surgical treatment options remain limited. Methods: To define the cellular programs underlying JNA vascularity, we performed single-cell RNA sequencing of JNA tumors (n=2), tumor-adjacent mucosa, and control sinonasal tissue. We analyzed cell composition, differential gene expression, pathway enrichment, and cell-cell communication, followed by Drug2cell-based mapping of transcriptional states to candidate therapeutic targets. Results: JNA contained an expanded fibrovascular compartment composed of endothelial cells, fibroblasts, pericytes, vascular smooth muscle cells, and neural crest-like cells. Neural crest-like cells were enriched in JNA but showed relatively limited transcriptional differences from tumor-adjacent tissue. By contrast, endothelial cells demonstrated the strongest disease-associated remodeling, with enrichment of angiogenesis, extracellular matrix organization, hypoxia response, and cell migration pathways. Endothelial cells also showed downregulation of adaptive immune signaling pathways, suggesting reduced immune engagement within the tumor microenvironment. Intercellular communication analyses revealed dense endothelial-stromal signaling across the JNA fibrovascular network. Drug2cell analysis nominated VEGF/VEGFR signaling as a candidate therapeutic vulnerability, with VEGFR-targeting agents predicted to act primarily on vascular and lymphatic endothelial populations. Conclusions: JNA is organized around an angiogenesis-dominant fibrovascular program driven by endothelial-centered signaling. These data support further investigation of VEGF/VEGFR-directed therapy as a potential adjunctive strategy for patients with recurrent, unresectable, or surgically high-risk JNA. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-11",
+      "date_window_start": "2026-07-04",
+      "date_window_end": "2026-07-11",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.08.26357239v1",
+      "date": "2026-07-09",
+      "abstract": "Abstract Germline loss-of-function mutations in SPRED1 impair its negative regulatory function within the RAS-MAPK signaling pathway, leading to pathway hyperactivation. Clinical sequencing of SPRED1 frequently identifies variants of uncertain significance (VUS) in patients suspected of Legius syndrome (LS), yet the functional consequences of most variants, specifically their impact on RAS-MAPK regulation, often remain unresolved. Here, we integrate clinical characterization, 3D structural modeling, stable lentiviral expression systems, real-time live cell imaging and multi-pathway signaling profiling to functionally assess a panel of eleven SPRED1 variants, including two uncharacterized patient-derived alterations, the splice-site mutation c.207+1G>A and the missense substitution c.986A>T (classified as VUS in ClinVar). Unlike c.986A>T, which selectively impairs ERK signaling, the c.207+1G>A variant acts as a broader pathway disruptor, elevating both ERK and p38 phosphorylation, a difference that correlates with its more severe clinical phenotypes. Expanding our analysis across nine additional truncating and missense variants, we uncover reproducible differences in SPRED1 protein abundance and variant-specific signaling dynamics, implicating not only the canonical RAS/ERK axis but also AKT, p38, and p53 pathways. Collectively, these findings reveal genotype-phenotype correlations with differential impacts on signaling dynamics by SPRED1 mutants. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-11",
+      "date_window_start": "2026-07-04",
+      "date_window_end": "2026-07-11",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.07.26357436v1",
+      "date": "2026-07-09",
+      "abstract": "Abstract Schizophrenia (SCZ) and bipolar disorder (BIP) share substantial common-variant liability but differ in cognition, medical comorbidity, and treatment response. Here we decomposed this overlap into schizophrenia-predominant, bipolar-predominant, and shared psychosis dimensions to test whether these components show distinct pleiotropic and biological profiles. Using the largest available SCZ and BIP GWAS, we applied bidirectional mtCOJO and Genomic SEM to derive SCZcondBIP, BIPcondSCZ, and PSY-shared and validated them using inter-component genetic correlations, FinnGen psychiatric endpoints, and Genomic SEM latent factors. We then characterized each component across cognitive, cardiometabolic, and immune traits, followed by genomic risk-locus discovery, pathway analysis, developmental expression profiling, and drug-target enrichment. The three components showed marked divergence. SCZcondBIP was negatively genetically correlated with cognition, education, metabolic syndrome, C-reactive protein, and neutrophil percentage, whereas BIPcondSCZ showed the opposite cognitive profile and shifted toward positive cardiometabolic and immune correlations. PSY-shared retained the mixed cognitive pattern seen at the disorder level and intermediate peripheral correlations, indicating that shared psychosis liability masks stronger disorder-specific differences. Between-component contrasts were approximately twice the magnitude of the corresponding SCZ-versus-BIP contrasts. We identified 248 consensus genomic risk loci, including 81 not detected in the input disorder GWAS. Biologically, PSY-shared was enriched for synaptic signalling, ion-channel, and neurodevelopmental pathways; SCZcondBIP primarily implicated synaptic-signalling and cellular-homeostasis pathways; and BIPcondSCZ showed weaker but distinct enrichment for synaptic-vesicular biology. Drug-target enrichment further separated the components, with strong antipsychotic enrichment for PSY-shared and distinct non-antipsychotic signals for the conditional factors. These findings show that SCZ and BIP genetic risk is best understood as biologically distinguishable shared and disorder-predominant dimensions that differentially map onto cognitive, cardiometabolic, immune, and molecular architecture. These findings provide a framework for evaluating whether component-specific polygenic scores improve stratification of cognitive, cardiometabolic, and inflammatory heterogeneity across severe psychiatric illness. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-11",
+      "date_window_start": "2026-07-04",
+      "date_window_end": "2026-07-11",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.03.26356448v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract Systemic lupus erythematosus (SLE) is driven by pathogenic B cells. Yet, why some patients receiving B cell depletion achieve durable remission, whilst others fail remains unclear. Herewe use CD19-directed chimeric antigen receptor (CAR) T cell therapy as a mechanistic probein 18 patients with refractory SLE, with longitudinal follow-up extending up to 40 months.We show that durable, drug-free remission is defined not by the depth of B cell depletion alone,but by the elimination of the extrafollicular (EF) B cell differentiation trajectory - specifically,activated naive B cell precursors and CD11c+ T-bet+ double-negative type 2 B cells. In long-term responders, B cell reconstitution recapitulated healthy ontogeny, while the EF pathway remained truncated, coinciding with collapse of the interferon-rich milieu and contraction of PD1hi T peripheral helper cells. In contrast, in relapse, persistently elevated CXCL13, interferons and expanded PD1hi T cells preceded the B cell return, and nascent B cells immediately followed the EF differentiation trajectory in the confirmed absence of germinal centers in the lymph node, shortly followed by clinical symptoms. These findings indicate that CAR-T cell therapy achieves remission by breaking a feed-forward loop between the systemic inflammatory environment and extrafollicular B cell differentiation. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-11",
+      "date_window_start": "2026-07-04",
+      "date_window_end": "2026-07-11",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.07.26357222v1",
+      "date": "2026-07-09",
+      "abstract": "Abstract Proteogenomic studies have transformed the way we derive novel insights into human biology and pathophysiology but are currently limited by their proteomic coverage and ancestral representation. Here, we integrate rare and common genetic variation with measurements of >11,000 plasma proteins on two affinity-based platforms (>6,000 targets not previously covered) in 1,535 individuals of British Bangladeshi and Pakistani ancestry of the Genes & Health cohort. We report 3,826 high-confidence common (minor allele frequency (MAF)>1.0%) protein quantitative trait loci (pQTLs), over half of which are novel and including >200 pQTLs with greater MAF in South Asians. Systematic analyses of rare (MAF<1.0%) exonic variants identify 230 gene-protein pairs and highlight the joint and distinct contributions of rare and common variants to inherited differences in protein levels. We expand analyses beyond the nuclear genome and identify 3 mitochondrial pQTLs, including a common variant in MT-RNR1, associated with lower myelin protein zero (MPZ), identifying a potential novel mechanistic link for MT-RNR1's poorly understood role in hearing loss. We create the first proteogenomic disease network in individuals of South Asian ancestry based on 384 cis-pQTL with a shared genetic disease or risk factor signal, including conditions substantially more common in South Asians, such as metabolic diseases or pregnancy-related conditions, providing insights into the underlying mechanisms. In summary, our study demonstrates the value and scientific efficiency of proteomic studies in genetically informative and understudied populations for identifying novel causes of globally relevant diseases. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-11",
+      "date_window_start": "2026-07-04",
+      "date_window_end": "2026-07-11",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.08.26355790v1",
+      "date": "2026-07-09",
+      "abstract": "Abstract Hormone receptor-positive, HER2-negative breast cancers are often poorly infiltrated by immune cells and derive limited benefit from current immunotherapy strategies. Here, using paired tumour samples from the randomised window-of-opportunity D-BIOMARK trial ( NCT03691311 ), we investigated the immunomodulatory effects of denosumab in early luminal breast cancer. Short-term preoperative denosumab reduced tumour-cell proliferative transcriptional programs and immunosuppressive features of the local tumour microenvironment, enhancing innate and adaptive immune activation and altering circulating cytokine profiles. High-resolution spatial transcriptomics revealed coordinated remodelling of tumour, immune, fibroblast and endothelial compartments after treatment. Denosumab reduced immune-tumour spatial separation and enhanced T cell activation, accompanied by a shift from matrix-associated tumour programs towards increased tumour-T cell communication. Copy number-informed tumour-state inference further identified a reduced representation of genomically complex, immune-poor tumour subclones after treatment. Together, these findings identify denosumab as a modulator of tumour-microenvironment crosstalk and support RANKL blockade as a strategy to render immune-poor luminal breast tumours more permissive to immune engagement. ",
+      "searched_keywords_found_duplicates": [
+        "T-cell engager"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
