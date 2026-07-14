@@ -1,0 +1,1027 @@
+{
+  "gene_editing": [
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.06.736907v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract The root meristem is essential for stem cell maintenance and root development in plants. In Arabidopsis, Root meristem Growth Factor (RGF) peptides and their receptors regulate root meristem size through reactive oxygen species (ROS)-dependent signalling. RGF1-mediated ROS redistribution post-translationally stabilises the root meristem master regulator PLETHORA2 (PLT2). Although genomic studies suggest that RGF–receptor modules are evolutionarily conserved across land plants, their functional characterisation has remained largely limited to Arabidopsis . Here, we show that Oryza sativa RGF1-1 (OsRGF1-1) functions as a rice homologue of Arabidopsis RGF1 (AtRGF1). CRISPR/Cas9-generated Osrgf1-1 mutants exhibited shorter seminal roots, reduced root meristem size, and decreased superoxide (O₂•⁻) accumulation. EdU staining further confirmed that cell proliferation activity was reduced in the Osrgf1-1 mutants. The Osrgf1-1 mutants were sensitive to low concentrations of chemically synthesised mature OsRGF1-1 peptide. This low dose of OsRGF1-1 peptide restored seminal root growth and O₂•⁻ accumulation in the Osrgf1-1 mutants but had no detectable effect on the wild type. Functional analyses using Arabidopsis rgfr receptor mutants further demonstrated that OsRGF1-1 is perceived through conserved RGF receptor machinery. Together, our findings provide the first functional evidence that the RGF1–receptor–ROS signalling module is evolutionarily conserved between dicots and monocots in the regulation of root meristem development. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR",
+        "CRISPR-Cas9"
+      ],
+      "primary_abstract_matched_keywords": [
+        "CRISPR"
+      ],
+      "secondary_abstract_matched_keywords": [
+        "Cas9"
+      ],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 1,
+      "score": 3
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2607.11697",
+      "date": "2026-07-13",
+      "abstract": "Quantitative Biology > Subcellular Processes arXiv:2607.11697 (q-bio) [Submitted on 13 Jul 2026] Title: Targeting DNA Methylation: New Paradigms and the Advent of Gene-Selective Tools Authors: Julie Gilbert , Francesco Calzaferri (IBMM) View a PDF of the paper titled Targeting DNA Methylation: New Paradigms and the Advent of Gene-Selective Tools, by Julie Gilbert and 1 other authors View PDF Abstract: DNA methylation can function as a toxic alkylation reaction exploited by chemotherapeutic agents to induce cancer cell death. However, finely tuned DNA methylation plays a fundamental role in cellular physiology, particularly in the epigenetic regulation of gene expression. Once thought to act solely as a repressor of gene transcription, its functional role has since been elucidated as genomic locus-specific and deeply connected with other epigenetic factors. Following the clinical approval of DNA methyltransferase inhibitors, such as Azacitidine and Decitabine, for the treatment of haematological malignancies, considerable efforts have been devoted to developing pharmacological tools that modulate epigenetic DNA methylation. However, the lack of gene selectivity in these agents limits their therapeutic efficacy and increases off-target toxicity. Moreover, the non-gene-selective nature of current DNA methylation-targeting molecules fails to meet the standards required to discern the nuanced roles of DNA methylation across diverse pathophysiological contexts and genomic loci, particularly in an era where next-generation sequencing and omics technologies enable hi ghresolution epigenetic analyses. In this review, we examine the mechanisms and roles of DNA methylation in epigenetic regulation, evaluate the current landscape of DNA methylation modulators, from traditional DNMT inhibitors to cutting-edge CRISPR-dCas9 fusion systems and protein-protein interaction disruptors, and discuss their clinical relevance. Finally, we emphasise the need for precise, locus-specific tools to advance both cancer research and therapeutic strategies. Subjects: Subcellular Processes (q-bio.SC) Cite as: arXiv:2607.11697 [q-bio.SC] (or arXiv:2607.11697v1 [q-bio.SC] for this version) https://doi.org/10.48550/arXiv.2607.11697 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Journal reference: Chemical Research in Toxicology, 2026 Submission history From: Francesco Calzaferri [ view email ] [via CCSD proxy] [v1] Mon, 13 Jul 2026 15:31:02 UTC (1,491 KB) Full-text links: Access Paper: View a PDF of the paper titled Targeting DNA Methylation: New Paradigms and the Advent of Gene-Selective Tools, by Julie Gilbert and 1 other authors View PDF view license Current browse context: q-bio.SC < prev | next > new | recent | 2026-07 Change to browse by: q-bio References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is COR",
+      "searched_keywords_found_duplicates": [
+        "CRISPR"
+      ],
+      "primary_abstract_matched_keywords": [
+        "CRISPR"
+      ],
+      "secondary_abstract_matched_keywords": [
+        "off-target",
+        "Cas9"
+      ],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 2,
+      "score": 3
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.06.23.733580v2",
+      "date": "2026-07-12",
+      "abstract": "Abstract Parasite-induced host cell remodeling is essential for Plasmodium falciparum survival during the intraerythrocytic developmental cycle (IDC), yet the transcriptional mechanisms coordinating this process remain poorly understood. Here, we characterize an essential ApiAP2 transcription factor, PfAP2-HCR (host cell remodeling), during both the asexual and sexual blood stages of P. falciparum. Conditional truncation of pfap2-hcr demonstrated that PfAP2-HCR is essential for ring-stage development and parasite maturation. Loss of PfAP2-HCR disrupted the expression of host cell remodeling genes, resulting in the absence of Maurer's clefts and collapse of the parasite protein export machinery. Integrated RNA-seq and ChIP-seq analyses revealed that PfAP2-HCR directly or indirectly regulates approximately 30% of exported proteins, including 27 essential exported factors, the parasitophorous vacuole membrane (PVM) resident protein EXP1, and the core PTEX component EXP2. We further show that PfAP2-HCR is also indispensable for gametocytogenesis, as conditional truncation results in either complete ablation or the formation of severely deformed gametocytes. Together, these findings establish PfAP2-HCR as a central transcriptional regulator that orchestrates the expression of host cell remodeling factors required to transform a terminally differentiated erythrocyte into a permissive environment for parasite survival, development, and transmission. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR-Cas9",
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.10.737679v1",
+      "date": "2026-07-11",
+      "abstract": "Abstract N6-methyladenosine (m6A) is a pervasive RNA modification with critical roles in post-transcriptional regulation, yet accurate transcriptome-wide identification of functional m6A sites remains challenging. Here, we present M6AFormer, a hybrid deep-learning framework that combines convolutional feature extraction with a lightweight Transformer to capture both local sequence motifs and broader contextual dependencies. M6AFormer consistently outperformed representative m6A predictors, including MST-M6A, CLSM6A and deepSRAMP. Transcriptome-wide scanning revealed a large repertoire of previously unannotated candidate m6A sites that retained hallmark m6A features, including canonical motif enrichment, characteristic spatial distribution and preferential overlap with m6A writer and reader binding regions. Importantly, M6AFormer-predicted sites were broadly associated with genetic and disease-relevant features, including SNPs, sequence variants and GWAS-linked loci, suggesting their potential contribution to human disease mechanisms. Finally, experimental validation confirmed a previously unreported m6A site in NEU4 mRNA and demonstrated its functional impact on cancer cell migration. Together, M6AFormer provides an accurate, interpretable and biologically informative framework for m6A site discovery. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR-Cas9",
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.03.736265v2",
+      "date": "2026-07-12",
+      "abstract": "Abstract Pathogenic variants in COL3A1 cause Vascular Ehlers-Danlos syndrome (vEDS), a rare connective tissue disorder characterised by vascular fragility, increasing the risk of arterial ruptures/dissection. Advances in genomic sequencing have led to an increasing number of COL3A1 variants where the clinical significance is unclear, with these being termed variants of uncertain significance (VUS). VUS creates challenges for diagnosis and clinical management. Thus major efforts have been made to reclassify these to either pathogenic or benign variants in disease causality. Functional data from model systems can provide significant evidence to clinicians on the pathogenicity of a variant. To address the increasing numbers of VUS in COL3A1, we developed a fast pipeline using F0 crispant zebrafish to provide functional evidence for variant classification despite there being no direct orthologue of COL3A1 in zebrafish. Loss of col5a1 resulted in cardiac defects, dysmorphic blood vessel structures and delayed angiogenic sprouting. Trunk haemorrhage prevalence under physical stress increased in col5a1 knockout zebrafish, recapitulating vEDS patients. Remarkably, co-injection of F0 col5a1 knockout crispants with human wildtype COL3A1 mRNA partially rescued cardiac and vascular phenotypes, indicating a level of functional conservation between zebrafish type V and human type III collagen. These findings establish a tractable in vivo platform for functional assessment of COL3A1 VUS. Phenotypic rescue with wildtype COL3A1 provides a benchmark against which the pathogenicity of variants can be evaluated, generating functional evidence for VUS reclassification. Our model provides both a valuable tool for investigating vEDS disease mechanisms and a clinically relevant platform to improve diagnoses for patients with suspected vEDS. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR-Cas9",
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.05.09.723998v2",
+      "date": "2026-07-11",
+      "abstract": "Abstract DNA topoisomerase II (TOP2) generates transient DNA double-strand breaks that are trapped as TOP2-DNA covalent complexes (TOP2cc) by antibiotic and chemotherapy drugs. Here, we characterize tools for study of cellular responses to TOP2cc, exploiting a Saccharomyces cerevisiae TOP2 mutant (TOP2-F1025Y,R1128G) that generates spontaneous and inhibitor-induced covalent complexes at elevated frequencies. This Top2-hc (for \"hypercleavage\") mutant protein inhibits yeast cell growth when expressed alone or with endogenous Top2, and growth defects are exacerbated in DNA-repair-deficient genetic backgrounds and/or in the presence of low doses of the Top2 poison mAMSA. We generated analogous mutations in human and mouse TOP2A and TOP2B that gave increased TOP2cc, hypersensitization to topoisomerase poisons, increased DNA damage, and decreased cell survival in cultured cells. We further established knock-in mouse models with inducible, tissue-specific expression of each TOP2-hc isoform, demonstrating overt organismal toxicity and cellular markers of DNA damage responses. To illustrate the potential of these genetic tools, we carried out proof-of-principle screens in yeast and cultured human cells for sensitivity to TOP2-hc. The yeast screen revealed strong requirements for homologous recombination, moderate roles for sister chromatid cohesion and kinetochore function, and dependencies on vesicle and vacuolar functions. The pilot shRNA screen in human cells revealed shared requirements for resistance to expression of either TOP2A-hc or TOP2B-hc as well as examples of isoform specificity. These findings establish hypercleavage mutant proteins as effective tools for studying topoisomerase isoform-specific DNA damage and offer a foundation for exploring TOP2cc toxicity and tolerance in vivo. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [
+        "knock-in",
+        "double-strand break"
+      ],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 2,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.10.737863v1",
+      "date": "2026-07-11",
+      "abstract": "Abstract Perturb-seq measures transcriptomic responses to genetic perturbations at scale, but conventional designs that enrich for one guide RNA per cell remain resource-intensive. Standard analyses discard cells carrying multiple guides, further limiting the usable yield from each experiment. Here, we characterize how incorporating these guide multiplets affects signal recovery, information loss, and cost reduction. At the highest guide burden, cells showed increased stress and suppressed cell-cycle progression. We develop PerturbMatch, a scalable statistical framework to analyze guide multiplets. Among different classes of guide multiplets, doublets and triplets recovered perturbation responses more accurately than higher-order multiplets. Across three 5000-gene Perturb-seq screens with increasing guide loading, per-cell costs decreased by up to 81% while information loss remained within 1.5-fold of the loss observed between technical replicates. In existing genome-wide Perturb-seq data, incorporating previously discarded guide multiplets increased usable cell numbers and improved statistical power. Compared with a singlet holdout set, adding guide multiplets moved signal recovery closer to the theoretical expected reproducibility. Overall, we recommend a design that intentionally includes single-guide cells, guide doublets, and guide triplets to improve cost efficiency while preserving signal recovery. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR",
+        "CRISPR-Cas9"
+      ],
+      "primary_abstract_matched_keywords": [
+        "guide RNA"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.10.737777v1",
+      "date": "2026-07-11",
+      "abstract": "Abstract The zebra mussel ( Dreissena polymorpha ) is an invasive species that causes extensive economic and ecological damage. Here, we identify and characterize the key components of the small RNA (sRNA) and RNA interference (RNAi) pathways in zebra mussels. Like other mollusks, zebra mussels have extensive microRNA (miRNA) and Piwi-interacting RNA (piRNA) machinery but lack or have modified canonical factors needed to produce small interfering RNA (siRNA). Specifically, the zebra mussel Dicer sequence displays substitutions in the conserved DEAD box motif that is required for substrate processivity, and this organism also lacks some attendant accessory factors such as R2D2. We sequenced the small RNA found in both isolated somatic tissue (adductor muscle) and whole animals (including germline), and identified both conserved and novel miRNA and diverse piRNA sequences, but few endogenous siRNAs. To determine whether their remaining sRNA machinery could still be co-opted to initiate gene silencing, we injected dsRNA targeting several genes into zebra mussel adductor muscle. The injected rpn8 -targeting dsRNA reduced rpn8 mRNA levels and was processed into sRNA that resemble endogenous miRNAs and piRNAs. The levels of both sRNA types correlated with mRNA knockdown, suggesting that they may act together to initiate RNAi as seen elsewhere. dsRNA targeting other genes produced variable results suggesting that particular criteria may be needed to trigger an RNAi response in this assay. Our results characterize endogenous sRNA pathways in zebra mussels, establish that dsRNA can induce RNAi, and lay the groundwork for further optimizations to establish RNAi-based genetic manipulation tools for this damaging invasive species. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.10.737545v1",
+      "date": "2026-07-11",
+      "abstract": "Abstract Protein language models (pLMs) offer great potential for protein sequence analysis, yet the scarcity of labeled data often limits their effectiveness in fine-tuning. Data augmentation is a promising remedy, but systematic evaluation of augmentation strategies for protein sequences remains limited, and the conditions under which augmentation confers downstream benefits are not well understood. In this paper, we systematically investigate pLM-guided substitution-based augmentation across seven protein prediction tasks. We propose ProtAug, a framework that leverages encoder-based (ESM-2) and autoregressive (ProtGPT2) pLMs to generate augmented sequences with user-controlled variation levels. Our investigation focuses on four questions: (Q1) whether pLM-synthesized sequences preserve more original signals than simpler methods, (Q2) to what extent augmentation improves prediction performance, (Q3) how variation levels affect downstream accuracy across tasks and models, and (Q4) whether biological plausibility is a necessary condition for achieving improvement. Our experimental results show that: (1) ProtAug_Esm generally preserves motifs and structural similarity better than simple substitution, often comparable to homology retrieval; (2) augmentation yields consistent but task-dependent improvements, with ProtAug_Esm achieving the best or second-best performance in 5 out of 7 tasks at 10% variation; (3) low-to-moderate variation levels (2-30%) perform best overall, although high-variation augmentation can benefit certain structure-related tasks; (4) the necessity of biological plausibility is task- and variation-dependent-while semantic preservation correlates with performance at low-to-moderate variation levels, improved generalization at high variation levels suggests that regularization effects, rather than label preservation, can also drive performance gains. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.08.737219v1",
+      "date": "2026-07-11",
+      "abstract": "Abstract Tillering plasticity is a key adaptive trait in sorghum influencing resource use efficiency via a plant's ability to adjust branching to neighbour density. Neighbour detection through red:far-red (R:FR) light sensing regulates this plasticity. While molecular pathways regulating tiller outgrowth are partly known, the genetic architecture underlying density-responsive tillering has not been resolved in any grass species. A sorghum diversity panel (n = 895) was evaluated over two growing seasons (2023 and 2024) with plant spacing ranging from 5 to 60 cm. A linear mixed model incorporating neighbour distance and tiller counts estimated genotype-specific response. GWAS was conducted on isolated plants (no neighbours within 60 cm) and on estimated responsiveness to neighbours. GWAS identified 52 baseline tillering QTLs and 50 for spacing responsiveness, with 10 overlapping, suggesting shared genetic control. Comparison with 41 R:FR pathway candidate genes revealed enrichment in responsiveness QTLs (5/50, 10%) versus baseline (0/52, 0%) (Fisher's exact test, P = 0.025). Our model identified 40 unique density-responsive tillering QTL regions. Reducing genotype response to neighbour absence could be a selection target to develop water-efficient sorghum varieties where controlled architecture may be more valuable than natural plasticity. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.10.737802v1",
+      "date": "2026-07-11",
+      "abstract": "Abstract A plant-independent avenue for N 2 -fixation takes place in desert topsoils through a “C-for-N” mutualism between heterodiazotrophs and the cyanobacterium Microcoleus vaginatus . These partners come together within a diverse soil microbiome under conditions of N-limitation for the phototroph and C limitation for the heterotrophs. We hypothesized that extracellular chemical signaling might enable partner selection and collocation, though infomolecules shaping inter-microbial architecture were unknown. We show that the complex chemical composition of M. vaginatus ’ exometabolome depends on its N-limitation status, thus potentially offering information to mutualists. In chemotactic assays, the exometabolome effectively repelled most native soil bacteria, particularly intensely when under N-limitation. Bacterial assemblages circumventing the repulsion were enriched in species that are rare in the soil microbiome, and that functionally resemble mutualistic cyanospheres (showing high N 2 -fixation potential, secretion of urea, and copiotrophy), setting the stage for a working symbiosis. Further, we could reproduce the enrichment of copiotrophs and nitrogen-fixers using mixtures of N-acetylglutamic acid, N-acetylmethionine, indole-3-acetic acid, and 5′-methylthioadenosine, all preferentially released by M. vaginatus under N-limitation. These signaling molecules did not result in an enrichment of urea producers, however. The results demonstrate that trans-species communication through specific infochemicals, together with already known quorum-sensing-like intraspecific communication in M. vaginatus , act as a tool to organize microbiomes spatially and to attain mutualistic partner specificity in an open, crowded background. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.1101/2024.09.02.610816v3",
+      "date": "2026-07-12",
+      "abstract": "Abstract Background: Bacillus Calmette-Guerin (BCG) is the standard of care treatment for high-risk non-muscle-invasive bladder cancer (NMIBC), yet many patients develop recurrent disease despite evidence of ongoing immune activation. We investigated mechanisms of immune escape in BCG-unresponsive tumors and evaluated the therapeutic potential of targeting the HLA-E/NKG2A axis. Methods: Single-cell RNA sequencing, spatial immunophenotyping, proteomic profiling, and functional ex vivo assays were performed using tumors and urine samples from patients with BCG-naive and BCG-unresponsive NMIBC. Results: BCG-unresponsive tumors were enriched for HLA-E-expressing malignant cells compared with BCG-naive tumors. Increased HLA-E expression was associated with enhanced IFN-γ signaling and was induced by IFN-γ stimulation in primary tumor cells and bladder cancer tumor lines. Spatial analyses demonstrated accumulation of NKG2A+ NK and CD8 T cells in proximity to HLA-Ehigh tumor cells, with increased NKG2A:HLA-E interactions in BCG-unresponsive tumors. Despite high expression of cytotoxic mediators, NKG2A+ effector cells displayed impaired degranulation. Blockade of NKG2A with monalizumab restored degranulation of and cytotoxicity by tumor-infiltrating lymphocytes in autologous tumor co-cultures. Conclusions: BCG-unresponsive NMIBC tumors are enriched for HLA-E-expressing tumor cells and NKG2A+ effector lymphocytes, with increased engagement of the HLA-E/NKG2A axis within the tumor microenvironment. These findings identify the HLA-E/NKG2A axis as a therapeutic vulnerability and provide a rationale for clinical evaluation of NKG2A blockade as a bladder-sparing strategy for patients with BCG-unresponsive disease. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.07.737082v1",
+      "date": "2026-07-11",
+      "abstract": "Abstract Autoimmune diseases, such as systemic lupus erythematosus (SLE), are underscored by dysregulated B cell function including the production of autoantibodies, skewed population ratios, and aberrant signaling. Given that the family of nuclear factor kappa B (NF-κB) transcription factors govern responses to stimuli, survival, differentiation, and so forth understanding the intricate regulatory network of NF-κB in B cell biology is paramount for unraveling treatments for B cell-linked autoimmune diseases. Here, we focus on a negative regulator of NF-κB signaling, A20 (TNFAIP3), that deactivates NF-κB transcription factor translocation through the ubiquitination and deubiquitination of target proteins. Haploinsufficiency in A20 results in an autoimmune phenotype and mutations to A20 have been associated with SLE, suggesting implications to B cell function. To investigate the role of A20 in NF-κB in human B cells, we generated a TNFAIP3 knockout (KO) Raji cell line. Cells were stimulated with either anti-IgM or Resiquimod (R848) to activate distinct NF-κB signaling pathways. Using qRT-PCR, western blotting, and flow cytometry, we assessed differences in gene expression, protein production, and NF-κB activation. We observed key limitations in using Epstein-Barr virus transformed B cell lines to model inducible NF-κB signaling. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR-Cas9",
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.05.15.725580v2",
+      "date": "2026-07-10",
+      "abstract": "Abstract Primary cilia are microtubule-based organelles that mediate cellular responses to environmental cues. Although cilia disassemble and reassemble upon cell cycle entry and exit, respectively, in dividing cells, it remains unclear whether postmitotic cells such as neurons can regenerate these structures in vivo following injury to restore function, and whether this process recapitulates developmental ciliogenesis. Here we show that a subset of sensory neuron cilia in adult C. elegans regrows following conditional truncation and restores neuronal functions. This regeneration is regulated by both cell-intrinsic and extrinsic mechanisms that are in part distinct from those employed during embryonic ciliogenesis. We find that the conserved ciliogenic DAF-19 RFX transcription factor is dispensable for cilia maintenance in the adult but is required for regeneration, in part via transcriptional upregulation of a subset of ciliary intraflagellar transport (IFT) genes. We further identify the DLK-1 dual leucine-zipper kinase and the CEBP-1 C/EBP transcription factor, previously implicated in axon regeneration, as necessary for efficient cilia regrowth but not for developmental ciliogenesis. We show that cebp-1 expression is induced during cilia truncation and regrowth and that this induction is also DAF-19-dependent. Finally, we show that cilia truncation and regeneration dynamics vary in a neuron type-specific manner and are modulated by signals from surrounding glia. Our results establish that the cilia of mature neurons can regenerate and recover functions in vivo and identify conserved pathways that regulate this process in adult animals. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR",
+        "CRISPR-Cas9"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.07.737025v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract Population bottlenecks profoundly shape genetic diversity, but distinguishing stochastic drift from selective pressure requires precise estimation and accounting for bottleneck size. While deep-sequencing data enable inference via frameworks like beta-binomial modeling, integrating these estimates directly into selection tests remains a critical challenge. In this study, based on existing computational approaches, we propose a new method that explicitly incorporates bottleneck size estimates into neutrality tests for biological diversity data. Designed for variant frequency data, our framework accounts for sequencing errors and sampling biases to improve the precision and interpretability of selection signature detection. We validate this framework using previously published Streptococcus pneumoniae in vivo experimental data, successfully replicating established fitness results, while uncovering novel genes relevant to infection and pathogenesis. This integrated new model with explicit bottleneck effects narrows down the set of candidate genes under selection and provides a robust, generalizable tool for disentangling drift from selection across a wide range of biological systems. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR",
+        "CRISPR-Cas9"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.10.737674v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract Plasmodium falciparum , the causative agent of malaria, relies on specialised tubulin-based cytoskeletal structures to support its parasitic lifestyle. These include the conoid required for parasite motility and host-cell invasion, as well as subpellicular microtubules (SPMTs) that support parasite shape and rigidity. Here, we investigate the function of the doublecortin domain protein DCX, a microtubule-binding protein previously associated with the Plasmodium conoid. We first show that, in P. falciparum , DCX is not expressed in the merozoite stage and is not required for the invasion of human erythrocytes. By contrast, DCX is expressed in ookinetes, the motile stage responsible for infecting the mosquito vector, where it associates with conoid tubulin fibres, consistent with a role in stabilising the conoid architecture. Unexpectedly, we find that DCX is required for P. falciparum transmission to the mosquito independently of conoid function. We further link this requirement to the distinctive organisation of SPMTs in P. falciparum gametocytes, which display an unusual branching architecture comprising multiple microtubules of 15 to 18 protofilaments. Deletion of DCX leads to a reduction in SPMT branching and is associated with higher protofilament numbers, revealing a previously unrecognised role for DCX in shaping the ultrastructure of SPMTs in P. falciparum gametocytes. Altogether, our findings uncover the repurposing of DCX across distinct microtubule systems in transmission stages and identify DCX as a key factor mediating microtubule branching and stabilisation in SPMTs required for efficient mosquito transmission. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR",
+        "CRISPR-Cas9"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.07.736964v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract Tau pathology is a central driver of neurodegeneration, yet the molecular mechanisms linking tau accumulation to neuroinflammation, metabolic failure, and white matter degeneration remain incompletely understood. Galectin-3 (Gal3) is an inflammation-associated lectin expressed by activated microglia and has been implicated in neurodegenerative disease progression. Here, we investigated whether Gal3 modulates tau-driven pathology across cellular, molecular, and systems levels. Using the P301S tauopathy mouse model with genetic deletion of Gal3, we show that Gal3 loss robustly attenuates tau pathology across vulnerable brain regions, including cortex, hippocampus, and piriform-entorhinal cortex. Gal3 deletion reduced hyperphosphorylated and pathological tau species, normalized tau kinase signaling, and restored mitochondrial and vesicular trafficking pathways disrupted by tau accumulation. Proteomic and phosphoproteomic analyses revealed widespread normalization of tau-associated immune, metabolic, and trafficking pathways, with Tau-Gal3KO mice clustering closely with wild-type controls. In parallel, Gal3 deletion markedly reduced microglial activation and Gal3-positive inflammatory signatures, preserved white matter integrity, prevented axonal degeneration, and normalized oligodendrocyte and myelin abnormalities. Functionally, Gal3 deficiency enhanced microglial myelin phagocytosis and lysosomal degradation both in vitro and in vivo, suggesting improved clearance of myelin debris under inflammatory stress. Cell-type-specific analyses further revealed restoration of mitochondrial complex I subunit expression in both excitatory neurons and parvalbumin-positive interneurons. Importantly, translational studies in human iPSC-derived neurons demonstrated that extracellular Gal3 exacerbates tau hyperphosphorylation and aggregation following tau seeding, effects that were reversed by pharmacological Gal3 inhibition. Together, these findings identify Galectin-3 as a central upstream regulator linking tau pathology to neuroinflammation, proteomic dysregulation, mitochondrial dysfunction, and white matter degeneration. Targeting Gal3 represents a promising therapeutic strategy to mitigate tau-driven neurodegenerative processes. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR",
+        "CRISPR-Cas9"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.10.737643v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract rAAV2.5T was identified through directed evolution of an AAV capsid library in polarized human airway epithelium (HAE) cultured at an air-liquid interface (ALI). The capsid gene of rAAV2.5T is a chimera of the N-terminal unique region of AAV2 VP1 (VP1u) and the VP2 and VP3 regions of AAV5 with a single A581T substitution at the variable region (VR) VIII of the capsids. GPR108, a G protein-coupled receptor, is known as an essential host factor for the transduction of rAAV2 but not of rAAV5. Both AAV2 and AAV5 VP1u colocalized well with GPR108 and, to a lesser extent, with the trans-Golgi network (TGN). GPR108 knockout (KO) abolished rAAV2.5T transduction in both HeLa cells and HAE-ALI cultures. Remarkably, short-term treatment with doxorubicin (DOX) at 2 μM completely restored transduction, indicating that DOX can compensate for the loss of GPR108 function. DOX enhanced rAAV2.5T transduction by 50-100-fold in wild-type HAE-ALI cultures and by over 300-fold in the GPR108-deficient cultures. Mechanistic studies demonstrated that this enhancement resulted from altered intracellular trafficking that promoted efficient vector nuclear import, rather than increased vector internalization, proteasome inhibition, or activation of the DNA damage response. Importantly, we identified that the N-terminal 15 amino acids of AAV2 VP1u as the primary determinant of rAAV2.5T dependence on GPR108 for transduction. Collectively, these findings demonstrate that productive transduction of rAAV2.5T in polarized HAE cultures depends on GPR108-mediated intracellular trafficking that limits efficient nuclear entry, and that DOX can relieve this constraint by promoting efficient vector import. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR",
+        "CRISPR-Cas9"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 1,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.10.737056v1",
+      "date": "2026-07-10",
+      "abstract": "SUMMARY Clear cell renal cell carcinoma (ccRCC) is initiated by chromosome 3p loss, yet chromosome losses impose a profound fitness burden on normal cells. How renal epithelial cells tolerate this deleterious aneuploidy during early tumorigenesis remains unclear. Analysis of 949 ccRCC genomes reveals two major classes of chromosome 3p alterations: simple deletions and complex rearrangements surrounding a terminal breakpoint – a pattern we term breakpoint-confined chromothripsis. We modeled both alterations in non-transformed human renal proximal tubule epithelial cells by introducing a single DNA double-strand break on chromosome 3p. Despite an initial fitness disadvantage, chromosome 3p loss drives adaptive genomic evolution that recapitulates recurrent ccRCC-associated aneuploidies, including 5q gain and 14q loss. These alterations alleviate the fitness constraints of 3p loss and promote metabolic reprogramming, clonal expansion, and malignant transformation, producing tumors with features of ccRCC. Thus, a single chromosome break initiates the evolutionary trajectory of ccRCC by creating a fitness bottleneck that selects for recurrent aneuploidies. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR-Cas9"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [
+        "double-strand break"
+      ],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 1,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.09.737461v1",
+      "date": "2026-07-11",
+      "abstract": "Abstract Dopamine activity in the tail of the striatum (TS) presents a novel challenge for reinforcement-learning theories of dopamine. Some studies suggest that TS-projecting dopamine signals encode aversive or threat prediction errors, whereas others argue that they encode action prediction errors involved in soft-habit formation. Here, we show that these accounts need not be mutually exclusive. We instantiate an entropy-regularised reinforcement-learning model in which TS-projecting dopamine neurons update both aversive values and the default policy. In this model, threat belief gates aversive value initialisations, producing TS-like activity during retreat from potentially threatening novel objects, while default-policy learning generates action prediction error signals that decline as actions become habitual. Our results further suggest why both of these signals may need to coexist in the temporal difference errors in our model, and qualitatively reproduce key response patterns and simulations from studies previously used to support both views. Beyond this descriptive reconciliation, our model simulations also highlight the normative role of the tail of the striatum in cautious behaviours in the context of potential threats and stable learning in the face of outcome uncertainty. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.1101/2025.08.22.671714v2",
+      "date": "2026-07-12",
+      "abstract": "Abstract The rare R47H variant of the microglial TREM2 gene increases Alzheimers disease (AD) risk, but its effects on early hippocampal circuitry remain unclear. Trem2 has been reported to be important for microglial-dependent refinement of excitatory synaptic circuits in development. We hypothesized that loss of TREM2 function might result in changes in circuitry due to reduced microglial ability to prune inactive synapses and that this could predispose individuals to later disease. We compared basal synaptic transmission and synaptic density in 3-week-old WT and homozygous Trem2 R47H knockin mice, using in vitro patch clamp recordings and Bassoon-Homer1 immunohistochemistry. Basal synaptic activity, miniature excitatory events, and evoked release probability were unchanged. Synapse density in CA1 and CA3 showed substantial between-mouse variability but no evidence of genotype or regional differences. This variable CA1 synapse density was positively correlated with CA1 miniature excitatory event frequency. Although between-mouse variability in synaptic density could mask subtle changes, these data indicate that early effects of Trem2 R47H in these mice are not sufficient to produce a consistent change in early postnatal hippocampal excitatory synapse density or basal synaptic transmission under these conditions. This supports the view that TREM2-linked AD risk may act primarily through context-dependent mechanisms that become relevant with ageing, neuroinflammatory challenge, or AD pathology. ",
+      "searched_keywords_found_duplicates": [
+        "gene editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.01.28.702248v2",
+      "date": "2026-07-12",
+      "abstract": "Abstract Phagocytosis is a core innate immune process that clears targets spanning a wide range of mechanical properties, yet the role of target mechanics in recognition and engulfment remains unclear. Here, we combine theoretical modeling and experiments to reveal how target stiffness governs distinct modes of phagocyte--target interaction. We develop a membrane-based simulation framework in which both the engulfing cell and its target are deformable and undergo large shape changes, while actin-driven protrusions are regulated by curvature-sensitive membrane complexes. The model predicts three mechanical regimes with increasing target stiffness: (i) biting (trogocytosis), where part of the target is extracted; (ii) pushing, where the target is displaced rather than engulfed; and (iii) complete engulfment. We validate these predictions in epithelial clearance of apoptotic targets in vivo and macrophage engulfment of Giant Unilamellar Vesicles (GUVs) and lymphoma cells. Together, our results identify target mechanics as a key regulator of clearance and cell--cell interactions. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.08.737157v1",
+      "date": "2026-07-11",
+      "abstract": "Abstract With the rapid development of mass spectrometry-based proteomics, the volume of phosphoproteomic data has increased substantially. However, accurate localization of phosphorylation sites and standardized statistical validation remain critical analytical bottlenecks. To address the lack of standardized cross-algorithm evaluation, we introduce onsite, a unified and open-source Python framework. onsite integrates an alanine-decoy strategy to estimate the false localization rate (FLR) across three algorithms: AScore, PhosphoRS, and pyLucXor. This modular architecture efficiently processes large-scale datasets and enables global FLR calculation. Benchmarking on the standard synthetic phosphopeptide dataset PXD000138 highlighted distinct inter-algorithmic variations. Using the same 5% global FLR threshold, pyLucXor localized the most target sites (28,353). It also reached a high accuracy (91.22%) against the known ground truth, resulting in the largest number of correctly localized sites (25,865). Reanalysis of the highly fractionated, large-scale PXD012255 dataset further demonstrated that native integration of onsite into the quantms pipeline enables scalable processing and provides a standardized framework for FLR control in large-scale phosphoproteomics. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.10.737796v1",
+      "date": "2026-07-11",
+      "abstract": "Abstract Motivation: Signal-space nanopore mappers enable real-time mapping and filtering decisions directly from raw nanopore signals. However, existing signal-space mappers are built around linear references, and using a single representative reference can introduce reference bias when the sample diverges from that reference. Pangenome reference collections can reduce this bias by representing diversity across related reference sequences, but linear-reference signal mappers must treat each sequence as a separate target, redundantly storing shared sequences. Pangenome variation graphs provide a more compact representation by storing shared sequences once and encoding variants as alternative paths through the graph. Although sequence-to-graph mapping is well established for basecalled reads, existing signal-space methods do not directly use pangenome variation graphs. Results: We present Panomap, the first signal-space mapper that operates on pangenome variation graphs. Panomap maps raw nanopore signals to graph references, allowing signal-space mapping to use pangenome diversity while representing shared sequences once. We evaluate Panomap in three settings. First, when a single reference already maps the sample well, Panomap preserves mapping accuracy as additional reference sequences are added to the reference collection, while state-of-the-art signal-space tools regress. Second, when the exact sample strain is absent from the reference collection, Panomap benefits from adding related assemblies from the same species to the pangenome reference. Third, using a highly polymorphic locus, we show that Panomap can map reads from alleles not represented in the reference collection by using related alleles in the pangenome, with the largest gains for more divergent alleles and for decisions made from short prefixes of the read signal. In addition, Panomap's graph index scales sublinearly with pangenome collection size. Together, these results show that Panomap brings population-aware reference representation into signal-space mapping. Availability and Implementation: Panomap is open source and available at https://github.com/cornell-brg/panomap. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.10.737775v1",
+      "date": "2026-07-11",
+      "abstract": "Abstract Motivation: Existing pangenome file formats are designed for batch processing. Graphs must be loaded into memory, and alignment files must be read sequentially. Indexed file formats that can be used directly from disk would be more appropriate for interactive applications. Results: We propose GBZ-base and GAF-base — SQLite-backed file formats comparable to GBZ and GAF. GBZ-base supports efficient extraction of local subgraphs, and GAF-base lets us extract all alignments to the subgraph. Additionally, GAF-base is smaller than any other file format for sequence-to-graph alignments. Availability and implementation: https://github.com/jltsiren/gbz-base and https://crates.io/crates/gbz-base under the MIT license. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.10.737716v1",
+      "date": "2026-07-11",
+      "abstract": "Abstract Background: Lyme borreliosis is a common tick-borne disease in Europe caused by spirochetes of the Borrelia burgdorferi sensu lato complex, including Borrelia afzelii, which is maintained in nature through interactions with rodent reservoir hosts. These spirochetes have evolved several surface proteins to manipulate rodent host immunity, some of which remain polymorphic in Borrelia populations. Among these proteins, OspE, which binds the host complement-regulating factor CFH to evade destruction by complement, is one of the most variable. Yet, what evolutionary forces maintain this polymorphism is not well understood. Motivated by a recent discovery of CFH polymorphism in the bank vole (Clethrionomys glareolus), the main reservoir host of B. afzelii, we hypothesized that the polymorphism is maintained by host-parasite coevolution involving specific associations between host and parasite genetic variants. Methods: We analyzed associations between bank vole CFH alleles and B. afzelii OspE variants across three datasets sampled in Poland. Selection acting on OspE was evaluated using omegaMap. Host-pathogen genotype associations were tested using partial redundancy analysis (RDA), and co-structure was assessed using co-correspondence analysis (CoCA). Results: We found that OspE evolves under positive selection, however, we found no evidence for an association between OspE and host CFH variants at the individual level based on RDA or at the population level based on CoCA. Conclusions: Despite evidence of positive selection acting on OspE, we found no support for specific genetic matching between B. afzelii and its bank vole host at the CFH-OspE interface. These results suggest that the evolution of CFH and OspE may be shaped by broader selective pressures, potentially including interactions with multiple host species. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.1101/2023.03.22.533844v3",
+      "date": "2026-07-11",
+      "abstract": "Abstract Background: Alcohol consumption and alcohol use disorder (AUD) are influenced by circadian rhythms. Alcohol-related behaviors and circadian rhythms differ with age and sex, but little preclinical research has compared circadian patterns of ethanol consumption across ages and sexes. Cost-effective tools are becoming widely available that could elucidate these patterns, including open-source, Arduino-based home-cage sipper devices. We hypothesized these devices would reveal age- and sex-specific patterns of ethanol and water consumption and ethanol-induced changes in overall fluid consumption rhythms. Methods: We used Arduino-based home-cage sipper devices in a continuous-access two-bottle choice (2BC) paradigm with water and ethanol (10% v/v) for 14 days to measure drinking patterns of male and female adolescent (3-week), young adult (6-week), and mature adult (18-week) C57BL/6J mice. Grams per kilogram (g/kg) fluid consumption were manually recorded at the beginning of each dark cycle, while sipper devices continuously recorded drinking. Results: Manually collected 2BC data confirmed greater ethanol consumption in females of all age groups as well as stepwise decreases in total fluid consumption with age in ethanol-exposed females and in both sexes in the water-only groups. Correlations of manually recorded versus sipper count data were strong and significant for ethanol, but modest for water, suggesting fluid differences in drinking microstructure. Blood ethanol concentrations were significantly correlated with sipper data, indicating sipper devices accurately determine temporal ethanol consumption. Sipper devices uncovered subtle differences in circadian rhythms by age, group, and ethanol exposure, including minor phase advancement in ethanol consumption with age in females, but delay in males, as well as a female-specific phase delay and weaker amplitude in total fluid consumption across age groups with ethanol exposure. Conclusions: We show these devices capture circadian patterns of ethanol drinking behavior that differ by age, sex, and ethanol exposure inaccessible by manual 2BC measurements alone. Future studies may examine older age groups and further dissect circadian drinking patterns by age and sex and their molecular mechanisms relevant to AUD pathogenesis. Keywords: sex differences, age differences, circadian rhythms, home-cage monitoring, ethanol consumption ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.07.737111v1",
+      "date": "2026-07-11",
+      "abstract": "Abstract Reporters are widely used in Drosophila genetics to visualize gene expression and cell lineages. However, uncharacterized limitations in specific reporter lines can lead to data misinterpretation. Here, we identify a consistent, driver-independent tdTomato signal in the adult proventriculus from the widely used lexAop-tdTomato.nls reporter line. This signal was observed across multiple lexA driver combinations and was directly detectable in lexAop-tdTomato.nls responder-alone adult proventriculi lacking any lexA driver and without antibody staining. In contrast, no comparable native red fluorescence was detected in larval proventriculi under the same no-antibody imaging condition. Mouse and rabbit anti-RFP immunostaining further supported the presence of proventriculus-associated tdTomato/RFP antigen in adult responder-alone animals. In larval responder-alone proventriculi, antibody-amplified staining was antibody-source-dependent: a detectable signal was observed only with rabbit anti-RFP, whereas mouse and rat anti-RFP produced no reliable detectable signal under the same staining condition. A driver-matched comparison using lexAop-RFP.nls did not reproduce the proventricular signal, arguing against detectable ectopic activity of the tested lexA driver in this tissue. However, because lexAop-tdTomato.nls and lexAop-RFP.nls differ in reporter/transgene architecture and possibly genomic insertion context, the underlying cause cannot be assigned specifically to the lexAop sequence. Our findings highlight the necessity of including driver-negative and no-antibody controls when using this reporter line in adult Drosophila proventriculus and gut studies. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.10.737765v1",
+      "date": "2026-07-11",
+      "abstract": "Abstract Evolutionary and demographic processes such as selection, drift and migration shape the genetic variation of populations. Genetic diversity is often lower in populations toward higher latitudes. This decrease potentially threatens their survival as several factors are putting more pressure on the populations, including the spread of infectious diseases. In this study, we combined whole-genome re-sequencing with MHC class II genotyping and skin microbiome profiling in Bufo bufo and B. spinosus, two closely related European toad species. We investigated the underlying immunogenetic and microbial variation resulting from different demographic histories and environmental conditions to identify their potential impact on infection outcomes in these two species. We found lower immunogenetic diversity in B. bufo compared to B. spinosus, with highly significant differences in genes related to adaptive and innate immunity. We found lower overall MHC class II diversity and skin microbiome diversity at the species level in B. bufo, compared with B. spinosus. In contrast, at the individual level, B. bufo showed higher MHC allelic diversity and greater diversity in the core skin microbiota than B. spinosus. Together, our findings suggest that divergence in immunogenetic background and host-associated microbial communities may underlie differences in susceptibility to emerging infectious diseases. This integrative framework provides new insight into how host genetics and microbial communities jointly influence disease outcomes across environmental gradients. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.07.737090v1",
+      "date": "2026-07-11",
+      "abstract": "Abstract The Human Reference Atlas (HRA) enables multiscale data exploration and visualization. We present \"HRA: Powers of Ten,\" a virtual reality (VR) application for integrating, harmonizing, and visualizing data within the HRA Organ Gallery. It enables immersive navigation from a whole-body view of 81 organs to datasets across 5 organs, 5 assay types, and 4 spatial scales using a Multiscale Elevator System. The application, data, and code are available open-source. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.07.737134v1",
+      "date": "2026-07-11",
+      "abstract": "Abstract Redox-based chemical warfare is a primary driver of microbial community assembly. Here, we show that the predatory bacterium Myxococcus xanthus employs a spatial division of labor between two inducible monofunctional catalases, mxKatB and mxKatE, to overcome prey-derived hydrogen peroxide (H2O2). Quantitative transcript analysis revealed distinct regulatory specificities: mxkatB was the dominant transcriptional responder to exogenous H2O2, whereas mxkatE was preferentially induced by UV irradiation. Biochemical analyses demonstrated strict compartmentalization of enzymatic activity. mxKatE functioned intracellularly, consistent with a role in mitigating endogenous genotoxic stress. In contrast, mxKatB, which harbors an N-terminal Sec-dependent signal peptide, was exclusively localized to the extracellular milieu. Targeted gene deletions corroborated these non-redundant physiological roles. ΔkatE mutant exhibited severe growth defects and heightened sensitivity to UV and H2O2 yet retained full predation proficiency. Conversely, ΔkatB mutant displayed unaltered vegetative fitness but were severely impaired in prey lysis due to oxidative inactivation of secreted bacteriolytic enzymes. Failure of cross-complementation confirmed that spatial localization, rather than catalytic capacity, dictates enzyme function. Our findings establish that M. xanthus deploys an extracellular catalase shield to protect its exoenzyme arsenal from prey-derived oxidants. This spatial specialization of antioxidant defenses represents a sophisticated strategy that directly determines the outcome of bacterial predation and shapes interspecies interactions within microbial communities.",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.09.26357608v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract Background: High ambient temperature in early pregnancy has been linked to an increased risk of childhood acute lymphoblastic leukemia (ALL). To better understand biological mechanisms, the current study evaluated potential interaction between temperature and genetic characteristics. Methods: We used data from California birth records (1982-2008) and California Cancer Registry (1988-2011) to identify ALL cases (n=3,353) diagnosed <=14 years of age and non-cancer controls (n=3,530) matched 1:1 on sex, race, ethnicity, and birth year and month. Weekly ambient temperatures throughout pregnancy were assessed on a 1-km grid around the birth address, while genetic data were available from a genome-wide association study using neonatal blood spots. We evaluated the association between ambient temperature and ALL risk by quartiles of established genetic risk score for ALL. Next, we formally tested gene-temperature interactions in the association with ALL, correcting for multiple testing, for genes previously identified with epigenetic changes due to both temperature and ALL. All analyses were adjusted for potential confounders. Results: The elevated risk of ALL per 5 degrees C increase of weekly mean ambient temperature, confined to early pregnancy, was more pronounced among children with the lowest genetic susceptibility to ALL, especially among Latino children (first quartile: odds ratio [OR] = 1.50, 95% confidence interval [CI]: 1.14-1.97); fourth quartile: OR=1.03, 95% CI: 0.83-1.28). There were significant interactions (p<0.002) between ambient temperature and polymorphisms in BNC1 among non-Latino White children, and suggestive interactions (p<0.05) with TBPL2 and NRXN1 in the full population. Conclusions: Our findings suggest that there may be interactions between ambient temperature in early pregnancy and offspring genotype in the risk of childhood ALL. Impact: If replicated, these findings could help elucidate the biological mechanisms linking high ambient temperature in early pregnancy and the risk of childhood ALL. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.07.26356710v1",
+      "date": "2026-07-10",
+      "abstract": "Summary A major challenge in Alzheimer’s disease (AD) research is predicting who will develop AD, how it progresses, and how to slow, prevent, or reverse progression. Here, we apply a data-driven timeline inference framework to sparse longitudinal blood metabolomics data to reconstruct AD timelines and derive individual-specific timeline progression rates. Inferred temporal locations for each metabolomics sample along the AD timeline closely track clinical severity, while timeline progression rates capture inter-individual differences in the speed of pathophysiological progression. Genome-wide association studies of timeline progression rate identify novel loci distinct from those in AD case-control studies, notably showing no effect of the major risk locus APOE . These findings support a multidimensional paradigm of AD risk in which disease potential and progression act as partially independent factors. By explicitly modeling disease dynamics, this work reveals genetic contributions not captured by traditional approaches and provides a framework for studying AD and other progressive disorders. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.06.26357220v1",
+      "date": "2026-07-10",
+      "abstract": "ABSTRACT Background The ClinGen ENIGMA BRCA1 / BRCA2 Variant Curation Expert Panel (VCEP) has adapted the American College of Medical Genetics and Genomics/Association for Molecular Pathology (ACMG/AMP) framework into gene-specific specifications. However, applying these specifications manually remains labor-intensive and prone to inconsistency, requiring integration of population, computational, functional, and clinical evidence through gene-specific decision trees and a points-based classification system. Methods We developed HECTOR (HEreditary Cancer varianT Online Reclassifier), a free web-based tool that implements the complete ENIGMA VCEP v1.2 specifications for BRCA1 and BRCA2 . HECTOR automatically populates all evidence codes derivable from public data, routes curator-dependent evidence to a manual input layer and returns a transparent five-tier classification with code-level evidence. We validated HECTOR against two independent reference datasets: the 143-variant ENIGMA Evidence Repository, used as a clinical-grade reference standard, and 134 manually curated in-house variants of uncertain significance (132 unique variants). HECTOR was then applied to the complete ClinVar BRCA1 / BRCA2 catalog (n = 34,077). Results At the criterion level, HECTOR exactly reproduced 326 of 413 VCEP-assigned criteria (78.9%), with discordance arising predominantly from curator-dependent evidence rather than implementation errors. In an independent cohort of 134 manually curated in-house variants, HECTOR was fully concordant with expert consensus at the classification level and, even without auto-populated likelihood-ratio evidence, resolved more variants to a definitive classification than two generic ACMG/AMP classifiers. Across ClinVar, HECTOR classified 33,913 variants. Agreement with definitive ClinVar classifications was 96.7% for pathogenic variants and %72.7 for benign variants overall. Among variants for which HECTOR generated a definitive classification, directional concordance reached 99.7% for pathogenic and 99.9% for benign variants. HECTOR also resolved a substantial proportion of variants classified as uncertain (67.3%) or conflicting (88.7%), predominantly toward benign classifications. Conclusions HECTOR provides a faithful, transparent implementation of the ENIGMA VCEP v1.2 specifications for BRCA1 and BRCA2 , enabling rapid, standardized, and reproducible application of gene-specific variant classification guidelines while reducing the burden of manual curation. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.09.26357651v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract Background: Stress-induced childhood-onset neurodegeneration with variable ataxia and seizures (CONDSIAS) is a rare autosomal recessive disorder caused by biallelic variants in ADPRHL2, which encodes ADP-ribosylhydrolase 3 (ARH3), a key enzyme involved in poly (ADP-ribose) (PAR) metabolism. Although Minocycline has been reported to attenuate PAR-mediated neurotoxicity primarily through modulation of PARP-dependent pathways, whether it may also interact with ARH3 or influence the structural behavior of pathogenic ARH3 variants remains unknown. This study was designed to explore this possibility by integrating clinical observation with computational structural analyses. Methods: Comprehensive clinical evaluation, targeted Sanger sequencing, and in silico pathogenicity analyses were performed. Protein modeling, molecular docking, and 100-ns molecular dynamics simulations were conducted to evaluate the predicted structural consequences of the p.Thr79Pro variant and to explore potential interactions between ARH3 and Minocycline. Results: A homozygous ADPRHL2 variant (NM_017825.3:c.235A>C; p.Thr79Pro) was identified in a child with CONDSIAS. Computational analyses predicted reduced structural stability and increased conformational flexibility of the mutant ARH3 protein relative to the wild-type structure. MM-GBSA calculations estimated differences in binding free energies between the wild-type (−34.51 kcal/mol) and mutant (−39.76 kcal/mol) ARH3-Minocycline complexes, suggesting subtle differences in their predicted energetic profiles. Clinically, neurological progression appeared stable, with improved motor function observed during approximately one year of follow-up and no notable treatment-related adverse effects. Conclusions: By integrating clinical observations with computational structural analyses, this study provides preliminary computational support for the hypothesis that Minocycline may influence ARH3 conformational behavior in addition to its proposed effects on PARP-dependent pathways. Although these findings do not demonstrate direct molecular binding or therapeutic efficacy, they provide a biologically plausible framework for future biochemical, cellular, and functional investigations. Keywords: CONDSIAS; ADPRHL2; ARH3; Minocycline; molecular docking; molecular dynamics simulation; structural bioinformatics; translational medicine ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.08.26357603v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract Background Despite the global importance of HIV-1 subtype C, a global-scale GIS characterization of its geographic clustering and the temporal persistence of hotspots is lacking, and systematic cross-method comparisons are scarce. Methods We assembled 2,220 country–year observations from 111 countries (2005–2024), comprising 161,025 subtype C sequences, and generated internally standardized expected counts. We compared hotspot detection using Getis-Ord Gi* statistics (ArcGIS), SaTScan space–time scan statistics, and Bayesian hierarchical models with spatial–temporal smoothing, and quantified temporal persistence and cross-model concordance. Results Documented subtype C sequences showed increasing geographic concentration over time, shifting from relatively widespread detection toward progressively localized clustering, with the strongest and intensifying concentration in Southern Africa. SaTScan and Bayesian models identified fewer hotspots but showed greater temporal stability, whereas Gi* detected more localized and short-term spatial fluctuations. High-stability hotspots (sustained multi-year detection) were predominantly in Southern Africa. Zimbabwe was the only country classified as a high-stability hotspot across all three frameworks; Eswatini, Botswana, Malawi, and South Africa showed high stability in at least two models, indicating robust, model-consistent persistence. Conclusions Integrating complementary hotspot methods reveals both convergent and method-specific patterns and provides a quantitative basis to prioritize long-term persistence for targeted surveillance, resource allocation, and precision prevention. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.09.26355286v3",
+      "date": "2026-07-10",
+      "abstract": "Abstract Background Diabetic peripheral neuropathy (DPN) is a common and disabling complication of diabetes for which no disease-modifying therapies are currently available. Glycemic and metabolic drivers do not fully explain why only a subset of individuals with diabetes develop DPN, and underling genetic contributors remain poorly defined. Methods We performed a multi-population GWAS of neuropathy in individuals with and without diabetes using the VA Million Veteran Program and UK Biobank, with replication in the All of Us Research Program (AoU). Gene-based and gene-set analyses were used to identify enriched biological pathways. The relationship between circulating serine levels and DPN was further investigated, using two-sample Mendelian randomization. To extend the findings beyond common variation and DPN, we assessed the burden of rare, predicted high-impact variants in GWAS-prioritized genes in individuals with unsolved inherited neuropathies using the GENESIS platform. Findings Among individuals with type 2 diabetes, we identified seven genome-wide significant loci (p<5×10□ □) including variants in PHGDH and PSPH , key enzymes in serine biosynthesis, TEAD1, CYP4F11, LARGE1, FTO , and COBLL1 . No significant loci were identified in individuals without diabetes or with type 1 diabetes. Four loci ( PHGDH, TEAD1, FTO and CYP4F11) replicated in AoU ( p <0·05). Mendelian randomization showed that higher genetically predicted serine levels were associated with lower DPN risk, consistent with a causal role of serine metabolism in disease pathogenesis. Rare-variant burden analyses demonstrated association of predicted deleterious variants with inherited neuropathy cases for PHGDH (odds ratio [OR] 12.7 [95% CI 7·9, 20·4]), PSPH (OR 8·5 [7·2, 10·2]), PHKG1 (OR 4·8 [3·7, 6·3], and LARGE1 (OR 0·007 [0·0004, 0·1]). Interpretation Convergent genetic evidence across common and rare variation implicates the serine synthesis pathway in DPN susceptibility. These findings link diabetic and inherited neuropathies through a shared metabolic mechanism and provide a genetically supported rationale for investigating serine-directed therapeutic strategies. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.09.26357637v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract Objective Clonal hyperexpansion of CD4 + T cells is a characteristic feature of rheumatoid arthritis (RA). Equally large T cell clones also arise in physiological ageing or latent viral infection and adopt a replicative senescence programme – a tolerance mechanism that limits immune activation by innate-like reprogramming and proliferative arrest. We aimed to characterise the senescence programme of hyperexpanded CD4 + T cell clones in RA and to define their clinical associations. Methods Hyperexpanded T cell clones were characterised by single-cell RNA and T cell receptor profiling of peripheral T cells from RA patients and healthy donors. Flow cytometric validation was performed in two cross-sectional cohorts (n=15, n=45), paired blood and synovial fluid (n=20) or synovial tissue (n=18) sampling, and a non-interventional study of co-stimulatory blockade with abatacept (n=6). Results Hyperexpanded CD4 + T cell clones exhibited a CCR7 − CD27 − phenotype and accumulated in RA joints. Their frequency correlated with disease activity and their surface profile was modulated by abatacept, suggesting susceptibility to therapeutic intervention. At the molecular level, hyperexpanded clones converged on a phenotype consistent with replicative senescence, characterised by natural killer (NK) cell-reminiscent cytotoxic reprogramming, loss of co-stimulatory molecules, and reduced translational activity. However, compared with healthy donor counterparts, hyperexpanded RA CD4 + T cell clones showed reduced senescence-associated cytotoxic and NK cell markers, and increased IL-7 receptor signalling, indicating attenuated senescence and preserved capacity for homeostatic proliferation. Conclusion We propose that replicative senescence insufficiently constrains hyperexpanded clones in RA, resulting in sustained antigen reactivity in autoreactive clones and perpetuation of chronic inflammation. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.07.26356386v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract Brugada syndrome (BrS) is an inherited cardiac condition characterized by a hallmark ECG pattern and an increased risk of sudden cardiac death. Central to the aetiology of BrS, the SCN5A region harbours both common non-coding risk variants and rare coding variants that are causative in approximately 20% of patients. However, rare non-coding genetic variation in this region remains largely unexplored. Here, we used whole-genome sequencing (WGS) of 752 European-ancestry BrS cases and 1,827 ancestry-matched controls to identify BrS-associated rare non-coding genetic variation at the SCN5A locus. Sliding-window and cis -regulatory element (CRE)-based rare-variant aggregate testing implicated three conserved CREs, including a dense aggregation of case singleton variants within a 178 bp enhancer in intron 17 of SCN5A which replicated in an independent BrS cohort. Prioritised BrS-associated rare and low-frequency non-coding variants within these elements were predicted to alter cardiac transcription factor motifs, and altered CRE activity in hiPSC-CM luciferase assays or were associated with BrS-relevant ECG endophenotypes in the UK Biobank. Single-variant analysis across the region identified a Bonferroni-significant five-fold case-enriched low-frequency variant within a known CRE in intron 1 of SCN5A, which replicated, was associated with slower cardiac conduction in the UK Biobank and accounted for part of the BrS GWAS signal at this locus. Structural variant analyses identified a 10.5 kb deletion upstream of SCN5A in a BrS case that encompassed a cardiac CRE and reduced sodium current density in a hiPSC-CM model, as well as a 6 kb BrS-enriched retrotransposon insertion in SCN5A that appeared to underlie part of the GWAS signal in this region. Together, these findings implicate rare and low-frequency non-coding variation at the SCN5A locus in BrS susceptibility and demonstrate the value of targeted WGS analysis of key disease loci. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.07.26357001v1",
+      "date": "2026-07-10",
+      "abstract": "ABSTRACT Genetic screening for rare pathogenic variants facilitates early detection and prevention of disease manifestations in medically actionable disorders, but sequencing costs limit widespread use. We introduce DoBSeq, a low-cost, high-throughput screening framework for detecting rare, single-nucleotide variants and indels. The framework includes: extraction of DNA from dried blood spots used in neonatal screening, automation of two-dimensional DNA pooling and library preparation, high-depth targeted sequencing using a 582-gene custom panel, and a probabilistic model to assign rare pathogenic variants to individuals. Benchmarked against whole-genome sequencing across 582 genes in a batch of 576 individuals, the framework detected 95% of all variants and recovered all clinically relevant pathogenic single-nucleotide variants in American College of Medical Genetics and Genomics (ACMG) actionable genes. Applied to 2304 anonymised blood donors, it yielded variant frequencies consistent with existing population estimates. At a sample cost of 29 USD, including 11 USD running costs, this framework provides a cost-efficient approach to population-level genetic screening. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.09.26357614v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract Background Nuclear medicine and radiopharmaceutical development require coordinated radiochemistry, dosimetry, molecular imaging, radiation-safety and clinical decision processes. Current workflows remain fragmented, difficult to audit and poorly standardised for evaluating domain-specific AI support. Methods We developed RadGuide AI, a nuclear medicine agent built around a traceable data-model-tool loop. ",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.09.737644v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract Here, we investigated the temporal remodeling of LD-associated metabolic pathways during HCV JFH-1 infection of human hepatoma Huh7 cells. HCV infection transiently increased LD fluorescence intensity at 24 hours post-infection (hpi), followed by normalization or relative loss of LD signal at later time points. Concomitantly, LDs became progressively clustered and enlargement during late infection, despite reduced protein levels of the canonical LD fusion proteins CIDEA, CIDEB, and CIDEC, suggesting that HCV-induced LD enlargement occurs through CIDE-independent mechanisms. Transcriptomic, RT-qPCR, and immunoblot analyses revealed time-dependent regulation of genes and proteins involved in LD structure, triglyceride synthesis, lipolysis, lipid uptake, and mitochondrial fatty acid utilization. Subcellular fractionation demonstrated preferential accumulation of fatty acids in mitochondrial fractions at 24–72 hpi. This redistribution was accompanied by increased oxygen consumption rate, elevated extracellular acidification, and progressive reactive oxygen species accumulation, indicating infection-associated metabolic activation and oxidative stress. Pharmacological inhibition of DGAT1-dependent LD biogenesis, LIPA-dependent lysosomal lipid hydrolysis, LIPE/HSL-dependent lipolysis, or CPT1-dependent mitochondrial fatty acid transport markedly reduced mitochondrial fatty acid accumulation and suppressed HCV-induced respiratory activity. Inhibition of LIPA or LIPE/HSL reduced both HCV RNA and core protein levels, whereas inhibition of CPT1 or DGAT1 had more pronounced effects on core protein than on viral RNA. Together, these findings support a model in which HCV dynamically remodels LDs, mobilizes LD-associated fatty acids, and redirects them toward mitochondria to support infection-associated metabolism and downstream stages of the viral life cycle. Lipid hydrolysis and mitochondrial fatty acid trafficking therefore represent potential host-directed targets for limiting HCV infection.",
+      "searched_keywords_found_duplicates": [
+        "CRISPR"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.10.717844v4",
+      "date": "2026-07-11",
+      "abstract": "Abstract Scientific foundation models learn high-dimensional representations from diverse data modalities, yet what they encode and how to extract that knowledge remain open questions. Here we show that probing the internal representations of Evo 2, a 7-billion-parameter genomic foundation model, enables accurate and interpretable genetic variant effect prediction. We introduce a covariance-based probe that captures second-order structure from Evo 2 sequence embeddings to predict variant pathogenicity across variant types and functional consequences, matching or exceeding specialized predictors within their domains. To ground these predictions in known biological mechanisms, we train a complementary panel of probes on existing annotations to detect which genomic properties are disrupted by a variant. This categorized evidence is then integrated with each variant's genomic context through a language model to generate variant-specific mechanistic hypotheses. Our pathogenicity predictions correlate with experimental measures of variant function, clinical penetrance, and biobank disease associations while the mechanistic hypotheses are consistent with expert reviews, known mechanism classes, and downstream molecular readouts. We release pathogenicity scores, disruption profiles, and contextualized interpretations for 4.2 million variants from the ClinVar database as an open resource through the Evo Variant Effect Explorer (EVEE). More broadly, this structured probing approach offers a general framework for interrogating foundation models across scientific disciplines and grounding their outputs in existing domain concepts. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.08.737271v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract Antibiotics impose strong selection on bacteria, resulting in the emergence and spread of antimicrobial resistance. To date, the consequences of resistance evolution for other traits, especially virulence as a key life-history characteristic of high medical relevance remain poorly understood. A central limitation of existing work is reliance on clinical isolates with complex evolutionary histories, hindering causal inferences on resistance-virulence relationships. Such causal information is critical for our understanding of the distribution of resistance-associated evolutionary trade-offs, which may additionally guide optimization of treatment designs. The objectives of our study are to address these knowledge gaps using an experimental evolution framework with the human pathogen Pseudomonas aeruginosa . We quantified changes in resistance, life-history characteristics, in-vivo virulence with a Caenorhabditis elegans infection model, and whole genome sequences for bacterial clones, which had been independently evolved under three antibiotics with distinct cellular targets. We found that the resistance-virulence trade-off depended on the used antibiotic and was additionally driven by the underlying evolutionary path to resistance. Evolved resistance to the fluoroquinolone ciprofloxacin correlated positively with virulence, dependent on genetic changes in either the antibiotic target or efflux regulation. Conversely, evolved resistance to piperacillin/tazobactam, a β-lactam/β-lactamase inhibitor combination, was negatively correlated with virulence, contingent on the coincidental spread of resistance mutations and a large genomic deletion, containing numerous virulence genes. Lastly, evolved resistance to the aminoglycoside streptomycin led to only minor virulence changes. Overall, these antibiotic-specific evolutionary trajectories challenge the assumption of a universal resistance-virulence trade-off and demonstrate that antibiotic choice itself shapes pathogen virulence potential. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.07.737030v1",
+      "date": "2026-07-11",
+      "abstract": "Abstract Hereditary hemorrhagic telangiectasia (HHT) is a rare vascular disorder caused by pathogenic variants in members of the BMP9/ALK1 signaling hub. In the present study we show that, regardless of whether the alterations are caused by reduced BMP9/ALK1 signaling (pathogenic variants in the ENG or ALK1 genes) or by overactivation of this pathway (such as the SMAD6 pathogenic variants), all are associated with increased endothelial cell (EC) proliferation and high levels of ERK MAPK activation in patient biopsies. We reproduced this phenotype in vitro in ECs lacking SMAD6 or after SMAD1 knockdown using siRNA. Loss of SMAD6 leads to dysregulation of the Notch pathway, with downregulation of phosphatases and consequent overstimulation of ERK. In normal ECs, BMP9 and Notch signaling inhibit ERK activity by upregulating PPP1R3C, a regulatory subunit of the PP1 phosphatase. Notably, BMP9-mediated inhibition of ERK is abolished when cells are transfected with siRNA targeting PPP1R3C. ERK hyperactivation was also observed in an HHT2 mouse model (ALK1-2loxP;Cdh5-CreERT2). Loss of both ALK1 alleles in adult mice leads to vascular failure and hemorrhages in the lung and intestine; these injuries are significantly reduced by treatment with the MEK/ERK inhibitor selumetinib. Overall, our work identifies a key role for ERK activation involved in HHT pathogenesis, suggesting that ERK inhibition may represent a promising therapeutic strategy for these patients. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR-Cas9"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.07.736803v1",
+      "date": "2026-07-11",
+      "abstract": "Abstract Cell states are increasingly conceptualized as attractors of high-dimensional dynamical systems, yet quantitative approaches for integrating phenotypic information into this framework remain limited. Here, we take an image-based approach that combines unsupervised machine learning (ML) with timelapse imaging to extract and characterize the temporal dynamics of morphological features. Using a cell line with endogenously tagged VE-cadherin, we acquired brightfield and fluorescence timelapse images of human induced pluripotent stem cell-derived endothelial cell (hiPSC-EC) monolayers, which adopt distinct phenotypes at two different magnitudes of shear stress in terms of their morphology, behavior, and VE-cadherin organization. To quantify these phenotypic cell states without segmentation, we trained a diffusion autoencoder to predict VE-cadherin signal from brightfield images. We identified interpretable ML-based features representing cell orientation, elongation, and local density. Treating these variables as dimensions of a morphological state space, we estimated a data-driven vector field and found that the two observed phenotypic cell states correspond to stable fixed points of the inferred dynamical system. Mapping measured cell migration coherence onto this space further distinguished the states. Imaging cells across intermediate shear stresses revealed a regime of bistability in which both states coexist, indicating that the shear-stress-dependent transition between endothelial cell states occurs as a bifurcation of the inferred dynamical system. Finally we applied this method to study an N-terminal truncation of VE-cadherin, finding that mutated cells preserve alignment and coherent migration, but exhibit altered morphology and increased migration speed. This work demonstrates the applicability of a dynamical systems approach to quantitatively characterize morphological aspects of cell state from interpretable ML-based features. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR-Cas9"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.09.737558v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract Elongating rice internodes present a developmental gradient from dividing meristem to mature cells, providing an elegant pseudo-time course for study of plant vegetative development. We tested the hypothesis that DNA methylation regulates gene expression during rice internode development by integrating RNA-seq and bisulfite DNA sequencing across eight internode segments. Previously described topologically associated chromatin domain borders aligned with transcription start sites of constitutive expressed genes. CpG and CHG differential methylation was enriched in young segments, consistent with maintenance methylation; whereas CHH methylation showed similar differential abundance in young and old segments. CHH and CHG methylation in upstream regions, CpG methylation within gene bodies, and any methylation in 5′ and 3′ untranslated regions were permissive of moderate to high gene expression. Very low expression was associated with CpG methylation upstream, CHG and CHH methylation within gene bodies, and CpG and CHG methylation downstream. A nonrandom subset of genes, including cell wall-related glycoside hydrolases, lignin and tricin biosynthesis enzymes, and WD40 proteins, showed methylation-expression correlations, with expression changes enriched in triple-marked elements. These results suggest that internode phenotypes of DNA methylation machinery mutants relate to alteration of specific target genes, opening approaches for grass culm improvement for lodging resistance and biomass production. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR-Cas9"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.05.735339v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract Clinical-grade RAS inhibitors raise an unresolved question: do oncogenic KRAS-alleles impose distinct constraints on adaptive resistance that can be exploited therapeutically? Using daraxonrasib (RMC-6236), a multi-selective RAS(ON) inhibitor, we compared resistance mechanisms between KRASG12D and KRASG12R, alleles with fundamentally different RAS network dynamics. Daraxonrasib inhibited KRASMUT primarily through steric occlusion of effector binding, while engaging RASWT only modestly (~20%) via accelerated GTP hydrolysis. KRASG12R is marked by its inability to transactivate RASWT, and it was observed that daraxonrasib resistant KRASG12R cells utilize EGFR/RASWT-GTP signaling as the dominant adaptive route. In contrast, KRASG12D resistance arose primarily through retained KRASG12D-GTP signaling, associated with decrease of cyclophilin A (CypA), the cellular binding partner required for daraxonrasib activity. The shift from KRASG12R dependence to the EGFR/RASWT axis suppresses MEK phosphorylation, conferring sensitivity to trametinib. We confirmed this divergence clinically: a KRASG12R PDAC patient who progressed after 10 months on daraxonrasib showed tumor EGFR/RASWT activation, and rapid 3D-bioprinted patient-derived toroid modeling predicted trametinib sensitivity. Sixth-line trametinib-based combination therapy achieved ~5 months of disease control despite rapid progression on two prior regimens. This patient ultimately achieved 40 months of overall survival, far exceeding the 8-12 month median for metastatic PDAC. These findings infer allele-specific, CypA- and EGFR-dependent resistance programs to pan-RAS inhibition and demonstrate that rapid patient tumor modeling can translate resistance biology into actionable late-line treatment decisions. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR-Cas9"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.09.737597v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract Col8a2 Q455K/Q455K (Q455K) mice exhibit features of early-onset Fuchs’ endothelial corneal dystrophy (FECD), including decreased endothelial cell density (ECD) and guttae formation. Within the context of these clinical features, this study longitudinally evaluates ferroptosis in Q455K and wild-type (WT) mice using in vivo imaging, PCR and immunohistochemistry. Fifty-six Q455K and 56 WT mice were evaluated from 3 to 24 months of age with in vivo confocal microscopy; ECD and guttae were measured. Ferroptosis marker expression was determined with PCR and immunohistochemistry (IHC). Data were analyzed using two-way ANOVA with Tukey’s post hoc test, Chi-square test and a paired t-test. The ECD significantly decreased in both groups from 3 to 24 months of age, but more markedly in Q455K (2285 ± 317 to 1012 ± 58 cells/mm²) versus WT mice (2714 ± 139 to 2057 ± 149 cells/mm², P <0.0001). Guttae were observed exclusively in Q455K mice beginning at 3 months of age and increased over time ( P =0.0003). The Q455K mice demonstrate guttae at the vertices of corneal endothelial cells rather than their centers (74.3% vs. 25.7% P< 0.001). Expression of ferroptosis-related genes ( Tfrc, Slc40a1, Ftl1, Gpx4 ) were significantly increased in the Q455K versus WT mice ( P <0.05). Furthermore, corresponding protein expression (transferrin receptor 1, ferroportin, ferritin and glutathione peroxidase 4) was significantly elevated adjacent to guttae in Q455K versus WT mice ( P <0.05). These findings implicate guttae in the initiation of ferroptosis as it relates to the pathophysiology of FECD and provide an optimal window for testing novel FECD therapies using this murine model, particularly those that target ferroptosis. Significance Statement Fuchs’ endothelial corneal dystrophy (FECD) is a major cause of corneal blindness, yet the mechanisms driving endothelial cell loss remain unclear. Using an early-onset Q455K murine model, we show that disease onset occurs by 3 months of age and progresses with characteristic corneal guttae, endothelial cell loss, and morphological abnormalities replicating human FECD. By identifying ferroptosis adjacent to guttae in the Q455K, we demonstrate this mechanism is not specific to genetic mutations, but rather a conserved driver of corneal endothelial loss within the context of guttae formation. These findings establish an FECD progression timeline and reveal a mechanistic link between ferroptosis and guttae, validating this model as a critical tool for evaluating targeted therapeutic strategies. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR-Cas9"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.09.737427v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract Tonate virus (TONV) is a neglected mosquito-borne alphavirus of the Venezuelan equine encephalitis complex associated with febrile illness, encephalitis, and fetal central nervous system abnormalities. Yet, host pathways that sense TONV infection and restrict its replication remain poorly defined. Here, we investigated the interaction between TONV and the type I interferon (IFN-I) system in human cells. We show that TONV infection led to the accumulation of cytosolic double-stranded RNA and a robust IFN response. RIG-I and MDA5 depletion as well as that of MAVS and IRF3 strongly reduced TONV-induced IFN response. Disruption of RIG-I, MDA5, MAVS, or IRF3 resulted in an increase of dsRNA-positive cells and a higher viral RNA accumulation. Finally, we found that treatment with exogenous IFN-I strongly inhibits TONV replication reducing both viral RNA loads and infectious particle production. Thus, together, our results identify the RIG-I/MDA5-MAVS-IRF3 axis as a major pathway sensing TONV infection and establishing an IFN-I-dependent antiviral state, providing the first molecular characterization of TONV innate immune sensing in human cells. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR-Cas9"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.29.713301v2",
+      "date": "2026-07-10",
+      "abstract": "Abstract Acyl carrier protein (ACP) and its 4-phosphopantetheine prosthetic group canonically function as the soluble scaffold for acyl chain assembly and elongation during type-II fatty acid synthesis (FASII). Plasmodium malaria parasites retain a FASII pathway in the apicoplast organelle that has been the subject of considerable scrutiny and confusion. Although apicoplast FASII is essential for P. falciparum growth within mosquitoes and the human liver, this pathway is dispensable and largely inactive in blood-stage parasites that can scavenge host fatty acids. In contrast to FASII enzymes that can be disrupted without fitness defect, we report that knockout or ligand-dependent knockdown of apicoplast ACP is lethal to blood-stage P. falciparum , indicating an essential FASII-independent function. Loss of ACP impairs the biosynthesis of essential isoprenoid precursors and blocks apicoplast biogenesis. Using proximity biotinylation and biochemical interaction studies, we identified a key role for ACP in binding and stabilizing apicoplast pyruvate kinase II (PKII). This critical enzyme is the only known source of nucleoside triphosphates (NTPs) in this organelle and is required for isoprenoid synthesis and apicoplast biogenesis. Our work reveals that ACP knockdown results in destabilization and loss of PKII, which is sufficient to explain ACP essentiality in this stage. This work unveils essential ACP function at a key biochemical hub controlling broad apicoplast metabolism in malaria parasites that is independent of the canonical ACP role in FASII. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR-Cas9"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-14",
+      "date_window_start": "2026-07-07",
+      "date_window_end": "2026-07-14",
+      "modality": "gene_editing",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2025.12.16.694623v2",
+      "date": "2026-07-10",
+      "abstract": "Abstract Wolman disease (WD), the severe infantile form of lysosomal acid lipase deficiency, is a rare metabolic disorder caused by inactivating mutations in the LIPA gene. Although WD is characterized by profound hepatic dysfunction, experimental human systems capable of modelling multicellular liver pathology and supporting therapeutic testing remain limited. Here, we generated an isogenic human model of WD by introducing LIPA loss-of-function mutations into induced pluripotent stem cells and differentiating them into multicellular human liver organoids (HLO). LIPA-deficient HLO preserved hepatic lineage specification while recapitulating key biochemical and cellular features of WD, including loss of LIPA activity, lysosomal expansion, lipid accumulation, and activation of inflammatory and fibrogenic programs. Single-cell RNA sequencing resolved cell-type-specific disease states across hepatocyte-, stromal-, and biliary-like populations, revealing the emergence of a reactive biliary program consistent with ductular reaction, a complex tissue response associated with chronic liver injury. Importantly, this reactive biliary phenotype was supported by targeted gene-expression analysis in WD liver organoids and independently validated in liver tissue from mouse models and WD patients. Isolated LIPA-deficient cholangiocyte organoids failed to reproduce the DR-associated program, indicating that this response depends on multicellular interactions within the hepatic microenvironment rather than on biliary cell-autonomous dysfunction alone. Consistently, hepatocyte-directed AAV-mediated restoration of LIPA expression attenuated metabolic stress, inflammatory and fibrogenic programs, and suppressed ductular reaction both in organoids and in vivo. Together, these findings establish multicellular human liver organoids as a physiologically relevant platform for modelling emergent tissue-level responses in WD and for evaluating therapeutic rescue strategies in a human context. ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR-Cas9"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
