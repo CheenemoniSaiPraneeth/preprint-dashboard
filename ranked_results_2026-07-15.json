@@ -1,0 +1,179 @@
+{
+  "bispecific_antibodies": [
+    {
+      "date_scraped": "2026-07-15",
+      "date_window_start": "2026-07-08",
+      "date_window_end": "2026-07-15",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.07.736933v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract Background Late-stage attrition in therapeutic antibody discovery is dominated by developability liabilities: aggregation, polyspecificity, charge-driven non-specific binding, and chain-mispairing artefacts. Bispecific antibodies amplify these risks because each additional binding arm adds a new biophysical envelope that must be jointly satisfied. The existing in-silico ecosystem addresses individual axes of this problem (humanization, structure prediction, single-metric developability scoring) but few platforms integrate them end-to-end. PTIm-mAb (SANSHI Bio Solutions Pvt Ltd) is a multi-objective, AI/ML-driven antibody design platform that jointly optimizes sequence liabilities, surface aggregation, charge balance, humanness, and predicted binding affinity, and recommends a bispecific architecture in a single workflow. Methods We applied PTIm-mAb to the published sequences of eleven FDA-approved bispecific antibodies using the platform’s default-parameter Pareto-acceptance optimization loop, run to convergence or to the internal iteration ceiling, with no human curation between the platform run and the external profiler. Both wild-type and platform-optimized sequences were profiled independently with three publicly available developability tools: Aggrescan, CamSol, and the Therapeutic Antibody Profiler (TAP). Paired-sample tests (Wilcoxon signed-rank, exact binomial sign test, McNemar exact test) evaluated the direction and significance of changes. Results Across the 17 evaluable paired arms profiled by TAP, PTIm-mAb cleared four wild-type CDR-vicinity Positive Charge Patch (PPC) flags Blinatumomab-Arm1 (1.9952 → 0.6885), Mosunetuzumab-Arm1 (1.3391 → 0.0568), Linvoseltamab-Arm2 (0.8060 → 0.0), and the headline Elranatamab-Arm1 case (1.7981 → 0.5799) achieved without trading off any other in-range metric and corroborated by Aggrescan and CamSol on the same arm. Total CDR length was significantly shortened across the cohort (Wilcoxon two-sided p = 0.0075, one-sided p = 0.0037, effect size r = 0.65): significant improvement on the metric most directly under the optimizer’s control. The directional shift on Aggrescan integrated aggregation propensity was also significant by sign test (24 of 36 chains improved, 2 unchanged, 10 worsened; p = 0.021). On the already-clean Zenocutuzumab profile the optimizer identified residual headroom (PPC 0.1191 → 0.0; SFvCSP 12.5 → 6.0), demonstrating that the platform’s value extends to candidates that pass all flags. Three results: Teclistamab Arm-1, Emicizumab, and Talquetamab Arm-2 did not clear all flags and are presented as candidates for iterative re-invocation of the platform pipeline on the optimized output (planned follow-up; Section 5 ). The remaining TAP metrics (PSH, PPC magnitude, PNC, |SFvCSP|) trended in the improvement direction without reaching significance in this cohort, a pattern consistent with the expected statistical signature of a multi-objective optimizer applied to molecules already within the clinical-stage envelope. The platform reported a mean of 12.8 months and USD 723,889 of computational front-loading per project across the nine-project cohort (range 9.0–16.0 months; USD 510,000–960,000); the underlying cost assumptions are tabulated in ",
+      "searched_keywords_found_duplicates": [
+        "BiTE",
+        "bispecific",
+        "bsAb"
+      ],
+      "primary_abstract_matched_keywords": [
+        "bispecific"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 2,
+      "primary_keyword_hits": 3,
+      "secondary_keyword_hits": 0,
+      "score": 5
+    },
+    {
+      "date_scraped": "2026-07-15",
+      "date_window_start": "2026-07-08",
+      "date_window_end": "2026-07-15",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.07.735601v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract Synucleinopathies are a group of neurodegenerative disorders characterized by the accumulation of aggregated α-synuclein (α-syn), including Parkinson’s disease, Dementia with Lewy Bodies, and Multiple System Atrophy. These diseases are marked by locomotor and non-motor impairments, as well as mitochondrial dysfunction and the loss of dopaminergic (DA) neurons. We have developed several anti-α-syn single-domain antibodies (sdAbs) and demonstrated the diagnostic imaging potential of two of them and the acute therapeutic benefit of one in clearing α-syn in a mouse model. However, whether these sdAbs can suppress α-syn-mediated neuronal loss and locomotor impairment in vivo remains unclear. We evaluated the therapeutic potential of five anti-α-syn sdAbs to clear pathological α-syn in mouse neuronal culture and then demonstrated their in vivo efficacy in a Drosophila model of synucleinopathy. The sdAbs differed in their efficacy to lower levels of phospho-serine 129 α-syn, prevent loss of DA neurons, alleviate mitochondrial dysfunction, improve motor function, and prolong survival in synucleinopathy flies. The most effective sdAb, 2H1, has not been reported before. It binds strongly to the aggregation prone region of α-syn and robustly improves all these disease parameters. Additionally, that sdAb is associated with α-syn in the fly neurons, as shown through proximity dependent turboID biotinylation assays. The sdAb-turboID also biotinylated α-syn-associated proteins involved in synapse/vesicle trafficking pathways, pinpointing the location of their intracellular interaction. Our findings provide an insight into the therapeutic mechanism of action of these sdAbs and strongly support their clinical development. ",
+      "searched_keywords_found_duplicates": [
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-15",
+      "date_window_start": "2026-07-08",
+      "date_window_end": "2026-07-15",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.09.737552v1",
+      "date": "2026-07-10",
+      "abstract": "Abstract Monobodies are engineered binding proteins that recognize extended protein surfaces and offer advantages over small-molecule inhibitors for targeting challenging KRAS oncoproteins. Monobody 12D4 exhibits high affinity and selectivity for the oncogenic KRAS(G12D) mutant, but the molecular determinants governing its recognition and the basis for its mutant selectivity remain poorly understood. Here, we combined molecular dynamics simulations and energy calculations to characterize the interactions between monobody 12D4 and WT KRAS as well as four clinically relevant oncogenic variants (G12C, G12D, G12V, and G12R) in both GTP- and GDP-bound states. Our simulations revealed that 12D4 recognition depends on a conserved hydrophobic interaction network centered on the monobody FG loop (residues L77, F78, and W79). This network forms stable contacts with KARS Switch II and α3-helix. The energy calculations also showed that residue K75 of 12D4 formed a mutation-specific electrostatic interaction with KRAS G12D. This interaction contributed significantly to the affinity of 12D4 toward this mutant, whereas this interaction was absent in other variants. No monobody currently exists for targeting KRAS G12R in either nucleotide state, and no monobody selectively targets KRAS G12C and G12V in the GDP-bound inactive state. To address these, we performed computational redesign at residues 75. We identified mutations (K75Q, K75Y, and K75M) that enhanced predicted binding to G12C, G12R, and G12V variants through reorganization of interfacial contacts. Our work establishes a structural framework for understanding KRAS-monobody recognition and provides a rational foundation for engineering variant-selective monobodies with improved affinity toward previously untargetable KRAS mutants. Download figure Open in new tab ",
+      "searched_keywords_found_duplicates": [
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-15",
+      "date_window_start": "2026-07-08",
+      "date_window_end": "2026-07-15",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.08.737257v1",
+      "date": "2026-07-09",
+      "abstract": "ABSTRACT RNA-based sensors offer powerful and programmable control of gene expression, yet our understanding of the structural principles that govern their potential design space remains incomplete. Here, we challenged a community of designers to generate novel riboregulators capable of activating translation in response to specific RNA targets. Participants submitted diverse sequence architectures, which were synthesized and evaluated in a cell-free transcription-translation system. Across 100 designs, community-generated riboregulators displayed wide variability in activation dynamics, fold change, and structural features, outperforming some canonical toehold-switch designs and achieving up to 80-fold activation. Structural ensemble analyses identified accessibility patterns near the ribosome binding site that distinguish high- from low-performing regulators, highlighting the central role of RBS sequestration and release in modulating expression. Together, we demonstrate community-driven design can expand the accessible structural space of riboregulators and uncover mechanistic features governing translational activation. Our findings establish quantitative links between RNA folding energetics and gene expression output, providing design principles for next-generation programmable RNA sensors. ",
+      "searched_keywords_found_duplicates": [
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-15",
+      "date_window_start": "2026-07-08",
+      "date_window_end": "2026-07-15",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.07.737071v1",
+      "date": "2026-07-11",
+      "abstract": "Abstract Key Points Perfused human kidney MPS revealed CsA-associated sublethal tubular stress that was not detected by conventional 2D viability assays or by KIM-1 release in 3D MPS. At matched exposure, VCS preserved mitochondria and activated ER chaperones and iron detoxification, with no p21 arrest compared to CsA. Mechanistic separation supports VCS’s nephroprotection potential and early mechanism-based biomarkers to guide CNI choice. Download figure Open in new tab Graphical Abstract Background Calcineurin inhibitors (CNIs) are indispensable for transplantation immunosuppression, yet cyclosporine A (CsA) produces renal toxicity. Voclosporin (VCS), a CsA analog, is proposed to be less nephrotoxic, but mechanisms remain unclear. Methods Primary human proximal tubule epithelial cells (PTECs) were exposed to CsA or VCS in 2D monolayers and perfused 3D kidney microphysiological system (MPS). Viability was assessed in 2D cultures by MTS, mitochondrial membrane potential (ΔΨm) by TMRM flow cytometry, and soluble injury and inflammatory biomarkers in MPS effluents by ELISA and MSD multiplex assays. RNA sequencing of 3D-cultured PTECs was used to identify differentially expressed genes and pathways. Results In 2D PTECs, neither drug reduced viability. In 3D MPS effluents, KIM-1 did not distinguish CsA from VCS, whereas the MSD biomarker panel showed larger aggregate deviation with CsA. Confocal tomography showed CsA-associated mitochondrial fragmentation, whereas VCS preserved reticular mitochondrial architecture. TMRM flow cytometry showed a treatment-dependent difference in TMRM-positive cells, with VCS yielding the highest TMRM-positive fraction and exceeding CsA, supporting preservation of ΔΨm relative to CsA. RNA-seq identified 1188 CsA-specific and 185 VCS-specific differentially expressed genes, with 304 shared. Pathway analysis indicated CsA enrichment of unfolded protein response (UPR) and endoplasmic reticulum (ER) stress, p21-associated G 2 /M checkpoint arrest, and transcriptional signatures consistent with ferroptosis priming, while VCS mainly induced ER chaperone and ER-associated degradation gene programs without activating canonical UPR sensors and showed limited cell-cycle suppression. Conclusions A physiologically relevant 3D kidney MPS revealed sublethal tubular stress from CsA that is masked in 2D culture, including mitochondrial depolarization, proteostatic stress, and ferroptosis priming. At matched exposure, VCS preserved mitochondrial function and proteostasis while eliciting a narrower, adaptive ER quality control response. These data support VCS as a nephron-sparing immunosuppressant and 3D MPS as a mechanism-based platform for evaluating renal safety of drugs and nominating early sub-lethal tubular injury biomarkers. ",
+      "searched_keywords_found_duplicates": [
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-15",
+      "date_window_start": "2026-07-08",
+      "date_window_end": "2026-07-15",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.03.736145v1",
+      "date": "2026-07-09",
+      "abstract": "Abstract T cell immune checkpoint expression and dysfunction are attributed solely to molecular cues. We discover using microphysiological systems and in vivo models that transmigration through confined pores induces acute loss of programmed cell death 1 within minutes of surface immune checkpoint markers on CD8+ T cells through ubiquitin-mediated proteasomal degradation, corresponding with enhanced fitness and function. Such imprints and its underlying mechanism of programmed cell death 1 loss are conserved across species and applicable to human TIL and CAR T cells, and are correlative with disease outcomes in human melanoma. Our findings establish the diverse tissues landscapes that T cells traverse during immunosurveillance, and specifically transmigration, as a form of mechanical immune regulation, and reveal a mechano-modulatory strategy to improve the quality and persistence of engineered or patient-derived T cells for adoptive immunotherapy. ",
+      "searched_keywords_found_duplicates": [
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-15",
+      "date_window_start": "2026-07-08",
+      "date_window_end": "2026-07-15",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.09.737590v1",
+      "date": "2026-07-10",
+      "abstract": "Summary Pancreatic ductal adenocarcinoma (PDAC) is driven by oncogenic KRAS in roughly 90% of cases, and KRAS-pathway inhibition has finally become clinically active. Durable benefit, however, will require identifying the adaptive and baseline vulnerabilities that shape response to KRAS inhibition. Two resistance mechanisms have been proposed separately in the literature — receptor-tyrosine-kinase bypass of KRAS, and dependence on the adhesion kinase FAK — but whether they are one target class or two, and which should partner a KRAS inhibitor, is unresolved. We integrate public perturbation, dependency, and survival data to nominate them as mechanistically separable candidate combination partners. Two findings define the separation. First, KRAS loss increases ERBB2/3 receptor expression. This appeared in both an inducible genetic KRAS-extinction model and, independently, in five PDAC lines treated with pharmacological KRAS-G12C/D inhibitors, while MAPK output collapsed as expected. The signal was clearest for ERBB2 and in the genetic model; in the small pharmacological cohort the effect was modest and its confidence intervals crossed zero, so we treat ERBB2/3 up-regulation as a candidate adaptive response — ERBB2-dominant and ERBB3-compatible — not a proven resistance mechanism. Second, focal adhesion kinase (FAK/PTK2) is the top-ranked standing druggable dependency within the KRAS/Src/RTK/adhesion network we examined (essential in 58% of pancreatic lines), yet it is not induced by KRAS shutdown. FAK dependency is present at baseline and, in DepMap, is statistically independent of a line’s KRAS dependency (Spearman ρ = +0.05, n.s.) — a genuinely standing vulnerability rather than a KRAS-rebound effect. The candidate adaptive response and the standing dependency are not positively co-regulated across the perturbed lines (pooled Spearman ρ = −0.43, but n = 8 and n.s., so this cannot by itself establish independence); we therefore treat them as separable on mechanistic grounds — each nominated by different data and engaged by a different drug — rather than as statistically demonstrated independent programs. A Src-centered signaling-landscape analysis associates patient prognosis with the coordinated invasion-and-RTK program these nodes organize, rather than with any single transcript; this program remains prognostic after adjustment for a conventional EMT/stromal signature, which does not (Src-neighborhood per–standard-deviation OS hazard ratio 1.9, p ≈ 3 × 10⁻⁵; EMT signature null on adjustment). Together these results motivate a concrete, testable hypothesis: that FAK inhibition (a standing dependency) and ERBB inhibition (a candidate induced adaptive response) are separable candidate partners for a KRAS inhibitor, best evaluated as distinct arms of a biomarker-stratified platform. They also clarify why single-agent Src inhibition — a non-oncogene dependency tested as monotherapy, without a KRAS backbone, in advanced rather than micro-metastatic disease — was not positioned to surface either mechanism. No protein-level, phospho-signaling, or combination-response validation is performed here; all findings are computational nominations that require experimental validation before any clinical inference. Highlights KRAS inhibition is associated with an induced ERBB2/3 up-regulation — ERBB2-dominant, ERBB3-compatible — directionally reproduced across genetic KRAS extinction and pharmacological KRAS-G12C/D inhibition; the pharmacological effect is modest and underpowered Genome-wide dependency nominates FAK — essential in 58% of pancreatic lines — as the top-ranked standing candidate co-target within the KRAS network; FAK dependency is present at baseline, statistically independent of KRAS dependency, and not co-regulated with the induced ERBB response Patient prognosis associates with a Src-organized invasion-and-RTK program, not with SRC , KRAS , or any single-gene transcript, and this program stays prognostic after adjustment for ",
+      "searched_keywords_found_duplicates": [
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-15",
+      "date_window_start": "2026-07-08",
+      "date_window_end": "2026-07-15",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.biorxiv.org/",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.01.735821v2",
+      "date": "2026-07-09",
+      "abstract": "Abstract Despite major improvements in molecular characterization of breast cancer, current biomarkers still fall short in accurate treatment prediction. Interrogating tumor tissue ex-vivo in its native conformation is a direct strategy for guiding treatment of individual patients but presents a challenge. In this study, we developed a microfluidic tissue array (μFTA) using small biopsy samples (< 1mm3) mimicking physiological flow for consistent exchange of nutrients and waste, retaining the tumor native stroma. Cell/patient-derived breast cancer xenograft tissues were maintained over 2 weeks in the array and their response to therapeutic agents, doxorubicin or neratinib, were interrogated. Drug response in the uFTA showed >2-fold reduction in tumor cell viability which corroborated tumor size shrinkage in mice bearing the same tumor load. EdU/Ki67 assays indicated selective retention of cells with higher proliferative capacity after drug treatment, underscoring in vivo clinical relevance. We have also developed a valved-μFTA to increase throughput and variety of treatment conditions on the same chip. Together, this μFTA can be staged as a powerful, low-cost benchtop theranostic tool for personalized cancer therapeutics compatible with FDA’s New Approach Methods. ",
+      "searched_keywords_found_duplicates": [
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-07-15",
+      "date_window_start": "2026-07-08",
+      "date_window_end": "2026-07-15",
+      "modality": "bispecific_antibodies",
+      "website": "https://www.medrxiv.org/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.06.26357224v1",
+      "date": "2026-07-09",
+      "abstract": "Abstract The intensification of neoadjuvant therapy for early triple-negative breast cancer (eTNBC) – through the addition of carboplatin to standard chemotherapy and the incorporation of pembrolizumab – has markedly improved prognosis in recent years. However, this escalation carries a substantial risk of toxicity, and not all patients require the full regimen to achieve benefit. Realizing individualized treatment strategies will therefore depend on prognostic and predictive biomarkers that can forecast treatment response and long-term outcome. In the present study, we interrogated public gene expression datasets to develop transcriptomic signatures predicting response to neoadjuvant treatment and risk of recurrence. To validate these signatures, we used the Multiplex8+ platform for spatially informed comprehensive transcriptomic profiling in a real-world, multicenter, retrospective cohort of 590 patients diagnosed with eTNBC and treated with neoadjuvant chemotherapy with or without immunotherapy. The diagnostic Multiplex8+ test uses H&E and multiplexed RNA-FISH to guide the selection of specific tumor areas for the whole transcriptome sequencing and signature analysis. In the real-world cohort, the Multiplex8+ signatures were associated with both response and prognosis, remaining highly significant in multivariable models that included clinical parameters. The signatures were complementary to established biomarkers such as stromal tumor-infiltrating lymphocytes. These findings warrant prospective integration of the signatures into risk-stratified clinical trials to support future de-escalation and escalation strategies, enabling a better balance of efficacy, toxicity, cost, and drug availability. ",
+      "searched_keywords_found_duplicates": [
+        "bispecific"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
