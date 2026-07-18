@@ -1,0 +1,28 @@
+{
+  "gene_editing": [
+    {
+      "date_scraped": "2026-07-18",
+      "date_window_start": "2026-07-11",
+      "date_window_end": "2026-07-18",
+      "modality": "gene_editing",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2607.11697",
+      "date": "2026-07-13",
+      "abstract": "Quantitative Biology > Subcellular Processes arXiv:2607.11697 (q-bio) [Submitted on 13 Jul 2026] Title: Targeting DNA Methylation: New Paradigms and the Advent of Gene-Selective Tools Authors: Julie Gilbert , Francesco Calzaferri (IBMM) View a PDF of the paper titled Targeting DNA Methylation: New Paradigms and the Advent of Gene-Selective Tools, by Julie Gilbert and 1 other authors View PDF Abstract: DNA methylation can function as a toxic alkylation reaction exploited by chemotherapeutic agents to induce cancer cell death. However, finely tuned DNA methylation plays a fundamental role in cellular physiology, particularly in the epigenetic regulation of gene expression. Once thought to act solely as a repressor of gene transcription, its functional role has since been elucidated as genomic locus-specific and deeply connected with other epigenetic factors. Following the clinical approval of DNA methyltransferase inhibitors, such as Azacitidine and Decitabine, for the treatment of haematological malignancies, considerable efforts have been devoted to developing pharmacological tools that modulate epigenetic DNA methylation. However, the lack of gene selectivity in these agents limits their therapeutic efficacy and increases off-target toxicity. Moreover, the non-gene-selective nature of current DNA methylation-targeting molecules fails to meet the standards required to discern the nuanced roles of DNA methylation across diverse pathophysiological contexts and genomic loci, particularly in an era where next-generation sequencing and omics technologies enable hi ghresolution epigenetic analyses. In this review, we examine the mechanisms and roles of DNA methylation in epigenetic regulation, evaluate the current landscape of DNA methylation modulators, from traditional DNMT inhibitors to cutting-edge CRISPR-dCas9 fusion systems and protein-protein interaction disruptors, and discuss their clinical relevance. Finally, we emphasise the need for precise, locus-specific tools to advance both cancer research and therapeutic strategies. Subjects: Subcellular Processes (q-bio.SC) Cite as: arXiv:2607.11697 [q-bio.SC] (or arXiv:2607.11697v1 [q-bio.SC] for this version) https://doi.org/10.48550/arXiv.2607.11697 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Journal reference: Chemical Research in Toxicology, 2026 Submission history From: Francesco Calzaferri [ view email ] [via CCSD proxy] [v1] Mon, 13 Jul 2026 15:31:02 UTC (1,491 KB) Full-text links: Access Paper: View a PDF of the paper titled Targeting DNA Methylation: New Paradigms and the Advent of Gene-Selective Tools, by Julie Gilbert and 1 other authors View PDF view license Current browse context: q-bio.SC < prev | next > new | recent | 2026-07 Change to browse by: q-bio References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is COR",
+      "searched_keywords_found_duplicates": [
+        "CRISPR"
+      ],
+      "primary_abstract_matched_keywords": [
+        "CRISPR"
+      ],
+      "secondary_abstract_matched_keywords": [
+        "off-target",
+        "Cas9"
+      ],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 2,
+      "score": 3
+    }
+  ]
+}
