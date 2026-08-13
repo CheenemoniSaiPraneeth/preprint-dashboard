@@ -1,0 +1,23 @@
+{
+  "monoclonal_antibodies": [
+    {
+      "date_scraped": "2026-08-13",
+      "date_window_start": "2026-08-06",
+      "date_window_end": "2026-08-13",
+      "modality": "monoclonal_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2608.06022",
+      "date": "2026-08-06",
+      "abstract": "Computer Science > Computation and Language arXiv:2608.06022 (cs) [Submitted on 6 Aug 2026] Title: EpiBench: Can LLMs Understand Epitopes for Antibody Drug Discovery? Authors: Zirui Wang , Jiaqi Wang , Qinghan Wang , Yuzhi Xu , Gang Du , Tingjun Hou , Odin Zhang View a PDF of the paper titled EpiBench: Can LLMs Understand Epitopes for Antibody Drug Discovery?, by Zirui Wang and 6 other authors View PDF HTML (experimental) Abstract: Epitopes determine where antibodies bind antigens and shape downstream therapeutic properties such as functional blockade and escape resistance, making epitope understanding central to antibody drug discovery. Although large language models (LLMs) have shown strong biomedical reasoning ability, it remains unclear whether they can infer epitope information directly from antigen and antibody sequences. Existing epitope resources typically focus on isolated prediction tasks or rely on specialized structural settings, while general protein benchmarks do not evaluate epitope-centered decisions across the antibody development workflow. To address this gap, we introduce EpiBench, a closed-book, sequence-based, and automatically scorable benchmark for evaluating epitope reasoning in LLMs. EpiBench contains 1,609 curated samples grounded in structural antibody--antigen contacts, curated functional B-cell assays, and deep mutational scanning escape measurements. It covers five connected tasks: targetable region discovery, antibody-conditioned epitope identification, epitope binning, functional epitope assessment, and antibody escape assessment, with controlled sampling to reduce shortcut-based evaluation artifacts. We evaluate nine general-purpose LLMs and analyze their behavior through task-specific baselines, antigen length stratification, explicit-reasoning comparison, and failure-mode inspection. The results show that current LLMs capture partial epitope-related signals but remain limited in antibody-specific sequence grounding, long-context residue localization, and biologically grounded reasoning. Therefore, EpiBench provides a diagnostic testbed for measuring and improving sequence-aware biomedical LLMs toward reliable LLM-assisted antibody discovery. Subjects: Computation and Language (cs.CL) ; Genomics (q-bio.GN) Cite as: arXiv:2608.06022 [cs.CL] (or arXiv:2608.06022v1 [cs.CL] for this version) https://doi.org/10.48550/arXiv.2608.06022 Focus to learn more arXiv-issued DOI via DataCite Submission history From: Jiaqi Wang [ view email ] [v1] Thu, 6 Aug 2026 13:29:53 UTC (1,307 KB) Full-text links: Access Paper: View a PDF of the paper titled EpiBench: Can LLMs Understand Epitopes for Antibody Drug Discovery?, by Zirui Wang and 6 other authors View PDF HTML (experimental) TeX Source view license Current browse context: cs.CL < prev | next > new | recent | 2026-08 Change to browse by: cs q-bio q-bio.GN References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower (",
+      "searched_keywords_found_duplicates": [
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
