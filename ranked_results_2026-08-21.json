@@ -1,0 +1,46 @@
+{
+  "monoclonal_antibodies": [
+    {
+      "date_scraped": "2026-08-21",
+      "date_window_start": "2026-08-14",
+      "date_window_end": "2026-08-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://doi.org/10.1007/978-3-032-03101-3_26",
+      "date": "2026-08-21",
+      "abstract": "Abstract Multi-agent-based simulations (MABS) of electric vehicle (EV) home charging ecosystems generate large, complex, and stochastic time-series datasets that capture interactions between households, grid infrastructure, and energy markets. These interactions can lead to unexpected system-level events, such as transformer overloads or consumer dissatisfaction, that are difficult to detect and explain through static post-processing. This paper presents a modular, Python-based dashboard framework—built using Dash by Plotly—that enables efficient, multi-level exploration and root-cause analysis of emergent behavior in MABS outputs. The system features three coordinated views (System Overview, System Analysis, and Consumer Analysis), each offering high-resolution visualizations such as time-series plots, spatial heatmaps, and agent-specific drill-down tools. A case study simulating full EV adoption with smart charging in a Danish residential network demonstrates how the dashboard supports rapid identification and contextual explanation of anomalies, including clustered transformer overloads and time-dependent charging failures. The framework facilitates actionable insight generation for researchers and distribution system operators, and its architecture is adaptable to other distributed energy resources and complex energy systems. This is a preview of subscription content, log in via an institution to check access. Access this chapter Log in via an institution Subscribe and save Springer+ from $39.99 /Month Starting from 10 chapters or articles per month Access and download chapters and articles from more than 300k books and 2,500 journals Cancel anytime View plans Buy Now Chapter USD 29.95 Price excludes VAT (USA) Available as PDF Read on any device Instant download Own it forever Buy Chapter eBook USD 129.00 Price excludes VAT (USA) Available as EPUB and PDF Read on any device Instant download Own it forever Buy eBook Softcover Book USD 169.99 Price excludes VAT (USA) Compact, lightweight edition Free shipping worldwide - view details Buy Softcover Book Tax calculation will be finalised at checkout Purchases are for personal use only Institutional subscriptions Similar content being viewed by others Multi-agent Based Simulation for Decentralized Electric Vehicle Charging Strategies and Their Impacts Chapter © 2025 Multi-agent Based Simulation for Investigating Centralized Charging Strategies and Their Impact on Electric Vehicle Home Charging Ecosystem Chapter © 2025 Edge-AI based multi-criteria optimization framework for dynamic EV charging with real-time grid load, traffic, and user behavior integration Article 13 August 2025 Explore related subjects Discover the latest articles, books and news in related subjects, suggested using machine learning. Computational platforms and environments Data-driven Science, Modeling and Theory Building Ecological Modelling Energy Grids and Networks Multiagent Systems Agent-based Economics Electric Vehicle Integration in Power Systems References Epstein, J.M., Axtell, R.: Growing artificial societies: Social science from the bottom up (Complex adaptive systems.). Brookings Institution Press, Washington, D.C. (1996) Google Scholar Lee, J.-S., et al.: The complexities of agent-based modeling output analysis. J. Artif. Soc. Soc. Simul. 18 (4) (2015). https://doi.org/10.18564/jasss.2897 Akhatova, A., Kranzl, L., Schipfer, F., Heendeniya, C.B.: Agent-based modelling of urban district energy system decarbonisation—a systematic literature review. Energies 15 (2), 554 (2022). https://doi.org/10.3390/en15020554 Article Google Scholar Mehdizadeh, M., Nordfjærn, T., Klöckner, C.A.: A systematic review of the agent-based modelling/simulation paradigm in mobility transition. Technol. Forecast. Soc. Change 184 (2022). https://doi.org/10.1016/j.techfore.2022.122011 Weinberger, G., et al.: Spatial agent-based modelling and simulation to evaluate on public policies for energy transition. In: Proceedings of ",
+      "searched_keywords_found_duplicates": [
+        "mAb"
+      ],
+      "primary_abstract_matched_keywords": [
+        "mAb"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 2,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-08-21",
+      "date_window_start": "2026-08-14",
+      "date_window_end": "2026-08-21",
+      "modality": "monoclonal_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2608.15660",
+      "date": "2026-08-16",
+      "abstract": "Computer Science > Distributed, Parallel, and Cluster Computing arXiv:2608.15660 (cs) [Submitted on 16 Aug 2026] Title: Adaptive Heterogeneous Compression for Resource-Efficient Federated Knowledge Distillation Authors: Chenwang Liu , Yijun Liu , Chang Liu , Xu Zhang , Pengchao Han View a PDF of the paper titled Adaptive Heterogeneous Compression for Resource-Efficient Federated Knowledge Distillation, by Chenwang Liu and 4 other authors View PDF HTML (experimental) Abstract: Federated learning (FL) enables privacy-preserving distributed model training but faces challenges from heterogeneous model architectures and limited communication resources at the network edge. Federated knowledge distillation (FedKD) alleviates model heterogeneity by combining prototype-wise parameter aggregation and knowledge transfer across heterogeneous models. However, transmitting gradients still introduces considerable communication overhead, while existing compression approaches typically apply a uniform strategy across clients and ignore their diverse model characteristics and resource capacities. To address this issue, we propose a heterogeneous compression framework for FedKD that enables each client to select a compression strategy from a candidate strategy set. We formulate the compression strategy selection problem as a non-stationary stochastic multi-armed bandit (MAB), where each arm corresponds to a compression strategy. An efficiency-aware reward is designed by jointly considering local optimization improvement, global knowledge alignment, and execution time. Based on this formulation, we develop an Adaptive heterogeneouS Compression algorithm for fEderated kNowledge Distillation (ASCEND), which employs an exponential moving average (EMA)-enhanced $\\epsilon$-greedy policy to balance exploration and exploitation. Experimental results on multiple datasets demonstrate that ASCEND effectively adapts to heterogeneous model and resource settings, reducing communication overhead and training time while maintaining competitive model accuracy. Subjects: Distributed, Parallel, and Cluster Computing (cs.DC) ; Machine Learning (cs.LG) Cite as: arXiv:2608.15660 [cs.DC] (or arXiv:2608.15660v1 [cs.DC] for this version) https://doi.org/10.48550/arXiv.2608.15660 Focus to learn more arXiv-issued DOI via DataCite Submission history From: Pengchao Han Prof. [ view email ] [v1] Sun, 16 Aug 2026 10:08:26 UTC (2,157 KB) Full-text links: Access Paper: View a PDF of the paper titled Adaptive Heterogeneous Compression for Resource-Efficient Federated Knowledge Distillation, by Chenwang Liu and 4 other authors View PDF HTML (experimental) TeX Source view license Current browse context: cs.DC < prev | next > new | recent | 2026-08 Change to browse by: cs cs.LG References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) Author Venue I",
+      "searched_keywords_found_duplicates": [
+        "mAb"
+      ],
+      "primary_abstract_matched_keywords": [
+        "mAb"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    }
+  ]
+}
