@@ -1,0 +1,25 @@
+{
+  "bispecific_antibodies": [
+    {
+      "date_scraped": "2026-08-28",
+      "date_window_start": "2026-08-21",
+      "date_window_end": "2026-08-28",
+      "modality": "bispecific_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2608.25766",
+      "date": "2026-08-26",
+      "abstract": "Mathematics > Statistics Theory arXiv:2608.25766 (math) COVID-19 e-print Important: e-prints posted on arXiv are not peer-reviewed by arXiv; they should not be relied upon without context to guide clinical practice or health-related behavior and should not be reported in news media as established information without consulting multiple experts in the field. [Submitted on 26 Aug 2026] Title: Pooling Mobility Obscures Epidemic Invasion Routes Authors: Tiandong Wang , Wei Yang View a PDF of the paper titled Pooling Mobility Obscures Epidemic Invasion Routes, by Tiandong Wang and Wei Yang View PDF HTML (experimental) Abstract: Epidemic models often pool air travel, commuting, and other mobility layers into a single weighted network. Pooling keeps the total imported infections into a region but discards the transport mode and route that delivered them, the information a mode-specific intervention needs. We make this precise for directed multilayer flows with heavy-tailed variation. Pooling acts as an asymmetric filter. The magnitude of an extreme importation, its radial tail index, is an exact invariant of sampling and nonnegative aggregation, whereas its composition across layers and routes, the angular part, is reweighted by layer-specific sampling and can be irrecoverably merged. We give a necessary and sufficient condition for recovering route composition, attach a surveillance decision cost to the loss, and show that the first established route need not be the busiest. A controlled metapopulation study calibrates the cost, and two contrasting reconstructions show where it bites. In US pandemic influenza, air adds fitted information beyond commuting, and a layer-resolved ranking targets more air-import burden than a pooled one. In the early Italian COVID-19 wave, commuting improves onset reconstruction while air attribution stays unresolved. Pooling can therefore support total-importation surveillance but cannot in general identify the mode or route behind an importation. Subjects: Statistics Theory (math.ST) ; Biological Physics (physics.bio-ph); Applications (stat.AP) Cite as: arXiv:2608.25766 [math.ST] (or arXiv:2608.25766v1 [math.ST] for this version) https://doi.org/10.48550/arXiv.2608.25766 Focus to learn more arXiv-issued DOI via DataCite Submission history From: Tiandong Wang [ view email ] [v1] Wed, 26 Aug 2026 13:11:32 UTC (1,820 KB) Full-text links: Access Paper: View a PDF of the paper titled Pooling Mobility Obscures Epidemic Invasion Routes, by Tiandong Wang and Wei Yang View PDF HTML (experimental) TeX Source view license Current browse context: math.ST < prev | next > new | recent | 2026-08 Change to browse by: math physics physics.bio-ph stat stat.AP stat.TH References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) Author Venue Institution Topic About arXivLabs arXivLabs: experi",
+      "searched_keywords_found_duplicates": [
+        "BiTE"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    }
+  ]
+}
