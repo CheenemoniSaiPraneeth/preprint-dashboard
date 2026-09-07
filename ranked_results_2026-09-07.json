@@ -1,0 +1,23 @@
+{
+  "molecular_glues": [
+    {
+      "date_scraped": "2026-09-07",
+      "date_window_start": "2026-08-31",
+      "date_window_end": "2026-09-07",
+      "modality": "molecular_glues",
+      "website": "https://arxiv.org/",
+      "url": "https://doi.org/10.1007/978-3-032-01570-9_7",
+      "date": "2026-09-07",
+      "abstract": "Abstract The minimal number of inputs in the local function of a non-trivial cellular automaton is two. Such a function can be viewed as as a kind of binary operation. If this operation is associative, it forms, together with the set of states, a semigroup. There are 18 semigroups of order 3 up to equivalence, and they define 18 cellular automata rules with three states. We investigate these rules with respect to solvability and show that all of them are solvable, meaning that the state of a given cell after n iterations can be expressed by an explicit formula. We derive the relevant formulae for all 18 rules using some additional properties possessed by particular semigroups of order 3, such as commutativity and idempotence. This is a preview of subscription content, log in via an institution to check access. Access this chapter Log in via an institution Subscribe and save Springer+ from $39.99 /Month Starting from 10 chapters or articles per month Access and download chapters and articles from more than 300k books and 2,500 journals Cancel anytime View plans Buy Now Chapter USD 29.95 Price excludes VAT (USA) Available as PDF Read on any device Instant download Own it forever Buy Chapter eBook USD 89.00 Price excludes VAT (USA) Available as EPUB and PDF Read on any device Instant download Own it forever Buy eBook Softcover Book USD 119.99 Price excludes VAT (USA) Compact, lightweight edition Free shipping worldwide - view details Buy Softcover Book Tax calculation will be finalised at checkout Purchases are for personal use only Institutional subscriptions Similar content being viewed by others Cellular Automata: From Black-and-White to High Gloss Color Chapter © 2024 Cellular automata can really solve the parity problem Article Open access 22 August 2026 Sequentializing Cellular Automata Chapter © 2018 Explore related subjects Discover the latest articles, books and news in related subjects, suggested using machine learning. Algebraic Logic Combinatorics Computability and Recursion Theory Discrete Mathematics Logic gates Formal Languages and Automata Theory Cellular Automata Dynamics and Applications References Distler, A.: Classification and enumeration of finite semigroups. Ph.D. thesis, University of St Andrews (2010) Google Scholar Distler, A., Jefferson, C., Kelsey, T., Kotthoff, L.: The semigroups of order 10. In: Milano, M. (ed.) CP 2012. LNCS, vol. 7514, pp. 883–899. Springer, Heidelberg (2012). https://doi.org/10.1007/978-3-642-33558-7_63 Chapter Google Scholar Fukś, H.: Solvable cellular automata - methods and applications. Springer (2023). https://doi.org/10.1007/978-3-031-38700-5 Article Google Scholar Fukś, H., Midgley-Volpato, J.: An example of a deterministic cellular automaton exhibiting linear-exponential convergence to the steady state. Acta Phys. Pol. B 9 (1), 49–62 (2016). https://doi.org/10.5506/APhysPolBSupp.9 Article Google Scholar Fukś, H., Procyk, R.: Explorations of ternary cellular automata and ternary density classification problems. Acta Physica Polonica Supp. 12 (1), 75–89 (2019). https://doi.org/10.5506/APhysPolBSupp.12.75 Article Google Scholar Hadeler, K.-P., Müller, J.: Cellular Automata: Analysis and Applications. SMM, Springer, Cham (2017). https://doi.org/10.1007/978-3-319-53043-7 Book Google Scholar Vollmar, R.: Algorithmen in Zellularautomaten: eine Einführung. Teubner, Stuttgart (1979) Book Google Scholar Wolfram, S.: Statistical mechanics of cellular automata. Rev. Mod. Phys. 55 , 601–644 (1983). https://doi.org/10.1103/RevModPhys.55.601 Article MathSciNet Google Scholar Wolnik, B., De Baets, B.: Ternary reversible number-conserving cellular automata are trivial. Inf. Sci. 513 , 180–189 (2020). https://doi.org/10.1016/j.ins.2019.10.068 Article MathSciNet Google Scholar Download references Acknowledgments The author acknowledges comments made by anonymous referees. Their thorough and careful reading of the manuscript helped to eliminate numerous typos and to correct the derivation of t",
+      "searched_keywords_found_duplicates": [
+        "ternary complex"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
