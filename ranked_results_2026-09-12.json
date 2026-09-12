@@ -1,0 +1,46 @@
+{
+  "gene_editing": [
+    {
+      "date_scraped": "2026-09-12",
+      "date_window_start": "2026-09-05",
+      "date_window_end": "2026-09-12",
+      "modality": "gene_editing",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2609.11877",
+      "date": "2026-09-10",
+      "abstract": "Quantitative Biology > Quantitative Methods arXiv:2609.11877 (q-bio) [Submitted on 10 Sep 2026] Title: Biology-in-the-loop: Amortized Adaptive Hit Discovery in CRISPR Screens Authors: Carl Edwards , Edward De Brouwer , Xiner Li , Namkyeong Lee , Ehsan Hajiramezanali , Anne Biton , Sara Mostafavi , Gabriele Scalia View a PDF of the paper titled Biology-in-the-loop: Amortized Adaptive Hit Discovery in CRISPR Screens, by Carl Edwards and 7 other authors View PDF HTML (experimental) Abstract: Many biological discovery problems require experiments to be selected sequentially under constrained budgets. CRISPR screening is a prominent example, as exhaustive perturbation testing is often infeasible and candidate perturbations must instead be prioritized over multiple experimental rounds. Despite the importance of this problem, existing benchmarks for adaptive hit discovery remain limited in scale and diversity. Here, we introduce AssayBench-Loop, a large-scale benchmark for adaptive hit discovery comprising 1,389 CRISPR screens across five phenotype categories. Beyond enabling systematic evaluation, its scale makes it possible to learn acquisition strategies across historical experiments. Building on this resource, we introduce AssayLoop, a sequential experimental design framework combining AssayFormer, a transformer-based amortized acquisition policy trained across historical screens to adapt from experimental feedback, with LLM-derived biological priors through an adaptive handoff. In this view, completed experiments become training data for learning how accumulated evidence should guide what to test next, while LLMs provide prior biological knowledge to seed the search. We further introduce AssayLLM, showing that the same principle can be extended directly to an LLM through task-specific post-training. On temporally held-out screens, AssayLoop achieves a 5.67-fold enrichment over random selection and recovers 27.7% of hits after assaying approximately 5% of the candidate library, outperforming existing adaptive-design methods and standalone LLMs, and AssayFormer alone. Performance improves with increasing historical training data and transfers to phenotype categories excluded from training. These results demonstrate the value of learning acquisition policies across historical experiments and combining them with broad biological priors for efficient adaptive hit discovery. Subjects: Quantitative Methods (q-bio.QM) ; Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Genomics (q-bio.GN) Cite as: arXiv:2609.11877 [q-bio.QM] (or arXiv:2609.11877v1 [q-bio.QM] for this version) https://doi.org/10.48550/arXiv.2609.11877 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Carl Edwards [ view email ] [v1] Thu, 10 Sep 2026 17:45:18 UTC (3,349 KB) Full-text links: Access Paper: View a PDF of the paper titled Biology-in-the-loop: Amortized Adaptive Hit Discovery in CRISPR Screens, by Carl Edwards and 7 other authors View PDF HTML (experimental) TeX Source view license Current browse context: q-bio.QM < prev | next > new | recent | 2026-09 Change to browse by: cs cs.AI cs.CL q-bio q-bio.GN References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Hugg",
+      "searched_keywords_found_duplicates": [
+        "CRISPR"
+      ],
+      "primary_abstract_matched_keywords": [
+        "CRISPR"
+      ],
+      "secondary_abstract_matched_keywords": [
+        "CRISPR screen"
+      ],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 5,
+      "secondary_keyword_hits": 5,
+      "score": 10
+    },
+    {
+      "date_scraped": "2026-09-12",
+      "date_window_start": "2026-09-05",
+      "date_window_end": "2026-09-12",
+      "modality": "gene_editing",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2609.08165",
+      "date": "2026-09-08",
+      "abstract": "Quantitative Biology > Genomics arXiv:2609.08165 (q-bio) [Submitted on 8 Sep 2026] Title: A Transformer-Based Delta Expression Encoder for Psilocybin Transcriptional Response: Architecture, Representations, and Biological Validation Authors: Sai Jayakumar View a PDF of the paper titled A Transformer-Based Delta Expression Encoder for Psilocybin Transcriptional Response: Architecture, Representations, and Biological Validation, by Sai Jayakumar View PDF Abstract: Understanding why individuals respond differently to psilocybin requires modeling the drug's transcriptional perturbation signature at the cell-type level. I present a Transformer-based delta expression encoder that learns to classify differential gene expression status - upregulated, downregulated, or neutral - from single-nucleus RNA-sequencing data, without supervision from pathway annotations or prior biological knowledge. The model is trained on pseudobulk profiles from 623 examples spanning 18 cell types, 2 drug conditions, and 6 timepoints derived from the Liao et al. 2025 dataset, and achieves 69.4% weighted classification accuracy. Three principal findings are reported, alongside one direct test of a published hypothesis that returned a result inconsistent with that hypothesis. First, per-cell-type classification accuracy ranges from 28.3% (L2/3 IT, a primary HTR2A-expressing psilocybin target) to 99.6% (endothelial cells), consistent with known psilocybin response biology. Second, psilocybin-induced transcriptional downregulation is significantly more stereotyped across individuals than upregulation (Mann-Whitney U=18615.0, p<0.0001), a novel finding with a cortical depth gradient across excitatory subtypes. Third, attention-guided gene co-regulation analysis recovers drug-specific modules without pathway supervision. Separately, a direct test of whether baseline HTR2A expression predicts drug-response separability across cell types found a significant negative correlation (Spearman r = -0.7088, p = 0.0021), the opposite of what a simple HTR2A-gating account would predict. Comments: 23 pages, 8 figures. Code: this https URL . Checkpoints: this https URL Subjects: Genomics (q-bio.GN) ; Machine Learning (cs.LG) Cite as: arXiv:2609.08165 [q-bio.GN] (or arXiv:2609.08165v1 [q-bio.GN] for this version) https://doi.org/10.48550/arXiv.2609.08165 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Sai Jayakumar [ view email ] [v1] Tue, 8 Sep 2026 02:51:39 UTC (2,972 KB) Full-text links: Access Paper: View a PDF of the paper titled A Transformer-Based Delta Expression Encoder for Psilocybin Transcriptional Response: Architecture, Representations, and Biological Validation, by Sai Jayakumar View PDF view license Current browse context: q-bio.GN < prev | next > new | recent | 2026-09 Change to browse by: cs cs.LG q-bio References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
