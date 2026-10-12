@@ -1,0 +1,28 @@
+{
+  "monoclonal_antibodies": [
+    {
+      "date_scraped": "2026-10-12",
+      "date_window_start": "2026-10-05",
+      "date_window_end": "2026-10-12",
+      "modality": "monoclonal_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2610.09548",
+      "date": "2026-10-07",
+      "abstract": "Quantitative Biology > Biomolecules arXiv:2610.09548 (q-bio) [Submitted on 7 Oct 2026] Title: De novo design of monoclonal and bispecific antibodies with OFAntibody Authors: Valhalla Team View a PDF of the paper titled De novo design of monoclonal and bispecific antibodies with OFAntibody, by Valhalla Team View PDF HTML (experimental) Abstract: Recent advances in generative protein design have enabled de novo antibody generation with explicit target and epitope conditioning. However, most existing approaches remain formulated around a single antigen-antibody interface, whereas bispecific antibody design requires modeling multi-component complexes in which multiple target-recognition interfaces must coexist and interact within a shared antibody structure. Here we present OFAntibody, an all-atom generative framework for de novo design of monoclonal and bispecific antibodies. OFAntibody expands CDR-epitope interaction learning with large-scale distilled antigen-antibody complexes, and introduces multi-component structural supervision and arm-aware multi-hotspot routing to learn compatible multi-interface geometries and couple each antibody paratope to its designated epitope. OFAntibody supports epitope-conditioned generation across monoclonal antibodies and diverse bispecific formats, including tandem VHH, diabody and CODV. In nanobody design benchmarks, OFAntibody achieves a Top-5 enrichment rate of 41.5%, representing a 5.39-fold improvement over RFantibody in competitive candidate ranking. In bispecific antibody design tasks, OFAntibody achieves hotspot pass rates of 94-100% across the three evaluated tasks and achieves energy pass rates of 60%, 13% and 8% for diabody, tandem VHH and CODV formats, respectively. OFAntibody further enables the same target combination to be explored across different antibody formats, while joint multi-interface generation reduces geometric incompatibilities arising from independent design and post hoc assembly. Together, these results extend de novo antibody design from binary antigen-antibody complexes to programmable multi-component complexes, providing a foundation for designing single molecules that combine recognition of distinct targets and their associated biological functions. Subjects: Biomolecules (q-bio.BM) Cite as: arXiv:2610.09548 [q-bio.BM] (or arXiv:2610.09548v1 [q-bio.BM] for this version) https://doi.org/10.48550/arXiv.2610.09548 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Qinghan Wang [ view email ] [v1] Wed, 7 Oct 2026 06:48:06 UTC (7,408 KB) Full-text links: Access Paper: View a PDF of the paper titled De novo design of monoclonal and bispecific antibodies with OFAntibody, by Valhalla Team View PDF HTML (experimental) TeX Source view license Current browse context: q-bio.BM < prev | next > new | recent | 2026-10 Change to browse by: q-bio References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower I",
+      "searched_keywords_found_duplicates": [
+        "monoclonal"
+      ],
+      "primary_abstract_matched_keywords": [
+        "monoclonal",
+        "mAb"
+      ],
+      "secondary_abstract_matched_keywords": [
+        "paratope"
+      ],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 6,
+      "secondary_keyword_hits": 1,
+      "score": 7
+    }
+  ]
+}
