@@ -1,0 +1,23 @@
+{
+  "gene_editing": [
+    {
+      "date_scraped": "2026-10-14",
+      "date_window_start": "2026-10-07",
+      "date_window_end": "2026-10-14",
+      "modality": "gene_editing",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2610.11627",
+      "date": "2026-10-08",
+      "abstract": "Computer Science > Machine Learning arXiv:2610.11627 (cs) [Submitted on 8 Oct 2026] Title: Beyond Action Entropy: Quotient-Space Exploration for Genome-Scale Metabolic Model Repair Authors: Xuan Gong , Hanbo Huang , Wenbin Dai , Jing Wang , Lei Bai , Xiang Xiao , Weishu Zhao , Shiyu Liang View a PDF of the paper titled Beyond Action Entropy: Quotient-Space Exploration for Genome-Scale Metabolic Model Repair, by Xuan Gong and 7 other authors View PDF HTML (experimental) Abstract: Repairing scientific models from functional observations differs fundamentally from supervised prediction: feedback may certify a solution without revealing which structural correction is responsible. We study this setting for genome-scale metabolic model (GEM) repair, where multiple reaction edits can explain the same phenotypes and many apparently distinct edits correspond to the same biological mechanism. This many-to-one structure creates a hidden failure mode for conventional exploration: diversity in the output space need not translate into diversity of scientific hypotheses. We introduce QuotientPO, which collapses equivalent repairs into canonical mechanisms and optimizes exploration directly over the resulting quotient space. To make quotient exploration informative under finite rollouts, we derive a kernelized Rényi estimator that resolves graded crowding among distinct repair cores beyond coarse exact-match counts. On 2,212 held-out GEMs, QuotientPO improves  from 17.93% to 20.10% (+12.1% relative) while consistently increasing distinct successful-core discovery under the same sampling budget. These results establish quotient-space exploration as a principled approach to mechanism-level discovery under verifier-induced equivalence. Comments: Under Review Subjects: Machine Learning (cs.LG) ; Molecular Networks (q-bio.MN) Cite as: arXiv:2610.11627 [cs.LG] (or arXiv:2610.11627v1 [cs.LG] for this version) https://doi.org/10.48550/arXiv.2610.11627 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Xuan Gong [ view email ] [v1] Thu, 8 Oct 2026 10:05:57 UTC (30,687 KB) Full-text links: Access Paper: View a PDF of the paper titled Beyond Action Entropy: Quotient-Space Exploration for Genome-Scale Metabolic Model Repair, by Xuan Gong and 7 other authors View PDF HTML (experimental) TeX Source view license Additional Features Audio Summary Current browse context: cs.LG < prev | next > new | recent | 2026-10 Change to browse by: cs q-bio q-bio.MN References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) IArxiv recommender toggle IArxiv Recommender ( What is IArxiv? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly o",
+      "searched_keywords_found_duplicates": [
+        "genome editing"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
