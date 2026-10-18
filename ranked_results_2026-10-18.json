@@ -1,0 +1,46 @@
+{
+  "gene_editing": [
+    {
+      "date_scraped": "2026-10-18",
+      "date_window_start": "2026-10-11",
+      "date_window_end": "2026-10-18",
+      "modality": "gene_editing",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2610.20411",
+      "date": "2026-10-14",
+      "abstract": "Statistics > Methodology arXiv:2610.20411 (stat) [Submitted on 14 Oct 2026] Title: Compound p-values for competition-based testing Authors: Junu Lee , Rina Foygel Barber , Richard J. Samworth , Zhimei Ren View a PDF of the paper titled Compound p-values for competition-based testing, by Junu Lee and 3 other authors View PDF HTML (experimental) Abstract: Standard competition-based multiple testing methods -- such as the knockoff filter and the target-decoy procedure -- are typically formulated as head-to-head competitions between a test unit and its assigned negative control unit. Motivated by real-world applications, which leverage any available negative controls, we study this competition-based framework in more intricate settings where competitions vary in size and structure. We propose new methods based on compound p-values -- p-values that are superuniform only on aggregate -- that enable powerful multiple testing with broader competition structures, via the Bonferroni and Benjamini-Hochberg procedures. The former provides exact familywise error rate control, whereas the latter may incur a false discovery rate inflation factor, for which we derive upper bounds across a range of settings. We showcase the performance of our general competition-based testing methodology through extensive simulations and real-data applications, including analyses of virtual spatial transcriptomics and CRISPR screen datasets that exhibit precisely the complex competition structures that motivate our methods. Subjects: Methodology (stat.ME) Cite as: arXiv:2610.20411 [stat.ME] (or arXiv:2610.20411v1 [stat.ME] for this version) https://doi.org/10.48550/arXiv.2610.20411 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Junu Lee [ view email ] [v1] Wed, 14 Oct 2026 16:09:28 UTC (953 KB) Full-text links: Access Paper: View a PDF of the paper titled Compound p-values for competition-based testing, by Junu Lee and 3 other authors View PDF HTML (experimental) TeX Source view license Current browse context: stat.ME < prev | next > new | recent | 2026-10 Change to browse by: stat References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv's community? Learn more about arXivLabs . Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )",
+      "searched_keywords_found_duplicates": [
+        "CRISPR"
+      ],
+      "primary_abstract_matched_keywords": [
+        "CRISPR"
+      ],
+      "secondary_abstract_matched_keywords": [
+        "CRISPR screen"
+      ],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 1,
+      "score": 2
+    },
+    {
+      "date_scraped": "2026-10-18",
+      "date_window_start": "2026-10-11",
+      "date_window_end": "2026-10-18",
+      "modality": "gene_editing",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2610.20277",
+      "date": "2026-10-14",
+      "abstract": "Computer Science > Machine Learning arXiv:2610.20277 (cs) [Submitted on 14 Oct 2026] Title: TANGO: RNA Topology and Geometry Co-Design Authors: Tianmeng Hu , Biao Luo , Ke Li View a PDF of the paper titled TANGO: RNA Topology and Geometry Co-Design, by Tianmeng Hu and 2 other authors View PDF HTML (experimental) Abstract: Designing RNA sequences that satisfy target tertiary-structure objectives is an important problem in RNA engineering, with broad applications in synthetic biology and therapeutics. Existing 3D RNA design methods have made substantial progress, but they largely treat the target fold as a geometry-only objective. This is incomplete for RNA, whose functional folds are specified not only by tertiary geometry but also by secondary base-pairing topology. We therefore formulate RNA inverse design as a topology-and-geometry co-design problem and propose TANGO, a multi-objective multi-agent reinforcement learning framework for this task. TANGO adopts a staged curriculum: it first learns a topology-aware policy from secondary-structure targets, then transfers this policy to tertiary-structure targets to train a general co-design model, and finally applies frontier-guided fine-tuning to refine target-specific trade-offs among secondary-structure fidelity, tertiary-structure fidelity, and sequence diversity. Experiments show that TANGO generates diverse and novel designs, improving tertiary- and secondary-structure performance by 18.3% and 52.7%, respectively, over the strongest baseline. Comments: NeurIPS 2026 Subjects: Machine Learning (cs.LG) ; Multiagent Systems (cs.MA) MSC classes: I.2.6 Cite as: arXiv:2610.20277 [cs.LG] (or arXiv:2610.20277v1 [cs.LG] for this version) https://doi.org/10.48550/arXiv.2610.20277 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Tianmeng Hu [ view email ] [v1] Wed, 14 Oct 2026 14:37:51 UTC (3,783 KB) Full-text links: Access Paper: View a PDF of the paper titled TANGO: RNA Topology and Geometry Co-Design, by Tianmeng Hu and 2 other authors View PDF HTML (experimental) TeX Source view license Additional Features Audio Summary Current browse context: cs.LG < prev | next > new | recent | 2026-10 Change to browse by: cs cs.MA References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) IArxiv recommender toggle IArxiv Recommender ( What is IArxiv? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. Have a",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
