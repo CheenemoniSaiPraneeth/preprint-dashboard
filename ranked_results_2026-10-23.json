@@ -1,0 +1,25 @@
+{
+  "bispecific_antibodies": [
+    {
+      "date_scraped": "2026-10-23",
+      "date_window_start": "2026-10-16",
+      "date_window_end": "2026-10-23",
+      "modality": "bispecific_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://doi.org/10.1007/s00285-026-02472-5",
+      "date": "2026-10-16",
+      "abstract": "A model for mosquito-borne epidemic outbreaks with information-dependent protective behaviour Open access Published: 16 October 2026 Volume 93 , article number 58 ( 2026 ) Cite this article You have full access to this open access article Download PDF Save article View saved research Journal of Mathematical Biology Aims and scope Submit manuscript A model for mosquito-borne epidemic outbreaks with information-dependent protective behaviour Download PDF Abstract We investigate a model for a mosquito-borne epidemic in which human hosts may adopt protective behaviour against vector bites in response to information on both past and current disease prevalence. Assuming that mosquitoes can also feed on non-competent hosts (i.e. hosts that do not contribute to disease transmission), we first revisit existing results and show that behaviour-driven protection may either decrease or increase the basic reproduction number, depending on the interaction between behavioural response, host composition, and transmission parameters. Assuming that opinion dynamics evolves on a much faster time scale than disease transmission, we then apply Geometric Singular Perturbation Theory to effectively reduce the original two-group model to a model for a homogeneous host population. The reduced system enables a detailed investigation of the impact of information-induced behavioural changes on the transient dynamics of the epidemic, including scenarios in which protective measures lead to outbreaks with low attack rates. Our analysis shows that behavioural responses may either facilitate epidemic control or prolong disease persistence, potentially generating recurrent damped epidemic waves. Numerical simulations are provided to illustrate and support the analytical findings. Similar content being viewed by others Probabilistic analysis of a disturbed SIQP-SI model of mosquito-borne diseases with human quarantine strategy and independent Poisson jumps Article 20 May 2024 An ecological and digital epidemiology analysis on the role of human behavior on the 2014 Chikungunya outbreak in Martinique Article Open access 20 July 2017 A general modeling framework for exploring the impact of individual concern and personal protection on vector-borne disease dynamics Article Open access 08 October 2022 Explore related subjects Discover the latest articles, books and news in related subjects, suggested using machine learning. Feeding behaviour West nile virus Malaria Dengue virus Behavioral Economics Behaviorism Mathematical Modeling of Infectious Disease Dynamics 1 Introduction In recent years, there has been growing concern over the rise in mosquito-borne diseases in both endemic and non-endemic areas (European Centre for Disease Prevention and Control 2025 ; World Health Organization 2025 ). Malaria, dengue, chikungunya, Japanese encephalitis, West Nile virus, yellow fever, and Zika are among the most prominent examples of mosquito-borne infections. These diseases are transmitted to humans through the bites of infected mosquitoes carrying pathogens (viruses or other parasites), and represent major threats to global public health (World Health Organization 2025 ). Factors such as climate change, globalisation, and urbanisation have strongly favoured the spread of many of these infections, such as dengue and chikungunya, to non-tropical areas, creating numerous new habitats suitable for mosquito life (Chala and Hamde 2021 ). Mathematical models play a crucial role in understanding the spread of mosquito-borne infections and in assessing the potential impact of control strategies. The classical Ross–Macdonald framework provides the foundation for much of the mathematical modelling of such diseases; see, for instance, the recent review by Pugliese and De Reggi ( 2026 ). Originally proposed by Ronald Ross between 1908 and 1911 to investigate the effect of control measures on malaria transmission (Ross 1911 ), the model was later extended by George Macdonald to incorpora",
+      "searched_keywords_found_duplicates": [
+        "BiTE"
+      ],
+      "primary_abstract_matched_keywords": [
+        "BiTE"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 2,
+      "secondary_keyword_hits": 0,
+      "score": 2
+    }
+  ]
+}
