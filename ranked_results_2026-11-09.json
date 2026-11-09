@@ -1,0 +1,27 @@
+{
+  "monoclonal_antibodies": [
+    {
+      "date_scraped": "2026-11-09",
+      "date_window_start": "2026-11-02",
+      "date_window_end": "2026-11-09",
+      "modality": "monoclonal_antibodies",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2611.03844",
+      "date": "2026-11-02",
+      "abstract": "Computer Science > Machine Learning arXiv:2611.03844 (cs) [Submitted on 2 Nov 2026] Title: Probabilistic Steering of Generative Priors for Lab-in-the-Loop Antibody Optimization Authors: Anisha Parsan , Sebastian Ober , Calvin McCarter , Nick Bhattacharya , Hunter Elliott View a PDF of the paper titled Probabilistic Steering of Generative Priors for Lab-in-the-Loop Antibody Optimization, by Anisha Parsan and 4 other authors View PDF HTML (experimental) Abstract: Therapeutic antibody development is often framed as comprising two discrete stages: initial discovery of novel binders followed by iterative optimization to refine these hits into therapeutic-grade molecules. Models and methods often reflect these stages, with generative structure models applied to discovery and probabilistic black-box optimization methods applied to refinement. Here we propose to unify these stages by smoothly transitioning a generative discovery model into iterative optimization, allowing the handoff between the structure-based prior and supervision from wet lab data to be guided by the posterior uncertainty of a probabilistic surrogate. We show that this yields improvements in optimization efficiency in the low-N regime, as well as improved diversity amongst the optimized molecules. Comments: Accepted to NeurIPS `26 GEM and NeurIPS `26 AI4DD Subjects: Machine Learning (cs.LG) Cite as: arXiv:2611.03844 [cs.LG] (or arXiv:2611.03844v1 [cs.LG] for this version) https://doi.org/10.48550/arXiv.2611.03844 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Anisha Parsan [ view email ] [v1] Mon, 2 Nov 2026 19:15:10 UTC (889 KB) Full-text links: Access Paper: View a PDF of the paper titled Probabilistic Steering of Generative Priors for Lab-in-the-Loop Antibody Optimization, by Anisha Parsan and 4 other authors View PDF HTML (experimental) TeX Source view license Additional Features Audio Summary Current browse context: cs.LG < prev | next > new | recent | 2026-11 Change to browse by: cs References & Citations SciX Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) IArxiv recommender toggle IArxiv Recommender ( What is IArxiv? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv's community? Learn more about arXivLabs . Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )",
+      "searched_keywords_found_duplicates": [
+        "therapeutic antibody"
+      ],
+      "primary_abstract_matched_keywords": [
+        "therapeutic antibody"
+      ],
+      "secondary_abstract_matched_keywords": [
+        "antibody optimization"
+      ],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 3,
+      "score": 4
+    }
+  ]
+}
