@@ -1,0 +1,44 @@
+{
+  "gene_editing": [
+    {
+      "date_scraped": "2026-11-11",
+      "date_window_start": "2026-11-04",
+      "date_window_end": "2026-11-11",
+      "modality": "gene_editing",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2611.08853",
+      "date": "2026-11-06",
+      "abstract": "Quantitative Biology > Genomics arXiv:2611.08853 (q-bio) [Submitted on 6 Nov 2026] Title: Synchronized Optimal Transport Reconstructs Coupled Transcriptomic and Chromatin Dynamics Authors: Jingfeng Wang , Yanxiang Zhao , Qing Nie , Zixuan Cang View a PDF of the paper titled Synchronized Optimal Transport Reconstructs Coupled Transcriptomic and Chromatin Dynamics, by Jingfeng Wang and Yanxiang Zhao and Qing Nie and Zixuan Cang View PDF HTML (experimental) Abstract: Single-cell RNA and ATAC data collected across developmental stages provide time-course snapshots of transcriptional and regulatory states. Since sequencing is destructive, trajectories between these snapshots must be inferred from independently sampled cell populations. Existing approaches typically infer continuous dynamics in a single modality or integrate RNA and ATAC in a shared representation. Here we present Cross-Omics Aligned Trajectory Inference (COATI), which extends unbalanced synchronized dynamical optimal transport to time-dependent cross-modal maps for reconstructing coupled trajectories in distinct RNA and ATAC state spaces. We evaluated COATI on synthetic benchmarks and four developmental datasets using held-out-stage reconstruction and lineage analyses. COATI improved reconstruction of cell populations at held-out stages, including recovery of chromatin-state heterogeneity within cell types, and better preserved developmental lineage relationships. The unbalanced formulation allows the inference of population mass changes, which were shown to associate with DNA-replication programs at early stages and lineage-maturation programs later in development. The coupled trajectories enabled analysis of lineage-specific transcriptional and chromatin changes and their temporal relationships during development. Lineage responses inferred by COATI agreed with independent CRISPR perturbation results, and the inferred regulatory patterns were consistent with independent epigenetic data. Subjects: Genomics (q-bio.GN) ; Optimization and Control (math.OC) Cite as: arXiv:2611.08853 [q-bio.GN] (or arXiv:2611.08853v1 [q-bio.GN] for this version) https://doi.org/10.48550/arXiv.2611.08853 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Zixuan Cang [ view email ] [v1] Fri, 6 Nov 2026 01:19:41 UTC (11,255 KB) Full-text links: Access Paper: View a PDF of the paper titled Synchronized Optimal Transport Reconstructs Coupled Transcriptomic and Chromatin Dynamics, by Jingfeng Wang and Yanxiang Zhao and Qing Nie and Zixuan Cang View PDF HTML (experimental) TeX Source view license Ancillary-file links: Ancillary files ( details ) : ",
+      "searched_keywords_found_duplicates": [
+        "CRISPR"
+      ],
+      "primary_abstract_matched_keywords": [
+        "CRISPR"
+      ],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 1,
+      "secondary_keyword_hits": 0,
+      "score": 1
+    },
+    {
+      "date_scraped": "2026-11-11",
+      "date_window_start": "2026-11-04",
+      "date_window_end": "2026-11-11",
+      "modality": "gene_editing",
+      "website": "https://arxiv.org/",
+      "url": "https://doi.org/10.1007/978-3-032-24295-2_15",
+      "date": "2026-11-11",
+      "abstract": "Abstract RNA predates cells, but today it “lives” inside them. Most current RNA is short-lived, folded, and often edited from its chromosomal origins, but it governs its own phenotypes. Our guiding question for this article was: How did RNA adjust its life when the RNA world era came to an end? RNA has its practical execution side in the whole-cell systems setup, serving critical functions in metabolism, compartmentalization, and in the RNA–DNA–PROTEIN network, coupling information handling and different events of macromolecule production into a self-sustaining loop. Aligning with current views of cooperation, we find that RNA life is distributed across a population of information-bearing entities persisting by compatibility, with DNA serving as a long-term memory and proteins offering the catalytic reach. We suggest that the reproduction–survival (R/S) axis, relevant to higher organisms, is also manifested by RNA in many forms, including RNA primers, mRNAs, tRNAs, and rRNAs. Each of these has contrasting, highly adapted molecular phenotypes. Ultimately, we wish to emphasize the evolutionary narrative where “RNA did not lose” in exchange for DNA genes or otherwise. Ultimately, RNA just changed strategy, and in its various forms, it has an active and critically important presence in all cells at all times. This is a preview of subscription content, log in via an institution to check access. Access this chapter Log in via an institution Chapter USD 29.95 Price excludes VAT (USA) Available as PDF Read on any device Instant download Own it forever Buy Chapter eBook USD 169.00 Price excludes VAT (USA) Available as EPUB and PDF Read on any device Instant download Own it forever Buy eBook Hardcover Book USD 153.99 Price excludes VAT (USA) Durable hardcover edition Free shipping worldwide - view details Buy Hardcover Book Tax calculation will be finalised at checkout Purchases are for personal use only Institutional subscriptions Similar content being viewed by others The RNA World and the Confluence of Organic and Inorganic Matter in the Generation, Structure, and Function of RNA Chapter © 2026 Non-Coding RNAs and Their Regulatory Systems: Evolutionary Origin and Putative Link with Ribozymes Article 01 March 2025 Ribosomal RNAs and Derived Fragments Chapter © 2026 Explore related subjects Discover the latest articles, books and news in related subjects, suggested using machine learning. Catalytic RNA RNA editing Ribozymes RNA decay RNA Metabolism Non-coding RNAs Prebiotic Chemistry and Origins of Life Notes 1. Focused on describing a minimal set of necessary components, aiming for models that contain as few details as possible. References Arnold FH (2017) Directed evolution: bringing new chemistry to life. Angew Chem Int Ed Engl 57(16):4143. https://doi.org/10.1002/anie.201708408 Article CAS PubMed PubMed Central Google Scholar Bokov K, Steinberg S (2009) A hierarchical model for evolution of 23S ribosomal RNA. Nature 457:977–980. https://doi.org/10.1038/nature07749 Article CAS PubMed Google Scholar Bourrat P, Doulcier G, Rose CJ et al (2022) Tradeoff breaking as a model of evolutionary transitions in individuality and limits of the fitness-decoupling metaphor. elife 11:e73715. https://doi.org/10.7554/eLife.73715 Article CAS PubMed PubMed Central Google Scholar Buddingh’ BC, Van Hest JC (2017) Artificial cells: synthetic compartments with life-like functionality and adaptivity. Acc Chem Res 50(4):769–777. https://doi.org/10.1021/acs.accounts.6b00512 Article CAS PubMed PubMed Central Google Scholar Cornish-Bowden A, Cárdenas ML (2020) Contrasting theories of life: historical context, current theories. In search of an ideal theory. Biosystems 88:104063. https://doi.org/10.1016/j.biosystems.2019.104063 Article Google Scholar Crick F (1970) Central dogma of molecular biology. Nature 227(5258):561–563. https://doi.org/10.1038/227561a0 Article CAS PubMed Google Scholar Dacks JB, Field MC (2007) Evolution of the eukaryotic membrane-traffick",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
