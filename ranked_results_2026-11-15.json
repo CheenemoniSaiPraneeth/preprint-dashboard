@@ -1,0 +1,85 @@
+{
+  "gene_editing": [
+    {
+      "date_scraped": "2026-11-15",
+      "date_window_start": "2026-11-08",
+      "date_window_end": "2026-11-15",
+      "modality": "gene_editing",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2611.15555",
+      "date": "2026-11-11",
+      "abstract": "Computer Science > Machine Learning arXiv:2611.15555 (cs) [Submitted on 11 Nov 2026] Title: What Conformal Selection Can Certify in CRISPR Off-Target Design:Benchmark Leakage, Free Baselines, and a Finite-Sample Cohort Requirement Authors: Mohammad Malekpouri , Somayeh Lotfi View a PDF of the paper titled What Conformal Selection Can Certify in CRISPR Off-Target Design:Benchmark Leakage, Free Baselines, and a Finite-Sample Cohort Requirement, by Mohammad Malekpouri and 1 other authors View PDF HTML (experimental) Abstract: Conformal selection promises distribution-free, finite-sample control of the error rate of a decision, and has been proposed as a safety layer for machine-learning CRISPR guide design. We ask whether such a certificate is attainable from the validated off-target data that exist. The constraint is arithmetic: a conformal p-value cannot fall below one divided by the calibration cohort size plus one, so a Benjamini-Hochberg selection certifies a single candidate only when that cohort is at least the candidate pool size divided by the tolerated error rate. Public cohorts supply ten validated guides, whereas a pool of two thousand at a ten percent error rate needs twenty thousand; the accepted set is consequently empty in over ninety-six percent of splits. Two benchmarking findings explain why this went unnoticed. The standard CIRCLE-seq file lists ten guides under eighty on-target strings, so grouping cross-validation on the sequence column trains and tests on one guide; corrected, pair-level discrimination and per-guide fidelity collapse. With that leakage removed, a training-free position-weight score and a bare count of near-match genomic sites are not beaten by a trained oracle. We give the corrected protocol, the baselines a new model must beat, and the cohort size a certified pipeline needs. Subjects: Machine Learning (cs.LG) Cite as: arXiv:2611.15555 [cs.LG] (or arXiv:2611.15555v1 [cs.LG] for this version) https://doi.org/10.48550/arXiv.2611.15555 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Mohammad Malekpouri [ view email ] [v1] Wed, 11 Nov 2026 14:39:10 UTC (943 KB) Full-text links: Access Paper: View a PDF of the paper titled What Conformal Selection Can Certify in CRISPR Off-Target Design:Benchmark Leakage, Free Baselines, and a Finite-Sample Cohort Requirement, by Mohammad Malekpouri and 1 other authors View PDF HTML (experimental) TeX Source view license Additional Features Audio Summary Current browse context: cs.LG < prev | next > new | recent | 2026-11 Change to browse by: cs References & Citations SciX Google Scholar Semantic Scholar export BibTeX citation Loading... BibTeX formatted citation × loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) IArxiv recommender toggle IArxiv Recommender ( What is IArxiv? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs i",
+      "searched_keywords_found_duplicates": [
+        "CRISPR"
+      ],
+      "primary_abstract_matched_keywords": [
+        "CRISPR"
+      ],
+      "secondary_abstract_matched_keywords": [
+        "off-target",
+        "guide design"
+      ],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 4,
+      "secondary_keyword_hits": 5,
+      "score": 9
+    },
+    {
+      "date_scraped": "2026-11-15",
+      "date_window_start": "2026-11-08",
+      "date_window_end": "2026-11-15",
+      "modality": "gene_editing",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2611.15109",
+      "date": "2026-11-11",
+      "abstract": "Computer Science > Artificial Intelligence arXiv:2611.15109 (cs) [Submitted on 11 Nov 2026] Title: Expanding the Decision Space of Pretrained Models through Structured Re-Decoding Authors: Tinglan Wang , Qun Su , Shihang Wang , Chi Wang , Lin Wang , Shaobo Chen , Haixu Liu , Hai Wei , Yin Ma , Yu Kang , Qi Gao , Xiaojun Yao , Tingjun Hou , Kai Wen View a PDF of the paper titled Expanding the Decision Space of Pretrained Models through Structured Re-Decoding, by Tinglan Wang and 13 other authors View PDF HTML (experimental) Abstract: Native decoders limit how pretrained models combine local predictions under new structural constraints. We introduce Structured Re-Decoding (SRD), a training-free framework that constructs local candidates from model scores, samples, or external specifications, jointly optimizes their selection, and verifies reconstructed outputs. We show that candidate recombination expands feasible support and can improve attainable reward under a fixed KL divergence budget. Across molecular generation, protein design, RNA structure prediction, and antibody modeling, SRD enables improved structured inference, including verified molecules absent from the original sample pool. External chemical templates further extend SRD to noncanonical amino acids, peptide cyclization, and grammar-guided molecular construction. Preliminary experiments on a physical coherent Ising machine demonstrate the feasibility of hardware-based optimization, suggesting broader opportunities for quantum and quantum-inspired approaches to structured inference and combinatorial optimization across scientific domains. Comments: 29 pages, 2 figures Subjects: Artificial Intelligence (cs.AI) ; Biomolecules (q-bio.BM) Cite as: arXiv:2611.15109 [cs.AI] (or arXiv:2611.15109v1 [cs.AI] for this version) https://doi.org/10.48550/arXiv.2611.15109 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Tinglan Wang [ view email ] [v1] Wed, 11 Nov 2026 06:37:08 UTC (1,212 KB) Full-text links: Access Paper: View a PDF of the paper titled Expanding the Decision Space of Pretrained Models through Structured Re-Decoding, by Tinglan Wang and 13 other authors View PDF HTML (experimental) TeX Source view license Ancillary-file links: Ancillary files ( details ) : antibody_cim/README.md antibody_cim/large7_decode_summary.json antibody_cim/large7_molecular_per_matrix.csv antibody_cim/large7_molecular_summary.json antibody_cim/large7_tuned_analysis.json antibody_cim/large7_tuned_per_matrix.csv antibody_cim/main50_audit_summary.json antibody_cim/main50_initial64_polish.json antibody_cim/main50_initial64_raw.tsv antibody_cim/main50_matrix_manifest.csv antibody_cim/main50_per_matrix.csv antibody_cim/manifest.json antibody_cim/raw_objective_recompute.py antibody_cim/table_verification.json attribution/README.md attribution/antibody_analysis.py attribution/antibody_summary.json attribution/manifest.json attribution/problem_dimensions_summary.json attribution/protein_reporting_summary.json attribution/rna_analysis.py attribution/rna_summary.json peptide_extensions/F.npy peptide_extensions/Q.npy peptide_extensions/README.md peptide_extensions/constant.npy peptide_extensions/cyclization_execution.json peptide_extensions/cyclization_previous.json peptide_extensions/cyclization_protocol.md peptide_extensions/cyclization_replay.json peptide_extensions/cyclization_replication.json peptide_extensions/dual_design.py peptide_extensions/dual_enumerate.py peptide_extensions/dual_output_audit.py peptide_extensions/fixed_term_diagnostic.py peptide_extensions/grammar_audit_results.py peptide_extensions/grammar_cyclic_example.sdf peptide_extensions/grammar_cyclic_source_example.sdf peptide_extensions/grammar_direct_qubo.py peptide_extensions/grammar_flowmol_provenance.json peptide_extensions/grammar_generation_manifest.json peptide_extensions/grammar_linear_example.sdf peptide_extensions/grammar_linear_source_example.sdf peptide_extensions/gramm",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-11-15",
+      "date_window_start": "2026-11-08",
+      "date_window_end": "2026-11-15",
+      "modality": "gene_editing",
+      "website": "https://arxiv.org/",
+      "url": "https://doi.org/10.1007/978-3-032-24295-2_15",
+      "date": "2026-11-15",
+      "abstract": "Abstract RNA predates cells, but today it “lives” inside them. Most current RNA is short-lived, folded, and often edited from its chromosomal origins, but it governs its own phenotypes. Our guiding question for this article was: How did RNA adjust its life when the RNA world era came to an end? RNA has its practical execution side in the whole-cell systems setup, serving critical functions in metabolism, compartmentalization, and in the RNA–DNA–PROTEIN network, coupling information handling and different events of macromolecule production into a self-sustaining loop. Aligning with current views of cooperation, we find that RNA life is distributed across a population of information-bearing entities persisting by compatibility, with DNA serving as a long-term memory and proteins offering the catalytic reach. We suggest that the reproduction–survival (R/S) axis, relevant to higher organisms, is also manifested by RNA in many forms, including RNA primers, mRNAs, tRNAs, and rRNAs. Each of these has contrasting, highly adapted molecular phenotypes. Ultimately, we wish to emphasize the evolutionary narrative where “RNA did not lose” in exchange for DNA genes or otherwise. Ultimately, RNA just changed strategy, and in its various forms, it has an active and critically important presence in all cells at all times. This is a preview of subscription content, log in via an institution to check access. Access this chapter Log in via an institution Chapter USD 29.95 Price excludes VAT (USA) Available as PDF Read on any device Instant download Own it forever Buy Chapter eBook USD 169.00 Price excludes VAT (USA) Available as EPUB and PDF Read on any device Instant download Own it forever Buy eBook Hardcover Book USD 219.99 Price excludes VAT (USA) Durable hardcover edition Free shipping worldwide - view details Buy Hardcover Book Tax calculation will be finalised at checkout Purchases are for personal use only Institutional subscriptions Similar content being viewed by others The RNA World and the Confluence of Organic and Inorganic Matter in the Generation, Structure, and Function of RNA Chapter © 2026 Non-Coding RNAs and Their Regulatory Systems: Evolutionary Origin and Putative Link with Ribozymes Article 01 March 2025 Ribosomal RNAs and Derived Fragments Chapter © 2026 Explore related subjects Discover the latest articles, books and news in related subjects, suggested using machine learning. Catalytic RNA RNA editing Ribozymes RNA decay RNA Metabolism Non-coding RNAs Prebiotic Chemistry and Origins of Life Notes 1. Focused on describing a minimal set of necessary components, aiming for models that contain as few details as possible. References Arnold FH (2017) Directed evolution: bringing new chemistry to life. Angew Chem Int Ed Engl 57(16):4143. https://doi.org/10.1002/anie.201708408 Article CAS PubMed PubMed Central Google Scholar Bokov K, Steinberg S (2009) A hierarchical model for evolution of 23S ribosomal RNA. Nature 457:977–980. https://doi.org/10.1038/nature07749 Article CAS PubMed Google Scholar Bourrat P, Doulcier G, Rose CJ et al (2022) Tradeoff breaking as a model of evolutionary transitions in individuality and limits of the fitness-decoupling metaphor. elife 11:e73715. https://doi.org/10.7554/eLife.73715 Article CAS PubMed PubMed Central Google Scholar Buddingh’ BC, Van Hest JC (2017) Artificial cells: synthetic compartments with life-like functionality and adaptivity. Acc Chem Res 50(4):769–777. https://doi.org/10.1021/acs.accounts.6b00512 Article CAS PubMed PubMed Central Google Scholar Cornish-Bowden A, Cárdenas ML (2020) Contrasting theories of life: historical context, current theories. In search of an ideal theory. Biosystems 88:104063. https://doi.org/10.1016/j.biosystems.2019.104063 Article Google Scholar Crick F (1970) Central dogma of molecular biology. Nature 227(5258):561–563. https://doi.org/10.1038/227561a0 Article CAS PubMed Google Scholar Dacks JB, Field MC (2007) Evolution of the eukaryotic membrane-traffick",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    },
+    {
+      "date_scraped": "2026-11-15",
+      "date_window_start": "2026-11-08",
+      "date_window_end": "2026-11-15",
+      "modality": "gene_editing",
+      "website": "https://arxiv.org/",
+      "url": "https://arxiv.org/abs/2611.15812",
+      "date": "2026-11-11",
+      "abstract": "Quantitative Biology > Biomolecules arXiv:2611.15812 (q-bio) [Submitted on 11 Nov 2026] Title: Silscore: modelling siRNA potency with positional thermodynamics and data-selected nucleotide-identity terms Authors: Giuseppe Sacco , Isabella Baldini , Riccardo Paone , Mattia Capulli , Guido Sanguinetti , Giovanni Bussi View a PDF of the paper titled Silscore: modelling siRNA potency with positional thermodynamics and data-selected nucleotide-identity terms, by Giuseppe Sacco and 5 other authors View PDF HTML (experimental) Abstract: Small interfering RNAs (siRNAs) enable programmable gene silencing, but candidates targeting the same transcript can differ markedly in potency. Existing predictors range from interpretable empirical rules with limited accuracy to high-capacity models that can lose performance when datasets or targets change. We present Silscore, a guide-only model that combines a quadratic preference for overall duplex stability, a position-resolved profile of nearest-neighbour stacking energies and sparse nucleotide-identity terms selected from residuals left unexplained by thermodynamics. Its main fit uses 26 parameters, fewer than half as many as any trainable comparator evaluated here. We evaluate Silscore on the canonical split of the Huesken dataset, two external datasets (Mixset and Katoh-Suzuki), and an evaluation in which the same guides are tested after training on dissimilar targets. Silscore attains the highest observed Pearson correlation in all three transfer evaluations, and the data support an advantage over every applicable comparator on Katoh-Suzuki. For a fixed evaluation set, we compare two equally sized training sets with higher or lower sequence similarity to the evaluation sequences. After training on the less similar sequences, Silscore has the highest observed correlation, and the data do not establish a change in its performance. The fitted parameters can also be interpreted directly: identity terms locate sequence effects that base-pairing energies cannot express, global stability has a data-estimated intermediate optimum, and local energy profiles recover terminal asymmetry and a preference for weaker seed and stronger central pairing. Silscore thus provides a compact, data-driven model that combines strong predictive performance with robustness when tested in new settings and expresses previously reported empirical preferences as quantities estimated from data. Comments: 25 pages, 10 figures, 2 tables; includes ",
+      "searched_keywords_found_duplicates": [
+        "guide RNA"
+      ],
+      "primary_abstract_matched_keywords": [],
+      "secondary_abstract_matched_keywords": [],
+      "duplicate_count": 0,
+      "primary_keyword_hits": 0,
+      "secondary_keyword_hits": 0,
+      "score": 0
+    }
+  ]
+}
